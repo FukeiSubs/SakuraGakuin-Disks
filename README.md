@@ -1,18 +1,25 @@
 # SG-RtG2014
 The Road To Graduation 2014 'Kimi Ni Todoke' Subtitle Project
 
+Remember this repository does only really work when we all use the same editor, it seems like we will use Aegisub.
+Git only works for softsubs. When we are done we can release hardsubbed video if we want, but that would be piracy. We can also just link/point to the RAWs used.
+
+Please for any note you might need please add a Markdown (.md) file with the same name next to the ASS file.
+
 ## Tasks
 
 ### Translation
-|Part | User|
-|-----|------|
-|Rinon's soji | /u/konchiniwa|
-|Moa's toji | |
-|Principal Kuramoto's speech | /u/onji-Kobe|
-|Mori-sensei's speech | |
-|Remaining 6 members' messages | /u/KumaMetal|
-|Graduating 4 members messages | /u/Akamaru226|
-|Extra | /u/Dwarfda|
+|Part | User| File|
+|-----|------|---|
+|Rinon's soji | /u/konchiniwa| rinon-soji.ass |
+|Moa's toji | | moa-toji.ass |
+|Principal Kuramoto's speech | /u/onji-Kobe| kuramoto-speech.ass |
+|Mori-sensei's speech | | mori-speech.ass |
+|Remaining 6 members' messages | /u/KumaMetal| remaining-members-message.ass |
+|Graduating 4 members messages | /u/Akamaru226| graduating-members-messages.ass |
+|Extra | /u/Dwarfda | N/A | 
+|Set list songs romaji | | {songname}-lyrics-rom.ass |
+|Set list songs english | | {songname}-lyrics-en.ass |
 
 ### Encoding/Muxing & Uploading
 /u/DJ_zady  
@@ -33,3 +40,6 @@ The Road To Graduation 2014 'Kimi Ni Todoke' Subtitle Project
 /u/DJ_zady  
 /u/EraYaN  
 /u/Akamaru226  
+
+### Tea and other things
+/u/TheThrawn
