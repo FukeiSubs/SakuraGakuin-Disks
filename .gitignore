@@ -1,5 +1,6 @@
-.mkv
-.mp4
-.m4v
-.ts
-.vob
+*.mp4
+*.m4v
+*.ts
+*.vob
+*.mkv
+*_chapters.xml
