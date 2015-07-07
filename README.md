@@ -1,6 +1,8 @@
 # Sakura Gakuin Translation Project - Disks
  * The Road To Graduation 2014 'Kimi Ni Todoke'
 
+Please time all files in an absolute manner. So that the timestamps are the actual timestamps of the (full) disk.
+ 
 Remember this repository does only really work when we all use the same editor, it seems like we will use Aegisub.
 Git only works for softsubs. When we are done we can release hardsubbed video if we want, but that would be piracy. We can also just link/point to the RAWs used.
 
