@@ -1,4 +1,4 @@
-# MC4
+# Mesaze Intro
 
 Please put line remarks in the GitHub commit line comments.
 
@@ -6,8 +6,8 @@ Please put line remarks in the GitHub commit line comments.
 
 |Media|Disk #|Chapter|Time Start|
 |---|--|--|---|
-|DVD|1|18|01:19:16.485|
-|BD|1|18|01:19:16.485|
+|DVD|1|2|00:00:23.790|
+|BD|1|2|00:00:23.790|
 
 ## Translator Notes
 

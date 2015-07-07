@@ -1,4 +1,4 @@
-# MC4
+# Piece de Check
 
 Please put line remarks in the GitHub commit line comments.
 
@@ -6,8 +6,8 @@ Please put line remarks in the GitHub commit line comments.
 
 |Media|Disk #|Chapter|Time Start|
 |---|--|--|---|
-|DVD|1|18|01:19:16.485|
-|BD|1|18|01:19:16.485|
+|DVD|1|10|00:32:46.097|
+|BD|1|10|00:32:46.097|
 
 ## Translator Notes
 

@@ -1,4 +1,6 @@
-# MC4
+# MC6
+
+The last final MC post graduation ceremony.
 
 Please put line remarks in the GitHub commit line comments.
 
@@ -6,8 +8,8 @@ Please put line remarks in the GitHub commit line comments.
 
 |Media|Disk #|Chapter|Time Start|
 |---|--|--|---|
-|DVD|1|18|01:19:16.485|
-|BD|1|18|01:19:16.485|
+|DVD|2|4|?:??:??.??|
+|BD|1|28|02:34:24.455|
 
 ## Translator Notes
 
