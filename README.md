@@ -1,5 +1,5 @@
 # Sakura Gakuin Translation Project - Disks
- * The Road To Graduation 2014 'Kimi Ni Todoke'
+ * Sakura Gakuin - The Road to Graduation 2014 ～Kimi ni Todoke～
 
 Please time all files in an absolute manner. So that the timestamps are the actual timestamps of the (full) disk.
  
@@ -11,6 +11,6 @@ Please for any note you might need please add a Markdown (.md) file with the sam
 # Our IRC
 It's FukeiSubs on Rizon
 
-ircs://irc.rizon.net:9999/FukeiSubs (SSL)
-irc://irc.rizon.net/FukeiSubs (No SSL)
-https://kiwiirc.com/client/irc.rizon.net/FukeiSubs (Web) 
+ircs://irc.rizon.net:9999/FukeiSubs (SSL)  
+irc://irc.rizon.net/FukeiSubs (No SSL)  
+https://kiwiirc.com/client/irc.rizon.net/FukeiSubs (Web)  
