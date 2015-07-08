@@ -10,7 +10,7 @@ Note please have Timing and QA/QC on different persons.
 |-----|------|------|------|------|
 |Rinon's soji | konchiniwa | ?? | EraYaN | rinon-soji.ass |
 |Moa's toji | ?? | ?? | EraYaN | moa-toji.ass |
-|Principal Kuramoto's speech | onji-Kobe | ?? | EraYaN | kuramoto-speech.ass |
+|Principal Kuramoto's speech | onji-Kobe | Shadeslayr | EraYaN | kuramoto-speech.ass |
 |Mori-sensei's speech | ?? | EraYaN | EraYaN | mori-speech.ass |
 |Intro to 'Mesaze! Super Lady -2014 nendo-'| ?? | ?? | EraYaN | mesaze-intro.ass |
 |Intro and other talks 'Spin in the Wind' | ?? | ?? | EraYaN | spin-in-the-wind.ass |
