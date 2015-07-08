@@ -8,14 +8,14 @@ Note please have Timing and QA/QC on different persons.
 ### Task list
 |Part | Translation | Timing | QC/QA | File|
 |-----|------|------|------|------|
-|Rinon's soji | konchiniwa | ?? | ?? | rinon-soji.ass |
-|Moa's toji | ?? | ?? | ?? | moa-toji.ass |
+|Rinon's soji | konchiniwa | ?? | EraYaN | rinon-soji.ass |
+|Moa's toji | ?? | ?? | EraYaN | moa-toji.ass |
 |Principal Kuramoto's speech | onji-Kobe | ?? | EraYaN | kuramoto-speech.ass |
-|Mori-sensei's speech | ?? | ?? | EraYaN | mori-speech.ass |
-|Intro to 'Mesaze! Super Lady -2014 nendo-'| ?? | ?? | ?? | mesaze-intro.ass |
-|Intro and other talks 'Spin in the Wind' | ?? | ?? | ?? | spin-in-the-wind.ass |
-|Intro and other talks 'Piece de Check' | ?? | ?? | ?? | piece-de-check.ass |
-|Intro to 'Yume ni Mukatte' | ?? | ?? | ?? | piece-de-check.ass |
+|Mori-sensei's speech | ?? | EraYaN | EraYaN | mori-speech.ass |
+|Intro to 'Mesaze! Super Lady -2014 nendo-'| ?? | ?? | EraYaN | mesaze-intro.ass |
+|Intro and other talks 'Spin in the Wind' | ?? | ?? | EraYaN | spin-in-the-wind.ass |
+|Intro and other talks 'Piece de Check' | ?? | ?? | EraYaN | piece-de-check.ass |
+|Intro to 'Yume ni Mukatte' | ?? | ?? | EraYaN | piece-de-check.ass |
 |MC #1 | ?? | ?? | EraYaN | MC1.ass |
 |MC #2 | ?? | ?? | EraYaN | MC2.ass |
 |MC #3 | ?? | ?? | EraYaN | MC3.ass |
