@@ -6,24 +6,24 @@ Sakura Gakuin - The Road to Graduation 2014 ～Kimi ni Todoke～ Subtitle Projec
 Note please have Timing and QA/QC on different persons.
 
 ### Task list
-|Part | Translation | Timing | QC/QA | File|
-|-----|------|------|------|------|
-|Rinon's soji | konchiniwa | ?? | EraYaN | rinon-soji.ass |
-|Moa's toji | ?? | ?? | EraYaN | moa-toji.ass |
-|Principal Kuramoto's speech | onji-Kobe | ?? | EraYaN | kuramoto-speech.ass |
-|Mori-sensei's speech | ?? | EraYaN | EraYaN | mori-speech.ass |
-|Intro to 'Mesaze! Super Lady -2014 nendo-'| ?? | Shadeslayr | EraYaN | mesaze-intro.ass |
-|Intro and other talks 'Spin in the Wind' | ?? | Shadeslayr | EraYaN | spin-in-the-wind.ass |
-|Intro and other talks 'Piece de Check' | ?? | Shadeslayr | EraYaN | piece-de-check.ass |
-|Intro to 'Yume ni Mukatte' | ?? | Shadeslayr | EraYaN | yume-ni-mukatte.ass |
-|MC #1 | ?? | ?? | EraYaN | MC1.ass |
-|MC #2 | ?? | ?? | EraYaN | MC2.ass |
-|MC #3 | ?? | ?? | EraYaN | MC3.ass |
-|MC #4 | ?? | ?? | EraYaN | MC4.ass |
-|MC #5 | ?? | ?? | EraYaN | MC5.ass |
-|MC #6 | KumaMetal & Akamaru226 | KumaMetal | EraYaN | MC6.ass |
-|Setlist songs Romaji | ?? | Shadeslayr | ?? | {songname}-lyrics-rom.ass |
-|Setlist songs English | ?? | Shadeslayr | ?? | {songname}-lyrics-en.ass |
+| Part | Timing (+status) | Translation (+status) | QC/QA | File |
+|------|------------------|-----------------------|-------|------|
+| Rinon's soji | soupman2001 (ongoing) | konchiniwa | EraYaN | rinon-soji.ass |
+| Moa's toji | TheThrawn (ongoing) | ?? | EraYaN | moa-toji.ass |
+| Principal Kuramoto's speech | fernaldi01 (ongoing) | onji-Kobe | EraYaN | kuramoto-speech.ass |
+| Mori-sensei's speech | EraYaN (ongoing) | ?? | EraYaN | mori-speech.ass |
+| Intro to 'Mesaze! Super Lady -2014 nendo-' | Shadeslayr (ongoing) | ?? | EraYaN | mezase-intro.ass |
+| Intro and other talks 'Spin in the Wind' | Shadeslayr (ongoing) | ?? | EraYaN | spin-in-the-wind.ass |
+| Intro and other talks 'Piece de Check' | Shadeslayr (ongoing) | ?? | EraYaN | piece-de-check.ass |
+| Intro to 'Yume ni Mukatte' | Shadeslayr (ongoing) | ?? | EraYaN | yume-ni-mukatte.ass |
+| MC #1 | soupman2001 (ongoing) | ?? | EraYaN | MC1.ass |
+| MC #2 | soupman2001 (ongoing) | ?? | EraYaN | MC2.ass |
+| MC #3 | TheThrawn (ongoing) | ?? | EraYaN | MC3.ass |
+| MC #4 | TheThrawn (ongoing) | ?? | EraYaN | MC4.ass |
+| MC #5 | fernaldi01 (ongoing) | ?? | EraYaN | MC5.ass |
+| MC #6 | KumaMetal (ongoing) | KumaMetal & Akamaru226 (ongoing) | EraYaN | MC6.ass |
+| Setlist songs Romaji | Shadeslayr (ongoing) | ?? | ?? | {songname}-lyrics-rom.ass |
+| Setlist songs English | Shadeslayr (ongoing) | ?? | ?? | {songname}-lyrics-en.ass |
 
 ### Final QA/QC, proofreading, merging and main typesetting
 * EraYaN
