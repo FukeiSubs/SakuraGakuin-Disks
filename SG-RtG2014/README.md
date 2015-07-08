@@ -73,8 +73,10 @@ Sakura Gakuin - The Road to Graduation 2014 ～Kimi ni Todoke～ Subtitle Projec
 
 ### Typesetting
 /u/EraYaN
+/u/DJ_zady
 
 ### Proofreading
+/u/onji-Kobe
 /u/ShadeSlayr  
 /u/DJ_zady  
 /u/EraYaN  
