@@ -20,8 +20,8 @@ Sakura Gakuin - The Road to Graduation 2014 ～Kimi ni Todoke～ Subtitle Projec
 |MC #4 | ?? | ?? | /u/EraYaN | MC4.ass |
 |MC #5 | ?? | ?? | /u/EraYaN | MC5.ass |
 |MC #6 | /u/KumaMetal & /u/Akamaru226 | /u/KumaMetal | /u/KumaMetal | MC6.ass |
-|Setlist songs Romaji | ?? | ?? | ?? | {songname}-lyrics-rom.ass |
-|Setlist songs English | ?? | ?? | ?? | {songname}-lyrics-en.ass |
+|Setlist songs Romaji | ?? | Shadeslayr | ?? | {songname}-lyrics-rom.ass |
+|Setlist songs English | ?? | Shadeslayr | ?? | {songname}-lyrics-en.ass |
 
 ### Final QA/QC, proofreading, merging and main typesetting
 * /u/EraYaN
