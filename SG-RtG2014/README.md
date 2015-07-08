@@ -9,7 +9,7 @@ Sakura Gakuin - The Road to Graduation 2014 ～Kimi ni Todoke～ Subtitle Projec
 |Rinon's soji | /u/konchiniwa | ?? | ?? | rinon-soji.ass |
 |Moa's toji | ?? | ?? | ?? | moa-toji.ass |
 |Principal Kuramoto's speech | /u/onji-Kobe | ?? | /u/EraYaN | kuramoto-speech.ass |
-|Mori-sensei's speech | ?? | ?? | ?? | mori-speech.ass |
+|Mori-sensei's speech | ?? | ?? | /u/EraYaN | mori-speech.ass |
 |Intro to 'Mesaze! Super Lady -2014 nendo-'| ?? | ?? | ?? | mesaze-intro.ass |
 |Intro and other talks 'Spin in the Wind' | ?? | ?? | ?? | spin-in-the-wind.ass |
 |Intro and other talks 'Piece de Check' | ?? | ?? | ?? | piece-de-check.ass |
@@ -27,31 +27,31 @@ Sakura Gakuin - The Road to Graduation 2014 ～Kimi ni Todoke～ Subtitle Projec
 * /u/EraYaN
 
 ### Typesetting
-/u/EraYaN   
-/u/DJ_zady
+* /u/EraYaN   
+* /u/DJ_zady
 
 ### Proofreading  (contact any of these people to have your script proofread, not the same as QA/QC)
-/u/onji-Kobe   
-/u/ShadeSlayr  
-/u/DJ_zady  
-/u/EraYaN  
-/u/Akamaru226 
+* /u/onji-Kobe   
+* /u/ShadeSlayr  
+* /u/DJ_zady  
+* /u/EraYaN  
+* /u/Akamaru226 
 
 ### Encoding/Muxing & Uploading
-/u/DJ_zady  
-/u/soupman2001  
-/u/EraYaN
+* /u/DJ_zady  
+* /u/soupman2001  
+* /u/EraYaN
 
 ### Translation (without assigned stuff)
-/u/Dwarfda
+* /u/Dwarfda
 
 ### Timing (without assigned stuff)
-/u/soupman2001  
-/u/TheThrawn  
-/u/fernaldi01  
+* /u/soupman2001  
+* /u/TheThrawn  
+* /u/fernaldi01  
 
 ### Tea and other things (biscuits)
-/u/TheThrawn
+* /u/TheThrawn
 
 
 ### Chapter Reference
