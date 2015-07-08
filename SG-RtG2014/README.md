@@ -6,7 +6,7 @@ Sakura Gakuin - The Road to Graduation 2014 ～Kimi ni Todoke～ Subtitle Projec
 Note please have Timing and QA/QC on different persons.
 
 ### Task list
-| Part | Timing (+status) | Translation (+status) | QC/QA | File |
+| Part | Timing (+status) | Translation (+status) | QA/QC | File |
 |------|------------------|-----------------------|-------|------|
 | Rinon's soji | soupman2001 (ongoing) | konchiniwa | EraYaN | rinon-soji.ass |
 | Moa's toji | TheThrawn (ongoing) | ?? | EraYaN | moa-toji.ass |
@@ -45,12 +45,13 @@ Note please have Timing and QA/QC on different persons.
 * EraYaN
 
 ### Translation (without assigned stuff)
-* Dwarfda
+none
 
 ### Timing (without assigned stuff)
 * soupman2001  
 * TheThrawn  
 * fernaldi01  
+* Dwarfda
 
 ### Tea and other things (biscuits)
 * TheThrawn
