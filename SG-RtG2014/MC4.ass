@@ -7,7 +7,13 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 PlayResX: 720
-PlayResY: 400
+PlayResY: 480
+
+[Aegisub Project Garbage]
+Audio File: Sakura Gakuin The Road to Graduation Final 2014.mkv
+Video File: Sakura Gakuin The Road to Graduation Final 2014.mkv
+Video AR Mode: 4
+Video AR Value: 1.777083
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
