@@ -10,9 +10,6 @@ Sakura Gakuin - The Road to Graduation 2014 ～Kimi ni Todoke～ Subtitle Projec
 |Moa's toji | ?? | ?? | ?? | moa-toji.ass |
 |Principal Kuramoto's speech | /u/onji-Kobe | ?? | /u/EraYaN | kuramoto-speech.ass |
 |Mori-sensei's speech | ?? | ?? | ?? | mori-speech.ass |
-|Remaining 6 members' messages | /u/KumaMetal | /u/KumaMetal | /u/KumaMetal | remaining-members-message.ass |
-|Graduating 4 members' messages | /u/Akamaru226 | /u/Akamaru226 | /u/KumaMetal | graduating-members-messages.ass |
-|Extra | /u/Dwarfda | ?? | ?? | N/A | 
 |Intro to 'Mesaze! Super Lady -2014 nendo-'| ?? | ?? | ?? | mesaze-intro.ass |
 |Intro and other talks 'Spin in the Wind' | ?? | ?? | ?? | spin-in-the-wind.ass |
 |Intro and other talks 'Piece de Check' | ?? | ?? | ?? | piece-de-check.ass |
@@ -26,10 +23,38 @@ Sakura Gakuin - The Road to Graduation 2014 ～Kimi ni Todoke～ Subtitle Projec
 |Setlist songs Romaji | ?? | ?? | ?? | {songname}-lyrics-rom.ass |
 |Setlist songs English | ?? | ?? | ?? | {songname}-lyrics-en.ass |
 
-Final QA/QC, proofreading, merging and main typesetting
+### Final QA/QC, proofreading, merging and main typesetting
 * /u/EraYaN
 
-### Chapters
+### Typesetting
+/u/EraYaN   
+/u/DJ_zady
+
+### Proofreading  (contact any of these people to have your script proofread, not the same as QA/QC)
+/u/onji-Kobe   
+/u/ShadeSlayr  
+/u/DJ_zady  
+/u/EraYaN  
+/u/Akamaru226 
+
+### Encoding/Muxing & Uploading
+/u/DJ_zady  
+/u/soupman2001  
+/u/EraYaN
+
+### Translation (without assigned stuff)
+/u/Dwarfda
+
+### Timing (without assigned stuff)
+/u/soupman2001  
+/u/TheThrawn  
+/u/fernaldi01  
+
+### Tea and other things (biscuits)
+/u/TheThrawn
+
+
+### Chapter Reference
 |Time | Number| Name|
 |-----|------|---|
 |00:00:00.000|1|Intro|
@@ -63,27 +88,4 @@ Final QA/QC, proofreading, merging and main typesetting
 |02:44:04.802|29|Credits|
 
 
-### Encoding/Muxing & Uploading
-/u/DJ_zady  
-/u/soupman2001  
-/u/EraYaN
 
-### Timing
-/u/soupman2001   
-/u/EraYaN   
-/u/TheThrawn  
-/u/fernaldi01  
-
-### Typesetting
-/u/EraYaN   
-/u/DJ_zady
-
-### Proofreading
-/u/onji-Kobe   
-/u/ShadeSlayr  
-/u/DJ_zady  
-/u/EraYaN  
-/u/Akamaru226  
-
-### Tea and other things
-/u/TheThrawn
