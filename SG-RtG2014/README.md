@@ -5,7 +5,7 @@ Sakura Gakuin - The Road to Graduation 2014 ～Kimi ni Todoke～ Subtitle Projec
 
 ### Task list
 |Part | Translation | Timing | QC/QA | File|
-|-----|------|---|--|---|
+|-----|------|------|------|------|
 |Rinon's soji | /u/konchiniwa | ?? | ?? | rinon-soji.ass |
 |Moa's toji | ?? | ?? | ?? | moa-toji.ass |
 |Principal Kuramoto's speech | /u/onji-Kobe | ?? | /u/EraYaN | kuramoto-speech.ass |
@@ -13,10 +13,10 @@ Sakura Gakuin - The Road to Graduation 2014 ～Kimi ni Todoke～ Subtitle Projec
 |Remaining 6 members' messages | /u/KumaMetal | /u/KumaMetal | /u/KumaMetal | remaining-members-message.ass |
 |Graduating 4 members' messages | /u/Akamaru226 | /u/Akamaru226 | /u/KumaMetal | graduating-members-messages.ass |
 |Extra | /u/Dwarfda | ?? | ?? | N/A | 
-|Intro to 'Mesaze! Super Lady -2014 nendo-'| ?? |?? |?? | mesaze-intro.ass |
-|Intro and other talks 'Spin in the Wind' | ?? |?? |?? | spin-in-the-wind.ass |
-|Intro and other talks 'Piece de Check' | ?? |?? |?? | piece-de-check.ass |
-|Intro to 'Yume ni Mukatte' | ?? |?? |?? | piece-de-check.ass |
+|Intro to 'Mesaze! Super Lady -2014 nendo-'| ?? | ?? | ?? | mesaze-intro.ass |
+|Intro and other talks 'Spin in the Wind' | ?? | ?? | ?? | spin-in-the-wind.ass |
+|Intro and other talks 'Piece de Check' | ?? | ?? | ?? | piece-de-check.ass |
+|Intro to 'Yume ni Mukatte' | ?? | ?? | ?? | piece-de-check.ass |
 |MC #1 | ?? | ?? | /u/EraYaN | MC1.ass |
 |MC #2 | ?? | ?? | /u/EraYaN | MC2.ass |
 |MC #3 | ?? | ?? | /u/EraYaN | MC3.ass |
