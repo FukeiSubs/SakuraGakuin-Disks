@@ -3,28 +3,31 @@ Sakura Gakuin - The Road to Graduation 2014 ～Kimi ni Todoke～ Subtitle Projec
 
 ## Tasks
 
-### Translation
-|Part | User| File|
-|-----|------|---|
-|Rinon's soji | /u/konchiniwa| rinon-soji.ass |
-|Moa's toji | ?? | moa-toji.ass |
-|Principal Kuramoto's speech | /u/onji-Kobe| kuramoto-speech.ass |
-|Mori-sensei's speech | ?? | mori-speech.ass |
-|Remaining 6 members' messages | /u/KumaMetal| remaining-members-message.ass |
-|Graduating 4 members messages | /u/Akamaru226| graduating-members-messages.ass |
-|Extra | /u/Dwarfda | N/A | 
-|Intro to 'Mesaze! Super Lady -2014 nendo-'| ?? | mesaze-intro.ass |
-|Intro and other talks 'Spin in the Wind' | ?? | spin-in-the-wind.ass |
-|Intro and other talks 'Piece de Check' | ?? | piece-de-check.ass |
-|Intro to 'Yume ni Mukatte' | ?? | piece-de-check.ass |
-|MC #1 | ?? | MC1.ass |
-|MC #2 | ?? | MC2.ass |
-|MC #3 | ?? | MC3.ass |
-|MC #4 | ?? | MC4.ass |
-|MC #5 | ?? | MC5.ass |
-|MC #6 | ?? | MC6.ass |
-|Setlist songs Romaji | ?? | {songname}-lyrics-rom.ass |
-|Setlist songs English | ?? | {songname}-lyrics-en.ass |
+### Task list
+|Part | Translation | Timing | QC/QA | File|
+|-----|------|---|--|---|
+|Rinon's soji | /u/konchiniwa | ?? | ?? | rinon-soji.ass |
+|Moa's toji | ?? | ?? | ?? | moa-toji.ass |
+|Principal Kuramoto's speech | /u/onji-Kobe | ?? | /u/EraYaN | kuramoto-speech.ass |
+|Mori-sensei's speech | ?? | ?? | ?? | mori-speech.ass |
+|Remaining 6 members' messages | /u/KumaMetal | /u/KumaMetal | /u/KumaMetal | remaining-members-message.ass |
+|Graduating 4 members' messages | /u/Akamaru226 | /u/Akamaru226 | /u/KumaMetal | graduating-members-messages.ass |
+|Extra | /u/Dwarfda | ?? | ?? | N/A | 
+|Intro to 'Mesaze! Super Lady -2014 nendo-'| ?? |?? |?? | mesaze-intro.ass |
+|Intro and other talks 'Spin in the Wind' | ?? |?? |?? | spin-in-the-wind.ass |
+|Intro and other talks 'Piece de Check' | ?? |?? |?? | piece-de-check.ass |
+|Intro to 'Yume ni Mukatte' | ?? |?? |?? | piece-de-check.ass |
+|MC #1 | ?? | ?? | /u/EraYaN | MC1.ass |
+|MC #2 | ?? | ?? | /u/EraYaN | MC2.ass |
+|MC #3 | ?? | ?? | /u/EraYaN | MC3.ass |
+|MC #4 | ?? | ?? | /u/EraYaN | MC4.ass |
+|MC #5 | ?? | ?? | /u/EraYaN | MC5.ass |
+|MC #6 | /u/KumaMetal & /u/Akamaru226 | /u/KumaMetal | /u/KumaMetal | MC6.ass |
+|Setlist songs Romaji | ?? | ?? | ?? | {songname}-lyrics-rom.ass |
+|Setlist songs English | ?? | ?? | ?? | {songname}-lyrics-en.ass |
+
+Final QA/QC, proofreading, merging and main typesetting
+* /u/EraYaN
 
 ### Chapters
 |Time | Number| Name|
