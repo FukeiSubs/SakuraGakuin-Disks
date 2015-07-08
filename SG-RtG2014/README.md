@@ -3,55 +3,57 @@ Sakura Gakuin - The Road to Graduation 2014 ～Kimi ni Todoke～ Subtitle Projec
 
 ## Tasks
 
+Note please have Timing and QA/QC on different persons.
+
 ### Task list
 |Part | Translation | Timing | QC/QA | File|
 |-----|------|------|------|------|
-|Rinon's soji | /u/konchiniwa | ?? | ?? | rinon-soji.ass |
+|Rinon's soji | konchiniwa | ?? | ?? | rinon-soji.ass |
 |Moa's toji | ?? | ?? | ?? | moa-toji.ass |
-|Principal Kuramoto's speech | /u/onji-Kobe | ?? | /u/EraYaN | kuramoto-speech.ass |
-|Mori-sensei's speech | ?? | ?? | /u/EraYaN | mori-speech.ass |
+|Principal Kuramoto's speech | onji-Kobe | ?? | EraYaN | kuramoto-speech.ass |
+|Mori-sensei's speech | ?? | ?? | EraYaN | mori-speech.ass |
 |Intro to 'Mesaze! Super Lady -2014 nendo-'| ?? | ?? | ?? | mesaze-intro.ass |
 |Intro and other talks 'Spin in the Wind' | ?? | ?? | ?? | spin-in-the-wind.ass |
 |Intro and other talks 'Piece de Check' | ?? | ?? | ?? | piece-de-check.ass |
 |Intro to 'Yume ni Mukatte' | ?? | ?? | ?? | piece-de-check.ass |
-|MC #1 | ?? | ?? | /u/EraYaN | MC1.ass |
-|MC #2 | ?? | ?? | /u/EraYaN | MC2.ass |
-|MC #3 | ?? | ?? | /u/EraYaN | MC3.ass |
-|MC #4 | ?? | ?? | /u/EraYaN | MC4.ass |
-|MC #5 | ?? | ?? | /u/EraYaN | MC5.ass |
-|MC #6 | /u/KumaMetal & /u/Akamaru226 | /u/KumaMetal | /u/KumaMetal | MC6.ass |
+|MC #1 | ?? | ?? | EraYaN | MC1.ass |
+|MC #2 | ?? | ?? | EraYaN | MC2.ass |
+|MC #3 | ?? | ?? | EraYaN | MC3.ass |
+|MC #4 | ?? | ?? | EraYaN | MC4.ass |
+|MC #5 | ?? | ?? | EraYaN | MC5.ass |
+|MC #6 | KumaMetal & Akamaru226 | KumaMetal | EraYaN | MC6.ass |
 |Setlist songs Romaji | ?? | Shadeslayr | ?? | {songname}-lyrics-rom.ass |
 |Setlist songs English | ?? | Shadeslayr | ?? | {songname}-lyrics-en.ass |
 
 ### Final QA/QC, proofreading, merging and main typesetting
-* /u/EraYaN
+* EraYaN
 
 ### Typesetting
-* /u/EraYaN   
-* /u/DJ_zady
+* EraYaN   
+* DJ_zady
 
 ### Proofreading  (contact any of these people to have your script proofread, not the same as QA/QC)
-* /u/onji-Kobe   
-* /u/ShadeSlayr  
-* /u/DJ_zady  
-* /u/EraYaN  
-* /u/Akamaru226 
+* onji-Kobe   
+* ShadeSlayr  
+* DJ_zady  
+* EraYaN  
+* Akamaru226 
 
 ### Encoding/Muxing & Uploading
-* /u/DJ_zady  
-* /u/soupman2001  
-* /u/EraYaN
+* DJ_zady  
+* soupman2001  
+* EraYaN
 
 ### Translation (without assigned stuff)
-* /u/Dwarfda
+* Dwarfda
 
 ### Timing (without assigned stuff)
-* /u/soupman2001  
-* /u/TheThrawn  
-* /u/fernaldi01  
+* soupman2001  
+* TheThrawn  
+* fernaldi01  
 
 ### Tea and other things (biscuits)
-* /u/TheThrawn
+* TheThrawn
 
 
 ### Chapter Reference
