@@ -1,4 +1,4 @@
-# Mesaze Intro
+# Mezase Intro
 
 Please put line remarks in the GitHub commit line comments.
 
