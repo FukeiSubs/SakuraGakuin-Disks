@@ -8,7 +8,7 @@ Note please have Timing and QA/QC on different persons.
 ### Task list
 | Part | Timing (+status) | Translation (+status) | QA/QC | File |
 |------|------------------|-----------------------|-------|------|
-| Rinon's soji | *Currently none* | konchiniwa | EraYaN | rinon-soji.ass |
+| Rinon's soji | ***Currently none*** | konchiniwa | EraYaN | rinon-soji.ass |
 | Moa's toji | TheThrawn (ongoing) | monsterpanda | EraYaN | moa-toji.ass |
 | Principal Kuramoto's speech | fernaldi01 (ongoing) | onji-Kobe | EraYaN | kuramoto-speech.ass |
 | Mori-sensei's speech | EraYaN (ongoing) | monsterpanda | soupman2001 | mori-speech.ass |
@@ -16,9 +16,9 @@ Note please have Timing and QA/QC on different persons.
 | Intro and other talks 'Spin in the Wind' | Shadeslayr (ongoing) | ?? | EraYaN | spin-in-the-wind.ass |
 | Intro and other talks 'Piece de Check' | Shadeslayr (ongoing) | ?? | EraYaN | piece-de-check.ass |
 | Intro to 'Yume ni Mukatte' | Shadeslayr (ongoing) | ?? | EraYaN | yume-ni-mukatte.ass |
-| MC #1 | soupman2001 (done) | *Translator Needed* | EraYaN | MC1.ass |
-| MC #2 | soupman2001 (done) | *Translator Needed* | EraYaN | MC2.ass |
-| MC #3 | soupman2001 (done) | *Translator Needed* | EraYaN | MC3.ass |
+| MC #1 | soupman2001 (done) | ***Translator Needed*** | EraYaN | MC1.ass |
+| MC #2 | soupman2001 (done) | ***Translator Needed*** | EraYaN | MC2.ass |
+| MC #3 | soupman2001 (done) | ***Translator Needed*** | EraYaN | MC3.ass |
 | MC #4 | soupman2001 (ongoing) | ?? | EraYaN | MC4.ass |
 | MC #5 | soupman2001 (ongoing) | ?? | EraYaN | MC5.ass |
 | MC #6 | KumaMetal (ongoing) | KumaMetal & Akamaru226 (ongoing) | EraYaN | MC6.ass |
