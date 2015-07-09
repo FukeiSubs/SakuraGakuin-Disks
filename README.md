@@ -8,6 +8,8 @@ Git only works for softsubs. When we are done we can release hardsubbed video if
 
 Please for any note you might need please add a Markdown (.md) file with the same name next to the ASS file.
 
+**Please make sure the email in your client is the same as the email you used for github, or add the extra email to your github account, that way the commits will be attributed to you.**
+
 # Our IRC
 It's FukeiSubs on Rizon
 
