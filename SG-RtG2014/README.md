@@ -16,8 +16,8 @@ Note please have Timing and QA/QC on different persons.
 | Intro and other talks 'Spin in the Wind' | Shadeslayr (ongoing) | ?? | EraYaN | spin-in-the-wind.ass |
 | Intro and other talks 'Piece de Check' | Shadeslayr (ongoing) | ?? | EraYaN | piece-de-check.ass |
 | Intro to 'Yume ni Mukatte' | Shadeslayr (ongoing) | ?? | EraYaN | yume-ni-mukatte.ass |
-| MC #1 | soupman2001 (done) | ?? | EraYaN | MC1.ass |
-| MC #2 | soupman2001 (done) | ?? | EraYaN | MC2.ass |
+| MC #1 | soupman2001 (done) | <Translator Needed> | EraYaN | MC1.ass |
+| MC #2 | soupman2001 (done) | <Translator Needed> | EraYaN | MC2.ass |
 | MC #3 | TheThrawn (ongoing) | ?? | EraYaN | MC3.ass |
 | MC #4 | TheThrawn (ongoing) | ?? | EraYaN | MC4.ass |
 | MC #5 | fernaldi01 (ongoing) | ?? | EraYaN | MC5.ass |
