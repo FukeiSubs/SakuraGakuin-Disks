@@ -16,7 +16,7 @@ Note please have Timing and QA/QC on different persons.
 | Intro and other talks 'Spin in the Wind' | Shadeslayr (ongoing) | ?? | EraYaN | spin-in-the-wind.ass |
 | Intro and other talks 'Piece de Check' | Shadeslayr (ongoing) | ?? | EraYaN | piece-de-check.ass |
 | Intro to 'Yume ni Mukatte' | Shadeslayr (ongoing) | ?? | EraYaN | yume-ni-mukatte.ass |
-| MC #1 | soupman2001 (ongoing) | ?? | EraYaN | MC1.ass |
+| MC #1 | soupman2001 (done) | ?? | EraYaN | MC1.ass |
 | MC #2 | soupman2001 (ongoing) | ?? | EraYaN | MC2.ass |
 | MC #3 | TheThrawn (ongoing) | ?? | EraYaN | MC3.ass |
 | MC #4 | TheThrawn (ongoing) | ?? | EraYaN | MC4.ass |
@@ -29,15 +29,15 @@ Note please have Timing and QA/QC on different persons.
 * EraYaN
 
 ### Typesetting
-* EraYaN   
+* EraYaN
 * DJ_zady
 
 ### Proofreading  (contact any of these people to have your script proofread, not the same as QA/QC)
-* onji-Kobe   
+* onji-Kobe
 * ShadeSlayr  
 * DJ_zady  
 * EraYaN  
-* Akamaru226 
+* Akamaru226
 
 ### Encoding/Muxing & Uploading
 * DJ_zady  
@@ -89,6 +89,3 @@ none
 |02:29:54.952|27|See you...|
 |02:34:24.455|28|MC #6|
 |02:44:04.802|29|Credits|
-
-
-
