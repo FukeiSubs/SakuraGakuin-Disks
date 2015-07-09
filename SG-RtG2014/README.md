@@ -18,7 +18,7 @@ Note please have Timing and QA/QC on different persons.
 | Intro to 'Yume ni Mukatte' | Shadeslayr (ongoing) | ?? | EraYaN | yume-ni-mukatte.ass |
 | MC #1 | soupman2001 (done) | *Translator Needed* | EraYaN | MC1.ass |
 | MC #2 | soupman2001 (done) | *Translator Needed* | EraYaN | MC2.ass |
-| MC #3 | soupman2001 (ongoing) | ?? | EraYaN | MC3.ass |
+| MC #3 | soupman2001 (done) | *Translator Needed* | EraYaN | MC3.ass |
 | MC #4 | soupman2001 (ongoing) | ?? | EraYaN | MC4.ass |
 | MC #5 | soupman2001 (ongoing) | ?? | EraYaN | MC5.ass |
 | MC #6 | KumaMetal (ongoing) | KumaMetal & Akamaru226 (ongoing) | EraYaN | MC6.ass |
