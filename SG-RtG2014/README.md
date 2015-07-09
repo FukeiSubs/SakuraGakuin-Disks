@@ -27,10 +27,12 @@ Note please have Timing and QA/QC on different persons.
 
 ### Final QA/QC, proofreading, merging and main typesetting
 * EraYaN
+* soupman2001
 
 ### Typesetting
 * EraYaN
 * DJ_zady
+* soupman2001
 
 ### Proofreading  (contact any of these people to have your script proofread, not the same as QA/QC)
 * onji-Kobe
@@ -38,6 +40,7 @@ Note please have Timing and QA/QC on different persons.
 * DJ_zady  
 * EraYaN  
 * Akamaru226
+* soupman2001
 
 ### Encoding/Muxing & Uploading
 * DJ_zady  
