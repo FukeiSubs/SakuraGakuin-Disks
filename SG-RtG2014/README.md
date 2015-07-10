@@ -8,9 +8,9 @@ Note please have Timing and QA/QC on different persons.
 ### Task list
 | Part | Timing (+status) | Translation (+status) | QA/QC | File |
 |------|------------------|-----------------------|-------|------|
-| Rinon's soji | ***Currently none*** | konchiniwa | EraYaN | rinon-soji.ass |
+| Rinon's soji | fernaldi01 (ongoing) | konchiniwa | EraYaN | rinon-soji.ass |
 | Moa's toji | TheThrawn (ongoing) | monsterpanda | EraYaN | moa-toji.ass |
-| Principal Kuramoto's speech | fernaldi01 (ongoing) | onji-Kobe | EraYaN | kuramoto-speech.ass |
+| Principal Kuramoto's speech | fernaldi01 (done) | onji-Kobe (ongoing) | EraYaN | kuramoto-speech.ass |
 | Mori-sensei's speech | EraYaN (ongoing) | monsterpanda | soupman2001 | mori-speech.ass |
 | Intro to 'Mesaze! Super Lady -2014 nendo-' | Shadeslayr (ongoing) | ?? | EraYaN | mezase-intro.ass |
 | Intro and other talks 'Spin in the Wind' | Shadeslayr (ongoing) | ?? | EraYaN | spin-in-the-wind.ass |
