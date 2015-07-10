@@ -27,10 +27,10 @@ Note please have Timing and QA/QC on different persons.
 
 | Part (+duration)                           | Timing (+status)       | Translation (+status)              | File                      |
 |--------------------------------------------|------------------------|------------------------------------|---------------------------|
-| Rinon's soji                               | fernaldi01 `(ongoing)` | konchiniwa                         | rinon-soji.ass            |
+| Rinon's soji `(08:03)`                     | fernaldi01 `(done)`    | konchiniwa `(ongoing)`             | rinon-soji.ass            |
 | Moa's toji `(10:43)`                       | TheThrawn `(done)`     | monsterpanda `(ongoing)`           | moa-toji.ass              |
 | Principal Kuramoto's speech `(08:04)`      | fernaldi01 `(done)`    | onji-Kobe `(ongoing)`              | kuramoto-speech.ass       |
-| Mori-sensei's speech                       | EraYaN `(done)`        | monsterpanda                       | mori-speech.ass           |
+| Mori-sensei's speech                       | EraYaN `(done)`        | monsterpanda `(ongoing)`           | mori-speech.ass           |
 | Intro to 'Mesaze! Super Lady -2014 nendo-' | Shadeslayr `(ongoing)` | **?**                              | mezase-intro.ass          |
 | Intro and other talks 'Spin in the Wind'   | Shadeslayr `(ongoing)` | **?**                              | spin-in-the-wind.ass      |
 | Intro and other talks 'Piece de Check'     | Shadeslayr `(ongoing)` | **?**                              | piece-de-check.ass        |
