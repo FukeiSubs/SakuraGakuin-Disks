@@ -20,7 +20,7 @@ Note please have Timing and QA/QC on different persons.
 | MC #2 | soupman2001 (done) | ***Translator Needed*** | EraYaN | MC2.ass |
 | MC #3 | soupman2001 (done) | ***Translator Needed*** | EraYaN | MC3.ass |
 | MC #4 | soupman2001 (done) | ***Translator Needed*** | EraYaN | MC4.ass |
-| MC #5 | soupman2001 (ongoing) | ?? | EraYaN | MC5.ass |
+| MC #5 | soupman2001 (done) | ***Translator Needed*** | EraYaN | MC5.ass |
 | MC #6 | KumaMetal (ongoing) | KumaMetal & Akamaru226 (ongoing) | EraYaN | MC6.ass |
 | Setlist songs Romaji | Shadeslayr (ongoing) | ?? | ?? | {songname}-lyrics-rom.ass |
 | Setlist songs English | Shadeslayr (ongoing) | ?? | ?? | {songname}-lyrics-en.ass |
