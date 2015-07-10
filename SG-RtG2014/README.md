@@ -102,6 +102,7 @@ The first Japanese -> English translations will be proofread and improved by pre
 -	EraYaN
 -	ShadeSlayr
 -	soupman2001
+-	Akamaru226 (native)
 
 ### Typesetting
 
