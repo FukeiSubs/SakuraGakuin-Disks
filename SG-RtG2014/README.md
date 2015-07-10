@@ -30,16 +30,16 @@ Note please have Timing and QA/QC on different persons.
 | Rinon's soji                               | fernaldi01 `(ongoing)` | konchiniwa                         | rinon-soji.ass            |
 | Moa's toji `(10:43)`                       | TheThrawn `(done)`     | monsterpanda `(ongoing)`           | moa-toji.ass              |
 | Principal Kuramoto's speech `(08:04)`      | fernaldi01 `(done)`    | onji-Kobe `(ongoing)`              | kuramoto-speech.ass       |
-| Mori-sensei's speech                       | EraYaN `(ongoing)`     | monsterpanda                       | mori-speech.ass           |
+| Mori-sensei's speech                       | EraYaN `(done)`        | monsterpanda                       | mori-speech.ass           |
 | Intro to 'Mesaze! Super Lady -2014 nendo-' | Shadeslayr `(ongoing)` | **?**                              | mezase-intro.ass          |
 | Intro and other talks 'Spin in the Wind'   | Shadeslayr `(ongoing)` | **?**                              | spin-in-the-wind.ass      |
 | Intro and other talks 'Piece de Check'     | Shadeslayr `(ongoing)` | **?**                              | piece-de-check.ass        |
 | Intro to 'Yume ni Mukatte'                 | Shadeslayr `(ongoing)` | **?**                              | yume-ni-mukatte.ass       |
 | MC #1 `(02:45)`                            | soupman2001 `(done)`   | Akamaru226 `(ongoing)`             | MC1.ass                   |
-| MC #2 `(03:56)`                            | soupman2001 `(done)`   | ***Translator Needed***            | MC2.ass                   |
-| MC #3 `(03:31)`                            | soupman2001 `(done)`   | ***Translator Needed***            | MC3.ass                   |
-| MC #4 `(00:34)`                            | soupman2001 `(done)`   | ***Translator Needed***            | MC4.ass                   |
-| MC #5 `(03:00)`                            | soupman2001 `(done)`   | ***Translator Needed***            | MC5.ass                   |
+| MC #2 `(03:56)`                            | soupman2001 `(done)`   | **?**                              | MC2.ass                   |
+| MC #3 `(03:31)`                            | soupman2001 `(done)`   | **?**                              | MC3.ass                   |
+| MC #4 `(00:34)`                            | soupman2001 `(done)`   | **?**                              | MC4.ass                   |
+| MC #5 `(03:00)`                            | soupman2001 `(done)`   | **?**                              | MC5.ass                   |
 | MC #6 `(9:20)`                             | KumaMetal `(ongoing)`  | KumaMetal & Akamaru226 `(ongoing)` | MC6.ass                   |
 | Setlist songs Romaji `(N/A)`               | Shadeslayr `(ongoing)` | **?**                              | {songname}-lyrics-rom.ass |
 | Setlist songs English `(N/A)`              | Shadeslayr `(ongoing)` | **?**                              | {songname}-lyrics-en.ass  |
