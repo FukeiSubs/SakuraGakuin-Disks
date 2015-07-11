@@ -19,48 +19,48 @@ Goals / Deadlines
 Timing & Translation task list
 ------------------------------
 
-| Part (+duration)                           | Timing (+status)       | Translation (+status)              | File                      |
-|--------------------------------------------|------------------------|------------------------------------|---------------------------|
-| Rinon's soji `(08:03)`                     | fernaldi01 `(done)`    | konchiniwa `(ongoing)`             | rinon-soji.ass            |
-| Moa's toji `(10:43)`                       | TheThrawn `(done)`     | monsterpanda `(ongoing)`           | moa-toji.ass              |
-| Principal Kuramoto's speech `(08:04)`      | fernaldi01 `(done)`    | onji-Kobe `(ongoing)`              | kuramoto-speech.ass       |
-| Mori-sensei's speech `(18:47)`             | EraYaN `(done)`        | monsterpanda `(ongoing)`           | mori-speech.ass           |
-| Intro to 'Mesaze! Super Lady -2014 nendo-' | Shadeslayr `(ongoing)` | **?**                              | mezase-intro.ass          |
-| Intro and other talks 'Spin in the Wind'   | Shadeslayr `(ongoing)` | **?**                              | spin-in-the-wind.ass      |
-| Intro and other talks 'Piece de Check'     | Shadeslayr `(ongoing)` | **?**                              | piece-de-check.ass        |
-| Intro to 'Yume ni Mukatte' `(0:51)`        | Dwarfda `(done)`       | **?**                              | yume-ni-mukatte.ass       |
-| MC #1 `(02:45)`                            | soupman2001 `(done)`   | Akamaru226 `(ongoing)`             | MC1.ass                   |
-| MC #2 `(03:56)`                            | soupman2001 `(done)`   | **?**                              | MC2.ass                   |
-| MC #3 `(03:31)`                            | soupman2001 `(done)`   | **?**                              | MC3.ass                   |
-| MC #4 `(00:34)`                            | soupman2001 `(done)`   | **?**                              | MC4.ass                   |
-| MC #5 `(03:00)`                            | soupman2001 `(done)`   | **?**                              | MC5.ass                   |
-| MC #6 `(9:20)`                             | KumaMetal `(ongoing)`  | KumaMetal & Akamaru226 `(ongoing)` | MC6.ass                   |
-| Setlist songs Romaji `(N/A)`               | Shadeslayr `(ongoing)` | **?**                              | {songname}-lyrics-rom.ass |
-| Setlist songs English `(N/A)`              | Shadeslayr `(ongoing)` | **?**                              | {songname}-lyrics-en.ass  |
+| Part (+duration)                                    | Timing (+status)       | Translation (+status)              | File                      |
+|-----------------------------------------------------|------------------------|------------------------------------|---------------------------|
+| Rinon's soji `(08:03)`                              | fernaldi01 `(done)`    | konchiniwa `(ongoing)`             | rinon-soji.ass            |
+| Moa's toji `(10:43)`                                | TheThrawn `(done)`     | monsterpanda `(ongoing)`           | moa-toji.ass              |
+| Principal Kuramoto's speech `(08:04)`               | fernaldi01 `(done)`    | onji-Kobe `(ongoing)`              | kuramoto-speech.ass       |
+| Mori-sensei's speech `(18:47)`                      | EraYaN `(done)`        | monsterpanda `(ongoing)`           | mori-speech.ass           |
+| Intro to 'Mesaze! Super Lady -2014 nendo-' `(0:40)` | soupman2001 `(done)`   | **?**                              | mezase-intro.ass          |
+| Intro and other talks 'Spin in the Wind'            | Shadeslayr `(ongoing)` | **?**                              | spin-in-the-wind.ass      |
+| Intro and other talks 'Piece de Check'              | Shadeslayr `(ongoing)` | **?**                              | piece-de-check.ass        |
+| Intro to 'Yume ni Mukatte' `(0:51)`                 | Dwarfda `(done)`       | **?**                              | yume-ni-mukatte.ass       |
+| MC #1 `(02:45)`                                     | soupman2001 `(done)`   | Akamaru226 `(ongoing)`             | MC1.ass                   |
+| MC #2 `(03:56)`                                     | soupman2001 `(done)`   | **?**                              | MC2.ass                   |
+| MC #3 `(03:31)`                                     | soupman2001 `(done)`   | **?**                              | MC3.ass                   |
+| MC #4 `(00:34)`                                     | soupman2001 `(done)`   | **?**                              | MC4.ass                   |
+| MC #5 `(03:00)`                                     | soupman2001 `(done)`   | **?**                              | MC5.ass                   |
+| MC #6 `(9:20)`                                      | KumaMetal `(ongoing)`  | KumaMetal & Akamaru226 `(ongoing)` | MC6.ass                   |
+| Setlist songs Romaji `(N/A)`                        | Shadeslayr `(ongoing)` | **?**                              | {songname}-lyrics-rom.ass |
+| Setlist songs English `(N/A)`                       | Shadeslayr `(ongoing)` | **?**                              | {songname}-lyrics-en.ass  |
 
 Proofreading task list
 ----------------------
 
 The first Japanese -> English translations will be proofread and improved by preferably native English speakers. Those changes will then be checked for errors in translation or interpretation by preferably native Japanese speakers.
 
-| Part (+duration)                           | English | Japanese | File                      |
-|--------------------------------------------|---------|----------|---------------------------|
-| Rinon's soji                               | **?**   | **?**    | rinon-soji.ass            |
-| Moa's toji `(10:43)`                       | **?**   | **?**    | moa-toji.ass              |
-| Principal Kuramoto's speech `(08:04)`      | **?**   | **?**    | kuramoto-speech.ass       |
-| Mori-sensei's speech `(18:47)`             | **?**   | **?**    | mori-speech.ass           |
-| Intro to 'Mesaze! Super Lady -2014 nendo-' | **?**   | **?**    | mezase-intro.ass          |
-| Intro and other talks 'Spin in the Wind'   | **?**   | **?**    | spin-in-the-wind.ass      |
-| Intro and other talks 'Piece de Check'     | **?**   | **?**    | piece-de-check.ass        |
-| Intro to 'Yume ni Mukatte' `(0:51)`        | **?**   | **?**    | yume-ni-mukatte.ass       |
-| MC #1 `(02:45)`                            | **?**   | **?**    | MC1.ass                   |
-| MC #2 `(03:56)`                            | **?**   | **?**    | MC2.ass                   |
-| MC #3 `(03:31)`                            | **?**   | **?**    | MC3.ass                   |
-| MC #4 `(00:34)`                            | **?**   | **?**    | MC4.ass                   |
-| MC #5 `(03:00)`                            | **?**   | **?**    | MC5.ass                   |
-| MC #6                                      | **?**   | **?**    | MC6.ass                   |
-| Setlist songs Romaji `(N/A)`               | **?**   | **?**    | {songname}-lyrics-rom.ass |
-| Setlist songs English `(N/A)`              | **?**   | **?**    | {songname}-lyrics-en.ass  |
+| Part (+duration)                                    | English | Japanese | File                      |
+|-----------------------------------------------------|---------|----------|---------------------------|
+| Rinon's soji                                        | **?**   | **?**    | rinon-soji.ass            |
+| Moa's toji `(10:43)`                                | **?**   | **?**    | moa-toji.ass              |
+| Principal Kuramoto's speech `(08:04)`               | **?**   | **?**    | kuramoto-speech.ass       |
+| Mori-sensei's speech `(18:47)`                      | **?**   | **?**    | mori-speech.ass           |
+| Intro to 'Mesaze! Super Lady -2014 nendo-' `(0:40)` | **?**   | **?**    | mezase-intro.ass          |
+| Intro and other talks 'Spin in the Wind'            | **?**   | **?**    | spin-in-the-wind.ass      |
+| Intro and other talks 'Piece de Check'              | **?**   | **?**    | piece-de-check.ass        |
+| Intro to 'Yume ni Mukatte' `(0:51)`                 | **?**   | **?**    | yume-ni-mukatte.ass       |
+| MC #1 `(02:45)`                                     | **?**   | **?**    | MC1.ass                   |
+| MC #2 `(03:56)`                                     | **?**   | **?**    | MC2.ass                   |
+| MC #3 `(03:31)`                                     | **?**   | **?**    | MC3.ass                   |
+| MC #4 `(00:34)`                                     | **?**   | **?**    | MC4.ass                   |
+| MC #5 `(03:00)`                                     | **?**   | **?**    | MC5.ass                   |
+| MC #6                                               | **?**   | **?**    | MC6.ass                   |
+| Setlist songs Romaji `(N/A)`                        | **?**   | **?**    | {songname}-lyrics-rom.ass |
+| Setlist songs English `(N/A)`                       | **?**   | **?**    | {songname}-lyrics-en.ass  |
 
 Tasks
 -----
@@ -112,6 +112,7 @@ Tasks
 
 -	EraYaN
 -	soupman2001
+-	fernaldi01
 
 ### Tea and other things (biscuits)
 
