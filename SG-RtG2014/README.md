@@ -34,7 +34,7 @@ Note please have Timing and QA/QC on different persons.
 | Intro to 'Mesaze! Super Lady -2014 nendo-' | Shadeslayr `(ongoing)` | **?**                              | mezase-intro.ass          |
 | Intro and other talks 'Spin in the Wind'   | Shadeslayr `(ongoing)` | **?**                              | spin-in-the-wind.ass      |
 | Intro and other talks 'Piece de Check'     | Shadeslayr `(ongoing)` | **?**                              | piece-de-check.ass        |
-| Intro to 'Yume ni Mukatte'                 | Shadeslayr `(ongoing)` | **?**                              | yume-ni-mukatte.ass       |
+| Intro to 'Yume ni Mukatte'                 | Dwarfda `(done)`       | **?**                              | yume-ni-mukatte.ass       |
 | MC #1 `(02:45)`                            | soupman2001 `(done)`   | Akamaru226 `(ongoing)`             | MC1.ass                   |
 | MC #2 `(03:56)`                            | soupman2001 `(done)`   | **?**                              | MC2.ass                   |
 | MC #3 `(03:31)`                            | soupman2001 `(done)`   | **?**                              | MC3.ass                   |
