@@ -26,7 +26,7 @@ Timing & Translation task list
 | Principal Kuramoto's speech `(08:04)`               | fernaldi01 `(done)`    | onji-Kobe `(ongoing)`              | kuramoto-speech.ass       |
 | Mori-sensei's speech `(18:47)`                      | EraYaN `(done)`        | monsterpanda `(ongoing)`           | mori-speech.ass           |
 | Intro to 'Mesaze! Super Lady -2014 nendo-' `(0:40)` | soupman2001 `(done)`   | **?**                              | mezase-intro.ass          |
-| Intro and other talks 'Spin in the Wind'            | Shadeslayr `(ongoing)` | **?**                              | spin-in-the-wind.ass      |
+| Intro and other talks 'Spin in the Wind'            | Shadeslayr `(done)` | **?**                              | spin-in-the-wind.ass      |
 | Intro and other talks 'Piece de Check'              | Shadeslayr `(ongoing)` | **?**                              | piece-de-check.ass        |
 | Intro to 'Yume ni Mukatte' `(0:51)`                 | Dwarfda `(done)`       | **?**                              | yume-ni-mukatte.ass       |
 | MC #1 `(02:45)`                                     | soupman2001 `(done)`   | Akamaru226 `(ongoing)`             | MC1.ass                   |
