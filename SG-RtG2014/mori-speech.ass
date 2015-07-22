@@ -24,7 +24,7 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:44:27.01,1:44:28.32,Default,,0,0,0,,Tody
+Dialogue: 0,1:44:27.01,1:44:28.32,Default,,0,0,0,,Today,
 Dialogue: 0,1:44:28.56,1:44:30.94,Default,,0,0,0,,There is a lot of Fukei's attending
 Dialogue: 0,1:44:31.37,1:44:33.04,Default,,0,0,0,,I thank you from the bottom of my heart
 Dialogue: 0,1:44:34.45,1:44:36.65,Default,,0,0,0,,So with that
