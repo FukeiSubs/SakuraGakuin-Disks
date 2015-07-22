@@ -24,127 +24,92 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:44:27.01,1:44:28.32,Default,,0,0,0,,
-Dialogue: 0,1:44:28.56,1:44:30.94,Default,,0,0,0,,
-Dialogue: 0,1:44:31.37,1:44:33.04,Default,,0,0,0,,
-Dialogue: 0,1:44:34.45,1:44:36.65,Default,,0,0,0,,
+Dialogue: 0,1:44:27.01,1:44:28.32,Default,,0,0,0,,Tody
+Dialogue: 0,1:44:28.56,1:44:30.94,Default,,0,0,0,,There is a lot of Fukei's attending
+Dialogue: 0,1:44:31.37,1:44:33.04,Default,,0,0,0,,I thank you from the bottom of my heart
+Dialogue: 0,1:44:34.45,1:44:36.65,Default,,0,0,0,,So with that
 Dialogue: 0,1:44:37.32,1:44:39.55,Default,,0,0,0,,Sakura Gakuin 2013 nendo
-Dialogue: 0,1:44:41.49,1:44:44.52,Default,,0,0,0,,
-Dialogue: 0,1:44:46.29,1:44:49.80,Default,,0,0,0,,
-Dialogue: 0,1:45:15.79,1:45:19.96,Default,,0,0,0,,
+Dialogue: 0,1:44:41.49,1:44:44.52,Default,,0,0,0,,We are going to have hand out the graduation certificate
+Dialogue: 0,1:44:46.29,1:44:49.80,Default,,0,0,0,,So students, enter.
+Dialogue: 0,1:45:15.79,1:45:19.96,Default,,0,0,0,,Next, Graduates, enter
 Dialogue: 0,1:45:42.78,1:45:44.48,Default,,0,0,0,,** Bow
 Dialogue: 0,1:45:52.56,1:45:54.33,Default,,0,0,0,,** Sit
-Dialogue: 0,1:46:00.67,1:46:07.51,Default,,0,0,0,,
-Dialogue: 0,1:46:24.89,1:46:27.63,Default,,0,0,0,,
+Dialogue: 0,1:46:00.67,1:46:07.51,Default,,0,0,0,,Now Principal Mitsuru Kuramto, will hand out the graduation diplomas
+Dialogue: 0,1:46:24.89,1:46:27.63,Default,,0,0,0,,Elementary school, Megumi Okada
 Dialogue: 0,1:46:28.06,1:46:29.00,Default,,0,0,0,,Hai!
-Dialogue: 0,1:47:20.01,1:47:22.95,Default,,0,0,0,,
-Dialogue: 0,1:48:01.29,1:48:05.39,Default,,0,0,0,,
-Dialogue: 0,1:48:06.79,1:48:10.06,Default,,0,0,0,,
-Dialogue: 0,1:49:16.63,1:49:19.87,Default,,0,0,0,,
-Dialogue: 0,1:50:00.51,1:50:03.51,Default,,0,0,0,,
-Dialogue: 0,1:50:44.08,1:50:46.92,Default,,0,0,0,,
-Dialogue: 0,1:51:33.03,1:51:36.64,Default,,0,0,0,,
-Dialogue: 0,1:51:37.07,1:51:43.04,Default,,0,0,0,,
-Dialogue: 0,2:00:01.47,2:00:05.08,Default,,0,0,0,,
-Dialogue: 0,2:00:06.04,2:00:09.51,Default,,0,0,0,,
+Dialogue: 0,1:47:20.01,1:47:22.95,Default,,0,0,0,,Elementary school, Aiko Yamaide
+Dialogue: 0,1:48:01.29,1:48:05.39,Default,,0,0,0,,Next up, Jr High graduations
+Dialogue: 0,1:48:06.79,1:48:10.06,Default,,0,0,0,,Jr High, 3rd year, Moa Kikuchi
+Dialogue: 0,1:49:16.63,1:49:19.87,Default,,0,0,0,,Jr High, 3rd year, Hana Taguchi
+Dialogue: 0,1:50:00.51,1:50:03.51,Default,,0,0,0,,Jr High, 3rd year, Yunano Notsu
+Dialogue: 0,1:50:44.08,1:50:46.92,Default,,0,0,0,,Jr High, 3rd year, Yui Mizuno
+Dialogue: 0,1:51:33.03,1:51:36.64,Default,,0,0,0,,So the student's houji Souji* [A speech given to the graduates, showing appreciation and congratulations]
+Dialogue: 0,1:51:37.07,1:51:43.04,Default,,0,0,0,,Sakura Gakuin, entrance year 2011, Jr High, 2nd year, Rionon Isono
+Dialogue: 0,2:00:01.47,2:00:05.08,Default,,0,0,0,,Next up, Graduation Toji
+Dialogue: 0,2:00:06.04,2:00:09.51,Default,,0,0,0,,Sakura Gakuin, Jr High 3rd year.
 Dialogue: 0,2:00:10.25,2:00:11.38,Default,,0,0,0,,Hai!
-Dialogue: 0,2:00:23.20,2:00:26.80,Default,,0,0,0,,
-Dialogue: 0,2:11:26.39,2:11:31.56,Default,,0,0,0,,
-Dialogue: 0,2:19:39.88,2:19:43.19,Default,,0,0,0,,
-Dialogue: 0,2:19:43.42,2:19:45.06,Default,,0,0,0,,
-Dialogue: 0,2:19:48.59,2:19:52.83,Default,,0,0,0,,
-Dialogue: 0,2:19:53.70,2:19:57.07,Default,,0,0,0,,
-Dialogue: 0,2:19:57.94,2:19:59.84,Default,,0,0,0,,
-Dialogue: 0,2:20:01.74,2:20:07.51,Default,,0,0,0,,
-Dialogue: 0,2:20:07.75,2:20:11.25,Default,,0,0,0,,
-Dialogue: 0,2:20:11.75,2:20:17.15,Default,,0,0,0,,
-Dialogue: 0,2:20:17.42,2:20:20.22,Default,,0,0,0,,
-Dialogue: 0,2:20:22.73,2:20:25.53,Default,,0,0,0,,
-Dialogue: 0,2:20:27.77,2:20:30.60,Default,,0,0,0,,
-Dialogue: 0,2:20:32.87,2:20:36.54,Default,,0,0,0,,
-Dialogue: 0,2:20:38.04,2:20:44.58,Default,,0,0,0,,
-Dialogue: 0,2:20:44.88,2:20:46.72,Default,,0,0,0,,
-Dialogue: 0,2:20:47.25,2:20:51.46,Default,,0,0,0,,
-Dialogue: 0,2:20:52.26,2:20:54.86,Default,,0,0,0,,
-Dialogue: 0,2:20:55.26,2:20:56.86,Default,,0,0,0,,
-Dialogue: 0,2:20:57.90,2:21:00.86,Default,,0,0,0,,
-Dialogue: 0,2:21:02.13,2:21:03.37,Default,,0,0,0,,
-Dialogue: 0,2:21:04.57,2:21:06.30,Default,,0,0,0,,
-Dialogue: 0,2:21:07.37,2:21:09.04,Default,,0,0,0,,
-Dialogue: 0,2:21:09.67,2:21:14.18,Default,,0,0,0,,
-Dialogue: 0,2:21:14.51,2:21:18.08,Default,,0,0,0,,
-Dialogue: 0,2:21:18.22,2:21:20.95,Default,,0,0,0,,
-Dialogue: 0,2:21:21.15,2:21:24.29,Default,,0,0,0,,
-Dialogue: 0,2:21:25.39,2:21:28.29,Default,,0,0,0,,
-Dialogue: 0,2:21:29.06,2:21:32.03,Default,,0,0,0,,
-Dialogue: 0,2:21:32.93,2:21:34.13,Default,,0,0,0,,
-Dialogue: 0,2:21:35.80,2:21:38.70,Default,,0,0,0,,
-Dialogue: 0,2:21:41.91,2:21:42.21,Default,,0,0,0,,
-Dialogue: 0,2:21:46.91,2:21:49.81,Default,,0,0,0,,
-Dialogue: 0,2:21:50.48,2:21:51.82,Default,,0,0,0,,
-Dialogue: 0,2:21:52.18,2:21:52.72,Default,,0,0,0,,
-Dialogue: 0,2:21:54.25,2:21:55.49,Default,,0,0,0,,
-Dialogue: 0,2:21:56.09,2:21:58.12,Default,,0,0,0,,
-Dialogue: 0,2:21:58.69,2:22:01.89,Default,,0,0,0,,
-Dialogue: 0,2:22:04.80,2:22:06.13,Default,,0,0,0,,
-Dialogue: 0,2:22:06.26,2:22:08.07,Default,,0,0,0,,
-Dialogue: 0,2:22:08.43,2:22:09.70,Default,,0,0,0,,
-Dialogue: 0,2:22:10.43,2:22:11.60,Default,,0,0,0,,
-Dialogue: 0,2:22:12.00,2:22:12.90,Default,,0,0,0,,
-Dialogue: 0,2:22:13.84,2:22:15.84,Default,,0,0,0,,
-Dialogue: 0,2:22:16.11,2:22:17.81,Default,,0,0,0,,
-Dialogue: 0,2:22:18.21,2:22:21.61,Default,,0,0,0,,
-Dialogue: 0,2:22:21.95,2:22:23.68,Default,,0,0,0,,
-Dialogue: 0,2:22:24.31,2:22:25.28,Default,,0,0,0,,
-Dialogue: 0,2:22:25.85,2:22:26.78,Default,,0,0,0,,
-Dialogue: 0,2:22:29.19,2:22:31.16,Default,,0,0,0,,
-Dialogue: 0,2:22:31.42,2:22:34.86,Default,,0,0,0,,
-Dialogue: 0,2:22:35.39,2:22:36.96,Default,,0,0,0,,
-Dialogue: 0,2:22:37.36,2:22:38.43,Default,,0,0,0,,
-Dialogue: 0,2:22:39.56,2:22:41.90,Default,,0,0,0,,
-Dialogue: 0,2:22:42.77,2:22:45.27,Default,,0,0,0,,
-Dialogue: 0,2:22:45.84,2:22:46.37,Default,,0,0,0,,
-Dialogue: 0,2:22:47.20,2:22:50.24,Default,,0,0,0,,
-Dialogue: 0,2:22:55.95,2:22:58.85,Default,,0,0,0,,
-Dialogue: 0,2:22:59.08,2:23:01.72,Default,,0,0,0,,
-Dialogue: 0,2:23:03.25,2:23:04.32,Default,,0,0,0,,
-Dialogue: 0,2:23:04.89,2:23:07.46,Default,,0,0,0,,
-Dialogue: 0,2:23:07.86,2:23:08.69,Default,,0,0,0,,
-Dialogue: 0,2:23:10.26,2:23:14.26,Default,,0,0,0,,
-Dialogue: 0,2:23:16.30,2:23:18.30,Default,,0,0,0,,
-Dialogue: 0,2:23:19.40,2:23:23.54,Default,,0,0,0,,
-Dialogue: 0,2:23:23.71,2:23:24.64,Default,,0,0,0,,
-Dialogue: 0,2:23:25.34,2:23:26.61,Default,,0,0,0,,
-Dialogue: 0,2:23:27.18,2:23:28.01,Default,,0,0,0,,
-Dialogue: 0,2:23:29.05,2:23:31.72,Default,,0,0,0,,
-Dialogue: 0,2:23:31.98,2:23:34.69,Default,,0,0,0,,
-Dialogue: 0,2:23:35.42,2:23:35.92,Default,,0,0,0,,
-Dialogue: 0,2:23:37.65,2:23:38.09,Default,,0,0,0,,
-Dialogue: 0,2:23:39.96,2:23:41.86,Default,,0,0,0,,
-Dialogue: 0,2:23:42.26,2:23:43.43,Default,,0,0,0,,
-Dialogue: 0,2:23:44.29,2:23:46.03,Default,,0,0,0,,
-Dialogue: 0,2:23:46.53,2:23:47.66,Default,,0,0,0,,
-Dialogue: 0,2:23:50.83,2:23:51.64,Default,,0,0,0,,
-Dialogue: 0,2:23:52.30,2:23:53.40,Default,,0,0,0,,
-Dialogue: 0,2:23:54.27,2:23:56.04,Default,,0,0,0,,
-Dialogue: 0,2:24:07.02,2:24:09.25,Default,,0,0,0,,
-Dialogue: 0,2:24:09.42,2:24:11.12,Default,,0,0,0,,
-Dialogue: 0,2:24:12.39,2:24:13.62,Default,,0,0,0,,
-Dialogue: 0,2:24:14.12,2:24:15.56,Default,,0,0,0,,
-Dialogue: 0,2:24:16.29,2:24:17.63,Default,,0,0,0,,
-Dialogue: 0,2:24:18.30,2:24:21.06,Default,,0,0,0,,
-Dialogue: 0,2:24:21.37,2:24:24.94,Default,,0,0,0,,
-Dialogue: 0,2:24:26.20,2:24:29.11,Default,,0,0,0,,
-Dialogue: 0,2:24:30.07,2:24:31.48,Default,,0,0,0,,
-Dialogue: 0,2:24:32.11,2:24:34.95,Default,,0,0,0,,
-Dialogue: 0,2:24:35.25,2:24:38.78,Default,,0,0,0,,
-Dialogue: 0,2:24:40.42,2:24:41.15,Default,,0,0,0,,
-Dialogue: 0,2:24:42.62,2:24:43.55,Default,,0,0,0,,
-Dialogue: 0,2:24:43.92,2:24:44.69,Default,,0,0,0,,
-Dialogue: 0,2:24:45.52,2:24:47.22,Default,,0,0,0,,
-Dialogue: 0,2:24:47.29,2:24:48.33,Default,,0,0,0,,
-Dialogue: 0,2:25:20.72,2:25:21.99,Default,,0,0,0,,
-Dialogue: 0,2:25:22.19,2:25:24.16,Default,,0,0,0,,
-Dialogue: 0,2:25:24.66,2:25:26.23,Default,,0,0,0,,
-Dialogue: 0,2:25:26.26,2:25:27.36,Default,,0,0,0,,
-Dialogue: 0,2:25:27.73,2:25:29.20,Default,,0,0,0,,
+Dialogue: 0,2:00:23.20,2:00:26.80,Default,,0,0,0,,Representative. Student council president Moa Kikuchi.
+Dialogue: 0,2:11:26.39,2:11:31.56,Default,,0,0,0,,Now, Sakura Gakuin principal Kuramoto, Shukuji* [a celebratory speech]
+Dialogue: 0,2:19:39.88,2:19:48.59,Default,,0,0,0,,Sorry, let me say a few words, excuse me…
+Dialogue: 0,2:19:48.59,2:19:52.83,Default,,0,0,0,,First of all, to all watching the live streaming, it is now your opportunity for a bathroom break.
+Dialogue: 0,2:19:53.70,2:19:57.07,Default,,0,0,0,,Go now. For those here, please stay.
+Dialogue: 0,2:19:57.94,2:20:00.84,Default,,0,0,0,,If I see it in the corner of my eye, my ego may bruise.
+Dialogue: 0,2:20:01.74,2:20:07.51,Default,,0,0,0,,Well, so let me say my words, honestly.
+Dialogue: 0,2:20:07.75,2:20:11.25,Default,,0,0,0,,Eh... this year, the graduating Four
+Dialogue: 0,2:20:11.75,2:20:17.15,Default,,0,0,0,,I was really worried. As some may already know,
+Dialogue: 0,2:20:17.42,2:20:20.22,Default,,0,0,0,,when I banter, there is one who cries easily
+Dialogue: 0,2:20:22.73,2:20:26.53,Default,,0,0,0,,We're performing live, and the lost the will to fight…
+Dialogue: 0,2:20:27.77,2:20:31.60,Default,,0,0,0,,When I was over enthusiastic, there was one who would shut down emotionally
+Dialogue: 0,2:20:32.87,2:20:37.54,Default,,0,0,0,,One who was proud of her impersonations, who would leave the audience at a loss…
+Dialogue: 0,2:20:38.04,2:20:44.58,Default,,0,0,0,,Truthfully... my job is to MC, in the role of a teacher.
+Dialogue: 0,2:20:44.88,2:20:46.72,Default,,0,0,0,,So I was really worried this year
+Dialogue: 0,2:20:47.25,2:20:51.46,Default,,0,0,0,,But the year has passed. Especially these few months,
+Dialogue: 0,2:20:52.26,2:21:00.86,Default,,0,0,0,,These four can now be on stage and say what they want. During the liver performances they respond and stared bantering back,
+Dialogue: 0,2:21:02.13,2:21:03.37,Default,,0,0,0,,I'm going to say it.
+Dialogue: 0,2:21:04.57,2:21:06.30,Default,,0,0,0,,That made me really happy.
+Dialogue: 0,2:21:07.37,2:21:09.04,Default,,0,0,0,,How do I say this...
+Dialogue: 0,2:21:09.67,2:21:14.18,Default,,0,0,0,,I think a lot of you may of not been comfortable with my banter.
+Dialogue: 0,2:21:14.51,2:21:20.95,Default,,0,0,0,,But you got the cuourage, stepped up.
+Dialogue: 0,2:21:21.15,2:21:24.29,Default,,0,0,0,,Yes, to me that is my treasure.
+Dialogue: 0,2:21:25.39,2:21:32.03,Default,,0,0,0,,Yes, I know, every year, just as it is getting fun,
+Dialogue: 0,2:21:32.93,2:21:35.13,Default,,0,0,0,,we come to the graduation ceremony.
+Dialogue: 0,2:21:35.80,2:21:40.21,Default,,0,0,0,,My emotional milk crepe is all limp and floppy
+Dialogue: 0,2:21:46.91,2:21:51.82,Default,,0,0,0,,So as a teacher, I thought through this hard, and came up with
+Dialogue: 0,2:21:52.18,2:21:58.12,Default,,0,0,0,,So I know formally, you are all graduaduating.
+Dialogue: 0,2:21:58.69,2:22:02.89,Default,,0,0,0,,But in my heart, you are all held back a year.
+Dialogue: 0,2:22:04.80,2:22:08.07,Default,,0,0,0,,I know I need to face the music,
+Dialogue: 0,2:22:08.43,2:22:11.60,Default,,0,0,0,,but I am worried, about all of you.
+Dialogue: 0,2:22:12.00,2:22:12.90,Default,,0,0,0,,You get it.
+Dialogue: 0,2:22:13.84,2:22:15.84,Default,,0,0,0,,I am sure the Fukei's understand...
+Dialogue: 0,2:22:16.11,2:22:17.81,Default,,0,0,0,,as well as the all of the staff.
+Dialogue: 0,2:22:18.21,2:22:21.61,Default,,0,0,0,,If you are ever in trouble we all will come to your aid.
+Dialogue: 0,2:22:21.62,2:22:34.19,Default,,0,0,0,, well even after you graduate, I'll still be your teacher, and I'll still banter and bring out your individual charm...
+Dialogue: 0,2:22:34.20,2:22:37.00,Default,,0,0,0,,I hope we can have that kind of relationship.
+Dialogue: 0,2:22:37.36,2:22:38.43,Default,,0,0,0,,That is what I feel.
+Dialogue: 0,2:22:39.56,2:22:45.27,Default,,0,0,0,,of course this applies to all the previous graduates as well.
+Dialogue: 0,2:22:45.84,2:22:50.24,Default,,0,0,0,,I still watch the "Merengue no Kimochi" with butterflies in my stomach,
+Dialogue: 0,2:22:55.95,2:22:58.85,Default,,0,0,0,,You know. So, I want you to rely on me.
+Dialogue: 0,2:22:59.08,2:23:02.62,Default,,0,0,0,,Although if the Nurse comes to depend on me, I'm not sure what I can do.
+Dialogue: 0,2:23:03.25,2:23:08.69,Default,,0,0,0,,So in my mind, all of you,
+Dialogue: 0,2:23:10.26,2:23:15.26,Default,,0,0,0,,I still have not put the seal of approval on to your graduation certificate in my heart.
+Dialogue: 0,2:23:16.30,2:23:18.30,Default,,0,0,0,,You know, right now,
+Dialogue: 0,2:23:19.40,2:23:23.54,Default,,0,0,0,,they say you are all grown up... but you carry a lot on your little shoulders** [EDITORS:Translator note, it is back, but makes more sense to say shoulders due to the burden they carry]
+Dialogue: 0,2:23:23.71,2:23:26.61,Default,,0,0,0,,The weight you carry
+Dialogue: 0,2:23:27.18,2:23:31.72,Default,,0,0,0,,I sometimes feel that you should share that burden.
+Dialogue: 0,2:23:31.98,2:23:34.69,Default,,0,0,0,,I'm sure a lot of people feel the same way... I know staff does.
+Dialogue: 0,2:23:35.42,2:23:41.86,Default,,0,0,0,,Sorry, I am saying things, still holding on to you…
+Dialogue: 0,2:23:42.26,2:23:47.66,Default,,0,0,0,,So what I want to really say is  "Let me still act as your teacher", that is all.
+Dialogue: 0,2:23:50.83,2:23:56.04,Default,,0,0,0,,So with that, congradulations on your graduation. Please remember me…
+Dialogue: 0,2:24:07.02,2:24:12.44,Default,,0,0,0,,So with that, Sorry it's always me speaking last.
+Dialogue: 0,2:24:12.45,2:24:16.45,Default,,0,0,0,,Did you come back from your bathroom break? Everyone in the live viewing?
+Dialogue: 0,2:24:16.46,2:24:21.06,Default,,0,0,0,,Truthfully, I derailed the conversation, but…
+Dialogue: 0,2:24:21.37,2:24:24.94,Default,,0,0,0,,Eh... so with this, we're going to perform now...
+Dialogue: 0,2:24:26.20,2:24:29.11,Default,,0,0,0,,Hey all the tears stopped flowing.
+Dialogue: 0,2:24:30.07,2:24:31.48,Default,,0,0,0,,That was my intention.
+Dialogue: 0,2:24:32.11,2:24:34.95,Default,,0,0,0,,So go back and change,
+Dialogue: 0,2:24:35.25,2:24:38.78,Default,,0,0,0,,entertain the Fukei san till the very end.
+Dialogue: 0,2:24:40.42,2:24:44.69,Default,,0,0,0,,So...\N\NGraduating Class, dismissed.
+Dialogue: 0,2:24:45.52,2:24:48.33,Default,,0,0,0,,Everyone please give a round of applause.
+Dialogue: 0,2:24:57.40,2:24:59.40,Default,,0,0,0,,
+Dialogue: 0,2:25:20.72,2:25:27.36,Default,,0,0,0,,With that the 2014 Graduation Ceremony has ended.
+Dialogue: 0,2:25:27.73,2:25:29.20,Default,,0,0,0,, Everyone bow.
