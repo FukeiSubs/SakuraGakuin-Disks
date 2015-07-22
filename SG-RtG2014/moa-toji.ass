@@ -25,63 +25,64 @@ Style: Default,Arial,11,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,2:00:01.70,2:00:05.23,Default,,0,0,0,,
-Dialogue: 0,2:00:06.32,2:00:09.44,Default,,0,0,0,,
+Dialogue: 0,2:00:01.70,2:00:05.23,Default,,0,0,0,,Coming up next, Graduating Touji*　( Touji - a response to a celebratory speech)
+Dialogue: 0,2:00:06.32,2:00:09.44,Default,,0,0,0,,Class of Sakuragakuin, Jr. High, 3rd year
 Dialogue: 0,2:00:10.42,2:00:11.05,Default,,0,0,0,,
-Dialogue: 0,2:00:23.38,2:00:26.86,Default,,0,0,0,,
-Dialogue: 0,2:00:41.86,2:00:43.26,Default,,0,0,0,,
-Dialogue: 0,2:00:45.40,2:00:57.73,Default,,0,0,0,,
-Dialogue: 0,2:00:59.83,2:01:08.00,Default,,0,0,0,,
-Dialogue: 0,2:01:10.86,2:01:28.66,Default,,0,0,0,,
-Dialogue: 0,2:01:32.13,2:01:35.80,Default,,0,0,0,,
-Dialogue: 0,2:01:38.93,2:01:45.93,Default,,0,0,0,,
-Dialogue: 0,2:01:47.86,2:02:04.10,Default,,0,0,0,,
-Dialogue: 0,2:02:06.10,2:02:22.36,Default,,0,0,0,,
-Dialogue: 0,2:02:23.90,2:02:29.93,Default,,0,0,0,,
-Dialogue: 0,2:02:30.63,2:02:43.70,Default,,0,0,0,,
-Dialogue: 0,2:02:45.36,2:02:50.56,Default,,0,0,0,,
-Dialogue: 0,2:02:52.13,2:03:00.40,Default,,0,0,0,,
-Dialogue: 0,2:03:01.86,2:03:07.80,Default,,0,0,0,,
-Dialogue: 0,2:03:11.20,2:03:30.86,Default,,0,0,0,,
-Dialogue: 0,2:03:32.30,2:03:43.73,Default,,0,0,0,,
-Dialogue: 0,2:03:45.70,2:03:52.56,Default,,0,0,0,,
-Dialogue: 0,2:03:53.93,2:03:59.73,Default,,0,0,0,,
-Dialogue: 0,2:04:01.50,2:04:17.10,Default,,0,0,0,,
-Dialogue: 0,2:04:18.93,2:04:24.86,Default,,0,0,0,,
-Dialogue: 0,2:04:26.36,2:04:31.76,Default,,0,0,0,,
-Dialogue: 0,2:04:32.83,2:04:37.83,Default,,0,0,0,,
-Dialogue: 0,2:04:38.93,2:04:55.16,Default,,0,0,0,,
-Dialogue: 0,2:04:58.63,2:05:08.06,Default,,0,0,0,,
-Dialogue: 0,2:05:09.56,2:05:14.66,Default,,0,0,0,,
-Dialogue: 0,2:05:16.86,2:05:23.10,Default,,0,0,0,,
-Dialogue: 0,2:05:24.10,2:05:31.70,Default,,0,0,0,,
-Dialogue: 0,2:05:33.20,2:05:44.83,Default,,0,0,0,,
-Dialogue: 0,2:05:46.06,2:05:58.66,Default,,0,0,0,,
-Dialogue: 0,2:06:01.13,2:06:10.16,Default,,0,0,0,,
-Dialogue: 0,2:06:11.96,2:06:17.83,Default,,0,0,0,,
-Dialogue: 0,2:06:19.63,2:06:31.43,Default,,0,0,0,,
-Dialogue: 0,2:06:33.23,2:06:38.36,Default,,0,0,0,,
-Dialogue: 0,2:06:39.20,2:06:44.16,Default,,0,0,0,,
-Dialogue: 0,2:06:46.83,2:07:00.80,Default,,0,0,0,,
-Dialogue: 0,2:07:02.60,2:07:18.60,Default,,0,0,0,,
-Dialogue: 0,2:07:20.06,2:07:27.33,Default,,0,0,0,,
-Dialogue: 0,2:07:29.33,2:07:41.20,Default,,0,0,0,,
-Dialogue: 0,2:07:41.93,2:07:46.23,Default,,0,0,0,,
-Dialogue: 0,2:07:49.00,2:07:59.00,Default,,0,0,0,,
-Dialogue: 0,2:08:00.06,2:08:04.96,Default,,0,0,0,,
-Dialogue: 0,2:08:06.83,2:08:14.13,Default,,0,0,0,,
-Dialogue: 0,2:08:15.46,2:08:26.66,Default,,0,0,0,,
-Dialogue: 0,2:08:27.90,2:08:35.63,Default,,0,0,0,,
-Dialogue: 0,2:08:37.40,2:08:44.20,Default,,0,0,0,,
-Dialogue: 0,2:08:47.46,2:08:53.13,Default,,0,0,0,,
-Dialogue: 0,2:08:54.43,2:09:04.06,Default,,0,0,0,,
-Dialogue: 0,2:09:06.13,2:09:14.13,Default,,0,0,0,,
-Dialogue: 0,2:09:16.00,2:09:30.66,Default,,0,0,0,,
-Dialogue: 0,2:09:32.60,2:09:38.90,Default,,0,0,0,,
-Dialogue: 0,2:09:40.10,2:09:47.03,Default,,0,0,0,,
-Dialogue: 0,2:09:49.03,2:10:01.10,Default,,0,0,0,,
-Dialogue: 0,2:10:02.23,2:10:06.73,Default,,0,0,0,,
-Dialogue: 0,2:10:09.13,2:10:21.36,Default,,0,0,0,,
-Dialogue: 0,2:10:23.53,2:10:32.20,Default,,0,0,0,,
-Dialogue: 0,2:10:34.26,2:10:43.50,Default,,0,0,0,,
-Dialogue: 0,2:10:43.50,2:10:45.50,Default,,0,0,0,,
+Dialogue: 0,2:00:23.38,2:00:26.86,Default,,0,0,0,,Representative. Student council president, Moa Kikuchi.
+Dialogue: 0,2:00:41.86,2:00:43.26,Default,,0,0,0,,Touji
+Dialogue: 0,2:00:45.40,2:00:57.73,Default,,0,0,0,,Cherry blossoms line path of the street, I walk by all the time.\NThe tiny buds are starting to blossom one by one, it feels like they are celebrating, each one of us as we make our next step.
+Dialogue: 0,2:00:59.83,2:01:08.00,Default,,0,0,0,,At last, this year, March has come, to the day of graduation, hasn't it?
+Dialogue: 0,2:01:10.86,2:01:28.66,Default,,0,0,0,,We performed many shows, open class, release events, and the lessons we rehearsed over and over. Every memory is a precious treasure, as I recall.
+Dialogue: 0,2:01:32.13,2:01:35.80,Default,,0,0,0,,Even as I read this Touji, I feel like it is a dream.
+Dialogue: 0,2:01:38.93,2:01:45.93,Default,,0,0,0,,There is part of me that believes I will still be in Sakura Gakuin forever.
+Dialogue: 0,2:01:47.86,2:02:04.10,Default,,0,0,0,,When tomorrow comes, there will no longer be the 10 of us. That is probably when I will truly realise that I graduated and the emotions will start flooding in suddenly
+Dialogue: 0,2:02:06.10,2:02:22.36,Default,,0,0,0,,Yui and myself are the only ones there from the inaugural year of Sakura Gakuin. We were so little. Everyone watched over us for us, as we were still in 5th grade. We are now the upper classman.
+Dialogue: 0,2:02:23.90,2:02:29.93,Default,,0,0,0,,Sakura Gakuin started with nothing, no shows schedules or releases planned when we started.
+Dialogue: 0,2:02:30.63,2:02:43.70,Default,,0,0,0,,We now have more songs then we can perform in one year and we are in this big hall with our graduation ceremony. I could not imagine such things back then.
+Dialogue: 0,2:02:45.36,2:02:50.56,Default,,0,0,0,,But it is not just the 10 of us who made this happen.
+Dialogue: 0,2:02:52.13,2:03:00.40,Default,,0,0,0,,The Senpai's as graduates of Sakura Gakuin have paved the way.
+Dialogue: 0,2:03:01.86,2:03:07.80,Default,,0,0,0,,First off I would like to show my apparition to the Senpai's who have graduated before us.
+Dialogue: 0,2:03:11.20,2:03:30.86,Default,,0,0,0,,Sakura Gakuin has over come many obstacles, as we grew. This years graduating class all entered at different times. 2011 we got Hana, 2012 we got Yunano, as they transferred in, and we became 4.
+Dialogue: 0,2:03:32.30,2:03:43.73,Default,,0,0,0,,At last years graduation we carried on the will of Senpai, but it was also start filled hesitation, as we all had different roles and had to find our space.
+Dialogue: 0,2:03:45.70,2:03:52.56,Default,,0,0,0,,Every year, we perform in the summer, TIF, is the first big obstacle,
+Dialogue: 0,2:03:53.93,2:03:59.73,Default,,0,0,0,,Yui and I due to our extracurricular actives overseas, we could only appear by video.
+Dialogue: 0,2:04:01.50,2:04:17.10,Default,,0,0,0,,But with Hana, Yunano at the core, and the help of Marina and Raura who graduated, the members all pull together, and put on a very Sakura Gakuin performance.
+Dialogue: 0,2:04:18.93,2:04:24.86,Default,,0,0,0,,While in America, we talked all the time, "How are they doing?".
+Dialogue: 0,2:04:26.36,2:04:31.76,Default,,0,0,0,,There wasn't a day that went by, we thought about everyone working hard back in Japan.
+Dialogue: 0,2:04:32.83,2:04:37.83,Default,,0,0,0,,That is when we felt strongly, we may be apart but our heart is one.
+Dialogue: 0,2:04:38.93,2:04:55.16,Default,,0,0,0,,we may be apart but our heart is one. Because we experienced that we could not be with the members. we started to value every day that we spend.We wanted to as much as possible with the limited time we have. This I felt stongly.
+Dialogue: 0,2:04:58.63,2:05:08.06,Default,,0,0,0,,…and again, this year, we challenged our selves with a lot of club activities. Hana and Rinon, I can't believe they made the Pro Wrestling club.
+Dialogue: 0,2:05:09.56,2:05:14.66,Default,,0,0,0,, I was jealous watching the douki* support each other, as you guys shined brightly. [*Douki - people who enter an organization around the same time]
+Dialogue: 0,2:05:16.86,2:05:23.10,Default,,0,0,0,,Rinon, you look after everyone, you really observe everyone.
+Dialogue: 0,2:05:24.10,2:05:31.70,Default,,0,0,0,,Your partner is going now, but there are 3 in your class to support each other.
+Dialogue: 0,2:05:33.20,2:05:44.83,Default,,0,0,0,,Yunano & Sirasaki was the Koubaibu. The two of you, with perfect timing would fill the venue with laughter. It made me happy.
+Dialogue: 0,2:05:46.06,2:05:58.66,Default,,0,0,0,,You know the charm of Sakura Gakuin from the inside and outside, always seriously thinking about it. Shirasaki, next year, please do things that will make Fukei's happy.
+Dialogue: 0,2:06:01.13,2:06:10.16,Default,,0,0,0,,Sara & Aiko who joined the Baton club. It was your first time with the baton, but I was amazed at how fast you guys improved.
+Dialogue: 0,2:06:11.96,2:06:17.83,Default,,0,0,0,,You guys must of practiced a lot, when we didn't see you.
+Dialogue: 0,2:06:19.63,2:06:31.43,Default,,0,0,0,,Aiko, out of all the members you have to travel the most with your commute. Your only in elementary school, you work so hard.
+Dialogue: 0,2:06:33.23,2:06:38.36,Default,,0,0,0,,It is cool, that you can say what is on your mind, clearly.
+Dialogue: 0,2:06:39.20,2:06:44.16,Default,,0,0,0,,Don't forget that honesty as you get into the Jr. High.
+Dialogue: 0,2:06:46.83,2:07:00.80,Default,,0,0,0,,Spunky and serious, Sara. Your quick to think, and the Fukei's still have a lot more charm to see. Next year I want to see more of that.
+Dialogue: 0,2:07:02.60,2:07:08.80,Default,,0,0,0,,Saki, this year you must of had a lot of frustrations this year.
+Dialogue: 0,2:07:08.80,2:07:20.05,Default,,0,0,0,,But your loving heart, strong will and kindness, everyone around you understands this about you.
+Dialogue: 0,2:07:20.06,2:07:27.33,Default,,0,0,0,,Next year, I know you will be standing here with the big smile after you given it your all. I believe that.
+Dialogue: 0,2:07:29.33,2:07:41.20,Default,,0,0,0,,Megu. Your first stage at the transfer ceremony you should of been nervous, but you surprised us with your improv. We were all talking about it.
+Dialogue: 0,2:07:41.93,2:07:46.23,Default,,0,0,0,,Your cute and we like pampering you. I am proud of my little sister.
+Dialogue: 0,2:07:49.00,2:07:59.00,Default,,0,0,0,,We are only 15. The time we spent at Sakura Gakuin, may just be a moment in our long lifespan.
+Dialogue: 0,2:08:00.06,2:08:04.96,Default,,0,0,0,,But we might say, it was everything to us, that is how fulfilling our time here was.
+Dialogue: 0,2:08:06.83,2:08:14.13,Default,,0,0,0,,2014 members, the memories we made with the 10, every single one is a treasure.
+Dialogue: 0,2:08:15.46,2:08:26.66,Default,,0,0,0,,Truthfully, I still want to spend more time with everyone.  With this 10, I want to do more*.  (EDITORS : *More is a translator bias. Original word is I want to give/send - as I want to perform more to give)
+Dialogue: 0,2:08:27.90,2:08:35.63,Default,,0,0,0,,But we are going towards our goal of becoming a Super Lady. We must look forward and move on.
+Dialogue: 0,2:08:37.40,2:08:44.20,Default,,0,0,0,,Rinon, Saki, Shirasaki, Sara, Aiko and Megu.
+Dialogue: 0,2:08:47.46,2:08:53.13,Default,,0,0,0,,With all of you, I know have full faith, to trust you with the next Sakura Gakuin.
+Dialogue: 0,2:08:54.43,2:09:04.06,Default,,0,0,0,,Starting tomorrow, what kind of message you will deliver, what kind of flavor Sakura Gakuin you will build. I will be watching over you with excitement.
+Dialogue: 0,2:09:06.13,2:09:14.13,Default,,0,0,0,,The road Super lady, Principal  Kuramoto Sensei, who showed us a world we never knew.
+Dialogue: 0,2:09:16.00,2:09:30.66,Default,,0,0,0,,Pulling my individuality, which I did not realize,  Mori Sensei. You were always close by, sometimes harsh, sometimes kind, who helped us grow, the staff teachers.
+Dialogue: 0,2:09:32.60,2:09:38.90,Default,,0,0,0,,behind the scenes, there was people hustling for us, Everyone on Staff
+Dialogue: 0,2:09:40.10,2:09:47.03,Default,,0,0,0,,and everywhere and anytime, those who supported us…
+Dialogue: 0,2:09:49.03,2:09:52.06,Default,,0,0,0,,a little oya baka fukei san. [*Oya baka - a term used for new parents, who are foolish and see their children as angels who can do nothing wrong or parents who are proud of their children almost foolishly]
+Dialogue: 0,2:09:52.07,2:10:02.23,Default,,0,0,0,,We want to say what we are feeling... I want say with the world biggest Thank You.
+Dialogue: 0,2:10:02.23,2:10:06.73,Default,,0,0,0,,Thank You. Truly, Thank you for everything till now.
+Dialogue: 0,2:10:09.13,2:10:21.36,Default,,0,0,0,,The four of us will etch into our hears what we learned here. Being proud that we are graduates of Sakura Gakuin, as we walk our path.
+Dialogue: 0,2:10:23.53,2:10:32.20,Default,,0,0,0,,Please continue to support us and the 2015 Sakura Gakuin.
+Dialogue: 0,2:10:34.26,2:10:43.50,Default,,0,0,0,,27th year of the Hesei Era, March 29th 2014. Sakura Gakuin. Graduating Representative, Kikuchi Moa.
