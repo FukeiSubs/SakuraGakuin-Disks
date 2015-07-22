@@ -1,4 +1,4 @@
-SG-RtG2014
+﻿SG-RtG2014
 ==========
 
 Sakura Gakuin - The Road to Graduation 2014 ～Kimi ni Todoke～ Subtitle Project
@@ -46,7 +46,7 @@ The first Japanese -> English translations will be proofread and improved by pre
 | Part (+duration)                                    | English | Japanese | File                      |
 |-----------------------------------------------------|---------|----------|---------------------------|
 | Rinon's soji                                        | **?**   | **?**    | rinon-soji.ass            |
-| Moa's toji `(10:43)`                                | **?**   | **?**    | moa-toji.ass              |
+| Moa's toji `(10:43)`                                | TheThrawn `(done)`  | **?**    | moa-toji.ass              |
 | Principal Kuramoto's speech `(08:04)`               | **?**   | **?**    | kuramoto-speech.ass       |
 | Mori-sensei's speech `(18:47)`                      | **?**   | **?**    | mori-speech.ass           |
 | Intro to 'Mesaze! Super Lady -2014 nendo-' `(0:40)` | **?**   | **?**    | mezase-intro.ass          |
