@@ -23,13 +23,13 @@ Timing & Translation task list
 |-----------------------------------------------------|------------------------|------------------------------------|---------------------------|
 | Rinon's soji `(08:03)`                              | fernaldi01 `(done)`    | konchiniwa `(ongoing)`             | rinon-soji.ass            |
 | Moa's toji `(10:43)`                                | TheThrawn `(done)`     | monsterpanda `(done)`              | moa-toji.ass              |
-| Principal Kuramoto's speech `(08:04)`               | fernaldi01 `(done)`    | onji-Kobe `(ongoing)`              | kuramoto-speech.ass       |
+| Principal Kuramoto's speech `(08:04)`               | fernaldi01 `(done)`    | onji-Kobe `(done)`                 | kuramoto-speech.ass       |
 | Mori-sensei's speech `(18:47)`                      | EraYaN `(done)`        | monsterpanda `(done)`              | mori-speech.ass           |
 | Intro to 'Mesaze! Super Lady -2014 nendo-' `(0:40)` | soupman2001 `(done)`   | **?**                              | mezase-intro.ass          |
-| Intro and other talks 'Spin in the Wind'            | Shadeslayr `(done)`    | **?**                              | spin-in-the-wind.ass      |
+| Intro and other talks 'Spin in the Wind'            | Shadeslayr `(done)`    | onji-Kobe `(done)`                 | spin-in-the-wind.ass      |
 | Intro and other talks 'Piece de Check'              | Shadeslayr `(done)`    | KumaMetal `(ongoing)`              | piece-de-check.ass        |
 | Intro to 'Yume ni Mukatte' `(0:51)`                 | Dwarfda `(done)`       | **?**                              | yume-ni-mukatte.ass       |
-| MC #1 `(02:45)`                                     | soupman2001 `(done)`   | Akamaru226 `(ongoing)`             | MC1.ass                   |
+| MC #1 `(02:45)`                                     | soupman2001 `(done)`   | Akamaru226 `(done)`                | MC1.ass                   |
 | MC #2 `(03:56)`                                     | soupman2001 `(done)`   | **?**                              | MC2.ass                   |
 | MC #3 `(03:31)`                                     | soupman2001 `(done)`   | **?**                              | MC3.ass                   |
 | MC #4 `(00:34)`                                     | soupman2001 `(done)`   | Akamaru226 `(done)`                | MC4.ass                   |
