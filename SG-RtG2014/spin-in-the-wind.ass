@@ -10,45 +10,45 @@ PlayResX: 720
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Audio File: D:/Downloads/Sakura Gakuin The Road to Graduation Final 2014/Sakura Gakuin The Road to Graduation Final 2014.mkv
-Video File: D:/Downloads/Sakura Gakuin The Road to Graduation Final 2014/Sakura Gakuin The Road to Graduation Final 2014.mkv
+Audio File: Sakura Gakuin The Road to Graduation Final 2014.mkv
+Video File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
 Video Zoom Percent: 0.750000
-Active Line: 4
-Video Position: 57674
+Active Line: 11
+Video Position: 58832
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,11,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.37037,0.37037,2,4,4,4,1
+Style: Default,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.37037,0.37037,2,4,4,4,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:27:37.37,0:27:41.44,Default,,0,0,0,,Finally, this day has come to here, overcrowded NHK Hall! 
-Dialogue: 0,0:27:41.44,0:27:45.58,Default,,0,0,0,,The grand final of SKGP tournament, between Taguchi Hana and Isono Rinon of Pro-wrestling circle
-Dialogue: 0,0:27:45.58,0:27:48.96,Default,,0,0,0,,It's the Last match between them realized on this graduation show
-Dialogue: 0,0:27:49.77,0:27:54.06,Default,,0,0,0,,Let's recollect the history of their battle...the first match was fought at the opening show of SKGP on 9・27
+Dialogue: 0,0:27:37.37,0:27:41.44,Default,,0,0,0,,Finally, the day has come! Here at the overcrowded NHK Hall!
+Dialogue: 0,0:27:41.44,0:27:45.58,Default,,0,0,0,,The grand final of the SKGP tournament, between Taguchi Hana and Isono Rinon of the Pro-wrestling circle.
+Dialogue: 0,0:27:45.58,0:27:48.96,Default,,0,0,0,,It's the Last match between them, realised at this graduation show.
+Dialogue: 0,0:27:49.77,0:27:54.06,Default,,0,0,0,,Let's recollect the history of their battles... the first match was fought at the opening show of the SKGP on 27/09
 Dialogue: 0,0:27:54.06,0:27:57.10,Default,,0,0,0,,And the 2nd round was fought at EX-theater in Roppongi
-Dialogue: 0,0:27:57.10,0:28:01.24,Default,,0,0,0,,There was an unbelievable incursion of Yamaide Aiko 
-Dialogue: 0,0:28:01.24,0:28:07.33,Default,,0,0,0,,And the 3rd and the final match is now going to be fought at here, NHK Hall!
-Dialogue: 0,0:28:07.78,0:28:11.20,Default,,0,0,0,,At last, the first champion of SKGP will soon be determined
-Dialogue: 0,0:28:11.20,0:28:19.08,Default,,0,0,0,,Look at the stage! Two of competitors who are going to have a championship match of SKGP now appear!
-Dialogue: 0,0:28:19.34,0:28:22.86,Default,,0,0,0,,They show us grim faces with their lips closed tightly
-Dialogue: 0,0:28:22.86,0:28:27.00,Default,,0,0,0,,First, Isono Rinon, the representative of remaining students
-Dialogue: 0,0:28:27.00,0:28:32.80,Default,,0,0,0,,Is she going to win against her master to say a requiem for Taguchi-era?  
-Dialogue: 0,0:28:32.80,0:28:39.88,Default,,0,0,0,,And the opponent is Taguchi Hana, who want to show off the superiority as a senpai. Is she going to get the graduation certificate named Champion Belt by herself
-Dialogue: 0,0:28:39.88,0:28:43.12,Default,,0,0,0,,The gong to start the match now....is striked!
-Dialogue: 0,0:30:21.93,0:30:25.85,Default,,0,0,0,,Hey! Here you come onto the ring again...do you know anything about Pro-wrestling?
+Dialogue: 0,0:27:57.10,0:28:01.24,Default,,0,0,0,,There was an unbelievable incursion by Yamaide Aiko!
+Dialogue: 0,0:28:01.24,0:28:07.33,Default,,0,0,0,,And the 3rd and final match is going to be fought here and now, at NHK Hall!
+Dialogue: 0,0:28:07.78,0:28:11.20,Default,,0,0,0,,At last, the first champion of the SKGP will be determined!
+Dialogue: 0,0:28:11.20,0:28:19.08,Default,,0,0,0,,Look at the stage! The two competitors who are about to have a championship match for the SKGP now appear!
+Dialogue: 0,0:28:19.34,0:28:22.86,Default,,0,0,0,,They show us grim faces with their lips closed tightly.
+Dialogue: 0,0:28:22.86,0:28:27.00,Default,,0,0,0,,First, Isono Rinon, the representative of the remaining students.
+Dialogue: 0,0:28:27.00,0:28:32.80,Default,,0,0,0,,Is she going to win against her master, to say a requiem for the Taguchi-era?
+Dialogue: 0,0:28:32.80,0:28:39.88,Default,,0,0,0,,And the opponent is Taguchi Hana, who want's to show off her superiority as a senpai. Is she going to get the graduation certificate named Champion Belt by herself?
+Dialogue: 0,0:28:39.88,0:28:43.12,Default,,0,0,0,,The gong to start the match....is struck!
+Dialogue: 0,0:30:21.93,0:30:25.85,Default,,0,0,0,,Hey! Here you come into the ring again...do you know anything about Pro-wrestling?
 Dialogue: 0,0:30:26.34,0:30:29.58,Default,,0,0,0,,Today is the last day of your dominance
-Dialogue: 0,0:30:29.58,0:30:32.20,Default,,0,0,0,,Taguchi-san, thank you for your good job
+Dialogue: 0,0:30:29.58,0:30:32.20,Default,,0,0,0,,Taguchi-san, thank you for your good work.
 Dialogue: 0,0:30:33.73,0:30:38.02,Default,,0,0,0,,I must tell you one thing. The Champion Belt of SKGP is still out of your league
 Dialogue: 0,0:30:38.02,0:30:40.76,Default,,0,0,0,,If you want to get it, you must go beyond yourself
 Dialogue: 0,0:30:41.44,0:30:45.70,Default,,0,0,0,,Hey, you guys! Make some noise!
 Dialogue: 0,0:31:45.21,0:31:47.72,Default,,0,0,0,,The winner is... Taguchi Hana!
-Dialogue: 0,0:31:48.44,0:31:52.49,Default,,0,0,0,,Isono Rinon... SKGP Belt is still out of reach
-Dialogue: 0,0:31:52.96,0:31:57.96,Default,,0,0,0,,Now Taguchi Hana got her graduation certificate,
+Dialogue: 0,0:31:48.44,0:31:52.49,Default,,0,0,0,,For Isono Rinon... the SKGP Belt is still out of reach
+Dialogue: 0,0:31:52.96,0:31:57.96,Default,,0,0,0,,Now Taguchi Hana has her graduation certificate,
 Dialogue: 0,0:31:57.96,0:32:00.20,Default,,0,0,0,,The glorious Champion Belt of SKGP!
-Dialogue: 0,0:32:00.20,0:32:03.92,Default,,0,0,0,,Oh, look! Taguchi now hold a mike! What is she going to tell?
+Dialogue: 0,0:32:00.20,0:32:03.92,Default,,0,0,0,,Oh, look! Taguchi now holds a mic! What is she going to say?
 Dialogue: 0,0:32:04.26,0:32:05.80,Default,,0,0,0,,Hey, Rinon
 Dialogue: 0,0:32:07.82,0:32:11.01,Default,,0,0,0,,Hana can't hold this belt
-Dialogue: 0,0:32:11.74,0:32:13.09,Default,,0,0,0,,You Know what I mean
+Dialogue: 0,0:32:11.74,0:32:13.09,Default,,0,0,0,,You know what I mean?
