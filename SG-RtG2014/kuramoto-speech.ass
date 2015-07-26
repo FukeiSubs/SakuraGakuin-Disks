@@ -14,9 +14,9 @@ Audio File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
-Scroll Position: 140
-Active Line: 144
-Video Position: 251157
+Scroll Position: 138
+Active Line: 140
+Video Position: 247578
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -68,11 +68,11 @@ Dialogue: 0,2:13:30.16,2:13:32.16,Default,,0,0,0,,'Err...there is still no soul 
 Dialogue: 0,2:13:32.16,2:13:34.16,Default,,0,0,0,,'Is she all right?'
 Dialogue: 0,2:13:34.44,2:13:36.85,Default,,0,0,0,,And Notsu...
 Dialogue: 0,2:13:36.85,2:13:39.81,Default,,0,0,0,,maybe because she was already a middle schooler,
-Dialogue: 0,2:13:39.81,2:13:42.81,Default,,0,0,0,,I felt she was over-familiar with me
+Dialogue: 0,2:13:39.81,2:13:42.81,Default,,0,0,0,,I felt she was over-familiar with me.
 Dialogue: 0,2:13:43.29,2:13:44.48,Default,,0,0,0,,She was like an old hand
 Dialogue: 0,2:13:44.48,2:13:47.12,Default,,0,0,0,,with a lot of experience
 Dialogue: 0,2:13:47.12,2:13:48.96,Default,,0,0,0,,and I felt
-Dialogue: 0,2:13:48.96,2:13:50.96,Default,,0,0,0,,something is wrong
+Dialogue: 0,2:13:48.96,2:13:50.96,Default,,0,0,0,,something is wrong.
 Dialogue: 0,2:13:51.32,2:13:55.32,Default,,0,0,0,,A while later, I heard
 Dialogue: 0,2:13:55.63,2:13:57.41,Default,,0,0,0,,Notsu had been very nervous
 Dialogue: 0,2:13:57.41,2:14:00.05,Default,,0,0,0,,she was doing her best,
@@ -125,7 +125,7 @@ Dialogue: 0,2:15:36.97,2:15:38.47,Default,,0,0,0,,I'm deeply impressed
 Dialogue: 0,2:15:38.91,2:15:41.11,Default,,0,0,0,,I've kept watching you
 Dialogue: 0,2:15:43.52,2:15:46.02,Default,,0,0,0,,and found
 Dialogue: 0,2:15:46.37,2:15:47.87,Default,,0,0,0,,the meaning,
-Dialogue: 0,2:15:47.87,2:15:49.72,Default,,0,0,0,,the significance of Sakura Gakuin
+Dialogue: 0,2:15:47.87,2:15:49.72,Default,,0,0,0,,the significance of Sakura Gakuin.
 Dialogue: 0,2:15:49.72,2:15:51.68,Default,,0,0,0,,In your growth period --
 Dialogue: 0,2:15:51.68,2:15:53.67,Default,,0,0,0,,when you make great improvement
 Dialogue: 0,2:15:53.67,2:15:55.44,Default,,0,0,0,,physically and mentally,
@@ -133,7 +133,7 @@ Dialogue: 0,2:15:55.44,2:15:57.60,Default,,0,0,0,,you are burdened
 Dialogue: 0,2:15:57.60,2:15:58.94,Default,,0,0,0,,with heavy tasks
 Dialogue: 0,2:15:58.94,2:16:02.94,Default,,0,0,0,,and you must overcome one task after another
 Dialogue: 0,2:16:03.39,2:16:06.48,Default,,0,0,0,,I know you've got tons of problems and troubles
-Dialogue: 0,2:16:06.48,2:16:09.91,Default,,0,0,0,,but you yourself had decided to be here because you love performing
+Dialogue: 0,2:16:06.48,2:16:09.91,Default,,0,0,0,,but you yourself have decided to be here because you love performing
 Dialogue: 0,2:16:09.91,2:16:13.41,Default,,0,0,0,,so all of you have never been discouraged
 Dialogue: 0,2:16:13.81,2:16:15.31,Default,,0,0,0,,That is the essence
 Dialogue: 0,2:16:15.51,2:16:17.51,Default,,0,0,0,,of Sakura gakuin, I think
@@ -166,9 +166,9 @@ Dialogue: 0,2:17:23.84,2:17:27.34,Default,,0,0,0,,and to have a talk just after 
 Dialogue: 0,2:17:28.88,2:17:30.38,Default,,0,0,0,,You did it
 Dialogue: 0,2:17:31.63,2:17:33.40,Default,,0,0,0,,You must be proud of yourselves
 Dialogue: 0,2:17:33.40,2:17:35.40,Default,,0,0,0,,It's just amazing
-Dialogue: 0,2:17:37.37,2:17:40.87,Default,,0,0,0,,I think you've already been turning into 'Super'
+Dialogue: 0,2:17:37.37,2:17:40.87,Default,,0,0,0,,I think you've already become 'Super' (Proof readers note: Replaced "been turning into" with "become". Other terms could be "developed into"  "transformed into" "emerged as". But I think become reads better, unless I've totally missed the meaning of what is being said.)
 Dialogue: 0,2:17:42.33,2:17:45.83,Default,,0,0,0,,I believe 'the days of women' are coming to Japan
-Dialogue: 0,2:17:46.68,2:17:50.18,Default,,0,0,0,,A bright future, peaceful world will arrive
+Dialogue: 0,2:17:46.68,2:17:50.18,Default,,0,0,0,,A bright future, a peaceful world will arrive
 Dialogue: 0,2:17:50.67,2:17:53.67,Default,,0,0,0,,being lead by women
 Dialogue: 0,2:17:55.38,2:17:57.38,Default,,0,0,0,,In the future,
 Dialogue: 0,2:17:57.52,2:18:00.02,Default,,0,0,0,,there will be many female opinion leaders
