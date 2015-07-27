@@ -53,7 +53,7 @@ The first Japanese -> English translations will be proofread and improved by pre
 | Intro and other talks 'Spin in the Wind'            | TheThrawn `(done)` | **?**    | spin-in-the-wind.ass      |
 | Intro and other talks 'Piece de Check'              | **?**   | **?**    | piece-de-check.ass        |
 | Intro to 'Yume ni Mukatte' `(0:51)`                 | **?**   | **?**    | yume-ni-mukatte.ass       |
-| MC #1 `(02:45)`                                     | **?**   | **?**    | MC1.ass                   |
+| MC #1 `(02:45)`                                     | EraYaN `(needs feedback from japanese)`   | **?**    | MC1.ass                   |
 | MC #2 `(03:56)`                                     | **?**   | **?**    | MC2.ass                   |
 | MC #3 `(03:31)`                                     | **?**   | **?**    | MC3.ass                   |
 | MC #4 `(00:34)`                                     | **?**   | **?**    | MC4.ass                   |
