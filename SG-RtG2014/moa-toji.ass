@@ -15,8 +15,9 @@ Video File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
 Video Zoom Percent: 1.000000
-Active Line: 27
-Video Position: 225062
+Scroll Position: 45
+Active Line: 48
+Video Position: 215974
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,10 +25,6 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,2:00:01.70,2:00:05.23,Default,,0,0,0,,Coming up next, Graduating Touji*　( Touji - a response to a celebratory speech)
-Dialogue: 0,2:00:06.32,2:00:09.44,Default,,0,0,0,,Class of Sakura Gakuin, Jr. High, 3rd year
-Dialogue: 0,2:00:10.42,2:00:11.05,Default,,0,0,0,,
-Dialogue: 0,2:00:23.38,2:00:26.86,Default,,0,0,0,,Representative. Student council president, Kikuchi Moa.
 Dialogue: 0,2:00:41.86,2:00:43.26,Default,,0,0,0,,Touji
 Dialogue: 0,2:00:45.40,2:00:57.73,Default,,0,0,0,,Cherry blossoms line the path of the street I walk by every day.\NThe tiny buds are starting to blossom one by one, it feels like they are celebrating each one of us as we take our next step.
 Dialogue: 0,2:00:59.83,2:01:08.00,Default,,0,0,0,,At last this year, March has come to the day of graduation, hasn't it?
