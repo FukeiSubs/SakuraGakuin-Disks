@@ -23,41 +23,41 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:24:51.88,1:24:55.33,Default,,0,0,0,,
-Dialogue: 0,1:24:56.77,1:25:01.49,Default,,0,0,0,,
-Dialogue: 0,1:25:01.49,1:25:02.98,Default,,0,0,0,,
-Dialogue: 0,1:25:02.98,1:25:05.53,Default,,0,0,0,,
-Dialogue: 0,1:25:05.53,1:25:07.73,Default,,0,0,0,,
-Dialogue: 0,1:25:07.73,1:25:11.86,Default,,0,0,0,,
-Dialogue: 0,1:25:11.86,1:25:19.20,Default,,0,0,0,,
-Dialogue: 0,1:25:19.20,1:25:24.42,Default,,0,0,0,,
-Dialogue: 0,1:25:24.42,1:25:29.54,Default,,0,0,0,,
-Dialogue: 0,1:25:29.54,1:25:33.56,Default,,0,0,0,,
-Dialogue: 0,1:25:33.56,1:25:37.08,Default,,0,0,0,,
-Dialogue: 0,1:25:37.08,1:25:40.72,Default,,0,0,0,,
-Dialogue: 0,1:25:40.72,1:25:46.04,Default,,0,0,0,,
-Dialogue: 0,1:25:46.78,1:25:50.61,Default,,0,0,0,,
-Dialogue: 0,1:25:50.61,1:25:53.32,Default,,0,0,0,,
-Dialogue: 0,1:25:53.32,1:25:56.73,Default,,0,0,0,,
-Dialogue: 0,1:25:56.73,1:26:00.85,Default,,0,0,0,,
-Dialogue: 0,1:26:00.85,1:26:04.08,Default,,0,0,0,,
-Dialogue: 0,1:26:04.69,1:26:08.86,Default,,0,0,0,,
-Dialogue: 0,1:26:08.86,1:26:14.60,Default,,0,0,0,,
-Dialogue: 0,1:26:14.60,1:26:20.24,Default,,0,0,0,,
-Dialogue: 0,1:26:20.24,1:26:21.77,Default,,0,0,0,,
-Dialogue: 0,1:26:21.77,1:26:29.78,Default,,0,0,0,,
-Dialogue: 0,1:26:29.78,1:26:36.65,Default,,0,0,0,,
-Dialogue: 0,1:26:36.65,1:26:39.72,Default,,0,0,0,,
-Dialogue: 0,1:26:40.76,1:26:44.73,Default,,0,0,0,,
-Dialogue: 0,1:26:44.73,1:26:47.76,Default,,0,0,0,,
-Dialogue: 0,1:26:47.76,1:26:50.24,Default,,0,0,0,,
-Dialogue: 0,1:26:50.24,1:26:52.72,Default,,0,0,0,,
-Dialogue: 0,1:26:52.72,1:26:55.04,Default,,0,0,0,,
-Dialogue: 0,1:26:56.21,1:26:57.86,Default,,0,0,0,,
-Dialogue: 0,1:26:59.05,1:27:01.42,Default,,0,0,0,,
-Dialogue: 0,1:27:01.42,1:27:07.30,Default,,0,0,0,,
-Dialogue: 0,1:27:07.30,1:27:10.22,Default,,0,0,0,,
-Dialogue: 0,1:27:15.48,1:27:22.16,Default,,0,0,0,,
-Dialogue: 0,1:27:22.16,1:27:29.70,Default,,0,0,0,,
-Dialogue: 0,1:27:32.12,1:27:35.45,Default,,0,0,0,, 
-Dialogue: 0,1:27:46.52,1:27:52.54,Default,,0,0,0,,
+Dialogue: 0,1:24:51.88,1:24:55.33,Default,,0,0,0,,Thank you very much
+Dialogue: 0,1:24:56.77,1:25:01.49,Default,,0,0,0,, It's an exquisite tune, absolutely! \NI'm so impressed. 
+Dialogue: 0,1:25:01.49,1:25:02.98,Default,,0,0,0,,It's so cute!
+Dialogue: 0,1:25:02.98,1:25:05.53,Default,,0,0,0,,Fukei-sans, it's a liitle too early to cry
+Dialogue: 0,1:25:05.53,1:25:07.73,Default,,0,0,0,,Too early!
+Dialogue: 0,1:25:07.73,1:25:11.86,Default,,0,0,0,,Saki myself cried when I saw this song for the first time. 
+Dialogue: 0,1:25:11.86,1:25:19.20,Default,,0,0,0,,The lyric and music are awesome, and the choreo is cute....It is made just to make us cry, don't you think so? 
+Dialogue: 0,1:25:19.20,1:25:24.42,Default,,0,0,0,,You are talking like an old lady.\NLike a lady,yes\NOr just a Fukei-san
+Dialogue: 0,1:25:24.42,1:25:29.54,Default,,0,0,0,,I love Yunano's line "Ikanakya〜"
+Dialogue: 0,1:25:29.54,1:25:33.56,Default,,0,0,0,,I see. It's true\NReally?
+Dialogue: 0,1:25:33.56,1:25:37.08,Default,,0,0,0,,For Yunano....it's a less favorite line
+Dialogue: 0,1:25:37.08,1:25:40.72,Default,,0,0,0,,Why? It's really cute. 
+Dialogue: 0,1:25:40.72,1:25:46.04,Default,,0,0,0,,It's embarrassing....but a teacher told me to sing like that
+Dialogue: 0,1:25:46.78,1:25:50.61,Default,,0,0,0,,There is an image that Yunano sings very straightforwardly
+Dialogue: 0,1:25:50.61,1:25:53.32,Default,,0,0,0,,So, the singing in a very Idol-like way is...
+Dialogue: 0,1:25:53.32,1:25:56.73,Default,,0,0,0,,It's my very first and last Idol-like singing
+Dialogue: 0,1:25:56.73,1:26:00.85,Default,,0,0,0,,very cute and fresh for us\NThank you very much
+Dialogue: 0,1:26:00.85,1:26:04.08,Default,,0,0,0,,Moa and Yui-san, how do you feel about this song?
+Dialogue: 0,1:26:04.69,1:26:08.86,Default,,0,0,0,,The lyric is super good
+Dialogue: 0,1:26:08.86,1:26:14.60,Default,,0,0,0,,It's written by Inaba Emi-san, and the lyric is really great
+Dialogue: 0,1:26:14.60,1:26:20.24,Default,,0,0,0,,It expresses our minds exactly...so it's very nice to sing this song
+Dialogue: 0,1:26:20.24,1:26:21.77,Default,,0,0,0,,I see
+Dialogue: 0,1:26:21.77,1:26:29.78,Default,,0,0,0,,To sing a song with only the graduating members has been a tradition since the year of Ayami-chan, Ayaka-chan and Airiin.\NYes it's true 
+Dialogue: 0,1:26:29.78,1:26:36.65,Default,,0,0,0,,So, I'm pleased we could succeed the tradition. And the color of the song fits 4 of us exactly. Don't you think so?
+Dialogue: 0,1:26:36.65,1:26:39.72,Default,,0,0,0,,Indeed! This song is super peaceful
+Dialogue: 0,1:26:40.76,1:26:44.73,Default,,0,0,0,,At the beginning....please listen to the intro...you can hear a bird singing
+Dialogue: 0,1:26:44.73,1:26:47.76,Default,,0,0,0,,Yes. and we can feel like being in a morning
+Dialogue: 0,1:26:47.76,1:26:50.24,Default,,0,0,0,,I got up with this song in this morning
+Dialogue: 0,1:26:50.24,1:26:52.72,Default,,0,0,0,,It sounds good
+Dialogue: 0,1:26:52.72,1:26:55.04,Default,,0,0,0,,It's good. A bird is a symbol of peace. 
+Dialogue: 0,1:26:56.21,1:26:57.86,Default,,0,0,0,,Everyone, please make this song your wake-up music
+Dialogue: 0,1:26:59.05,1:27:01.42,Default,,0,0,0,,You can really get up comfortably
+Dialogue: 0,1:27:01.42,1:27:07.30,Default,,0,0,0,,It was an unveiling --and our last playing of this song. I'm very pleased we could  show you at last. \N It was fun
+Dialogue: 0,1:27:07.30,1:27:10.22,Default,,0,0,0,,Thank you very much
+Dialogue: 0,1:27:15.48,1:27:22.16,Default,,0,0,0,,Well, the song made us sentimental and I can see several Fukei-sans crying...\NIt's too early
+Dialogue: 0,1:27:22.16,1:27:29.70,Default,,0,0,0,,But we want to enjoy more. Fukei-sans, are you ready to get hyper together with us?
+Dialogue: 0,1:27:32.12,1:27:35.45,Default,,0,0,0,,Thank you very much
+Dialogue: 0,1:27:46.52,1:27:52.54,Default,,0,0,0,,With keeping this excitement, let's play the next song!
