@@ -15,7 +15,8 @@ Video File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
 Video Zoom Percent: 1.000000
-Active Line: 16
+Scroll Position: 24
+Active Line: 35
 Video Position: 225062
 
 [V4+ Styles]
@@ -33,15 +34,15 @@ Dialogue: 0,2:01:38.93,2:01:45.93,Default,,0,0,0,,There is part of me that belie
 Dialogue: 0,2:01:47.86,2:02:04.10,Default,,0,0,0,,When tomorrow comes, there will no longer be the 10 of us. That is probably when I will truly realise that I graduated, and the emotions will start flooding in suddenly
 Dialogue: 0,2:02:06.10,2:02:22.36,Default,,0,0,0,,Yui and myself are the only ones here from the inaugural year of Sakura Gakuin. We were so little. Everyone watched over us, as we were still in 5th grade. Now we are the upperclassmen.
 Dialogue: 0,2:02:23.90,2:02:29.93,Default,,0,0,0,,Sakura Gakuin started with nothing, no shows, schedules, or releases planned when we started.
-Dialogue: 0,2:02:30.63,2:02:43.70,Default,,0,0,0,,We now have more songs then we can perform in one year, and we are in this big hall with our graduation ceremony. I could not imagine such things back then.
+Dialogue: 0,2:02:30.63,2:02:43.70,Default,,0,0,0,,We now have more songs than we can perform in one year, and we are in this big hall with our graduation ceremony. I could not imagine such things back then.
 Dialogue: 0,2:02:45.36,2:02:50.56,Default,,0,0,0,,But it is not just the 10 of us who made this happen.
 Dialogue: 0,2:02:52.13,2:03:00.40,Default,,0,0,0,,The Senpai's, as graduates of Sakura Gakuin, have paved the way.
 Dialogue: 0,2:03:01.86,2:03:07.80,Default,,0,0,0,,First off, I would like to show my appreciation for the Senpai's who have graduated before us.
 Dialogue: 0,2:03:11.20,2:03:30.86,Default,,0,0,0,,Sakura Gakuin has overcome many obstacles, as we have grown. This years graduating class all entered at different times. In 2011 we got Hana, in 2012 we got Yunano, as they transferred in we became 4.
-Dialogue: 0,2:03:32.30,2:03:43.73,Default,,0,0,0,,At last year's graduation, we carried on the will of Senpai, but it was also a start filled with hesitation, as we all had different roles and had to find our space.
+Dialogue: 0,2:03:32.30,2:03:43.73,Default,,0,0,0,,At last year's graduation, we carried on the will of Senpai, but it was also a start filled with hesitation, as we all had different roles and had to build a good relationship.
 Dialogue: 0,2:03:45.70,2:03:52.56,Default,,0,0,0,,Every year, we perform in the summer, TIF, is the first big obstacle.
 Dialogue: 0,2:03:53.93,2:03:59.73,Default,,0,0,0,,Yui and I, due to our extracurricular actives overseas, could only appear by video.
-Dialogue: 0,2:04:01.50,2:04:17.10,Default,,0,0,0,,But with Hana and Yunano at the core, and the help of graduates Marina and Raura, the members all pulled together, and put on a very Sakura Gakuin performance.
+Dialogue: 0,2:04:01.50,2:04:17.10,Default,,0,0,0,,But with Hana and Yunano at the core, and the help of graduates Marina-chan and Raura-chan, the members all pulled together, and put on a very Sakura Gakuin performance.
 Dialogue: 0,2:04:18.93,2:04:24.86,Default,,0,0,0,,While in America, we talked all the time, "How are they doing?".
 Dialogue: 0,2:04:26.36,2:04:31.76,Default,,0,0,0,,There wasn't a day that went by, we thought about everyone working hard back in Japan.
 Dialogue: 0,2:04:32.83,2:04:37.83,Default,,0,0,0,,That is when we felt strongly, we may be apart but our heart is one.
@@ -50,7 +51,7 @@ Dialogue: 0,2:04:58.63,2:05:08.06,Default,,0,0,0,,…and again, this year we cha
 Dialogue: 0,2:05:09.56,2:05:14.66,Default,,0,0,0,, I was jealous watching the douki* support each other, as you guys shined brightly. [*Douki - people who enter an organization around the same time] (Proof readers note: Couldn't find a suitable word in English to convey the same idea/feeling as douki, so I left it as is.)
 Dialogue: 0,2:05:16.86,2:05:23.10,Default,,0,0,0,,Rinon, you look after everyone, you really observe everyone.
 Dialogue: 0,2:05:24.10,2:05:31.70,Default,,0,0,0,,Your partner is going now, but there are 3 in your class to support each other.
-Dialogue: 0,2:05:33.20,2:05:44.83,Default,,0,0,0,,Yunano & Shirai Saki were Koubaibu. The two of you, with perfect timing would fill the venue with laughter. It made me happy.
+Dialogue: 0,2:05:33.20,2:05:44.83,Default,,0,0,0,,Yunano & Shirai Saki were Koubaibu. The two of you, with perfect timing filled the venue with laughter. It made me happy.
 Dialogue: 0,2:05:46.06,2:05:58.66,Default,,0,0,0,,You know the charm of Sakura Gakuin from the inside and outside, always seriously thinking about it. Shirai Saki, next year, please do things that will make Fukei's happy.
 Dialogue: 0,2:06:01.13,2:06:10.16,Default,,0,0,0,,Sara & Aiko, who joined the Baton club. It was your first time with the baton, but I was amazed at how fast you guys improved.
 Dialogue: 0,2:06:11.96,2:06:17.83,Default,,0,0,0,,You guys must have practised a lot, when we didn't see you.
@@ -59,7 +60,7 @@ Dialogue: 0,2:06:33.23,2:06:38.36,Default,,0,0,0,,It is cool, that you can say w
 Dialogue: 0,2:06:39.20,2:06:44.16,Default,,0,0,0,,Don't forget that honesty as you move into Jr. High.
 Dialogue: 0,2:06:46.83,2:07:00.80,Default,,0,0,0,,Spunky and serious, Sara. You're quick to think, and the Fukei's still have a lot more charm to see. Next year I want to see more of that.
 Dialogue: 0,2:07:02.60,2:07:08.80,Default,,0,0,0,,Saki, this year you must've had a lot of frustrations.
-Dialogue: 0,2:07:08.80,2:07:20.05,Default,,0,0,0,,But your loving heart, strong will, and kindness, everyone around you understands this about you.
+Dialogue: 0,2:07:08.80,2:07:20.05,Default,,0,0,0,,But your dedication to your love of singing, and kindness, everyone around you understands this about you.
 Dialogue: 0,2:07:20.06,2:07:27.33,Default,,0,0,0,,Next year, I know you will be standing here with a big smile after you have given it your all. I believe that.
 Dialogue: 0,2:07:29.33,2:07:41.20,Default,,0,0,0,,Megu. Your first stage at the transfer ceremony you should've been nervous, but you surprised us with your improv. We were all talking about it.
 Dialogue: 0,2:07:41.93,2:07:46.23,Default,,0,0,0,,You're cute and we like pampering you. I am proud of my little sister.
