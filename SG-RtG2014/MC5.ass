@@ -24,7 +24,7 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,1:24:51.88,1:24:55.33,Default,,0,0,0,,Thank you very much
-Dialogue: 0,1:24:56.77,1:25:01.49,Default,,0,0,0,, It's an exquisite tune, absolutely! \NI'm so impressed. 
+Dialogue: 0,1:24:56.77,1:25:01.49,Default,,0,0,0,, It's an nice tune, absolutely! \NI'm so impressed. 
 Dialogue: 0,1:25:01.49,1:25:02.98,Default,,0,0,0,,It's so cute!
 Dialogue: 0,1:25:02.98,1:25:05.53,Default,,0,0,0,,Fukei-sans, it's a liitle too early to cry
 Dialogue: 0,1:25:05.53,1:25:07.73,Default,,0,0,0,,Too early!
