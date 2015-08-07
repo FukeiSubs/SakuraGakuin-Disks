@@ -25,7 +25,7 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:12:00.50,0:12:06.32,Default,Moa,0,0,0,,Hello everyone!!!!!
-Dialogue: 0,0:12:06.32,0:12:13.00,Default,Moa,0,0,0,,We are Sakura Gakuin! Please treat us well!
+Dialogue: 0,0:12:06.32,0:12:13.00,Default,Moa,0,0,0,,We are, 'a unit limited to girls in growth-period', Sakura Gakuin! Please treat us well!
 Dialogue: 0,0:12:20.49,0:12:25.89,Default,Yunano,0,0,0,,Yes, we have finally made it to NHK hall.
 Dialogue: 0,0:12:28.06,0:12:31.93,Default,All,0,0,0,, It’s amazing, isn’t it?
 Dialogue: 0,0:12:31.93,0:12:37.89,Default,Yunano,0,0,0,,Everyone on the third floor, can you see us clearly?
@@ -36,27 +36,27 @@ Dialogue: 0,0:12:49.45,0:12:52.77,Default,O. Saki,0,0,0,,Everyone on the first f
 Dialogue: 0,0:12:55.17,0:12:56.97,Default,All,0,0,0,,Thank you !
 Dialogue: 0,0:12:56.97,0:12:58.66,Default,Hana,0,0,0,,And finally...
 Dialogue: 0,0:12:58.66,0:13:02.04,Default,Hana,0,0,0,,NHK hall, how are you?
-Dialogue: 0,0:13:04.64,0:13:09.20,Default,All,0,0,0,,
+Dialogue: 0,0:13:04.64,0:13:09.20,Default,All,0,0,0,,Wow! Thank you! 
 Dialogue: 0,0:13:09.20,0:13:14.24,Default,Yunano,0,0,0,,There’s a lot of people here in NHK hall but...
-Dialogue: 0,0:13:14.24,0:13:17.88,Default,Yunano,0,0,0,, this time, people are not just watching here.
-Dialogue: 0,0:13:17.88,0:13:23.78,Default,Yunano,0,0,0,,We’re having live viewings in 22 different movie theaters!!
+Dialogue: 0,0:13:14.24,0:13:17.88,Default,Yunano,0,0,0,,This time, people are not just watching here.
+Dialogue: 0,0:13:17.88,0:13:23.78,Default,Yunano,0,0,0,,We’re also having live viewings in 22 different movie theaters!!
 Dialogue: 0,0:13:26.33,0:13:28.62,Default,All,0,0,0,,YAYYYY
 Dialogue: 0,0:13:28.62,0:13:31.24,Default,Moa,0,0,0,,Wait, since people are watching at the movies
-Dialogue: 0,0:13:31.84,0:13:36.11,Default,Moa ,0,0,0,,That means they can eat popcorn while watching?
-Dialogue: 0,0:13:36.11,0:13:39.20,Default,All,0,0,0,,
+Dialogue: 0,0:13:31.84,0:13:36.11,Default,Moa ,0,0,0,,That means that they're eating popcorn while watching, right?
+Dialogue: 0,0:13:36.11,0:13:39.20,Default,All,0,0,0,,It's amazing. I'm jealous...
 Dialogue: 0,0:13:39.20,0:13:43.98,Default,Yunano,0,0,0,,To everyone that’s eating their popcorn carelessly
 Dialogue: 0,0:13:43.98,0:13:48.33,Default,Yunano,0,0,0,, are you fukeis excited?
 Dialogue: 0,0:13:49.61,0:13:56.16,Default,All,0,0,0,,I heard them! I definitely hear them!
 Dialogue: 0,0:13:56.16,0:13:59.77,Default,Rinon,0,0,0,,I don’t know if you’ve realised...
 Dialogue: 0,0:13:59.77,0:14:04.01,Default,Rinon,0,0,0,,that on the movie screen, we look fatter to everyone
-Dialogue: 0,0:14:04.01,0:14:06.09,Default,All,0,0,0,,I don’t like that
+Dialogue: 0,0:14:04.01,0:14:06.09,Default,All,0,0,0,,Ah! I don’t like that...
 Dialogue: 0,0:14:06.09,0:14:08.54,Default,O. Saki,0,0,0,,I became fat recently too...
 Dialogue: 0,0:14:08.54,0:14:11.78,Default,Yunano,0,0,0,,You became fat recently?
 Dialogue: 0,0:14:12.12,0:14:14.57,Default,O. Saki,0,0,0,,Yes in January in the new year
 Dialogue: 0,0:14:14.57,0:14:19.74,Default,All,0,0,0,,
 Dialogue: 0,0:14:19.74,0:14:23.70,Default,Yunano,0,0,0,,Well for girls like us who have gained weight, we have made that song 
 Dialogue: 0,0:14:24.70,0:14:30.66,Default,Yunano,0,0,0,,With that said, to those fukeis that think that they’ve gained weight recently,
-Dialogue: 0,0:14:30.66,0:14:33.94,Default,Yunano,0,0,0,,you feel a bit obese
+Dialogue: 0,0:14:30.66,0:14:33.94,Default,Yunano,0,0,0,,You feel a bit obese,
 Dialogue: 0,0:14:33.94,0:14:37.41,Default,Yunano,0,0,0,,You have these thoughts secretly in your heart.
 Dialogue: 0,0:14:37.41,0:14:41.04,Default,Yunano,0,0,0,,Please sing this next song with us!
 Dialogue: 0,0:14:41.04,0:14:45.55,Default,Yunano,0,0,0,,Please listen to: Gokigen! Mr. Toropikarori!
