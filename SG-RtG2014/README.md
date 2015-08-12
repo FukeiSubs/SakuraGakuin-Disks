@@ -30,8 +30,8 @@ Timing & Translation task list
 | Intro and other talks 'Piece de Check'              | Shadeslayr `(done)`    | KumaMetal `(ongoing)`              | piece-de-check.ass        |
 | Intro to 'Yume ni Mukatte' `(0:51)`                 | Dwarfda `(done)`       | **?**                              | yume-ni-mukatte.ass       |
 | MC #1 `(02:45)`                                     | soupman2001 `(done)`   | Akamaru226 `(done)`                | MC1.ass                   |
-| MC #2 `(03:56)`                                     | soupman2001 `(done)`   | **?**                              | MC2.ass                   |
-| MC #3 `(03:31)`                                     | soupman2001 `(done)`   | **?**                              | MC3.ass                   |
+| MC #2 `(03:56)`                                     | soupman2001 `(done)`   | onji-Kobe `(done)`                 | MC2.ass                   |
+| MC #3 `(03:31)`                                     | soupman2001 `(done)`   | onji-Kobe `(done)`                 | MC3.ass                   |
 | MC #4 `(00:34)`                                     | soupman2001 `(done)`   | Akamaru226 `(done)`                | MC4.ass                   |
 | MC #5 `(03:00)`                                     | soupman2001 `(done)`   | onji-Kobe `(done)`                 | MC5.ass                   |
 | MC #6 `(9:20)`                                      | KumaMetal `(ongoing)`  | KumaMetal & Akamaru226 `(ongoing)` | MC6.ass                   |
