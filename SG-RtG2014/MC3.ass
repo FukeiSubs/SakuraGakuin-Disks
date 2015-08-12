@@ -24,52 +24,52 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:05:09.41,1:05:12.68,Default,,0,0,0,,
-Dialogue: 0,1:05:14.21,1:05:18.68,Default,,0,0,0,,
-Dialogue: 0,1:05:18.68,1:05:20.54,Default,,0,0,0,,
-Dialogue: 0,1:05:23.20,1:05:25.82,Default,,0,0,0,,
-Dialogue: 0,1:05:25.82,1:05:32.40,Default,,0,0,0,,
-Dialogue: 0,1:05:32.40,1:05:35.68,Default,,0,0,0,,
-Dialogue: 0,1:05:35.68,1:05:37.74,Default,,0,0,0,,
-Dialogue: 0,1:05:37.74,1:05:40.20,Default,,0,0,0,,
-Dialogue: 0,1:05:40.20,1:05:44.50,Default,,0,0,0,,
-Dialogue: 0,1:05:44.50,1:05:51.92,Default,,0,0,0,,
-Dialogue: 0,1:05:51.92,1:05:56.88,Default,,0,0,0,,
-Dialogue: 0,1:05:56.88,1:05:58.81,Default,,0,0,0,,
-Dialogue: 0,1:06:01.00,1:06:08.78,Default,,0,0,0,,
-Dialogue: 0,1:06:08.78,1:06:12.22,Default,,0,0,0,,
-Dialogue: 0,1:06:13.76,1:06:18.88,Default,,0,0,0,,
-Dialogue: 0,1:06:18.88,1:06:21.61,Default,,0,0,0,,
-Dialogue: 0,1:06:21.61,1:06:25.40,Default,,0,0,0,,
-Dialogue: 0,1:06:25.74,1:06:27.01,Default,,0,0,0,,
-Dialogue: 0,1:06:27.69,1:06:29.48,Default,,0,0,0,,
-Dialogue: 0,1:06:29.48,1:06:33.92,Default,,0,0,0,,
-Dialogue: 0,1:06:33.92,1:06:39.62,Default,,0,0,0,,
-Dialogue: 0,1:06:40.54,1:06:42.05,Default,,0,0,0,,
-Dialogue: 0,1:06:42.49,1:06:47.50,Default,,0,0,0,,
-Dialogue: 0,1:06:47.50,1:06:54.62,Default,,0,0,0,,
-Dialogue: 0,1:06:54.62,1:06:57.18,Default,,0,0,0,,
-Dialogue: 0,1:06:57.18,1:06:59.49,Default,,0,0,0,,
-Dialogue: 0,1:06:59.49,1:07:01.30,Default,,0,0,0,,
-Dialogue: 0,1:07:01.30,1:07:02.78,Default,,0,0,0,,
-Dialogue: 0,1:07:04.68,1:07:07.53,Default,,0,0,0,,
-Dialogue: 0,1:07:08.68,1:07:10.00,Default,,0,0,0,,
-Dialogue: 0,1:07:10.46,1:07:12.48,Default,,0,0,0,,
-Dialogue: 0,1:07:12.97,1:07:16.84,Default,,0,0,0,,
-Dialogue: 0,1:07:16.84,1:07:21.20,Default,,0,0,0,,
-Dialogue: 0,1:07:21.52,1:07:23.65,Default,,0,0,0,,
-Dialogue: 0,1:07:23.65,1:07:26.26,Default,,0,0,0,,
-Dialogue: 0,1:07:26.26,1:07:34.77,Default,,0,0,0,,
-Dialogue: 0,1:07:34.77,1:07:40.44,Default,,0,0,0,,
-Dialogue: 0,1:07:40.44,1:07:45.58,Default,,0,0,0,,
-Dialogue: 0,1:07:47.41,1:07:50.52,Default,,0,0,0,,
-Dialogue: 0,1:07:51.20,1:07:55.68,Default,,0,0,0,,
-Dialogue: 0,1:07:55.68,1:07:57.64,Default,,0,0,0,,
-Dialogue: 0,1:07:57.64,1:08:00.88,Default,,0,0,0,,
-Dialogue: 0,1:08:00.88,1:08:03.61,Default,,0,0,0,,
-Dialogue: 0,1:08:03.61,1:08:06.40,Default,,0,0,0,,
-Dialogue: 0,1:08:09.10,1:08:13.54,Default,,0,0,0,,
-Dialogue: 0,1:08:13.54,1:08:20.72,Default,,0,0,0,,
-Dialogue: 0,1:08:20.72,1:08:28.68,Default,,0,0,0,,
-Dialogue: 0,1:08:28.68,1:08:36.64,Default,,0,0,0,,
-Dialogue: 0,1:08:36.64,1:08:40.45,Default,,0,0,0,,
+Dialogue: 0,1:05:09.41,1:05:12.68,Default,,0,0,0,,Thank you very much
+Dialogue: 0,1:05:14.21,1:05:18.68,Default,,0,0,0,,Well, we've performed Sleep Wonder
+Dialogue: 0,1:05:18.68,1:05:20.54,Default,,0,0,0,,How was that?
+Dialogue: 0,1:05:23.20,1:05:25.82,Default,,0,0,0,,Thank you
+Dialogue: 0,1:05:25.82,1:05:32.40,Default,,0,0,0,,By the way, from the beginning to the very end, Taguchi Hana-san as a cat didn't show us the way
+Dialogue: 0,1:05:32.40,1:05:35.68,Default,,0,0,0,,You are ruthless!
+Dialogue: 0,1:05:35.68,1:05:37.74,Default,,0,0,0,,errr...I don't know the way neither
+Dialogue: 0,1:05:37.74,1:05:40.20,Default,,0,0,0,,Oh! You don't?
+Dialogue: 0,1:05:40.20,1:05:44.50,Default,,0,0,0,,Even if I knew it, I couldn't tell...the story would go into a mess
+Dialogue: 0,1:05:44.50,1:05:51.92,Default,,0,0,0,,In this song, we make good use of the 2nd floor...so I felt audience in the 2nd and the 3rd floor a little closer 
+Dialogue: 0,1:05:51.92,1:05:56.88,Default,,0,0,0,,I'm pleased to play this song here
+Dialogue: 0,1:05:56.88,1:05:58.81,Default,,0,0,0,,Thank you very much
+Dialogue: 0,1:06:01.00,1:06:08.78,Default,,0,0,0,,And, since the club activity part, the setting of the stage changed a little
+Dialogue: 0,1:06:08.78,1:06:12.22,Default,,0,0,0,,Did you notice the change?
+Dialogue: 0,1:06:13.76,1:06:18.88,Default,,0,0,0,,wo...it seems difficult\NReally? You didn't notice?
+Dialogue: 0,1:06:18.88,1:06:21.61,Default,,0,0,0,,Oh my...
+Dialogue: 0,1:06:21.61,1:06:25.40,Default,,0,0,0,,Well, now I tell the truth
+Dialogue: 0,1:06:25.74,1:06:27.01,Default,,0,0,0,,Look at the background
+Dialogue: 0,1:06:27.69,1:06:29.48,Default,,0,0,0,,Sparkling!
+Dialogue: 0,1:06:29.48,1:06:33.92,Default,,0,0,0,,Till then, the background presented an aurora 
+Dialogue: 0,1:06:33.92,1:06:39.62,Default,,0,0,0,,And since the club activity part, it changed into this starry sky!
+Dialogue: 0,1:06:40.54,1:06:42.05,Default,,0,0,0,,It's beautiful
+Dialogue: 0,1:06:42.49,1:06:47.50,Default,,0,0,0,,Recently, Yui loves to see night sky
+Dialogue: 0,1:06:47.50,1:06:54.62,Default,,0,0,0,,This background is really good for Planet Episode 008, isn't it?\NI hoped to present starry sky at the song, and teachers made it come true
+Dialogue: 0,1:06:54.62,1:06:57.18,Default,,0,0,0,,Wow! Did you ask to do it?
+Dialogue: 0,1:06:57.18,1:06:59.49,Default,,0,0,0,,Ah, I didn't
+Dialogue: 0,1:06:59.49,1:07:01.30,Default,,0,0,0,,It's amazing. He knew your untold intention
+Dialogue: 0,1:07:01.30,1:07:02.78,Default,,0,0,0,,Your intention reached somehow
+Dialogue: 0,1:07:04.68,1:07:07.53,Default,,0,0,0,,I hoped to see shooting stars
+Dialogue: 0,1:07:08.68,1:07:10.00,Default,,0,0,0,,And I've watched the background carefully
+Dialogue: 0,1:07:10.46,1:07:12.48,Default,,0,0,0,,but there was no shooting star at all
+Dialogue: 0,1:07:12.97,1:07:16.84,Default,,0,0,0,,Yunano was looking for Winter Triangle 
+Dialogue: 0,1:07:16.84,1:07:21.20,Default,,0,0,0,,You somehow can find a kind of triangle...\Nah...I see
+Dialogue: 0,1:07:21.52,1:07:23.65,Default,,0,0,0,,In a very creative way?
+Dialogue: 0,1:07:23.65,1:07:26.26,Default,,0,0,0,,Maybe...there is a triangle
+Dialogue: 0,1:07:26.26,1:07:34.77,Default,,0,0,0,,And, we played Planet Episode 008 which fit very well to the starry sky
+Dialogue: 0,1:07:34.77,1:07:40.44,Default,,0,0,0,,The song is one of our 'Let's learn' series
+Dialogue: 0,1:07:40.44,1:07:45.58,Default,,0,0,0,,So, just before the graduation, I think we've learned something
+Dialogue: 0,1:07:47.41,1:07:50.52,Default,,0,0,0,,This song was really helpful to me in my exam
+Dialogue: 0,1:07:51.20,1:07:55.68,Default,,0,0,0,,I became 3rd grader, and I had a year-end exam
+Dialogue: 0,1:07:55.68,1:07:57.64,Default,,0,0,0,,It's not Sakura Gakuin story, right?
+Dialogue: 0,1:07:57.64,1:08:00.88,Default,,0,0,0,,And there were questions about planets
+Dialogue: 0,1:08:00.88,1:08:03.61,Default,,0,0,0,,Everyone, please try to remember the lyric
+Dialogue: 0,1:08:03.61,1:08:06.40,Default,,0,0,0,,We hope so
+Dialogue: 0,1:08:09.10,1:08:13.54,Default,,0,0,0,,Well, now we are going to play the next song
+Dialogue: 0,1:08:13.54,1:08:20.72,Default,,0,0,0,,Till now, we've played cheerful, 2014nendo-like songs
+Dialogue: 0,1:08:20.72,1:08:28.68,Default,,0,0,0,,From now, we'll play the songs which show our minds, present feelings exactly
+Dialogue: 0,1:08:28.68,1:08:36.64,Default,,0,0,0,,Those who have supported us in this one year, please listen to them remembering several things in this year
+Dialogue: 0,1:08:36.64,1:08:40.45,Default,,0,0,0,,Please listen to....Heart no Hoshi!
