@@ -25,11 +25,12 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Yume Ni Mukatte
-Dialogue: 0,1:37:41.45,1:37:44.50,Default,,0,0,0,,
-Dialogue: 0,1:37:45.04,1:37:47.68,Default,,0,0,0,,
-Dialogue: 0,1:37:49.82,1:37:55.17,Default,,0,0,0,,
-Dialogue: 0,1:37:55.60,1:38:01.46,Default,,0,0,0,,
-Dialogue: 0,1:38:03.34,1:38:08.25,Default,,0,0,0,,
-Dialogue: 0,1:38:08.98,1:38:12.97,Default,,0,0,0,,
-Dialogue: 0,1:38:16.16,1:38:23.84,Default,,0,0,0,,
-Dialogue: 0,1:38:24.61,1:38:30.00,Default,,0,0,0,,
+Dialogue: 0,1:37:41.45,1:37:44.50,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,1:37:45.04,1:37:47.68,Default,,0,0,0,,The next song is the last song tonight
+Dialogue: 0,1:37:49.82,1:37:55.17,Default,,0,0,0,,The song we are going to play is, the very first song we Sakura Gakuin had
+Dialogue: 0,1:37:55.60,1:38:01.46,Default,,0,0,0,,The lyric of the song represent our mind at the very beginning of Sakura Gakuin
+Dialogue: 0,1:38:03.34,1:38:08.25,Default,,0,0,0,,We've been playing the song most frequently
+Dialogue: 0,1:38:08.98,1:38:12.97,Default,,0,0,0,,So, I have a lot of memories in the song -- including memories of the graduates
+Dialogue: 0,1:38:16.16,1:38:23.84,Default,,0,0,0,,In these 5 years, we've made the song up together with Fukei-sans. It's really precious song for me
+Dialogue: 0,1:38:24.61,1:38:30.00,Default,,0,0,0,,For the last time, we'll play with our whole hearts -- Yumeni Mukatte!
+
