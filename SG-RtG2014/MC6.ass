@@ -21,4 +21,117 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,MC6
+Dialogue: 0,2:34:24.94,2:34:28.12,Default,,0,0,0,,Thank you very much
+Dialogue: 0,2:34:28.72,2:34:35.82,Default,,0,0,0,,Can the undergraduates please say some words to the graduating members?
+Dialogue: 0,2:34:36.30,2:34:36.88,Default,,0,0,0,,Hai
+Dialogue: 0,2:34:38.20,2:34:41.78,Default,,0,0,0,,Saki remembers the open classes; the first open class this year
+Dialogue: 0,2:34:42.08,2:34:45.64,Default,,0,0,0,,I wrote that I want to further reach out(to the graduates)
+Dialogue: 0,2:34:46.90,2:34:49.08,Default,,0,0,0,,Saki's feelings were reached
+Dialogue: 0,2:34:50.82,2:34:54.08,Default,,0,0,0,,I have a lot of worries for next year but
+Dialogue: 0,2:34:56.24,2:34:58.44,Default,,0,0,0,,We are going to do our best so
+Dialogue: 0,2:34:59.56,2:35:01.00,Default,,0,0,0,,Please keep watching over us
+Dialogue: 0,2:35:01.92,2:35:03.32,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,2:35:11.58,2:35:12.42,Default,,0,0,0,,Moa-chan
+Dialogue: 0,2:35:12.90,2:35:13.64,Default,,0,0,0,,Yui-chan
+Dialogue: 0,2:35:13.90,2:35:14.54,Default,,0,0,0,,Hana-chan
+Dialogue: 0,2:35:14.54,2:35:15.54,Default,,0,0,0,,Yunano-chan
+Dialogue: 0,2:35:16.54,2:35:20.70,Default,,0,0,0,,To all you 3rd graders, Megu looks up to the four of you
+Dialogue: 0,2:35:21.76,2:35:27.90,Default,,0,0,0,,Sometimes I try to catch up to you guys but I'm not able to
+Dialogue: 0,2:35:28.46,2:35:31.10,Default,,0,0,0,,Conversely, I often mess up in the process
+Dialogue: 0,2:35:31.18,2:35:32.06,Default,,0,0,0,,I'm sorry
+Dialogue: 0,2:35:32.90,2:35:40.16,Default,,0,0,0,,But Megu will try her best to improve the Sakura Gakuin that we all love
+Dialogue: 0,2:35:40.68,2:35:42.44,Default,,0,0,0,,So cheer us on
+Dialogue: 0,2:35:42.58,2:35:47.90,Default,,0,0,0,,Also, please let us keep calling you four our nice big sisters
+Dialogue: 0,2:35:48.78,2:35:50.94,Default,,0,0,0,,Thank you for today
+Dialogue: 0,2:35:58.64,2:36:02.78,Default,,0,0,0,,This year's graduates taught us many things
+Dialogue: 0,2:36:04.18,2:36:09.44,Default,,0,0,0,,I myself feel like I've matured a lot
+Dialogue: 0,2:36:11.34,2:36:18.62,Default,,0,0,0,,For the next year's members, I would like to teach our kouhais the same way the graduates of this year has taught me
+Dialogue: 0,2:36:18.98,2:36:20.54,Default,,0,0,0,,So please cheer on- ahhhh
+Dialogue: 0,2:36:23.54,2:36:25.80,Default,,0,0,0,,So please keep watching over us
+Dialogue: 0,2:36:25.90,2:36:26.90,Default,,0,0,0,,Thank you
+Dialogue: 0,2:36:33.88,2:36:37.76,Default,,0,0,0,,I feel sad that the four of you will graduate but
+Dialogue: 0,2:36:38.26,2:36:38.84,Default,,0,0,0,,But
+Dialogue: 0,2:36:38.98,2:36:46.00,Default,,0,0,0,,I will try my best to show the audience that Sakura Gakuin is still good.
+Dialogue: 0,2:36:46.48,2:36:49.04,Default,,0,0,0,,So go ahead and graduate without worrying
+Dialogue: 0,2:36:50.66,2:36:51.50,Default,,0,0,0,,Also
+Dialogue: 0,2:36:53.06,2:36:53.76,Default,,0,0,0,,Taguchi: You-
+Dialogue: 0,2:36:52.16,2:36:53.84,Default,,0,0,0,,I mean it in a good way. In a good way!
+Dialogue: 0,2:36:54.24,2:36:55.68,Default,,0,0,0,,You're mistaken
+Dialogue: 0,2:36:55.92,2:36:57.56,Default,,0,0,0,,That's not what I meant
+Dialogue: 0,2:36:58.26,2:36:59.46,Default,,0,0,0,,I really mean it in a good way
+Dialogue: 0,2:36:59.56,2:37:00.28,Default,,0,0,0,,So
+Dialogue: 0,2:37:02.16,2:37:04.56,Default,,0,0,0,,Thank you for everything from the start
+Dialogue: 0,2:37:04.90,2:37:06.66,Default,,0,0,0,,I love you all. Really
+Dialogue: 0,2:37:07.90,2:37:09.38,Default,,0,0,0,,Thank you very much
+Dialogue: 0,2:37:14.86,2:37:15.50,Default,,0,0,0,,Um,
+Dialogue: 0,2:37:15.90,2:37:23.56,Default,,0,0,0,,Even though Sara only had 1 year to do activities with the 4 year 3’s unlike everyone else
+Dialogue: 0,2:37:23.98,2:37:26.28,Default,,0,0,0,,There were a lot of fun memories and frustrating memories
+Dialogue: 0,2:37:26.54,2:37:30.62,Default,,0,0,0,,But because we shared them together
+Dialogue: 0,2:37:30.98,2:37:35.22,Default,,0,0,0,,All of these memories will always be treasures to me
+Dialogue: 0,2:37:35.58,2:37:36.90,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,2:37:43.24,2:37:49.64,Default,,0,0,0,,There's only one thing Rinon have to say to the four 3rd graders
+Dialogue: 0,2:37:53.06,2:37:54.48,Default,,0,0,0,,Yui, thank you
+Dialogue: 0,2:37:56.48,2:37:58.02,Default,,0,0,0,,Yunano thank you
+Dialogue: 0,2:38:00.62,2:38:01.86,Default,,0,0,0,,Hana thank you
+Dialogue: 0,2:38:04.20,2:38:05.56,Default,,0,0,0,,Moa thank you
+Dialogue: 0,2:38:14.36,2:38:20.62,Default,,0,0,0,,To be honest, I was not paying attention to the time of your graduation
+Dialogue: 0,2:38:21.96,2:38:23.86,Default,,0,0,0,,I have no idea what to say
+Dialogue: 0,2:38:25.20,2:38:25.88,Default,,0,0,0,,So
+Dialogue: 0,2:38:27.16,2:38:35.42,Default,,0,0,0,,I want to express my gratitude to the four of you and I hope it is reached successfully
+Dialogue: 0,2:38:36.46,2:38:41.36,Default,,0,0,0,,Also, in this year's nendo, with the fukei's
+Dialogue: 0,2:38:42.50,2:38:45.44,Default,,0,0,0,,From here on. From here on? That sounds a bit weird now
+Dialogue: 0,2:38:45.98,2:38:47.60,Default,,0,0,0,,Thank you very much
+Dialogue: 0,2:38:47.70,2:38:49.64,Default,,0,0,0,,And please watch over us next year too
+Dialogue: 0,2:39:06.56,2:39:07.08,Default,,0,0,0,,Hai
+Dialogue: 0,2:39:07.42,2:39:14.14,Default,,0,0,0,,Very well, now let's listen to what the four graduates would like to say, one at a time
+Dialogue: 0,2:39:15.04,2:39:18.34,Default,,0,0,0,,To be honest, when I entered Sakura Gakuin,
+Dialogue: 0,2:39:18.88,2:39:26.34,Default,,0,0,0,,I had a lot of frustration and there were times I would want to quit
+Dialogue: 0,2:39:27.30,2:39:32.24,Default,,0,0,0,,But, to see the smiles of the fukeis,
+Dialogue: 0,2:39:32.80,2:39:36.76,Default,,0,0,0,,As well as seeing the members support each other
+Dialogue: 0,2:39:37.46,2:39:42.60,Default,,0,0,0,,I was able to move forward despite having strict lessons
+Dialogue: 0,2:39:43.14,2:39:46.30,Default,,0,0,0,,To Yunano, they are my treasure
+Dialogue: 0,2:39:47.24,2:39:49.66,Default,,0,0,0,,I am very glad to have met everyone
+Dialogue: 0,2:39:50.06,2:39:51.66,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,2:39:59.54,2:39:59.98,Default,,0,0,0,,Hai
+Dialogue: 0,2:40:00.62,2:40:06.08,Default,,0,0,0,,When I was in grade 6, I transferred into Sakura Gakuin
+Dialogue: 0,2:40:06.54,2:40:11.00,Default,,0,0,0,,And did many activities in these 4 years as member of Sakura Gakuin
+Dialogue: 0,2:40:11.52,2:40:14.80,Default,,0,0,0,,Also in these 4 years, I've been taken care of by many people
+Dialogue: 0,2:40:15.62,2:40:16.22,Default,,0,0,0,,And also,
+Dialogue: 0,2:40:16.46,2:40:24.82,Default,,0,0,0,,Today…today as well as myself graduating, I would also like to graduate from my negative character.
+Dialogue: 0,2:40:25.88,2:40:26.32,Default,,0,0,0,,Yup
+Dialogue: 0,2:40:30.02,2:40:31.02,Default,,0,0,0,,Thank you
+Dialogue: 0,2:40:31.16,2:40:33.68,Default,,0,0,0,,So I thought I should do my best
+Dialogue: 0,2:40:33.86,2:40:34.52,Default,,0,0,0,,And you know what?
+Dialogue: 0,2:40:34.86,2:40:35.38,Default,,0,0,0,,Haaa!
+Dialogue: 0,2:40:35.86,2:40:36.42,Default,,0,0,0,,Ohh!
+Dialogue: 0,2:40:36.54,2:40:37.06,Default,,0,0,0,,Eh!
+Dialogue: 0,2:40:38.68,2:40:42.38,Default,,0,0,0,,Today is the last day for Sakura Gakuin’s Hana but,
+Dialogue: 0,2:40:42.96,2:40:48.36,Default,,0,0,0,,From today forward, I will be a student of Torahime Ichida-san and Young Tiger
+Dialogue: 0,2:40:48.62,2:40:50.80,Default,,0,0,0,,And I would like to do my best.
+Dialogue: 0,2:40:51.66,2:40:53.76,Default,,0,0,0,,So finally
+Dialogue: 0,2:40:55.66,2:40:58.20,Default,,0,0,0,,To the audience in NHK Hall-
+Dialogue: 0,2:40:58.60,2:41:01.22,Default,,0,0,0,,I love you!
+Dialogue: 0,2:41:01.22,2:41:03.00,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,2:41:13.28,2:41:15.08,Default,,0,0,0,,With that said, we are running low on time
+Dialogue: 0,2:41:16.38,2:41:17.28,Default,,0,0,0,,In order to beco…
+Dialogue: 0,2:41:18.38,2:41:18.90,Default,,0,0,0,,This is bad
+Dialogue: 0,2:41:19.20,2:41:20.14,Default,,0,0,0,,Ah! It’s bad
+Dialogue: 0,2:41:20.42,2:41:24.64,Default,,0,0,0,,I will put something together with the little time I have
+Dialogue: 0,2:41:25.46,2:41:36.96,Default,,0,0,0,,I have many friends, teachers, graduates, and fukeis that I can believe from my heart and I love with all my heart.
+Dialogue: 0,2:41:37.26,2:41:42.60,Default,,0,0,0,,If there’s ever painful times ahead, I will take these 5 years and turn it into strength.
+Dialogue: 0,2:41:43.74,2:41:50.88,Default,,0,0,0,,After today, I wish for my dreams as YUIMETAL and as Mizuno Yui to come true.
+Dialogue: 0,2:41:51.00,2:41:53.20,Default,,0,0,0,,I would appreciate everyone’s support.
+Dialogue: 0,2:41:57.94,2:42:01.38,Default,,0,0,0,,Please watch over next years Sakura Gakuin
+Dialogue: 0,2:42:01.62,2:42:04.40,Default,,0,0,0,,Thank you very much for everything up until today!
+Dialogue: 0,2:42:10.06,2:42:14.80,Default,,0,0,0,,To be honest, I do not want to graduate
+Dialogue: 0,2:42:15.68,2:42:24.38,Default,,0,0,0,,Sakura Gakuin is a place that is warm and all of you fukeis made it a place where you welcome me home
+Dialogue: 0,2:42:24.98,2:42:29.92,Default,,0,0,0,,We would like to see what’s ahead
+Dialogue: 0,2:42:30.24,2:42:35.04,Default,,0,0,0,,We would be happy if everyone watched over the 2015 Sakura Gakuin nendo
+Dialogue: 0,2:42:35.48,2:42:37.40,Default,,0,0,0,,Please let me say one final thing
+Dialogue: 0,2:42:38.48,2:42:40.32,Default,,0,0,0,,SAKURA GAKUIN IS THE BEST!
+Dialogue: 0,2:42:40.74,2:42:42.14,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,2:42:50.88,2:42:57.98,Default,,0,0,0,,Thank you, thank you, thank you very much for attending today!
+Dialogue: 0,2:42:58.38,2:43:00.68,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,2:43:08.62,2:43:13.10,Default,,0,0,0,,And so! This was the 2014 Sakura Gakuin Graduation!
+Dialogue: 0,2:43:13.10,2:43:15.00,Default,,0,0,0,,Bye bye!
+Dialogue: 0,2:43:15.00,2:43:22.02,Default,,0,0,0,,Thank you very much!
