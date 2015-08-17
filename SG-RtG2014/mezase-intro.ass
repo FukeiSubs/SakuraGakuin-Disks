@@ -23,12 +23,12 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:34.66,0:00:38.13,Default,,0,0,0,,Soredewa shussekiwo torimasu\NNow, I'll call the roll
-Dialogue: 0,0:00:39.16,0:00:41.12,Default,,0,0,0,,Doumo Sakura Gakuin tannin no Mori HAYASHI desu\NWelcome! I am Mori Hayashi, homeroom teacher of Sakura Gakuin\N
+Dialogue: 0,0:00:39.16,0:00:41.12,Default,,0,0,0,,Doumo Sakura Gakuin tannin no MORI HAYASHI desu\NWelcome! I am Mori Hayashi, homeroom teacher of Sakura Gakuin\N
 Dialogue: 0,0:00:41.12,0:00:46.16,Default,,0,0,0,,2014nendomo shimekukurino raibu, minasan, moetsukiru junbiwa dekiteimasuka?\NHere goes the last concert in 2014nendo. Everyone, are you ready to challenge your limit in enjoying yourself?
-Dialogue: 0,0:00:46.16,0:00:48.20,Default,,0,0,0,,Raibu byuuingu wa miteruka?\NAre you watching via Live Viewing?
-Dialogue: 0,0:00:48.20,0:00:52.54,Default,,0,0,0,,Moetsukiru junbiwa...Nanda nanda? Omaera -- Hayaku Hayaku! Shusseki totte...Shusseki torukara\NAre you ready...What? You girls, what are you doing? Hurry up! Let's make a call...I now call the roll
-Dialogue: 0,0:00:52.54,0:00:59.14,Default,,0,0,0,,Minna junbishite, junbishite... Naninaninani? Hako ga nai? Hako aru. Hako, askoni arukara. Hayaku totte\NEvery girls, prepare for... What? You can't find the box? There are boxes. They are over there. Take them in a hurry
-Dialogue: 0,0:00:59.27,0:01:03.57,Default,,0,0,0,,Minna sorottenno? Minna sorotteru? Nanka Ninzuu Tarinaiyo... Hokano Menbaa wa?\NAll members here? I think someone is missing. Whre are other members?
+Dialogue: 0,0:00:46.16,0:00:48.20,Default,,0,0,0,,Raibu byuuingu wa miteruka?\NIs everyone from the Live Viewing watching?
+Dialogue: 0,0:00:48.20,0:00:52.54,Default,,0,0,0,,Moetsukiru junbiwa...Nanda nanda? Omaera -- Hayaku Hayaku! Shusseki totte...Shusseki torukara\NAre you ready...What? Girls, what are you doing? Hurry up! Take your spot...I about to call the roll!
+Dialogue: 0,0:00:52.54,0:00:59.14,Default,,0,0,0,,Minna junbishite, junbishite... Naninaninani? Hako ga nai? Hako aru. Hako, askoni arukara. Hayaku totte\NEveryone, get ready!... What? You can't find the box? The box is there! It's over there! Hurry up and take it!
+Dialogue: 0,0:00:59.27,0:01:03.57,Default,,0,0,0,,Minna sorottenno? Minna sorotteru? Nanka Ninzuu Tarinaiyo... Hokano Menbaa wa?\NIs everyone here? I think some members are missing! Whre are other members?1
 Dialogue: 0,0:01:03.57,0:01:06.86,Default,,0,0,0,,Detekonai? Detekonai? Moriagaru Junbi Dekitennokana kore?\NNot everyone yet? Still waiting? Are you really ready to challenge your limit?
-Dialogue: 0,0:01:06.86,0:01:11.69,Default,,0,0,0,,Ah, kita kita kita. Sorotta sorotta. Yoshi, minna, shusseki toruzo. Moariagatte ikukarana\NOh, here they are. Everyone is ready now. Well, girls, I'll call the roll.  Let's have a blast! 
+Dialogue: 0,0:01:06.86,0:01:11.69,Default,,0,0,0,,Ah, kita kita kita. Sorotta sorotta. Yoshi, minna, shusseki toruzo. Moariagatte ikukarana\NOh, here they are. Everyone is ready now! Well, girls, I'll call the roll! Let's have a blast! 
 Dialogue: 0,0:01:11.69,0:01:15.34,Default,,0,0,0,,Minasan hajikete ikuzo! Kore ga kotoshi no Sakura Gakuin da!\NEveryone, let's get hyper! Here’s this year’s Sakura Gakuin!
