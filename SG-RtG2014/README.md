@@ -35,7 +35,7 @@ Timing & Translation task list
 | MC #3 `(03:31)`                                     | soupman2001 `(done)`   | onji-Kobe `(done)`                 | MC3.ass                   |
 | MC #4 `(00:34)`                                     | soupman2001 `(done)`   | Akamaru226 `(done)`                | MC4.ass                   |
 | MC #5 `(03:00)`                                     | soupman2001 `(done)`   | onji-Kobe `(done)`                 | MC5.ass                   |
-| MC #6 `(9:20)`                                      | KumaMetal `(ongoing)`  | KumaMetal & Akamaru226 `(ongoing)` | MC6.ass                   |
+| MC #6 `(9:20)`                                      | KumaMetal `(done)`     | KumaMetal & Akamaru226 `(done)`    | MC6.ass                   |
 | Setlist songs Romaji `(N/A)`                        | Shadeslayr `(ongoing)` | **?**                              | {songname}-lyrics-rom.ass |
 | Setlist songs English `(N/A)`                       | Shadeslayr `(ongoing)` | **?**                              | {songname}-lyrics-en.ass  |
 
