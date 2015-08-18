@@ -37,7 +37,8 @@ Timing & Translation task list
 | MC #5 `(03:00)`                                     | soupman2001 `(done)`   | onji-Kobe `(done)`                 | MC5.ass                   |
 | MC #6 `(9:20)`                                      | KumaMetal `(done)`     | KumaMetal & Akamaru226 `(done)`    | MC6.ass                   |
 | Setlist songs Romaji `(N/A)`                        | Shadeslayr `(ongoing)` | **?**                              | {songname}-lyrics-rom.ass |
-| Setlist songs English `(N/A)`                       | Shadeslayr `(ongoing)` | **?**                              | {songname}-lyrics-en.ass  |
+| Setlist songs English `(N/A)`                       | Shadeslayr `(ongoing)` | **?**                              | {songname}-lyrics-eng.ass  |
+| Setlist songs Japanese `(N/A)`                       | Shadeslayr `(ongoing)` | **?**                              | {songname}-lyrics-jpn.ass  |
 
 Proofreading task list
 ----------------------
@@ -63,7 +64,7 @@ The first Japanese -> English translations will be proofread and improved by pre
 | MC #6                                               | TheThrawn `(ongoing)`  | **?**    | MC6.ass                   |
 | Setlist songs Romaji `(N/A)`                        | **?**   | **?**    | {songname}-lyrics-rom.ass |
 | Setlist songs English `(N/A)`                       | **?**   | **?**    | {songname}-lyrics-eng.ass  |
-| Setlist songs Romaji `(N/A)`                        | **?**   | **?**    | {songname}-lyrics-jpn.ass |
+| Setlist songs Japanese `(N/A)`                        | **?**   | **?**    | {songname}-lyrics-jpn.ass |
 
 Tasks
 -----
