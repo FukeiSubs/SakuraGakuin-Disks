@@ -58,7 +58,7 @@ The first Japanese -> English translations will be proofread and improved by pre
 | Intro to 'Yume ni Mukatte' `(0:51)`                 | Akamaru226 `(done)`   | Akamaru226 `(done)`   | yume-ni-mukatte.ass       |
 | MC #1 `(02:45)`                                     | EraYaN `(needs feedback from japanese)`   | **?**    | MC1.ass                   |
 | MC #2 `(03:56)`                                     | Akamaru226 `(done)`  | Akamaru226 `(done)`    | MC2.ass                   |
-| MC #3 `(03:31)`                                     | Akamaru226 `(ongoing)`  | Akamaru226 `(ongoing)`  | MC3.ass                   |
+| MC #3 `(03:31)`                                     | Akamaru226 `(done)`  | Akamaru226 `(done)`  | MC3.ass                   |
 | MC #4 `(00:34)`                                     | TheThrawn `(ongoing)`  | **?**    | MC4.ass                   |
 | MC #5 `(03:00)`                                     | Akamaru226 `(done)`   | Akamaru226 `(done)`    | MC5.ass                   |
 | MC #6                                               | TheThrawn `(ongoing)`  | **?**    | MC6.ass                   |
