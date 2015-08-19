@@ -24,75 +24,85 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:32:49.61,0:32:53.68,Default,,0,0,0,,<mc talk>
-Dialogue: 0,0:33:04.68,0:33:09.28,Default,,0,0,0,,
-Dialogue: 0,0:33:15.88,0:33:23.00,Default,,0,0,0,,
-Dialogue: 0,0:33:23.00,0:33:23.54,Default,,0,0,0,,
-Dialogue: 0,0:33:23.54,0:33:25.94,Default,,0,0,0,,
-Dialogue: 0,0:33:25.94,0:33:29.62,Default,,0,0,0,,
-Dialogue: 0,0:33:30.08,0:33:31.82,Default,,0,0,0,,
-Dialogue: 0,0:33:32.34,0:33:39.76,Default,,0,0,0,,
-Dialogue: 0,0:33:39.76,0:33:43.21,Default,,0,0,0,,
-Dialogue: 0,0:33:43.21,0:33:46.30,Default,,0,0,0,,
-Dialogue: 0,0:33:48.40,0:33:50.30,Default,,0,0,0,,
-Dialogue: 0,0:33:51.36,0:33:54.54,Default,,0,0,0,,
-Dialogue: 0,0:33:54.54,0:34:00.41,Default,,0,0,0,,
-Dialogue: 0,0:34:04.05,0:34:07.36,Default,,0,0,0,,
-Dialogue: 0,0:34:07.36,0:34:09.12,Default,,0,0,0,,
-Dialogue: 0,0:34:10.58,0:34:13.90,Default,,0,0,0,,
-Dialogue: 0,0:34:16.53,0:34:20.53,Default,,0,0,0,,
-Dialogue: 0,0:34:20.53,0:34:27.65,Default,,0,0,0,,
-Dialogue: 0,0:34:27.93,0:34:33.14,Default,,0,0,0,,
-Dialogue: 0,0:34:33.14,0:34:35.32,Default,,0,0,0,,
-Dialogue: 0,0:34:35.32,0:34:38.94,Default,,0,0,0,,
-Dialogue: 0,0:34:38.94,0:34:41.10,Default,,0,0,0,,
-Dialogue: 0,0:34:41.10,0:34:42.41,Default,,0,0,0,,
-Dialogue: 0,0:34:42.94,0:34:45.17,Default,,0,0,0,,
-Dialogue: 0,0:34:46.36,0:34:47.46,Default,,0,0,0,,
-Dialogue: 0,0:34:47.86,0:34:51.90,Default,,0,0,0,,
-Dialogue: 0,0:34:53.50,0:34:58.77,Default,,0,0,0,,
-Dialogue: 0,0:34:58.77,0:35:05.90,Default,,0,0,0,,
-Dialogue: 0,0:35:07.00,0:35:08.78,Default,,0,0,0,,
-Dialogue: 0,0:35:12.85,0:35:18.86,Default,,0,0,0,,
-Dialogue: 0,0:35:18.86,0:35:23.45,Default,,0,0,0,,
-Dialogue: 0,0:35:23.45,0:35:29.26,Default,,0,0,0,,
-Dialogue: 0,0:35:29.26,0:35:31.02,Default,,0,0,0,,
-Dialogue: 0,0:35:34.92,0:35:38.22,Default,,0,0,0,,
-Dialogue: 0,0:35:38.22,0:35:40.56,Default,,0,0,0,,
-Dialogue: 0,0:35:41.89,0:35:45.09,Default,,0,0,0,,
-Dialogue: 0,0:35:48.12,0:35:54.54,Default,,0,0,0,,
-Dialogue: 0,0:35:55.12,0:35:58.80,Default,,0,0,0,,
-Dialogue: 0,0:35:58.80,0:36:00.14,Default,,0,0,0,,
-Dialogue: 0,0:35:59.93,0:36:03.85,Default,,0,0,0,,
-Dialogue: 0,0:36:03.54,0:36:07.84,Default,,0,0,0,,
-Dialogue: 0,0:36:07.60,0:36:13.46,Default,,0,0,0,,
-Dialogue: 0,0:36:14.37,0:36:21.33,Default,,0,0,0,,
-Dialogue: 0,0:36:21.60,0:36:22.60,Default,,0,0,0,,
-Dialogue: 0,0:36:23.78,0:36:29.48,Default,,0,0,0,,
-Dialogue: 0,0:36:29.05,0:36:30.62,Default,,0,0,0,,
-Dialogue: 0,0:36:30.62,0:36:36.40,Default,,0,0,0,,
-Dialogue: 0,0:36:37.28,0:36:40.12,Default,,0,0,0,,
-Dialogue: 0,0:36:40.12,0:36:45.13,Default,,0,0,0,,
-Dialogue: 0,0:36:48.94,0:36:51.74,Default,,0,0,0,,
-Dialogue: 0,0:36:51.74,0:36:56.82,Default,,0,0,0,,
-Dialogue: 0,0:36:56.82,0:37:01.10,Default,,0,0,0,,
-Dialogue: 0,0:37:01.10,0:37:03.80,Default,,0,0,0,,
-Dialogue: 0,0:37:03.80,0:37:08.65,Default,,0,0,0,,
-Dialogue: 0,0:37:20.37,0:37:26.28,Default,,0,0,0,,
-Dialogue: 0,0:37:26.28,0:37:34.36,Default,,0,0,0,,
-Dialogue: 0,0:37:38.88,0:37:42.08,Default,,0,0,0,,
-Dialogue: 0,0:37:42.08,0:37:44.25,Default,,0,0,0,,
-Dialogue: 0,0:37:44.92,0:37:53.21,Default,,0,0,0,,
-Dialogue: 0,0:37:58.01,0:38:03.61,Default,,0,0,0,,
-Dialogue: 0,0:38:03.61,0:38:07.17,Default,,0,0,0,,
-Dialogue: 0,0:38:07.17,0:38:10.70,Default,,0,0,0,,
-Dialogue: 0,0:38:10.70,0:38:14.53,Default,,0,0,0,,<\ mc talk>
-Dialogue: 0,0:39:53.53,0:39:57.22,Default,,0,0,0,,<song mc>
-Dialogue: 0,0:39:57.22,0:40:00.28,Default,,0,0,0,,
-Dialogue: 0,0:40:00.28,0:40:03.18,Default,,0,0,0,,
-Dialogue: 0,0:40:03.18,0:40:04.33,Default,,0,0,0,,
-Dialogue: 0,0:40:05.96,0:40:06.74,Default,,0,0,0,,
-Dialogue: 0,0:40:09.81,0:40:11.65,Default,,0,0,0,,
-Dialogue: 0,0:40:14.41,0:40:15.70,Default,,0,0,0,,
-Dialogue: 0,0:40:18.73,0:40:20.21,Default,,0,0,0,,<\song mc>
-Dialogue: 0,0:41:53.56,0:41:57.84,Default,,0,0,0,,
+Dialogue: 0,0:32:49.74,0:32:53.94,Default,,0,0,0,,Everyone! An announcement by the Koubaibu
+Dialogue: 0,0:33:04.58,0:33:06.26,Default,,0,0,0,,Good evening everybody!
+Dialogue: 0,0:33:06.28,0:33:09.28,Default,,0,0,0,,1.. 2.. We are the Koubaibu!
+Dialogue: 0,0:33:15.82,0:33:23.08,Default,,0,0,0,,Finally, this is going to be the very last long koubaibu MC
+Dialogue: 0,0:33:23.08,0:33:23.98,Default,,0,0,0,,Sorry
+Dialogue: 0,0:33:23.44,0:33:25.82,Default,,0,0,0,,Are there anyone who's glad that it's ending?
+Dialogue: 0,0:33:25.90,0:33:29.60,Default,,0,0,0,,Who's glad about the ending of the long mc's by us?
+Dialogue: 0,0:33:30.06,0:33:31.98,Default,,0,0,0,,You don't want it to end?
+Dialogue: 0,0:33:32.30,0:33:32.88,Default,,0,0,0,,Hai
+Dialogue: 0,0:33:33.00,0:33:42.94,Default,,0,0,0,,During the first koubaibu mc, we had no idea what to say and just spurted out random mc lines
+Dialogue: 0,0:33:43.38,0:33:46.22,Default,,0,0,0,,Other than that, do you think we have grown?
+Dialogue: 0,0:33:48.36,0:33:50.52,Default,,0,0,0,,Thank you very much
+Dialogue: 0,0:33:51.36,0:34:00.38,Default,,0,0,0,,In our final concert, we would like to commence the best merchandise to you all
+Dialogue: 0,0:34:04.02,0:34:07.26,Default,,0,0,0,,Therefore, we will now introduce the first item
+Dialogue: 0,0:34:07.44,0:34:09.32,Default,,0,0,0,,And it is:
+Dialogue: 0,0:34:10.42,0:34:13.90,Default,,0,0,0,,The 2014 last photo set
+Dialogue: 0,0:34:17.30,0:34:20.28,Default,,0,0,0,,It is the very last photo set of 2014
+Dialogue: 0,0:34:20.64,0:34:27.58,Default,,0,0,0,,This picture set consists of the fun development of the graduates and next year's graduates as they reach for their dream
+Dialogue: 0,0:34:27.90,0:34:28.40,Default,,0,0,0,,Hai
+Dialogue: 0,0:34:28.56,0:34:35.06,Default,,0,0,0,,Speaking of which, this is the last time you'll see us in our uniform. Therefore it has a rare kind of feeling
+Dialogue: 0,0:34:35.50,0:34:39.74,Default,,0,0,0,,Here we introduced it, but sorry.
+Dialogue: 0,0:34:39.84,0:34:41.14,Default,,0,0,0,,They're all actually sold out
+Dialogue: 0,0:34:40.96,0:34:42.50,Default,,0,0,0,,Sorry!
+Dialogue: 0,0:34:43.00,0:34:45.02,Default,,0,0,0,,We apologize!
+Dialogue: 0,0:34:46.36,0:34:47.42,Default,,0,0,0,,Sorry
+Dialogue: 0,0:34:47.82,0:34:48.92,Default,,0,0,0,,But you know what
+Dialogue: 0,0:34:49.32,0:34:52.04,Default,,0,0,0,,We have some information for you right now
+Dialogue: 0,0:34:53.54,0:35:05.94,Default,,0,0,0,,Amuse's official online shop called Asmart! will sell the last photo set!
+Dialogue: 0,0:35:07.02,0:35:07.78,Default,,0,0,0,,We will sell them!
+Dialogue: 0,0:35:08.04,0:35:08.84,Default,,0,0,0,,We will sell them!
+Dialogue: 0,0:35:12.88,0:35:18.70,Default,,0,0,0,,We can get in trouble for doing this kind of things without the approval of the teachers
+Dialogue: 0,0:35:18.90,0:35:23.36,Default,,0,0,0,,We'll try our best to persuade the teachers to include this
+Dialogue: 0,0:35:23.56,0:35:29.14,Default,,0,0,0,,So the fukei-sans who cant buy it today, please look forward to the release in Asmart!
+Dialogue: 0,0:35:29.40,0:35:31.14,Default,,0,0,0,,Onegaishimasu
+Dialogue: 0,0:35:34.82,0:35:38.06,Default,,0,0,0,,We will now introduce the second item!
+Dialogue: 0,0:35:38.36,0:35:40.70,Default,,0,0,0,,And it is:
+Dialogue: 0,0:35:41.90,0:35:45.06,Default,,0,0,0,,The road to graduation glass!
+Dialogue: 0,0:35:47.64,0:35:54.40,Default,,0,0,0,,This glass can be used for special occasions or casual days
+Dialogue: 0,0:35:54.30,0:35:55.68,Default,,0,0,0,,That's right
+Dialogue: 0,0:35:55.10,0:35:58.82,Default,,0,0,0,,But you know, glass are fragile therefore it may break
+Dialogue: 0,0:35:58.82,0:36:00.44,Default,,0,0,0,,They are indeed fragile
+Dialogue: 0,0:35:59.98,0:36:01.82,Default,,0,0,0,,For times like these,
+Dialogue: 0,0:36:02.00,0:36:04.66,Default,,0,0,0,,Pre-ordering them is a must
+Dialogue: 0,0:36:04.92,0:36:07.78,Default,,0,0,0,,Say, ShiraSaki, a tragedy happened to you recently right?
+Dialogue: 0,0:36:07.56,0:36:08.40,Default,,0,0,0,,Yes, that's right
+Dialogue: 0,0:36:08.58,0:36:10.20,Default,,0,0,0,,Actually,
+Dialogue: 0,0:36:10.20,0:36:13.44,Default,,0,0,0,,The other day, I lost my Sakura buspass case, a Sakura Gakuin merchandise
+Dialogue: 0,0:36:14.42,0:36:16.80,Default,,0,0,0,,Although I'm glad I found it,
+Dialogue: 0,0:36:16.90,0:36:18.34,Default,,0,0,0,,I regretted not having a spare in the meantime
+Dialogue: 0,0:36:18.34,0:36:21.26,Default,,0,0,0,,So everybody should also reserve their copy
+Dialogue: 0,0:36:23.00,0:36:29.60,Default,,0,0,0,,To be honest, Yunano would definitely break like 3 or so
+Dialogue: 0,0:36:31.78,0:36:35.04,Default,,0,0,0,,I'm also thinking about buying some for my family
+Dialogue: 0,0:36:35.28,0:36:36.94,Default,,0,0,0,,Maybe like 10 pieces?
+Dialogue: 0,0:36:37.30,0:36:40.08,Default,,0,0,0,,That amount sounds about right?
+Dialogue: 0,0:36:39.10,0:36:40.08,Default,,0,0,0,,Riiighhttt?
+Dialogue: 0,0:36:40.40,0:36:44.48,Default,,0,0,0,,So anyways, please check it out
+Dialogue: 0,0:36:44.20,0:36:45.18,Default,,0,0,0,,Onegaishimasu
+Dialogue: 0,0:36:48.24,0:36:51.62,Default,,0,0,0,,There are many more other items,
+Dialogue: 0,0:36:51.86,0:37:08.54,Default,,0,0,0,,But the album "Kimi ni Todoke" has these concert exclusive items so if you purchase the album from O-east, you will receive a clear file
+Dialogue: 0,0:37:11.44,0:37:15.06,Default,,0,0,0,,To all the ones who hasn't purchased it yet, please check it out
+Dialogue: 0,0:37:15.34,0:37:16.98,Default,,0,0,0,,Onegaishimasu
+Dialogue: 0,0:37:19.72,0:37:21.64,Default,,0,0,0,,Yes, and also,
+Dialogue: 0,0:37:22.00,0:37:26.08,Default,,0,0,0,,Yunano has another merchandise recommendation
+Dialogue: 0,0:37:26.56,0:37:34.38,Default,,0,0,0,,The graduation photo collection, we are going to sell them during this live!
+Dialogue: 0,0:37:38.94,0:37:42.10,Default,,0,0,0,,You know, they are autographed
+Dialogue: 0,0:37:43.04,0:37:44.10,Default,,0,0,0,,Isn't that great?
+Dialogue: 0,0:37:44.88,0:37:47.52,Default,,0,0,0,,We put our hearts into signing them
+Dialogue: 0,0:37:47.90,0:37:51.40,Default,,0,0,0,,So please, everyone, check it out
+Dialogue: 0,0:37:51.42,0:37:53.26,Default,,0,0,0,,Yoroshiku onegaishimasu!
+Dialogue: 0,0:37:57.38,0:38:03.34,Default,,0,0,0,,But anyways, forgive me for saying "please check it out, please check it out" over and over
+Dialogue: 0,0:38:03.68,0:38:06.74,Default,,0,0,0,,In the end, for the last bit, we would like to end this with a pose
+Dialogue: 0,0:38:07.16,0:38:11.84,Default,,0,0,0,,There are many other merchandise, so please everyone
+Dialogue: 0,0:38:11.84,0:38:14.54,Default,,0,0,0,,Check 'em out!
+Dialogue: 0,0:39:53.53,0:39:57.22,Default,,0,0,0,,Everyone, today you will get something from us
+Dialogue: 0,0:39:57.22,0:40:00.28,Default,,0,0,0,,We're going to do a special service to you all!
+Dialogue: 0,0:40:00.28,0:40:03.18,Default,,0,0,0,,Please take these autographed T-shirts!
+Dialogue: 0,0:40:03.18,0:40:04.33,Default,,0,0,0,,Get ready for us!
+Dialogue: 0,0:40:05.96,0:40:06.74,Default,,0,0,0,,Here we go!
+Dialogue: 0,0:40:09.81,0:40:11.65,Default,,0,0,0,,We're going to shoot one more!
+Dialogue: 0,0:40:14.41,0:40:15.70,Default,,0,0,0,,Here we go!
+Dialogue: 0,0:40:18.73,0:40:20.21,Default,,0,0,0,,Thank you so much!
+Dialogue: 0,0:41:53.56,0:41:57.84,Default,,0,0,0,,Please buy from us!
