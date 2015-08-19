@@ -52,7 +52,7 @@ The first Japanese -> English translations will be proofread and improved by pre
 | Principal Kuramoto's speech `(08:04)`               | TheThrawn `(done)`  | **?**    | kuramoto-speech.ass       |
 | Mori-sensei's speech `(18:47)`                      | Shadeslayr `(done)` | **?**    | mori-speech.ass           |
 | Intro to 'Mesaze! Super Lady -2014 nendo-' `(0:40)` | Akamaru226 `(done)` | Akamaru226 `(done)`    | mezase-intro.ass          |
-| Talks in 'Gokigen! Mr. Tropicalory' `(0:30)`        | TheThrawn `(ongoing)` | **?**           | tropicalory-talk.ass          |
+| Talks in 'Gokigen! Mr. Tropicalory' `(0:30)`        | TheThrawn `(done)` | **?**           | tropicalory-talk.ass          |
 | Intro and other talks 'Spin in the Wind'            | TheThrawn `(done)` | **?**    | spin-in-the-wind.ass      |
 | Intro and other talks 'Piece de Check'              | **?**   | **?**    | piece-de-check.ass        |
 | Intro to 'Yume ni Mukatte' `(0:51)`                 | Akamaru226 `(done)`   | Akamaru226 `(done)`   | yume-ni-mukatte.ass       |
