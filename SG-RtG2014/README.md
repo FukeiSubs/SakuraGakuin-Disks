@@ -28,7 +28,7 @@ Timing & Translation task list
 | Intro to 'Mesaze! Super Lady -2014 nendo-' `(0:40)` | soupman2001 `(done)`   | onji-Kobe `(done)`                 | mezase-intro.ass          |
 | Talks in 'Gokigen! Mr. Tropicalory' `(0:30)`        | onji-Kobe `(done)`     | onji-Kobe `(done)`                 | tropicalory-talk.ass          |
 | Intro and other talks 'Spin in the Wind'            | Shadeslayr `(done)`    | onji-Kobe `(done)`                 | spin-in-the-wind.ass      |
-| Intro and other talks 'Piece de Check'              | Shadeslayr `(done)`    | KumaMetal `(ongoing)`              | piece-de-check.ass        |
+| Intro and other talks 'Piece de Check'              | Shadeslayr `(done)`    | KumaMetal `(done)`                 | piece-de-check.ass        |
 | Intro to 'Yume ni Mukatte' `(0:51)`                 | Dwarfda `(done)`       | onji-Kobe `(done)`                 | yume-ni-mukatte.ass       |
 | MC #1 `(02:45)`                                     | soupman2001 `(done)`   | Akamaru226 `(done)`                | MC1.ass                   |
 | MC #2 `(03:56)`                                     | soupman2001 `(done)`   | onji-Kobe `(done)`                 | MC2.ass                   |
@@ -54,7 +54,7 @@ The first Japanese -> English translations will be proofread and improved by pre
 | Intro to 'Mesaze! Super Lady -2014 nendo-' `(0:40)` | Akamaru226 `(done)` | Akamaru226 `(done)`    | mezase-intro.ass          |
 | Talks in 'Gokigen! Mr. Tropicalory' `(0:30)`        | TheThrawn `(done)` | **?**           | tropicalory-talk.ass          |
 | Intro and other talks 'Spin in the Wind'            | TheThrawn `(done)` | **?**    | spin-in-the-wind.ass      |
-| Intro and other talks 'Piece de Check'              | **?**   | **?**    | piece-de-check.ass        |
+| Intro and other talks 'Piece de Check'              | TheThrawn `(ongoing)`  | **?**    | piece-de-check.ass        |
 | Intro to 'Yume ni Mukatte' `(0:51)`                 | Akamaru226 `(done)`   | Akamaru226 `(done)`   | yume-ni-mukatte.ass       |
 | MC #1 `(02:45)`                                     | EraYaN `(needs feedback from japanese)`   | **?**    | MC1.ass                   |
 | MC #2 `(03:56)`                                     | Akamaru226 `(done)`  | Akamaru226 `(done)`    | MC2.ass                   |
