@@ -14,9 +14,9 @@ Audio File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
-Scroll Position: 60
-Active Line: 71
-Video Position: 75332
+Scroll Position: 66
+Active Line: 73
+Video Position: 72232
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,81 +24,81 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:32:49.74,0:32:53.94,Default,,0,0,0,,Everyone! An announcement by the Koubaibu
+Dialogue: 0,0:32:49.74,0:32:53.94,Default,,0,0,0,,Everyone! An announcement by the Koubaibu.
 Dialogue: 0,0:33:04.58,0:33:06.26,Default,,0,0,0,,Good evening everybody!
 Dialogue: 0,0:33:06.28,0:33:09.28,Default,,0,0,0,,1.. 2.. We are the Koubaibu!
-Dialogue: 0,0:33:15.82,0:33:23.08,Default,,0,0,0,,Finally, this is going to be the very last long koubaibu MC
-Dialogue: 0,0:33:23.08,0:33:23.98,Default,,0,0,0,,Sorry
-Dialogue: 0,0:33:23.44,0:33:25.82,Default,,0,0,0,,Are there anyone who's glad that it's ending?
+Dialogue: 0,0:33:15.82,0:33:23.08,Default,,0,0,0,,Finally, this is going to be the very last long koubaibu MC.
+Dialogue: 0,0:33:23.08,0:33:23.98,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:33:23.44,0:33:25.82,Default,,0,0,0,,Is there anyone who's glad that it's ending?
 Dialogue: 0,0:33:25.90,0:33:29.60,Default,,0,0,0,,Who's glad about the ending of the long mc's by us?
 Dialogue: 0,0:33:30.06,0:33:31.98,Default,,0,0,0,,You don't want it to end?
 Dialogue: 0,0:33:32.30,0:33:32.88,Default,,0,0,0,,Hai
-Dialogue: 0,0:33:33.00,0:33:42.94,Default,,0,0,0,,During the first koubaibu mc, we had no idea what to say and just spurted out random mc lines
+Dialogue: 0,0:33:33.00,0:33:42.94,Default,,0,0,0,,During the first koubaibu mc, we had no idea what to say, and just spurted out random mc lines.
 Dialogue: 0,0:33:43.38,0:33:46.22,Default,,0,0,0,,Other than that, do you think we have grown?
-Dialogue: 0,0:33:48.36,0:33:50.52,Default,,0,0,0,,Thank you very much
-Dialogue: 0,0:33:51.36,0:34:00.38,Default,,0,0,0,,In our final concert, we would like to commence the best merchandise to you all
-Dialogue: 0,0:34:04.02,0:34:07.26,Default,,0,0,0,,Therefore, we will now introduce the first item
+Dialogue: 0,0:33:48.36,0:33:50.52,Default,,0,0,0,,Thank you very much.
+Dialogue: 0,0:33:51.36,0:34:00.38,Default,,0,0,0,,In our final concert, we would like to present the best merchandise to you all.
+Dialogue: 0,0:34:04.02,0:34:07.26,Default,,0,0,0,,Therefore, we will now introduce the first item.
 Dialogue: 0,0:34:07.44,0:34:09.32,Default,,0,0,0,,And it is:
-Dialogue: 0,0:34:10.42,0:34:13.90,Default,,0,0,0,,The 2014 last photo set
+Dialogue: 0,0:34:10.42,0:34:13.90,Default,,0,0,0,,The 2014 last photo set.
 Dialogue: 0,0:34:17.30,0:34:20.28,Default,,0,0,0,,It is the very last photo set of 2014
-Dialogue: 0,0:34:20.64,0:34:27.58,Default,,0,0,0,,This picture set consists of the fun development of the graduates and next year's graduates as they reach for their dream
+Dialogue: 0,0:34:20.64,0:34:27.58,Default,,0,0,0,,This picture set consists of the fun development of the graduates, and next year's graduates as they reach for their dream.
 Dialogue: 0,0:34:27.90,0:34:28.40,Default,,0,0,0,,Hai
-Dialogue: 0,0:34:28.56,0:34:35.06,Default,,0,0,0,,Speaking of which, this is the last time you'll see us in our uniform. Therefore it has a rare kind of feeling
-Dialogue: 0,0:34:35.50,0:34:39.74,Default,,0,0,0,,Here we introduced it, but sorry.
-Dialogue: 0,0:34:39.84,0:34:41.14,Default,,0,0,0,,They're all actually sold out
+Dialogue: 0,0:34:28.56,0:34:35.06,Default,,0,0,0,,Speaking of which, this is the last time you'll see us in our uniform. Therefore it has a rare kind of feeling.
+Dialogue: 0,0:34:35.50,0:34:39.74,Default,,0,0,0,,Here we introduced it, but sorry,
+Dialogue: 0,0:34:39.84,0:34:41.14,Default,,0,0,0,,They're all actually sold out.
 Dialogue: 0,0:34:40.96,0:34:42.50,Default,,0,0,0,,Sorry!
 Dialogue: 0,0:34:43.00,0:34:45.02,Default,,0,0,0,,We apologize!
-Dialogue: 0,0:34:46.36,0:34:47.42,Default,,0,0,0,,Sorry
-Dialogue: 0,0:34:47.82,0:34:48.92,Default,,0,0,0,,But you know what
-Dialogue: 0,0:34:49.32,0:34:52.04,Default,,0,0,0,,We have some information for you right now
+Dialogue: 0,0:34:46.36,0:34:47.42,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:34:47.82,0:34:48.92,Default,,0,0,0,,But you know what,
+Dialogue: 0,0:34:49.32,0:34:52.04,Default,,0,0,0,,We have some information for you right now.
 Dialogue: 0,0:34:53.54,0:35:05.94,Default,,0,0,0,,Amuse's official online shop called Asmart! will sell the last photo set!
 Dialogue: 0,0:35:07.02,0:35:07.78,Default,,0,0,0,,We will sell them!
 Dialogue: 0,0:35:08.04,0:35:08.84,Default,,0,0,0,,We will sell them!
-Dialogue: 0,0:35:12.88,0:35:18.70,Default,,0,0,0,,We can get in trouble for doing this kind of things without the approval of the teachers
-Dialogue: 0,0:35:18.90,0:35:23.36,Default,,0,0,0,,We'll try our best to persuade the teachers to include this
-Dialogue: 0,0:35:23.56,0:35:29.14,Default,,0,0,0,,So the fukei-sans who cant buy it today, please look forward to the release in Asmart!
+Dialogue: 0,0:35:12.88,0:35:18.70,Default,,0,0,0,,We can get in trouble for doing this kind of thing without the approval of the teachers.
+Dialogue: 0,0:35:18.90,0:35:23.36,Default,,0,0,0,,We'll try our best to persuade the teachers to include this.
+Dialogue: 0,0:35:23.56,0:35:29.14,Default,,0,0,0,,So the fukei-sans who can't buy it today, please look forward to the release at Asmart!
 Dialogue: 0,0:35:29.40,0:35:31.14,Default,,0,0,0,,Onegaishimasu
 Dialogue: 0,0:35:34.82,0:35:38.06,Default,,0,0,0,,We will now introduce the second item!
 Dialogue: 0,0:35:38.36,0:35:40.70,Default,,0,0,0,,And it is:
 Dialogue: 0,0:35:41.90,0:35:45.06,Default,,0,0,0,,The road to graduation glass!
-Dialogue: 0,0:35:47.64,0:35:54.40,Default,,0,0,0,,This glass can be used for special occasions or casual days
+Dialogue: 0,0:35:47.64,0:35:54.40,Default,,0,0,0,,This glass can be used for special occasions or casual days.
 Dialogue: 0,0:35:54.30,0:35:55.68,Default,,0,0,0,,That's right
-Dialogue: 0,0:35:55.10,0:35:58.82,Default,,0,0,0,,But you know, glass are fragile therefore it may break
-Dialogue: 0,0:35:58.82,0:36:00.44,Default,,0,0,0,,They are indeed fragile
+Dialogue: 0,0:35:55.10,0:35:58.82,Default,,0,0,0,,But you know, glass is fragile, therefore it may break.
+Dialogue: 0,0:35:58.82,0:36:00.44,Default,,0,0,0,,They are indeed fragile.
 Dialogue: 0,0:35:59.98,0:36:01.82,Default,,0,0,0,,For times like these,
-Dialogue: 0,0:36:02.00,0:36:04.66,Default,,0,0,0,,Pre-ordering them is a must
+Dialogue: 0,0:36:02.00,0:36:04.66,Default,,0,0,0,,Pre-ordering them is a must.
 Dialogue: 0,0:36:04.92,0:36:07.78,Default,,0,0,0,,Say, ShiraSaki, a tragedy happened to you recently right?
-Dialogue: 0,0:36:07.56,0:36:08.40,Default,,0,0,0,,Yes, that's right
+Dialogue: 0,0:36:07.56,0:36:08.40,Default,,0,0,0,,Yes, that's right.
 Dialogue: 0,0:36:08.58,0:36:10.20,Default,,0,0,0,,Actually,
-Dialogue: 0,0:36:10.20,0:36:13.44,Default,,0,0,0,,The other day, I lost my Sakura buspass case, a Sakura Gakuin merchandise
+Dialogue: 0,0:36:10.20,0:36:13.44,Default,,0,0,0,,The other day, I lost my Sakura bus pass case, a Sakura Gakuin merchandise.
 Dialogue: 0,0:36:14.42,0:36:16.80,Default,,0,0,0,,Although I'm glad I found it,
-Dialogue: 0,0:36:16.90,0:36:18.34,Default,,0,0,0,,I regretted not having a spare in the meantime
-Dialogue: 0,0:36:18.34,0:36:21.26,Default,,0,0,0,,So everybody should also reserve their copy
-Dialogue: 0,0:36:23.00,0:36:29.60,Default,,0,0,0,,To be honest, Yunano would definitely break like 3 or so
-Dialogue: 0,0:36:31.78,0:36:35.04,Default,,0,0,0,,I'm also thinking about buying some for my family
+Dialogue: 0,0:36:16.90,0:36:18.34,Default,,0,0,0,,I regretted not having a spare in the meantime.
+Dialogue: 0,0:36:18.34,0:36:21.26,Default,,0,0,0,,So everybody should also reserve their copy.
+Dialogue: 0,0:36:23.00,0:36:29.60,Default,,0,0,0,,To be honest, Yunano would definitely break like 3 or so.
+Dialogue: 0,0:36:31.78,0:36:35.04,Default,,0,0,0,,I'm also thinking about buying some for my family.
 Dialogue: 0,0:36:35.28,0:36:36.94,Default,,0,0,0,,Maybe like 10 pieces?
 Dialogue: 0,0:36:37.30,0:36:40.08,Default,,0,0,0,,That amount sounds about right?
 Dialogue: 0,0:36:39.10,0:36:40.08,Default,,0,0,0,,Riiighhttt?
-Dialogue: 0,0:36:40.40,0:36:44.48,Default,,0,0,0,,So anyways, please check it out
+Dialogue: 0,0:36:40.40,0:36:44.48,Default,,0,0,0,,So anyway, please check it out.
 Dialogue: 0,0:36:44.20,0:36:45.18,Default,,0,0,0,,Onegaishimasu
 Dialogue: 0,0:36:48.24,0:36:51.62,Default,,0,0,0,,There are many more other items,
-Dialogue: 0,0:36:51.86,0:37:08.54,Default,,0,0,0,,But the album "Kimi ni Todoke" has these concert exclusive items so if you purchase the album from O-east, you will receive a clear file
-Dialogue: 0,0:37:11.44,0:37:15.06,Default,,0,0,0,,To all the ones who hasn't purchased it yet, please check it out
+Dialogue: 0,0:36:51.86,0:37:08.54,Default,,0,0,0,,But the album "Kimi ni Todoke" has these concert exclusive items, so if you purchase the album from O-east, you will receive a clear file.
+Dialogue: 0,0:37:11.44,0:37:15.06,Default,,0,0,0,,To all the ones who haven't purchased it yet, please check it out.
 Dialogue: 0,0:37:15.34,0:37:16.98,Default,,0,0,0,,Onegaishimasu
 Dialogue: 0,0:37:19.72,0:37:21.64,Default,,0,0,0,,Yes, and also,
-Dialogue: 0,0:37:22.00,0:37:26.08,Default,,0,0,0,,Yunano has another merchandise recommendation
+Dialogue: 0,0:37:22.00,0:37:26.08,Default,,0,0,0,,Yunano has another merchandise recommendation.
 Dialogue: 0,0:37:26.56,0:37:34.38,Default,,0,0,0,,The graduation photo collection, we are going to sell them during this live!
 Dialogue: 0,0:37:38.94,0:37:42.10,Default,,0,0,0,,You know, they are autographed
 Dialogue: 0,0:37:43.04,0:37:44.10,Default,,0,0,0,,Isn't that great?
-Dialogue: 0,0:37:44.88,0:37:47.52,Default,,0,0,0,,We put our hearts into signing them
+Dialogue: 0,0:37:44.88,0:37:47.52,Default,,0,0,0,,We put our hearts into signing them.
 Dialogue: 0,0:37:47.90,0:37:51.40,Default,,0,0,0,,So please, everyone, check it out
 Dialogue: 0,0:37:51.42,0:37:53.26,Default,,0,0,0,,Yoroshiku onegaishimasu!
-Dialogue: 0,0:37:57.38,0:38:03.34,Default,,0,0,0,,But anyways, forgive me for saying "please check it out, please check it out" over and over
-Dialogue: 0,0:38:03.68,0:38:06.74,Default,,0,0,0,,In the end, for the last bit, we would like to end this with a pose
+Dialogue: 0,0:37:57.38,0:38:03.34,Default,,0,0,0,,But anyway, forgive me for saying "please check it out, please check it out" over and over.
+Dialogue: 0,0:38:03.68,0:38:06.74,Default,,0,0,0,,In the end, for the last bit, we would like to end this with a pose.
 Dialogue: 0,0:38:07.16,0:38:11.84,Default,,0,0,0,,There are many other merchandise, so please everyone
 Dialogue: 0,0:38:11.84,0:38:14.54,Default,,0,0,0,,Check 'em out!
-Dialogue: 0,0:39:53.53,0:39:57.22,Default,,0,0,0,,Everyone, today you will get something from us
-Dialogue: 0,0:39:57.22,0:40:00.28,Default,,0,0,0,,We're going to do a special service to you all!
+Dialogue: 0,0:39:53.53,0:39:57.22,Default,,0,0,0,,Everyone, today you will get something from us.
+Dialogue: 0,0:39:57.22,0:40:00.28,Default,,0,0,0,,We're going to do a special service for you all!
 Dialogue: 0,0:40:00.28,0:40:03.18,Default,,0,0,0,,Please take these autographed T-shirts!
 Dialogue: 0,0:40:03.18,0:40:04.33,Default,,0,0,0,,Get ready for us!
 Dialogue: 0,0:40:05.96,0:40:06.74,Default,,0,0,0,,Here we go!
