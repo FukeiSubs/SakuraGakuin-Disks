@@ -47,7 +47,7 @@ The first Japanese -> English translations will be proofread and improved by pre
 
 | Part (+duration)                                    | English | Japanese | File                      |
 |-----------------------------------------------------|---------|----------|---------------------------|
-| Rinon's soji                                        | Akamaru226 `(ongoing)` | Akamaru226 `(ongoing)`  | rinon-soji.ass            |
+| Rinon's soji                                        | Akamaru226 `(done)` | Akamaru226 `(done)`  | rinon-soji.ass            |
 | Moa's toji `(10:43)`                                | TheThrawn `(done)`  | **?**    | moa-toji.ass              |
 | Principal Kuramoto's speech `(08:04)`               | TheThrawn `(done)`  | **?**    | kuramoto-speech.ass       |
 | Mori-sensei's speech `(18:47)`                      | Shadeslayr `(done)` | **?**    | mori-speech.ass           |
@@ -56,7 +56,7 @@ The first Japanese -> English translations will be proofread and improved by pre
 | Intro and other talks 'Spin in the Wind'            | TheThrawn `(done)` | **?**    | spin-in-the-wind.ass      |
 | Intro and other talks 'Piece de Check'              | TheThrawn `(done)`  | **?**    | piece-de-check.ass        |
 | Intro to 'Yume ni Mukatte' `(0:51)`                 | Akamaru226 `(done)`   | Akamaru226 `(done)`   | yume-ni-mukatte.ass       |
-| MC #1 `(02:45)`                                     | EraYaN `(needs feedback from japanese)`   | **?**    | MC1.ass                   |
+| MC #1 `(02:45)`                                     | TheThrawn `(done)`  | **?**    | MC1.ass                   |
 | MC #2 `(03:56)`                                     | Akamaru226 `(done)`  | Akamaru226 `(done)`    | MC2.ass                   |
 | MC #3 `(03:31)`                                     | Akamaru226 `(done)`  | Akamaru226 `(done)`  | MC3.ass                   |
 | MC #4 `(00:34)`                                     | TheThrawn `(done)`  | **?**    | MC4.ass                   |
