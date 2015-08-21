@@ -54,7 +54,7 @@ The first Japanese -> English translations will be proofread and improved by pre
 | Intro to 'Mesaze! Super Lady -2014 nendo-' `(0:40)` | Akamaru226 `(done)` | Akamaru226 `(done)`    | mezase-intro.ass          |
 | Talks in 'Gokigen! Mr. Tropicalory' `(0:30)`        | TheThrawn `(done)` | **?**           | tropicalory-talk.ass          |
 | Intro and other talks 'Spin in the Wind'            | TheThrawn `(done)` | **?**    | spin-in-the-wind.ass      |
-| Intro and other talks 'Piece de Check'              | TheThrawn `(ongoing)`  | **?**    | piece-de-check.ass        |
+| Intro and other talks 'Piece de Check'              | TheThrawn `(done)`  | **?**    | piece-de-check.ass        |
 | Intro to 'Yume ni Mukatte' `(0:51)`                 | Akamaru226 `(done)`   | Akamaru226 `(done)`   | yume-ni-mukatte.ass       |
 | MC #1 `(02:45)`                                     | EraYaN `(needs feedback from japanese)`   | **?**    | MC1.ass                   |
 | MC #2 `(03:56)`                                     | Akamaru226 `(done)`  | Akamaru226 `(done)`    | MC2.ass                   |
