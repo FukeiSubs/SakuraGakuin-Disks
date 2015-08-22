@@ -61,7 +61,7 @@ The first Japanese -> English translations will be proofread and improved by pre
 | MC #3 `(03:31)`                                     | Akamaru226 `(done)`  | Akamaru226 `(done)`  | MC3.ass                   |
 | MC #4 `(00:34)`                                     | TheThrawn `(done)`  | **?**    | MC4.ass                   |
 | MC #5 `(03:00)`                                     | Akamaru226 `(done)`   | Akamaru226 `(done)`    | MC5.ass                   |
-| MC #6                                               | TheThrawn `(ongoing)`  | **?**    | MC6.ass                   |
+| MC #6                                               | TheThrawn `(done)`  | **?**    | MC6.ass                   |
 | Setlist songs Romaji `(N/A)`                        | **?**   | **?**    | {songname}-lyrics-rom.ass |
 | Setlist songs English `(N/A)`                       | **?**   | **?**    | {songname}-lyrics-eng.ass  |
 | Setlist songs Japanese `(N/A)`                        | **?**   | **?**    | {songname}-lyrics-jpn.ass |
