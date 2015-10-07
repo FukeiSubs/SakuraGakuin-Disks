@@ -24,5 +24,5 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:04:49.44,0:04:50.16,Default,,0,0,0,,Everyone!
-Dialogue: 0,0:04:50.33,0:04:52.30,Default,,0,0,0,,<something> おねがいします！
+Dialogue: 0,0:04:50.33,0:04:52.30,Default,,0,0,0,,We would like you all to clap!
 Dialogue: 0,0:04:52.30,0:04:53.50,Default,,0,0,0,,おねがいします！
