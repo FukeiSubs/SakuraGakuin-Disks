@@ -14,7 +14,10 @@ Audio File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
-Video Position: 1039
+Video Zoom Percent: 0.625000
+Scroll Position: 12
+Active Line: 19
+Video Position: 1682
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,13 +25,31 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:34.66,0:00:38.13,Default,,0,0,0,,Soredewa shussekiwo torimasu\NNow, I'll call the roll
-Dialogue: 0,0:00:39.16,0:00:41.12,Default,,0,0,0,,Doumo Sakura Gakuin tannin no MORI HAYASHI desu\NWelcome! I am Mori Hayashi, homeroom teacher of Sakura Gakuin\N
-Dialogue: 0,0:00:41.12,0:00:46.16,Default,,0,0,0,,2014nendomo shimekukurino raibu, minasan, moetsukiru junbiwa dekiteimasuka?\NHere goes the last concert in 2014nendo. Everyone, are you ready to challenge your limit in enjoying yourself?
-Dialogue: 0,0:00:46.16,0:00:48.20,Default,,0,0,0,,Raibu byuuingu wa miteruka?\NIs everyone from the Live Viewing watching?
-Dialogue: 0,0:00:48.20,0:00:52.54,Default,,0,0,0,,Moetsukiru junbiwa...Nanda nanda? Omaera -- Hayaku Hayaku! Shusseki totte...Shusseki torukara\NAre you ready...What? Girls, what are you doing? Hurry up! Take your spot...I about to call the roll!
-Dialogue: 0,0:00:52.54,0:00:59.14,Default,,0,0,0,,Minna junbishite, junbishite... Naninaninani? Hako ga nai? Hako aru. Hako, askoni arukara. Hayaku totte\NEveryone, get ready!... What? You can't find the box? The box is there! It's over there! Hurry up and take it!
-Dialogue: 0,0:00:59.27,0:01:03.57,Default,,0,0,0,,Minna sorottenno? Minna sorotteru? Nanka Ninzuu Tarinaiyo... Hokano Menbaa wa?\NIs everyone here? I think some members are missing! Whre are other members?1
-Dialogue: 0,0:01:03.57,0:01:06.86,Default,,0,0,0,,Detekonai? Detekonai? Moriagaru Junbi Dekitennokana kore?\NNot everyone yet? Still waiting? Are you really ready to challenge your limit?
-Dialogue: 0,0:01:06.86,0:01:11.69,Default,,0,0,0,,Ah, kita kita kita. Sorotta sorotta. Yoshi, minna, shusseki toruzo. Moariagatte ikukarana\NOh, here they are. Everyone is ready now! Well, girls, I'll call the roll! Let's have a blast! 
-Dialogue: 0,0:01:11.69,0:01:15.34,Default,,0,0,0,,Minasan hajikete ikuzo! Kore ga kotoshi no Sakura Gakuin da!\NEveryone, let's get hyper! Here’s this year’s Sakura Gakuin!
+Dialogue: 0,0:00:34.78,0:00:38.18,Default,,0,0,0,,Soredewa...shusseki wo torimasu
+Dialogue: 0,0:00:39.02,0:00:41.12,Default,,0,0,0,,Doumo! Sakura Gakuin tannin no Mori Hayashi desu
+Dialogue: 0,0:00:41.12,0:00:43.28,Default,,0,0,0,,2014 Nendo mo shimekukurino raibu
+Dialogue: 0,0:00:43.28,0:00:45.86,Default,,0,0,0,,Minna-san, moetsukiru junbiwa dekiteimasu ka?
+Dialogue: 0,0:00:46.37,0:00:48.18,Default,,0,0,0,,Raibu byuuingu wa miteru ka?
+Dialogue: 0,0:00:48.20,0:00:50.84,Default,,0,0,0,,Moetsukiru junbiwa?... Nanda nanda? Omaera -- Hayaku, hayaku!
+Dialogue: 0,0:00:50.84,0:00:52.78,Default,,0,0,0,,Shusseki totte...Shusseki torukara
+Dialogue: 0,0:00:52.54,0:00:56.09,Default,,0,0,0,,Minna junbishite, junbishite... Naninaninani? Hako ga nai?
+Dialogue: 0,0:00:56.09,0:00:59.44,Default,,0,0,0,,Hako aru. Hako, asoko ni arukara. Hayaku totte
+Dialogue: 0,0:00:59.27,0:01:03.57,Default,,0,0,0,,Minna sorottenno? Minna sorotteru? Nanka ninzuu tarinai yo... Hokano menbaa wa?
+Dialogue: 0,0:01:03.57,0:01:06.73,Default,,0,0,0,,Detekonai? Detekonai? Moriagaru junbi dekitennokana kore?
+Dialogue: 0,0:01:06.73,0:01:08.81,Default,,0,0,0,,Ah, kita kita kita. Sorotta sorotta.
+Dialogue: 0,0:01:08.81,0:01:11.77,Default,,0,0,0,,Yoshi, minna, shusseki toruzo. Moriagatte ikukarana
+Dialogue: 0,0:01:11.77,0:01:15.49,Default,,0,0,0,,Minna-san hajikete ikuzo! Kore ga kotoshi no Sakura Gakuin da!
+Dialogue: 0,0:00:34.78,0:00:38.18,Default,,0,0,0,,Now...I'll call the roll
+Dialogue: 0,0:00:39.02,0:00:41.12,Default,,0,0,0,,Welcome! I am Mori Hayashi, homeroom teacher of Sakura Gakuin
+Dialogue: 0,0:00:41.12,0:00:43.28,Default,,0,0,0,,Here goes the last concert in 2014 Nendo.
+Dialogue: 0,0:00:43.28,0:00:45.86,Default,,0,0,0,,Everyone, are you ready to challenge your limits in enjoying yourself?
+Dialogue: 0,0:00:46.37,0:00:48.18,Default,,0,0,0,,Is everyone from the Live Viewing watching?
+Dialogue: 0,0:00:48.20,0:00:50.84,Default,,0,0,0,,Are you ready?... What? Girls, what are you doing? Hurry up!
+Dialogue: 0,0:00:50.84,0:00:52.78,Default,,0,0,0,,Take your spot...I am about to call the roll!
+Dialogue: 0,0:00:52.54,0:00:56.09,Default,,0,0,0,,Everyone, get ready!... What? You can't find the box?
+Dialogue: 0,0:00:56.09,0:00:59.44,Default,,0,0,0,,The box is there! It's over there! Hurry up and take it!
+Dialogue: 0,0:00:59.44,0:01:03.57,Default,,0,0,0,,Is everyone here? I think some members are missing! Where are the other members?
+Dialogue: 0,0:01:03.57,0:01:06.73,Default,,0,0,0,,Not everyone yet? Still waiting? Are you really ready to challenge your limits?
+Dialogue: 0,0:01:06.73,0:01:08.81,Default,,0,0,0,,Oh, here they are. Everyone is ready now!
+Dialogue: 0,0:01:08.81,0:01:11.77,Default,,0,0,0,,Well, girls, I'll call the roll! Let's have a blast!
+Dialogue: 0,0:01:11.77,0:01:15.49,Default,,0,0,0,,Everyone, let's get hyper! Here’s this year’s Sakura Gakuin!

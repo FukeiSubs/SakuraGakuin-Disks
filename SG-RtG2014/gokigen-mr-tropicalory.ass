@@ -14,8 +14,8 @@ Audio File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
-Active Line: 1
-Video Position: 33985
+Active Line: 6
+Video Position: 32949
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,8 +23,8 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:18:19.38,0:18:23.51,Default,,0,0,0,,Well, everybody, let's work out, to get our bellies into shape.
-Dialogue: 0,0:18:23.51,0:18:26.08,Default,,0,0,0,,Twist your body from the right.
+Dialogue: 0,0:18:19.68,0:18:23.51,Default,,0,0,0,,Well, everybody, let's work out, to get our bellies into shape.
+Dialogue: 0,0:18:23.51,0:18:25.80,Default,,0,0,0,,Twist your body from the right.
 Dialogue: 0,0:18:26.08,0:18:27.05,Default,,0,0,0,,Ready?
 Dialogue: 0,0:18:27.08,0:18:45.04,Default,,0,0,0,,1,2,3,4,5,6,7,8.
 Dialogue: 0,0:18:29.67,0:18:31.07,Default,,0,0,0,,Raise your hands!
