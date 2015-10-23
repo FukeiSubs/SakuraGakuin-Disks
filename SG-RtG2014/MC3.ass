@@ -14,9 +14,9 @@ Audio File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
-Scroll Position: 25
-Active Line: 49
-Video Position: 123490
+Scroll Position: 40
+Active Line: 44
+Video Position: 119565
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +33,7 @@ Dialogue: 0,1:05:32.40,1:05:35.68,Default,,0,0,0,,You are ruthless!
 Dialogue: 0,1:05:35.68,1:05:37.74,Default,,0,0,0,,errr...I don't know the way neither
 Dialogue: 0,1:05:37.74,1:05:40.20,Default,,0,0,0,,Oh! You don't?
 Dialogue: 0,1:05:40.20,1:05:44.50,Default,,0,0,0,,Even if I knew it, I couldn't tell...the story would go into a mess
-Dialogue: 0,1:05:44.50,1:05:51.92,Default,,0,0,0,,In this song, we make good use of the 2nd floor...so I felt audience in the 2nd and the 3rd floor a little closer 
+Dialogue: 0,1:05:44.50,1:05:51.92,Default,,0,0,0,,In this song, we make good use of the 2nd floor...so I felt audience in the 2nd and the 3rd floor a little closer
 Dialogue: 0,1:05:51.92,1:05:56.88,Default,,0,0,0,,I'm pleased to play this song here
 Dialogue: 0,1:05:56.88,1:05:58.81,Default,,0,0,0,,Thank you very much
 Dialogue: 0,1:06:01.00,1:06:08.78,Default,,0,0,0,,And, since the club activity part, the setting of the stage changed a little
@@ -42,8 +42,8 @@ Dialogue: 0,1:06:13.76,1:06:18.88,Default,,0,0,0,,wo...it seems difficult\NReall
 Dialogue: 0,1:06:18.88,1:06:21.61,Default,,0,0,0,,Oh my...
 Dialogue: 0,1:06:21.61,1:06:25.40,Default,,0,0,0,,Well, now I tell you the answer
 Dialogue: 0,1:06:25.74,1:06:27.01,Default,,0,0,0,,Look at the background
-Dialogue: 0,1:06:27.69,1:06:29.48,Default,,0,0,0,,It's Sparkling!
-Dialogue: 0,1:06:29.48,1:06:33.92,Default,,0,0,0,,Since the beginning, the background presented an aurora 
+Dialogue: 0,1:06:27.69,1:06:29.48,Default,,0,0,0,,It's sparkling!
+Dialogue: 0,1:06:29.48,1:06:33.92,Default,,0,0,0,,Since the beginning, the background presented an aurora
 Dialogue: 0,1:06:33.92,1:06:39.62,Default,,0,0,0,,And since the club activity part, it changed into this starry sky!
 Dialogue: 0,1:06:40.54,1:06:42.05,Default,,0,0,0,,It's beautiful
 Dialogue: 0,1:06:42.49,1:06:47.50,Default,,0,0,0,,Recently, Yui loves to see night sky
@@ -55,7 +55,7 @@ Dialogue: 0,1:07:01.30,1:07:02.78,Default,,0,0,0,,Your intention reached somehow
 Dialogue: 0,1:07:04.68,1:07:07.53,Default,,0,0,0,,I hoped to see shooting stars
 Dialogue: 0,1:07:08.68,1:07:10.00,Default,,0,0,0,,And I've watched the background carefully
 Dialogue: 0,1:07:10.46,1:07:12.48,Default,,0,0,0,,but there was no shooting star at all
-Dialogue: 0,1:07:12.97,1:07:16.84,Default,,0,0,0,,Yunano was looking for Winter Triangle 
+Dialogue: 0,1:07:12.97,1:07:16.84,Default,,0,0,0,,Yunano was looking for Winter Triangle
 Dialogue: 0,1:07:16.84,1:07:21.20,Default,,0,0,0,,You can somehow find a kind of triangle...\Nah...I see
 Dialogue: 0,1:07:21.52,1:07:23.65,Default,,0,0,0,,In a very creative way?
 Dialogue: 0,1:07:23.65,1:07:26.26,Default,,0,0,0,,Maybe...let's just say that there is a triangle

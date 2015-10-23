@@ -14,8 +14,9 @@ Audio File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
-Active Line: 10
-Video Position: 153853
+Scroll Position: 28
+Active Line: 37
+Video Position: 153079
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,17 +25,17 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,1:24:51.88,1:24:55.33,Default,,0,0,0,,Thank you very much
-Dialogue: 0,1:24:56.77,1:25:01.49,Default,,0,0,0,, It's an nice tune, absolutely! \NI'm so impressed. 
+Dialogue: 0,1:24:56.77,1:25:01.49,Default,,0,0,0,,It's an nice tune, absolutely! \NI'm so impressed.
 Dialogue: 0,1:25:01.49,1:25:02.98,Default,,0,0,0,,It's so cute!
-Dialogue: 0,1:25:02.98,1:25:05.53,Default,,0,0,0,,Fukei-sans, it's a liitle too early to cry
+Dialogue: 0,1:25:02.98,1:25:05.53,Default,,0,0,0,,Fukei-sans, it's a little too early to cry
 Dialogue: 0,1:25:05.53,1:25:07.73,Default,,0,0,0,,Too early!
 Dialogue: 0,1:25:07.73,1:25:11.86,Default,,0,0,0,,When Saki heard this song for the first time, I cried too
-Dialogue: 0,1:25:11.86,1:25:19.20,Default,,0,0,0,,The lyric and music are awesome, and the choreo is cute....It is made just to make us cry, don't you think so? 
+Dialogue: 0,1:25:11.86,1:25:19.20,Default,,0,0,0,,The lyric and music are awesome, and the choreo is cute....It is made just to make us cry, don't you think so?
 Dialogue: 0,1:25:19.20,1:25:24.42,Default,,0,0,0,,You are talking like an old lady.\NLike a lady,yes\NOr just a Fukei-san
 Dialogue: 0,1:25:24.42,1:25:29.54,Default,,0,0,0,,I love Yunano's line "Ikanakya〜"
 Dialogue: 0,1:25:29.54,1:25:33.56,Default,,0,0,0,,I see. It's true\NReally?
 Dialogue: 0,1:25:33.56,1:25:37.08,Default,,0,0,0,,For Yunano....it's a less favorite line
-Dialogue: 0,1:25:37.08,1:25:40.72,Default,,0,0,0,,Why? It's really cute. 
+Dialogue: 0,1:25:37.08,1:25:40.72,Default,,0,0,0,,Why? It's really cute.
 Dialogue: 0,1:25:40.72,1:25:46.04,Default,,0,0,0,,It's embarrassing....but the teachers told me you have to do it
 Dialogue: 0,1:25:46.78,1:25:50.61,Default,,0,0,0,,There is an image that Yunano sings very straightforwardly
 Dialogue: 0,1:25:50.61,1:25:53.32,Default,,0,0,0,,So, the singing in a very Idol-like way is...
@@ -45,17 +46,17 @@ Dialogue: 0,1:26:04.69,1:26:08.86,Default,,0,0,0,,The lyric is super good
 Dialogue: 0,1:26:08.86,1:26:14.60,Default,,0,0,0,,It was written by Inaba Emi-san, and the lyric are really great
 Dialogue: 0,1:26:14.60,1:26:20.24,Default,,0,0,0,,It expresses our feelings exactly...so it's very nice to sing this song
 Dialogue: 0,1:26:20.24,1:26:21.77,Default,,0,0,0,,I see
-Dialogue: 0,1:26:21.77,1:26:29.78,Default,,0,0,0,,To sing a song with only the graduating members has been a tradition since the year of Ayami-chan, Ayaka-chan and Airin.\NYes it's true 
+Dialogue: 0,1:26:21.77,1:26:29.78,Default,,0,0,0,,To sing a song with only the graduating members has been a tradition since the year of Ayami-chan, Ayaka-chan and Airin.\NYes it's true
 Dialogue: 0,1:26:29.78,1:26:36.65,Default,,0,0,0,,So, I'm pleased we could succeed the tradition. And the color of the song fits 4 of us exactly. Don't you think so?
 Dialogue: 0,1:26:36.65,1:26:39.72,Default,,0,0,0,,Indeed! This song is super peaceful
 Dialogue: 0,1:26:40.76,1:26:44.73,Default,,0,0,0,,At the beginning....please listen to the intro...you can hear a bird singing
 Dialogue: 0,1:26:44.73,1:26:47.76,Default,,0,0,0,,Yes. It's a very morning-like song.
 Dialogue: 0,1:26:47.76,1:26:50.24,Default,,0,0,0,,I got up with this song in this morning
 Dialogue: 0,1:26:50.24,1:26:52.72,Default,,0,0,0,,It sounds good
-Dialogue: 0,1:26:52.72,1:26:55.04,Default,,0,0,0,,It's good. A bird is a symbol of peace. 
+Dialogue: 0,1:26:52.72,1:26:55.04,Default,,0,0,0,,It's good. A bird is a symbol of peace.
 Dialogue: 0,1:26:56.21,1:26:57.86,Default,,0,0,0,,Everyone, please make this song your alarm music
 Dialogue: 0,1:26:59.05,1:27:01.42,Default,,0,0,0,,You can really get up comfortably
-Dialogue: 0,1:27:01.42,1:27:07.30,Default,,0,0,0,,It was an unveiling --and our last playing of this song. I'm very pleased we could  show you at last. \N It was fun
+Dialogue: 0,1:27:01.42,1:27:07.30,Default,,0,0,0,,It was an unveiling -- and our last playing of this song. I'm very pleased we could show you at last. \N It was fun
 Dialogue: 0,1:27:07.30,1:27:10.22,Default,,0,0,0,,Thank you very much
 Dialogue: 0,1:27:15.48,1:27:22.16,Default,,0,0,0,,Well, the song made us sentimental and I can see several Fukei-sans crying...\NIt's too early
 Dialogue: 0,1:27:22.16,1:27:29.70,Default,,0,0,0,,But we want to enjoy more. Fukei-sans, are you ready to get hyper together with us?
