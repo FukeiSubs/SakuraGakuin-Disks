@@ -15,8 +15,8 @@ Video File: D:/Downloads/Sakura Gakuin The Road to Graduation Final 2014/Sakura 
 Video AR Mode: 4
 Video AR Value: 1.777083
 Video Zoom Percent: 0.750000
-Scroll Position: 72
-Active Line: 77
+Scroll Position: 63
+Active Line: 70
 Video Position: 3092
 
 [V4+ Styles]
@@ -36,7 +36,7 @@ Dialogue: 0,0:01:22.54,0:01:24.61,Default,,0,0,0,,Yui wa konna ni ookiku natta m
 Dialogue: 0,0:01:24.61,0:01:24.97,Default,,0,0,0,,Kikuchi!
 Dialogue: 0,0:01:24.97,0:01:28.04,Default,,0,0,0,,Aidoru dakedo aidoru otaku, chicchai otona
 Dialogue: 0,0:01:28.04,0:01:31.58,Default,,0,0,0,,Koakuma keihou hatsureichu
-Dialogue: 0,0:01:31.58,0:01:34.17,Default,,0,0,0,,Moa ni gochui
+Dialogue: 0,0:01:31.58,0:01:34.17,Default,,0,0,0,,Moa ni gochui!
 Dialogue: 0,0:01:34.17,0:01:35.05,Default,,0,0,0,,Notsu!
 Dialogue: 0,0:01:35.05,0:01:38.29,Default,,0,0,0,,Niko niko shinagara doku wo haku! kakushinhan
 Dialogue: 0,0:01:38.29,0:01:41.05,Default,,0,0,0,,Mizukara nazuketa adana wa?
@@ -50,7 +50,6 @@ Dialogue: 0,0:01:56.52,0:01:59.93,Default,,0,0,0,,Cho cho cho watashi no koto "w
 Dialogue: 0,0:01:59.93,0:02:03.37,Default,,0,0,0,,Mitame to no gyappu ga miryoku
 Dialogue: 0,0:02:03.37,0:02:06.92,Default,,0,0,0,,Nisshingeppo, mitero, kono joshiryoku
 Dialogue: 0,0:02:06.92,0:02:11.05,Default,,0,0,0,,Mezase! Suupaa Redii wo
-Dialogue: 0,0:02:11.05,0:02:14.36,Default,,0,0,0,,Jump Jump Jump Jump Jump \N (High! High! High!)
 Dialogue: 0,0:02:23.88,0:02:24.45,Default,,0,0,0,,Shirai!
 Dialogue: 0,0:02:24.45,0:02:26.25,Default,,0,0,0,,Jibara de raibu ni kayottemashita
 Dialogue: 0,0:02:26.25,0:02:27.81,Default,,0,0,0,,Guzzu mo zenbu kaimashita
@@ -74,7 +73,6 @@ Dialogue: 0,0:03:04.46,0:03:08.20,Default,,0,0,0,,Nee nee nee watashi no koto "C
 Dialogue: 0,0:03:08.20,0:03:11.40,Default,,0,0,0,,Mitame tono gyappu ga miryoku
 Dialogue: 0,0:03:11.40,0:03:15.05,Default,,0,0,0,,Shogyoumujou migako sono joshiryoku
 Dialogue: 0,0:03:15.05,0:03:19.08,Default,,0,0,0,,Mezase! Suupaa Redii wo
-Dialogue: 0,0:03:19.08,0:03:22.38,Default,,0,0,0,,Jump Jump Jump Jump Jump \N (High! High! High!)
 Dialogue: 0,0:03:22.38,0:03:23.32,Default,,0,0,0,,Sore dewa, shusseki wo torimasu
 Dialogue: 0,0:03:23.32,0:03:24.82,Default,,0,0,0,,Chuutoubu sannen, Kikuchi Moa "Niko!"
 Dialogue: 0,0:03:24.82,0:03:25.96,Default,,0,0,0,,Taguchi Hana "Deyaa!"
@@ -106,7 +104,5 @@ Dialogue: 0,0:04:18.41,0:04:21.41,Default,,0,0,0,,Nee nee nee watashi no koto "O
 Dialogue: 0,0:04:21.41,0:04:24.62,Default,,0,0,0,,Mitame tono gyappu ga miryoku
 Dialogue: 0,0:04:24.62,0:04:28.22,Default,,0,0,0,,Shogyoumujou migako sono joshiryoku
 Dialogue: 0,0:04:28.22,0:04:32.26,Default,,0,0,0,,Mezase! Suupaa Redii wo
-Dialogue: 0,0:04:32.26,0:04:35.50,Default,,0,0,0,,Jump Jump Jump Jump Jump (High! High! High!)
-Dialogue: 0,0:04:35.50,0:04:39.13,Default,,0,0,0,,Jump Jump Jump Jump Jump (High! High! High!)
 Dialogue: 0,0:04:39.65,0:04:43.34,Default,,0,0,0,,Ijoh! Watashitachi seichoukigentei yunitto
 Dialogue: 0,0:04:43.34,0:04:44.90,Default,,0,0,0,,Sakura Gakuin desu!
