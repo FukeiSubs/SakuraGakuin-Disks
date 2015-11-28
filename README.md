@@ -11,7 +11,7 @@ Please for any note you might need please add a Markdown (.md) file with the sam
 **Please make sure the email in your client is the same as the email you used for github, or add the extra email to your github account, that way the commits will be attributed to you.**
 
 # Download
-http://jp.erayan.com/subtitles/fukeisubs/ (manual access needs to be granted until release, soon(tm))
+http://jp.erayan.com/subtitles/fukeisubs/
 
 
 # Our IRC
