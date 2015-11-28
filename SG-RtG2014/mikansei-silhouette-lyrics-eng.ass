@@ -8,7 +8,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Active Line: 18
+Active Line: 31
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,26 +28,26 @@ Dialogue: 0,1:16:05.46,1:16:10.88,Toptitle,,0,0,0,,These emotions and this nervo
 Dialogue: 0,1:16:11.34,1:16:15.05,Toptitle,,0,0,0,,As we laugh together lots and motivate one another,
 Dialogue: 0,1:16:15.05,1:16:18.28,Toptitle,,0,0,0,,the feelings that pile up in layers are a mille-feuille
 Dialogue: 0,1:16:18.28,1:16:23.60,Toptitle,,0,0,0,,A rainbow-colored harmony is playing
-Dialogue: 0,1:16:23.60,1:16:27.45,Toptitle,,0,0,0,,Before, I shed tears out of frustration at saying bye-bye
-Dialogue: 0,1:16:27.45,1:16:35.46,Toptitle,,0,0,0,,Now this clumsy me can say it without crying:
-Dialogue: 0,1:16:35.46,1:16:37.18,Toptitle,,0,0,0,,Bye, see you again tomorrow
+Dialogue: 0,1:16:23.60,1:16:27.45,Toptitle,,0,0,0,,Saying good bye to clumsy-me who shed tears out of frustration.
+Dialogue: 0,1:16:27.45,1:16:35.46,Toptitle,,0,0,0,,Now I can say it without crying:
+Dialogue: 0,1:16:35.46,1:16:37.18,Toptitle,,0,0,0,,"Bye, see you again tomorrow"
 Dialogue: 0,1:16:48.49,1:16:54.72,Toptitle,,0,0,0,,Lately, you’ve just been gazing up at the sky
 Dialogue: 0,1:16:54.72,1:17:00.74,Toptitle,,0,0,0,,You tell me of your endless dreams with unwavering eyes, but
 Dialogue: 0,1:17:00.74,1:17:06.92,Toptitle,,0,0,0,,when you undo your ribbon, it’s a sign that you’re turning into an adult
 Dialogue: 0,1:17:06.92,1:17:12.94,Toptitle,,0,0,0,,Don’t go away and leave me behind, complaints like that feel like slipping out
-Dialogue: 0,1:17:12.94,1:17:19.26,Toptitle,,0,0,0,,When your knee are side by side with mine, I get fired up
+Dialogue: 0,1:17:12.94,1:17:19.26,Toptitle,,0,0,0,,When your knee is side by side with mine, I get fired up
 Dialogue: 0,1:17:19.26,1:17:24.64,Toptitle,,0,0,0,,With the warmth you transmit me, my bluffing heart melts away gently
 Dialogue: 0,1:17:25.20,1:17:28.98,Toptitle,,0,0,0,,As we play with each other lots and even as we get mad
 Dialogue: 0,1:17:28.98,1:17:32.13,Toptitle,,0,0,0,,this mille-feuille of feelings won’t collapse
 Dialogue: 0,1:17:32.13,1:17:37.44,Toptitle,,0,0,0,,This pride of mine won’t be broken, not by anyone
 Dialogue: 0,1:17:37.44,1:17:41.25,Toptitle,,0,0,0,,Absolutely! want to convey it in my own fashion
 Dialogue: 0,1:17:41.25,1:17:49.26,Toptitle,,0,0,0,,Even if I’m incomplete, I’ll say it without any embarrassment:
-Dialogue: 0,1:17:49.26,1:17:51.10,Toptitle,,0,0,0,,Thank you, always
-Dialogue: 0,1:18:16.05,1:18:22.34,Toptitle,,0,0,0,,The color of the very first cellphone strap
-Dialogue: 0,1:18:22.34,1:18:27.81,Toptitle,,0,0,0,,that you gave me to match yours has faded since then, but...
+Dialogue: 0,1:17:49.26,1:17:51.10,Toptitle,,0,0,0,,"Thank you, always"
+Dialogue: 0,1:18:16.05,1:18:22.34,Toptitle,,0,0,0,,We carried the matching cellphone-straps as a proof of beginning of our friendship.
+Dialogue: 0,1:18:22.34,1:18:27.81,Toptitle,,0,0,0,,their color has faded since when you gave it to me, but...
 Dialogue: 0,1:18:28.34,1:18:32.09,Toptitle,,0,0,0,,As we laugh together and motivate one another all through our lives,
 Dialogue: 0,1:18:32.09,1:18:35.17,Toptitle,,0,0,0,,I want our friendship to pile up layers, like a mille-feuille
 Dialogue: 0,1:18:35.17,1:18:40.60,Toptitle,,0,0,0,,All over the world, a rainbow-colored harmony
-Dialogue: 0,1:18:40.60,1:18:44.36,Toptitle,,0,0,0,,Before, I shed tears out of frustration at bye-bye
-Dialogue: 0,1:18:44.36,1:18:52.32,Toptitle,,0,0,0,,Now this clumsy me can say it without crying:
-Dialogue: 0,1:18:52.32,1:18:54.00,Toptitle,,0,0,0,,Bye, see you again tomorrow
+Dialogue: 0,1:18:40.60,1:18:44.36,Toptitle,,0,0,0,,Saying good bye to clumsy-me who shed tears out of frustration.
+Dialogue: 0,1:18:44.36,1:18:52.32,Toptitle,,0,0,0,,Now I can say it without crying:
+Dialogue: 0,1:18:52.32,1:18:54.00,Toptitle,,0,0,0,,"Bye, see you again tomorrow"

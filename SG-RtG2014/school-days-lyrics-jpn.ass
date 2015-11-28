@@ -8,6 +8,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
+Active Line: 15
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,8 +34,8 @@ Dialogue: 0,0:05:52.88,0:05:59.28,Default,,0,0,0,,憧れは始まり 抑えて�
 Dialogue: 0,0:05:59.28,0:06:05.29,Default,,0,0,0,,気持ちそっと育み 花開く時を待つ
 Dialogue: 0,0:06:05.29,0:06:10.16,Default,,0,0,0,,ああ さくら学院
 Dialogue: 0,0:06:11.73,0:06:14.81,Default,,0,0,0,,{\i1}Start!{\i0} 大好きな君の仕草
-Dialogue: 0,0:06:14.81,0:06:18.05,Default,,0,0,0,,{\i1}Smile!{\i0} なにげないその横顔 授業中にそっと見て
-Dialogue: 0,0:06:18.05,0:06:24.52,Default,,0,0,0,,想いよ届けと願う
+Dialogue: 0,0:06:14.81,0:06:18.05,Default,,0,0,0,,{\i1}Smile!{\i0} なにげないその横顔
+Dialogue: 0,0:06:18.05,0:06:24.52,Default,,0,0,0,,授業中にそっと見て、想いよ届けと願う
 Dialogue: 0,0:06:24.52,0:06:27.69,Default,,0,0,0,,{\i1}Wish!{\i0} 大切なその言葉
 Dialogue: 0,0:06:27.69,0:06:30.90,Default,,0,0,0,,{\i1}Say!{\i0} ねぇ君に言われたいな
 Dialogue: 0,0:06:30.90,0:06:37.48,Default,,0,0,0,,誰にもゆずれないよ どうしたら うまくいくの?

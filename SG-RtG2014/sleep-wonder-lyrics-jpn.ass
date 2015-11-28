@@ -8,7 +8,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Scroll Position: 33
+Active Line: 13
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,8 +32,8 @@ Dialogue: 0,0:56:06.03,0:56:11.66,Default,,0,0,0,,きらめいてるファンタ
 Dialogue: 0,0:56:11.66,0:56:16.45,Default,,0,0,0,,退屈さは感じる暇もない
 Dialogue: 0,0:56:17.19,0:56:22.91,Default,,0,0,0,,絵本の中覗いてるような
 Dialogue: 0,0:56:22.91,0:56:27.96,Default,,0,0,0,,気分でなにして次は遊ぼう
-Dialogue: 0,0:56:28.51,0:56:31.34,Default,,0,0,0,,ハートもダイヤもス
-Dialogue: 0,0:56:31.34,0:56:37.47,Default,,0,0,0,,ペードもクローバーも御一緒に!
+Dialogue: 0,0:56:28.51,0:56:31.34,Default,,0,0,0,,ハートもダイヤも
+Dialogue: 0,0:56:31.34,0:56:37.47,Default,,0,0,0,,スペードもクローバーも御一緒に!
 Dialogue: 0,0:56:45.50,0:56:51.18,Default,,0,0,0,,小さな甘いクッキー食べて大きくなった
 Dialogue: 0,0:56:51.18,0:56:56.78,Default,,0,0,0,,「ごめんね!」また困らせちゃったみたい
 Dialogue: 0,0:56:56.78,0:57:02.47,Default,,0,0,0,,大人には分かんない秘密の世界で

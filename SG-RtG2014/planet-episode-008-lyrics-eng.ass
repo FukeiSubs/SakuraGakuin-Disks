@@ -11,8 +11,7 @@ YCbCr Matrix: None
 Video File: ?dummy:23.976000:36000000:1280:720:47:163:254:c
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 24
-Active Line: 39
+Active Line: 42
 Video Position: 87559
 
 [V4+ Styles]
@@ -29,33 +28,33 @@ Dialogue: 0,1:00:15.12,1:00:19.50,Default,,0,0,0,,We are known as the Solar Syst
 Dialogue: 0,1:00:19.50,1:00:24.38,Default,,0,0,0,,Yes, we’re Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune;
 Dialogue: 0,1:00:24.38,1:00:31.20,Default,,0,0,0,,If you learn this for us, we’d be so happy!
 Dialogue: 0,1:00:42.60,1:00:47.40,Default,,0,0,0,,Mercury, the water planet, small and fair,
-Dialogue: 0,1:00:47.40,1:00:51.94,Default,,0,0,0,,But it has some big craters!
-Dialogue: 0,1:00:51.94,1:00:55.33,Default,,0,0,0,,They’re actually liquid; I’m a little wonder!
+Dialogue: 0,1:00:47.40,1:00:51.94,Default,,0,0,0,,But he has some big craters!
+Dialogue: 0,1:00:51.94,1:00:55.33,Default,,0,0,0,,But he is actually liquid; a little wonder!
 Dialogue: 0,1:00:59.12,1:01:04.44,Default,,0,0,0,,Venus, the metal planet, with a temperature close to 500 degrees
-Dialogue: 0,1:01:04.44,1:01:09.64,Default,,0,0,0,,It’s moody with its waxing and waning
-Dialogue: 0,1:01:09.64,1:01:13.36,Default,,0,0,0,,And you can see its rotation is reverse of everyone else’s!
+Dialogue: 0,1:01:04.44,1:01:09.64,Default,,0,0,0,,She is moody with her waxing and waning
+Dialogue: 0,1:01:09.64,1:01:13.36,Default,,0,0,0,,And you can see her rotation is reverse of everyone else’s!
 Dialogue: 0,1:01:14.92,1:01:20.29,Default,,0,0,0,,Earth, our planet, a planet full of water
 Dialogue: 0,1:01:20.29,1:01:25.46,Default,,0,0,0,,A miraculous star where there are living creatures
-Dialogue: 0,1:01:25.46,1:01:28.53,Default,,0,0,0,,There’s plenty of moisture on its shiny skin!
-Dialogue: 0,1:01:30.81,1:01:36.13,Default,,0,0,0,,Mars, the fire planet, a bright red and rowdy young fellow it is
-Dialogue: 0,1:01:36.13,1:01:41.26,Default,,0,0,0,,Phobos and Deimos are its two moons
-Dialogue: 0,1:01:41.26,1:01:44.96,Default,,0,0,0,,Is it really true that there used to be water there, too?
+Dialogue: 0,1:01:25.46,1:01:28.53,Default,,0,0,0,,There’s plenty of moisture on her shiny skin!
+Dialogue: 0,1:01:30.81,1:01:36.13,Default,,0,0,0,,Mars, the fire planet, a bright red and rowdy young fellow he is
+Dialogue: 0,1:01:36.13,1:01:41.26,Default,,0,0,0,,Phobos and Deimos are his two moons
+Dialogue: 0,1:01:41.26,1:01:44.96,Default,,0,0,0,,Is it really true that he used to have water, too?
 Dialogue: 0,1:01:48.29,1:01:53.21,Default,,0,0,0,,Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune are we;
 Dialogue: 0,1:01:53.21,1:01:57.60,Default,,0,0,0,,We are known as the Solar System
 Dialogue: 0,1:01:57.60,1:02:02.44,Default,,0,0,0,,Yes, we’re Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune;
 Dialogue: 0,1:02:02.44,1:02:09.14,Default,,0,0,0,,Keep on following! Are you ready?
-Dialogue: 0,1:02:16.22,1:02:20.92,Default,,0,0,0,,Saturn, the earthen planet, it’s really super light
-Dialogue: 0,1:02:20.92,1:02:25.46,Default,,0,0,0,,There’s a big ol’ hula-hoop around its stomach
-Dialogue: 0,1:02:25.46,1:02:28.12,Default,,0,0,0,,All around the galaxy, they totally adore it!
-Dialogue: 0,1:02:32.56,1:02:37.96,Default,,0,0,0,,Uranus, the heavenly king planet, with its pale shine,
-Dialogue: 0,1:02:37.96,1:02:43.05,Default,,0,0,0,,A ball rolling around the sun
-Dialogue: 0,1:02:43.05,1:02:46.10,Default,,0,0,0,,Spinning like it’s rolling over!
+Dialogue: 0,1:02:16.22,1:02:20.92,Default,,0,0,0,,Saturn, the earthen planet, he is really super light
+Dialogue: 0,1:02:20.92,1:02:25.46,Default,,0,0,0,,There’s a big hula-hoop around his belly
+Dialogue: 0,1:02:25.46,1:02:28.12,Default,,0,0,0,,Twirling the hoop in the midst of galaxy, I'm jealous of him!
+Dialogue: 0,1:02:32.56,1:02:37.96,Default,,0,0,0,,Uranus, the heavenly king planet, with his pale shine,
+Dialogue: 0,1:02:37.96,1:02:43.05,Default,,0,0,0,,He is like a ball rolling around the sun
+Dialogue: 0,1:02:43.05,1:02:46.10,Default,,0,0,0,,Spinning as he rolls over!
 Dialogue: 0,1:02:48.36,1:02:53.77,Default,,0,0,0,,Pluto, the dark king planet, an entity riddled with secrets
-Dialogue: 0,1:02:53.77,1:02:58.89,Default,,0,0,0,,It’s not part of the solar system any more…
-Dialogue: 0,1:02:58.89,1:03:03.72,Default,,0,0,0,,But from here on out, it’ll be off on its own!
+Dialogue: 0,1:02:53.77,1:02:58.89,Default,,0,0,0,,He is not part of the solar system any more…
+Dialogue: 0,1:02:58.89,1:03:03.72,Default,,0,0,0,,But from now on, please keep close to us!
 Dialogue: 0,1:03:04.18,1:03:09.53,Default,,0,0,0,,Neptune, the sea king planet, a beautiful cobalt blue,
-Dialogue: 0,1:03:09.53,1:03:14.70,Default,,0,0,0,,Its surface temperature is -200 degrees Celsius
-Dialogue: 0,1:03:14.70,1:03:19.01,Default,,0,0,0,,Is it shivering again today?
+Dialogue: 0,1:03:09.53,1:03:14.70,Default,,0,0,0,,His surface temperature is -200 degrees Celsius
+Dialogue: 0,1:03:14.70,1:03:19.01,Default,,0,0,0,,Is he shivering again today?
 Dialogue: 0,1:03:21.82,1:03:26.73,Default,,0,0,0,,Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune are they;
 Dialogue: 0,1:03:26.73,1:03:30.97,Default,,0,0,0,,We are known as the Solar System
 Dialogue: 0,1:03:30.97,1:03:35.94,Default,,0,0,0,,Yes, we’re Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune;
@@ -66,7 +65,7 @@ Dialogue: 0,1:04:03.36,1:04:08.22,Default,,0,0,0,,Mercury, Venus, Earth, Mars, J
 Dialogue: 0,1:04:08.22,1:04:12.54,Default,,0,0,0,,We are known as the Solar System
 Dialogue: 0,1:04:12.54,1:04:17.45,Default,,0,0,0,,Yes, we’re Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune;
 Dialogue: 0,1:04:17.45,1:04:24.24,Default,,0,0,0,,If you learn this for us, we’d be so happy!
-Dialogue: 0,1:04:26.16,1:04:30.76,Default,,0,0,0,,I call myself Jupiter!
+Dialogue: 0,1:04:26.16,1:04:30.76,Default,,0,0,0,,I, Jupiter have introduced us!
 Dialogue: 0,1:04:30.76,1:04:35.37,Default,,0,0,0,,It’s our pride; we’re best pals!
 Dialogue: 0,1:04:35.37,1:04:39.93,Default,,0,0,0,,Surely it does not change what there was:
 Dialogue: 0,1:04:39.93,1:04:44.28,Default,,0,0,0,,The strong bond we feel,

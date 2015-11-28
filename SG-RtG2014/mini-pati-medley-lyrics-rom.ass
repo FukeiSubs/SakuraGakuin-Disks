@@ -8,7 +8,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Active Line: 11
+Scroll Position: 54
+Active Line: 61
 Video Position: 78446
 
 [V4+ Styles]
@@ -81,7 +82,7 @@ Dialogue: 0,0:47:30.60,0:47:33.20,Default,,0,0,0,,Happii MiniPati baasudei
 Dialogue: 0,0:47:33.20,0:47:35.78,Default,,0,0,0,,Oishiku dekiru kana?
 Dialogue: 0,0:47:35.78,0:47:38.25,Default,,0,0,0,,Happii MiniPati baasudei
 Dialogue: 0,0:47:38.25,0:47:40.86,Default,,0,0,0,,Mune ga dokidoki hayaku tabete ne
-Dialogue: 0,0:47:55.48,0:47:57.48,Default,,0,0,0,,(can't tell what Hana says -TRANSLATORS! please help)
+Dialogue: 0,0:47:55.48,0:47:57.48,Default,,0,0,0,,Suiitsu Aatowo meshiagare
 Dialogue: 0,0:48:29.33,0:48:32.73,Default,,0,0,0,,Osara no kyanbasu ni
 Dialogue: 0,0:48:32.73,0:48:36.20,Default,,0,0,0,,E wo kaku mitai ni kukku taimu
 Dialogue: 0,0:48:36.20,0:48:42.20,Default,,0,0,0,,Runowaaru, Mone, Pikaso: ryouri wa aato desu

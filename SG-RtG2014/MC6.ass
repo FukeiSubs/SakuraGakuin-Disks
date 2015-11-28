@@ -14,8 +14,8 @@ Audio File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
-Scroll Position: 99
-Active Line: 103
+Scroll Position: 45
+Active Line: 73
 Video Position: 289649
 
 [V4+ Styles]
@@ -27,8 +27,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,2:34:24.94,2:34:28.12,Default,,0,0,0,,Thank you very much.
 Dialogue: 0,2:34:28.72,2:34:35.82,Default,,0,0,0,,Can the undergraduates please say some words to the graduating members?
 Dialogue: 0,2:34:36.30,2:34:36.88,Default,,0,0,0,,Hai
-Dialogue: 0,2:34:38.20,2:34:41.78,Default,,0,0,0,,Saki remembers the open classes; the first open class this year,
-Dialogue: 0,2:34:42.08,2:34:45.64,Default,,0,0,0,,I wrote that I want to further reach out (to the graduates).
+Dialogue: 0,2:34:38.20,2:34:41.78,Default,,0,0,0,,Saki remembers the open class event; "Study of Calligraphy"
+Dialogue: 0,2:34:42.08,2:34:45.64,Default,,0,0,0,,At the event, I wrote "I want to carry more, please send me more"
 Dialogue: 0,2:34:46.90,2:34:49.08,Default,,0,0,0,,Saki's feelings were reached.
 Dialogue: 0,2:34:50.82,2:34:54.08,Default,,0,0,0,,I have a lot of worries for next year, but
 Dialogue: 0,2:34:56.24,2:34:58.44,Default,,0,0,0,,We are going to do our best, so
@@ -52,8 +52,7 @@ Dialogue: 0,2:36:11.34,2:36:18.62,Default,,0,0,0,,For the next year's members, I
 Dialogue: 0,2:36:18.98,2:36:20.54,Default,,0,0,0,,So please cheer on- ahhhh
 Dialogue: 0,2:36:23.54,2:36:25.80,Default,,0,0,0,,So please keep watching over us.
 Dialogue: 0,2:36:25.90,2:36:26.90,Default,,0,0,0,,Thank you.
-Dialogue: 0,2:36:33.88,2:36:37.76,Default,,0,0,0,,I feel sad that the four of you will graduate, but
-Dialogue: 0,2:36:38.26,2:36:38.84,Default,,0,0,0,,But,
+Dialogue: 0,2:36:33.88,2:36:38.97,Default,,0,0,0,,I feel sad that the four of you will graduate, but
 Dialogue: 0,2:36:38.98,2:36:46.00,Default,,0,0,0,,I will try my best to show the audience that Sakura Gakuin is still good.
 Dialogue: 0,2:36:46.48,2:36:49.04,Default,,0,0,0,,So relax and go ahead and graduate
 Dialogue: 0,2:36:50.66,2:36:51.50,Default,,0,0,0,,Also
@@ -77,11 +76,11 @@ Dialogue: 0,2:37:53.06,2:37:54.48,Default,,0,0,0,,Yui, thank you.
 Dialogue: 0,2:37:56.48,2:37:58.02,Default,,0,0,0,,Yunano, thank you.
 Dialogue: 0,2:38:00.62,2:38:01.86,Default,,0,0,0,,Hana, thank you.
 Dialogue: 0,2:38:04.20,2:38:05.56,Default,,0,0,0,,Moa, thank you.
-Dialogue: 0,2:38:14.36,2:38:20.62,Default,,0,0,0,,To be honest, I was not paying attention to the time of your graduation.
+Dialogue: 0,2:38:14.36,2:38:20.62,Default,,0,0,0,,To be honest, it has not sunk in yet that 4 of you are really graduating.
 Dialogue: 0,2:38:21.96,2:38:23.86,Default,,0,0,0,,I have no idea what to say.
 Dialogue: 0,2:38:25.20,2:38:25.88,Default,,0,0,0,,So,
 Dialogue: 0,2:38:27.16,2:38:35.42,Default,,0,0,0,,I want to express my gratitude to the four of you, and I hope it is received successfully.
-Dialogue: 0,2:38:36.46,2:38:41.36,Default,,0,0,0,,Also, in this year's nendo, with the Fukei's
+Dialogue: 0,2:38:36.46,2:38:41.36,Default,,0,0,0,,Also, to those Fukei-sans who've supported us in this year,
 Dialogue: 0,2:38:42.50,2:38:45.44,Default,,0,0,0,,From here on. From here on? That sounds a bit weird now.
 Dialogue: 0,2:38:45.98,2:38:47.60,Default,,0,0,0,,Thank you very much.
 Dialogue: 0,2:38:47.70,2:38:49.64,Default,,0,0,0,,And please watch over us next year too.
@@ -108,7 +107,7 @@ Dialogue: 0,2:40:34.86,2:40:35.38,Default,,0,0,0,,Haaa!
 Dialogue: 0,2:40:35.86,2:40:36.42,Default,,0,0,0,,Ohh!
 Dialogue: 0,2:40:36.54,2:40:37.06,Default,,0,0,0,,Eh!
 Dialogue: 0,2:40:38.68,2:40:42.38,Default,,0,0,0,,Today is the last day for Sakura Gakuin’s Hana but,
-Dialogue: 0,2:40:42.96,2:40:48.36,Default,,0,0,0,,From today forward, I will be a student of Torahime Ichiza-san and Young Tiger,
+Dialogue: 0,2:40:42.96,2:40:48.36,Default,,0,0,0,,From today forward, I will be a student of Torahime Ichiza-san, a Young Tiger,
 Dialogue: 0,2:40:48.62,2:40:50.80,Default,,0,0,0,,And I would like to do my best.
 Dialogue: 0,2:40:51.66,2:40:53.76,Default,,0,0,0,,So finally,
 Dialogue: 0,2:40:55.66,2:40:58.20,Default,,0,0,0,,To the audience in NHK Hall-

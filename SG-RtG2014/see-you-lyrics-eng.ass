@@ -8,8 +8,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Scroll Position: 21
-Active Line: 30
+Active Line: 16
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,7 +36,7 @@ Dialogue: 0,2:31:09.50,2:31:15.69,English,,0,0,0,,That’s why I won’t cry! To
 Dialogue: 0,2:31:15.69,2:31:20.80,English,,0,0,0,,A bunch of smiles are gathered together under the sakura for
 Dialogue: 0,2:31:20.80,2:31:23.68,English,,0,0,0,,my departure day
 Dialogue: 0,2:31:34.64,2:31:39.86,English,,0,0,0,,Which path should I travel? I was troubled by that, so
-Dialogue: 0,2:31:39.86,2:31:46.13,English,,0,0,0,,I was always staying behind after school, consulting with the teachers, you know
+Dialogue: 0,2:31:39.86,2:31:46.13,English,,0,0,0,,We were always staying behind after school, consulting with each other
 Dialogue: 0,2:31:46.62,2:31:51.78,English,,0,0,0,,If the future is uncertain, I’ll just be honest with my own dreams
 Dialogue: 0,2:31:51.78,2:31:58.12,English,,0,0,0,,That’s my answer, so, I’ll be alright, okay?
 Dialogue: 0,2:31:58.12,2:32:02.92,English,,0,0,0,,To tell you the truth, I’m somewhat sad, but

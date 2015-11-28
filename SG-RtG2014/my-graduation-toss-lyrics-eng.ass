@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Scroll Position: 27
-Active Line: 29
+Scroll Position: 24
+Active Line: 39
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,7 +27,7 @@ Dialogue: 0,1:28:45.70,1:28:53.84,Default,,0,0,0,,Today is the last day I’ll e
 Dialogue: 0,1:28:55.38,1:29:05.12,Default,,0,0,0,,As I unravel the loneliness caught up inside my buttons,
 Dialogue: 0,1:29:05.12,1:29:16.46,Default,,0,0,0,,I looked hard directly ahead, opening up the door to my future
 Dialogue: 0,1:29:16.46,1:29:21.02,Default,,0,0,0,,My present to you, “Graduation toss”
-Dialogue: 0,1:29:21.02,1:29:31.40,Default,,0,0,0,,Whenever the inside of the music box I’ve stored so many treasures in lights up,
+Dialogue: 0,1:29:21.02,1:29:31.40,Default,,0,0,0,,Whenever the treasures I've stored in the music box lights up,
 Dialogue: 0,1:29:31.40,1:29:37.38,Default,,0,0,0,,I’ll always be able to remember everyone
 Dialogue: 0,1:29:37.38,1:29:47.00,Default,,0,0,0,,If the destiny that reminds us of the flow of time is showing us each our separate paths,
 Dialogue: 0,1:29:47.00,1:29:52.18,Default,,0,0,0,,then I’ll accept that even if it means being alone
@@ -56,10 +56,10 @@ Dialogue: 0,1:31:56.77,1:32:02.24,Default,,0,0,0,,I’m so glad I was able to me
 Dialogue: 0,1:32:02.24,1:32:07.10,Default,,0,0,0,,No matter what kind of memories they may be,
 Dialogue: 0,1:32:07.10,1:32:14.74,Default,,0,0,0,,I’ll take every single one away with me, I won’t forget
 Dialogue: 0,1:32:14.90,1:32:20.06,Default,,0,0,0,,My present to you right now, “Graduation toss”
-Dialogue: 0,1:32:20.06,1:32:30.46,Default,,0,0,0,,I’ve met such wonderful people, whenever the inside of my music box lights up,
+Dialogue: 0,1:32:20.06,1:32:30.46,Default,,0,0,0,,I’ve met such wonderful treasures, whenever they light up in my music box,
 Dialogue: 0,1:32:30.46,1:32:36.32,Default,,0,0,0,,I’ll always be able to remember that I’ve got friends
 Dialogue: 0,1:32:36.32,1:32:46.02,Default,,0,0,0,,If the light that guides us to our destinies points us each to our own separate paths,
-Dialogue: 0,1:32:46.02,1:32:51.21,Default,,0,0,0,,then, with tears in my eyes, I’ll start walking forward
+Dialogue: 0,1:32:46.02,1:32:51.21,Default,,0,0,0,,then, I'll wipe my tears off and start walking forward
 Dialogue: 0,1:32:51.21,1:32:59.76,Default,,0,0,0,,I’ll go past this impulse called “setting off”
 Dialogue: 0,1:32:57.45,1:33:01.33,Default,,0,0,0,,Hey my friends, yeah my friends, dear my friends
 Dialogue: 0,1:33:01.33,1:33:09.65,Default,,0,0,0,,“My Graduation Toss”, with all my love put into it

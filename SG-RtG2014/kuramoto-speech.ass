@@ -15,7 +15,8 @@ Video File: D:/Downloads/Sakura Gakuin The Road to Graduation Final 2014/Sakura 
 Video AR Mode: 4
 Video AR Value: 1.777083
 Video Zoom Percent: 0.625000
-Active Line: 3
+Scroll Position: 21
+Active Line: 64
 Video Position: 250205
 
 [V4+ Styles]
@@ -24,8 +25,6 @@ Style: Default,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Kuramoto Speech
-Dialogue: 0,2:11:26.56,2:11:32.60,Default,,0,0,0,,Now, we'll have a speech from Kuramoto Mitsuru, the Principal of Sakura Gakuin.
 Dialogue: 0,2:11:38.77,2:11:41.24,Default,,0,0,0,,Congratulations on your graduation.
 Dialogue: 0,2:11:45.53,2:11:51.97,Default,,0,0,0,,Today, on the way to this venue,
 Dialogue: 0,2:11:51.97,2:12:03.49,Default,,0,0,0,,I walked the slope road 'Sakura-zaka' which leads to the entrance of Sakura Gakuin.

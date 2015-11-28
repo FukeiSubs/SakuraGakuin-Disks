@@ -8,8 +8,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Scroll Position: 69
-Active Line: 21
+Active Line: 65
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -85,8 +84,8 @@ Dialogue: 0,0:03:49.21,0:03:49.60,Default,,0,0,0,,岡田!
 Dialogue: 0,0:03:49.60,0:03:52.36,Default,,0,0,0,,三河の国から　攻め込んだ　物知り歴女
 Dialogue: 0,0:03:52.36,0:03:53.24,Default,,0,0,0,,めぐ知ってる! 知ってる!
 Dialogue: 0,0:03:53.24,0:03:55.82,Default,,0,0,0,,回転しながら、偉人の名言　言います
-Dialogue: 0,0:03:56.29,0:03:58.70,Default,,0,0,0,,今日は明智光秀さんです
-Dialogue: 0,0:03:59.66,0:04:02.12,Default,,0,0,0,,敵は、本能寺にあり!
+Dialogue: 0,0:03:56.29,0:03:58.70,Default,,0,0,0,,今日は徳川家康さんです
+Dialogue: 0,0:03:59.66,0:04:02.12,Default,,0,0,0,,勝って兜の緒を締めろ
 Dialogue: 0,0:04:02.46,0:04:04.26,Default,,0,0,0,,皆さん、勉強なったでしょ?
 Dialogue: 0,0:04:04.26,0:04:07.66,Default,,0,0,0,,ちょちょちょ　私のこと 「わかってますか? 」
 Dialogue: 0,0:04:07.66,0:04:11.01,Default,,0,0,0,,見た目とのギャップが魅力

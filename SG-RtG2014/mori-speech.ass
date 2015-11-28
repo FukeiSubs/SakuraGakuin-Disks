@@ -16,8 +16,8 @@ Video File: D:/Downloads/Sakura Gakuin The Road to Graduation Final 2014/Sakura 
 Video AR Mode: 4
 Video AR Value: 1.777083
 Video Zoom Percent: 0.875000
-Scroll Position: 76
-Active Line: 89
+Scroll Position: 19
+Active Line: 50
 Video Position: 193152
 
 [V4+ Styles]
@@ -28,8 +28,8 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,1:44:27.01,1:44:30.94,Default,,0,0,0,,Today, there are a lot of Fukei's attending.
 Dialogue: 0,1:44:30.94,1:44:33.04,Default,,0,0,0,,I thank you from the bottom of my heart.
-Dialogue: 0,1:44:34.45,1:44:39.55,Default,,0,0,0,,So with that, this is Sakura Gakuin 2014 nendo.
-Dialogue: 0,1:44:41.49,1:44:44.52,Default,,0,0,0,,We are going to hand out the graduation diplomas.
+Dialogue: 0,1:44:34.45,1:44:39.55,Default,,0,0,0,,So with that, We are going to hand out
+Dialogue: 0,1:44:41.49,1:44:44.52,Default,,0,0,0,,the graduation diplomas to graduates of Sakura Gakuin 2014-nendo.
 Dialogue: 0,1:44:46.29,1:44:49.80,Default,,0,0,0,,Now then, students, enter.
 Dialogue: 0,1:45:15.79,1:45:19.96,Default,,0,0,0,,Next, graduates, enter
 Dialogue: 0,1:45:42.78,1:45:44.48,Default,,0,0,0,,Bow!
@@ -44,17 +44,17 @@ Dialogue: 0,1:48:06.79,1:48:10.06,Default,,0,0,0,,Jr. High, 3rd year, Kikuchi Mo
 Dialogue: 0,1:49:16.63,1:49:19.87,Default,,0,0,0,,Jr. High, 3rd year, Taguchi Hana
 Dialogue: 0,1:50:00.51,1:50:03.51,Default,,0,0,0,,Jr. High, 3rd year, Notsu Yunano
 Dialogue: 0,1:50:44.08,1:50:46.92,Default,,0,0,0,,Jr. High, 3rd year, Mizuno Yui
-Dialogue: 0,1:51:33.03,1:51:36.64,Default,,0,0,0,,So then, to give the student's Souji
+Dialogue: 0,1:51:33.03,1:51:36.64,Default,,0,0,0,,So then, to give the student's Souji (A farewell message to the graduates from remaining students)
 Dialogue: 0,1:51:37.07,1:51:43.04,Default,,0,0,0,,Sakura Gakuin, 2011 transfer student, Jr High, 2nd year, Isono Rinon
-Dialogue: 0,2:00:01.47,2:00:05.08,Default,,0,0,0,,Next, to give the Graduation Touji
-Dialogue: 0,2:00:06.04,2:00:09.51,Default,,0,0,0,,Sakura Gakuin, Jr. High 3rd year.
+Dialogue: 0,2:00:01.47,2:00:05.08,Default,,0,0,0,,Next, to give the Graduation Touji (a message in reply to Souji from the graduates)
+Dialogue: 0,2:00:06.04,2:00:09.51,Default,,0,0,0,,Sakura Gakuin, Junoir High 3rd years.
 Dialogue: 0,2:00:10.25,2:00:11.38,Default,,0,0,0,,Hai!
-Dialogue: 0,2:00:23.20,2:00:26.80,Default,,0,0,0,,To be represented by Student Council President Moa Kikuchi.
-Dialogue: 0,2:11:26.39,2:11:31.56,Default,,0,0,0,,Now, Sakura Gakuin Principal Kuramoto will give a Shukuji [a celebratory speech]
+Dialogue: 0,2:00:23.20,2:00:26.80,Default,,0,0,0,,To be represented by Student Council President Kikuchi Moa.
+Dialogue: 0,2:11:26.56,2:11:32.60,Default,,0,0,0,,Now, we'll have a celebratory speech from Kuramoto Mitsuru, the Principal of Sakura Gakuin.
 Dialogue: 0,2:19:39.88,2:19:45.49,Default,,0,0,0,,Sorry, let me say a few words, excuse me…
 Dialogue: 0,2:19:48.59,2:19:52.83,Default,,0,0,0,,First of all, to all watching the live stream, it is now your chance for a bathroom break.
 Dialogue: 0,2:19:53.70,2:19:57.16,Default,,0,0,0,,Go now. For those here, please stay.
-Dialogue: 0,2:19:57.78,2:20:00.10,Default,,0,0,0,,If I see it in the corner of my eye, my ego may bruise.
+Dialogue: 0,2:19:57.78,2:20:00.10,Default,,0,0,0,,If I see you leaving in the corner of my eye, my ego may bruise.
 Dialogue: 0,2:20:01.74,2:20:07.51,Default,,0,0,0,,Well, so let me say my honest thoughts.
 Dialogue: 0,2:20:07.75,2:20:13.90,Default,,0,0,0,,Eh... this year, I was really worried about these four graduates.
 Dialogue: 0,2:20:14.41,2:20:17.32,Default,,0,0,0,,As some may already know,
@@ -74,9 +74,9 @@ Dialogue: 0,2:21:09.67,2:21:14.42,Default,,0,0,0,,I think a lot of you may have 
 Dialogue: 0,2:21:14.42,2:21:20.95,Default,,0,0,0,,But you gained the courage and stepped up.
 Dialogue: 0,2:21:20.95,2:21:24.29,Default,,0,0,0,,Yes, to me that is my treasure.
 Dialogue: 0,2:21:25.39,2:21:34.48,Default,,0,0,0,,Yes, I know, every year, just as it is getting fun, we come to the graduation ceremony.
-Dialogue: 0,2:21:35.80,2:21:39.56,Default,,0,0,0,,My emotional milk crepe is all limp and floppy.
+Dialogue: 0,2:21:35.80,2:21:39.56,Default,,0,0,0,,My emotional mille-crepe is all limp and floppy.
 Dialogue: 0,2:21:46.81,2:21:52.09,Default,,0,0,0,,So as a teacher, I thought about this very hard, and came up with this.
-Dialogue: 0,2:21:54.16,2:21:58.32,Default,,0,0,0,,So I know formally that you are all graduating.
+Dialogue: 0,2:21:54.16,2:21:58.32,Default,,0,0,0,,I know formally that you are all graduating.
 Dialogue: 0,2:21:58.58,2:22:02.41,Default,,0,0,0,,But in my heart, you are all held back a year.
 Dialogue: 0,2:22:04.66,2:22:08.37,Default,,0,0,0,,I know I need to face the music,
 Dialogue: 0,2:22:08.37,2:22:11.89,Default,,0,0,0,,but I am worried about all of you.

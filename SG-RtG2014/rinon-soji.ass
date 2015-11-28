@@ -14,8 +14,7 @@ Audio File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video File: Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
-Scroll Position: 90
-Active Line: 101
+Active Line: 102
 Video Position: 202177
 
 [V4+ Styles]
@@ -24,108 +23,106 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Rinon Soji
-Dialogue: 0,1:52:06.36,1:52:07.33,Default,,0,0,0,, Farewell address.
-Dialogue: 0,1:52:08.20,1:52:15.01,Default,,0,0,0,, It’s still cold but the cherry blossom rows are becoming pink in colour.
-Dialogue: 0,1:52:15.01,1:52:17.69,Default,,0,0,0,, The season is coming to begin preparing for spring.
-Dialogue: 0,1:52:18.54,1:52:19.33,Default,,0,0,0,, Moa.
-Dialogue: 0,1:52:19.84,1:52:20.65,Default,,0,0,0,, Yui.
-Dialogue: 0,1:52:21.29,1:52:22.00,Default,,0,0,0,, Hana.
-Dialogue: 0,1:52:22.46,1:52:23.18,Default,,0,0,0,, Yunano.
-Dialogue: 0,1:52:23.64,1:52:26.06,Default,,0,0,0,, Congratulations on your graduation.
-Dialogue: 0,1:52:27.24,1:52:31.26,Default,,0,0,0,, It’s been 5 years since Sakura Gakuin first opened.
-Dialogue: 0,1:52:31.26,1:52:35.21,Default,,0,0,0,, So far, we have sent off 9 graduates.
-Dialogue: 0,1:52:36.72,1:52:44.01,Default,,0,0,0,, Together with Moa, Yui, Hana, & Yunano, we’ve always sent off the graduates,
-Dialogue: 0,1:52:44.01,1:52:48.10,Default,,0,0,0,, so it’s a strange feeling sending you guys off now.
-Dialogue: 0,1:52:50.18,1:52:54.41,Default,,0,0,0,, In the 2011 school year, Hana & Rinon were transferred in,
-Dialogue: 0,1:52:54.41,1:52:57.12,Default,,0,0,0,, and Moa & Yui became seniors.
-Dialogue: 0,1:52:58.52,1:53:05.37,Default,,0,0,0,, I remember the seniors always being kind and gentle and teaching me the choreography.
-Dialogue: 0,1:53:06.56,1:53:12.61,Default,,0,0,0,, When it was recording time, I didn’t even know how to sing into the microphone and
+Dialogue: 0,1:52:06.36,1:52:07.33,Default,,0,0,0,,Farewell address.
+Dialogue: 0,1:52:08.20,1:52:15.01,Default,,0,0,0,,It’s still cold but the cherry blossom rows are becoming pink in colour.
+Dialogue: 0,1:52:15.01,1:52:17.69,Default,,0,0,0,,The season is coming to begin preparing for spring.
+Dialogue: 0,1:52:18.54,1:52:19.33,Default,,0,0,0,,Moa.
+Dialogue: 0,1:52:19.84,1:52:20.65,Default,,0,0,0,,Yui.
+Dialogue: 0,1:52:21.29,1:52:22.00,Default,,0,0,0,,Hana.
+Dialogue: 0,1:52:22.46,1:52:23.18,Default,,0,0,0,,Yunano.
+Dialogue: 0,1:52:23.64,1:52:26.06,Default,,0,0,0,,Congratulations on your graduation.
+Dialogue: 0,1:52:27.24,1:52:31.26,Default,,0,0,0,,It’s been 5 years since Sakura Gakuin first opened.
+Dialogue: 0,1:52:31.26,1:52:35.21,Default,,0,0,0,,So far, we have sent off 9 graduates.
+Dialogue: 0,1:52:36.72,1:52:44.01,Default,,0,0,0,,Together with Moa, Yui, Hana, & Yunano, we’ve always sent off the graduates,
+Dialogue: 0,1:52:44.01,1:52:48.10,Default,,0,0,0,,so it’s a strange feeling sending you guys off now.
+Dialogue: 0,1:52:50.18,1:52:54.41,Default,,0,0,0,,In the 2011 school year, Hana & Rinon were transferred in,
+Dialogue: 0,1:52:54.41,1:52:57.12,Default,,0,0,0,,and Moa & Yui became seniors.
+Dialogue: 0,1:52:58.52,1:53:05.37,Default,,0,0,0,,I remember the seniors always being kind and gentle and teaching me the choreography.
+Dialogue: 0,1:53:06.56,1:53:12.61,Default,,0,0,0,,When it was recording time, I didn’t even know how to sing into the microphone and
 Dialogue: 0,1:53:12.61,1:53:16.24,Default,,0,0,0,,you taught me many things right from step 1.
-Dialogue: 0,1:53:18.14,1:53:22.63,Default,,0,0,0,, I was in the 5th grade of Elementary school when Hana and I transferred in.
-Dialogue: 0,1:53:23.09,1:53:26.78,Default,,0,0,0,, At that time there was no one in the same grade as me, but
-Dialogue: 0,1:53:26.78,1:53:33.91,Default,,0,0,0,, Moa and Yui said that it was okay for Moa, Yui, Hana & Rinon to call each other by names only.
-Dialogue: 0,1:53:34.80,1:53:41.13,Default,,0,0,0,, So, I was really glad to make some friends in that moment.
-Dialogue: 0,1:53:42.01,1:53:45.38,Default,,0,0,0,, In the 2012 school year, Yunano was transferred in.
-Dialogue: 0,1:53:45.92,1:53:49.50,Default,,0,0,0,, To me, it was the first time that I had a junior.
-Dialogue: 0,1:53:50.76,1:53:55.98,Default,,0,0,0,, With the four of you, the meeting style and timing was different for each of you,
-Dialogue: 0,1:53:55.98,1:54:03.12,Default,,0,0,0,, but now, for me, Yunano, Hana, Yui & Moa are all seniors I aspire to be like.
-Dialogue: 0,1:54:04.45,1:54:11.17,Default,,0,0,0,, Moa as the Student Council President, always tried her best to unite Sakura Gakuin.
-Dialogue: 0,1:54:12.09,1:54:16.90,Default,,0,0,0,, At the lessons every day, some of us would be tired
-Dialogue: 0,1:54:16.90,1:54:24.10,Default,,0,0,0,, but you tried to cheer us up and made us smile.
-Dialogue: 0,1:54:25.13,1:54:29.39,Default,,0,0,0,, Thanks to that, all the members always smile.
-Dialogue: 0,1:54:30.56,1:54:35.52,Default,,0,0,0,, This school year, we ten students had few opportunities to get together
-Dialogue: 0,1:54:35.52,1:54:40.37,Default,,0,0,0,, so it took a long time for our ten hearts to become one
-Dialogue: 0,1:54:40.37,1:54:44.49,Default,,0,0,0,, but we talked together, laughed and cried a lot.
-Dialogue: 0,1:54:44.49,1:54:49.01,Default,,0,0,0,, To Rinon, one by one, it was a very important time.
-Dialogue: 0,1:54:50.26,1:54:53.48,Default,,0,0,0,, Yui loves Sakura Gakuin
-Dialogue: 0,1:54:53.48,1:54:56.32,Default,,0,0,0,, and decided the setlists for all the concerts.
-Dialogue: 0,1:54:57.50,1:55:00.72,Default,,0,0,0,, Yui said she is always thinking about Sakura Gakuin
-Dialogue: 0,1:55:00.72,1:55:04.36,Default,,0,0,0,, and didn’t want to think so much about it anymore.
-Dialogue: 0,1:55:05.68,1:55:08.30,Default,,0,0,0,, There were a lot of troubles,
-Dialogue: 0,1:55:08.30,1:55:11.92,Default,,0,0,0,, thinking about how to make the setlist feel like Sakura Gakuin
-Dialogue: 0,1:55:11.92,1:55:17.20,Default,,0,0,0,, and to also have the 2014 school year’s color.
-Dialogue: 0,1:55:18.73,1:55:25.44,Default,,0,0,0,, And, Yui would point out our bad points and praise our good points.
-Dialogue: 0,1:55:26.32,1:55:31.99,Default,,0,0,0,, If we didn’t improve ourselves, we couldn’t improve together.
-Dialogue: 0,1:55:32.34,1:55:35.97,Default,,0,0,0,, When Yui was first transferred in she had a strong “little sister” image,
-Dialogue: 0,1:55:35.97,1:55:40.56,Default,,0,0,0,, but the Yui now is almost like Sakura Gakuin’s older sister.
-Dialogue: 0,1:55:41.42,1:55:44.13,Default,,0,0,0,, Hana is Rinon’s transfer-in buddy and
-Dialogue: 0,1:55:44.13,1:55:47.08,Default,,0,0,0,, looking back to that time, there are many memories.
-Dialogue: 0,1:55:48.01,1:55:52.57,Default,,0,0,0,, When you were talking about Pro Wrestling your eyes were sparkling.
-Dialogue: 0,1:55:53.48,1:55:57.74,Default,,0,0,0,, The first time we did the Pro Wrestling Club together,
-Dialogue: 0,1:55:57.74,1:56:02.05,Default,,0,0,0,, I was anxious, but within in the severeness there was ease.
-Dialogue: 0,1:56:02.54,1:56:04.82,Default,,0,0,0,, Through my experience in the Pro Wrestling Club
-Dialogue: 0,1:56:04.82,1:56:08.45,Default,,0,0,0,, I could learn many various things, so thank you.
-Dialogue: 0,1:56:09.74,1:56:14.68,Default,,0,0,0,, And so, as Spirit Chairman, before the lives and lessons
-Dialogue: 0,1:56:14.68,1:56:20.20,Default,,0,0,0,, she lead us in the spirit circle, and actively, our hearts became one.
-Dialogue: 0,1:56:21.16,1:56:25.70,Default,,0,0,0,, Hana was always putting in more effort than anyone behind the scenes.
-Dialogue: 0,1:56:25.70,1:56:28.44,Default,,0,0,0,, Rinon always saw that in her.
-Dialogue: 0,1:56:29.79,1:56:33.99,Default,,0,0,0,, If there was no Sakura Gakuin, I wouldn’t have met Hana
-Dialogue: 0,1:56:33.99,1:56:39.92,Default,,0,0,0,, And I’m happy to have transferred in to Sakura Gakuin at the same time as her.
-Dialogue: 0,1:56:41.04,1:56:45.62,Default,,0,0,0,, Yunano transferred in a year after Rinon but,
-Dialogue: 0,1:56:45.62,1:56:47.57,Default,,0,0,0,, you are older than me by a year.
-Dialogue: 0,1:56:47.57,1:56:50.87,Default,,0,0,0,, At first I didn’t know how to approach you
-Dialogue: 0,1:56:51.70,1:56:55.60,Default,,0,0,0,, Maybe Yunano had felt the same.
-Dialogue: 0,1:56:56.76,1:56:58.89,Default,,0,0,0,, And so, gradually,
-Dialogue: 0,1:56:58.89,1:57:06.30,Default,,0,0,0,, without the senior and junior separation, everybody thought about Sakura Gakuin better than before.
-Dialogue: 0,1:57:07.58,1:57:15.53,Default,,0,0,0,, When Yunano said that to me, I felt she was the best person to consult, and I’m very happy.
-Dialogue: 0,1:57:16.92,1:57:20.92,Default,,0,0,0,, She’s the only one out of the 9th graders to have transferred in during Junior High School.
-Dialogue: 0,1:57:21.42,1:57:26.88,Default,,0,0,0,, Compared to the other 9th graders, her time in Sakura Gakuin is shorter but
-Dialogue: 0,1:57:26.88,1:57:32.02,Default,,0,0,0,, she put more effort in and went through more troubles than the others.
-Dialogue: 0,1:57:32.02,1:57:35.16,Default,,0,0,0,, I've known that for a long time.
-Dialogue: 0,1:57:36.16,1:57:40.30,Default,,0,0,0,, I think it’s really amazing.
-Dialogue: 0,1:57:41.32,1:57:45.00,Default,,0,0,0,, Each of the four have their own charms.
-Dialogue: 0,1:57:45.77,1:57:50.67,Default,,0,0,0,, I have learned many things from them.
-Dialogue: 0,1:57:51.68,1:57:54.53,Default,,0,0,0,, You’ve been watching over us but
-Dialogue: 0,1:57:54.53,1:57:59.33,Default,,0,0,0,, this year’s 9th graders have been worrying about various things
-Dialogue: 0,1:57:59.33,1:58:00.98,Default,,0,0,0,, so we’ve been wondering if you’ve been okay
-Dialogue: 0,1:58:00.98,1:58:03.17,Default,,0,0,0,, and worried about other things too.
-Dialogue: 0,1:58:04.50,1:58:09.07,Default,,0,0,0,, However, even when the four of them are doing extra-curricular activities
-Dialogue: 0,1:58:09.07,1:58:10.94,Default,,0,0,0,, we thought it was really difficult for us,
-Dialogue: 0,1:58:10.94,1:58:15.84,Default,,0,0,0,, they set an example for us juniors, and it was powerful.
-Dialogue: 0,1:58:17.48,1:58:19.84,Default,,0,0,0,, “Even though we’re separated, our hearts are one.”
-Dialogue: 0,1:58:20.45,1:58:24.74,Default,,0,0,0,, There are so many things this year’s four graduates taught us but,
-Dialogue: 0,1:58:24.74,1:58:26.97,Default,,0,0,0,, I think this one is the best.
-Dialogue: 0,1:58:28.04,1:58:31.28,Default,,0,0,0,, Rinon has recently often thought
-Dialogue: 0,1:58:31.28,1:58:34.81,Default,,0,0,0,, there’s nothing sad about Sakura Gakuin graduations.
-Dialogue: 0,1:58:35.88,1:58:40.21,Default,,0,0,0,, Graduation is necessary in order to become a Super Lady.
-Dialogue: 0,1:58:41.30,1:58:44.92,Default,,0,0,0,, I would be lying if I said that we won't get lonely,
-Dialogue: 0,1:58:44.92,1:58:48.85,Default,,0,0,0,, but today, to the four people graduating from Sakura Gakuin
-Dialogue: 0,1:58:48.85,1:58:51.58,Default,,0,0,0,, I want you to try your best in achieving your dreams.
-Dialogue: 0,1:58:52.78,1:58:57.10,Default,,0,0,0,, I don’t know how us juniors will handle being entrusted with everything but
-Dialogue: 0,1:58:57.10,1:59:00.28,Default,,0,0,0,, what the graduates have built up for us until now
-Dialogue: 0,1:59:00.28,1:59:03.13,Default,,0,0,0,, will continue to be an important part of Sakura Gakuin.
-Dialogue: 0,1:59:03.13,1:59:07.80,Default,,0,0,0,, We’ll also create a new history for Sakura Gakuin next year.
-Dialogue: 0,1:59:08.90,1:59:11.86,Default,,0,0,0,, Even though you’re graduating please watch over us.
-Dialogue: 0,1:59:12.90,1:59:15.82,Default,,0,0,0,, It may not seem like much but
-Dialogue: 0,1:59:15.82,1:59:17.69,Default,,0,0,0,, just the words of the 9th graders
-Dialogue: 0,1:59:17.69,1:59:22.58,Default,,0,0,0,, we’re full of grateful feelings.
-Dialogue: 0,1:59:23.78,1:59:24.45,Default,,0,0,0,, Moa.
-Dialogue: 0,1:59:24.72,1:59:25.37,Default,,0,0,0,, Yui.
-Dialogue: 0,1:59:25.68,1:59:26.33,Default,,0,0,0,, Hana.
-Dialogue: 0,1:59:26.62,1:59:27.32,Default,,0,0,0,, Yunano.
-Dialogue: 0,1:59:27.93,1:59:29.38,Default,,0,0,0,, Congratulations on your graduation.
-Dialogue: 0,1:59:29.38,1:59:31.55,Default,,0,0,0,, And, thank you.
-Dialogue: 0,1:59:32.16,1:59:35.36,Default,,0,0,0,, March 29th, 2015
-Dialogue: 0,1:59:35.36,1:59:37.02,Default,,0,0,0,, Current Student Representative.
-Dialogue: 0,1:59:37.02,1:59:39.46,Default,,0,0,0,, 8th grader, Isono Rinon.
+Dialogue: 0,1:53:18.14,1:53:22.63,Default,,0,0,0,,I was in the 5th grade of Elementary school when Hana and I transferred in.
+Dialogue: 0,1:53:23.09,1:53:26.78,Default,,0,0,0,,At that time there was no one in the same grade as me, but
+Dialogue: 0,1:53:26.78,1:53:33.91,Default,,0,0,0,,Moa and Yui said that it was okay for Moa, Yui, Hana & Rinon to call each other by names only.
+Dialogue: 0,1:53:34.80,1:53:41.13,Default,,0,0,0,,So, I was really glad to make some friends in that moment.
+Dialogue: 0,1:53:42.01,1:53:45.38,Default,,0,0,0,,In the 2012 school year, Yunano was transferred in.
+Dialogue: 0,1:53:45.92,1:53:49.50,Default,,0,0,0,,To me, it was the first time that I had a junior.
+Dialogue: 0,1:53:50.76,1:53:55.98,Default,,0,0,0,,With the four of you, the meeting style and timing was different for each of you,
+Dialogue: 0,1:53:55.98,1:54:03.12,Default,,0,0,0,,but now, for me, Yunano, Hana, Yui & Moa are all seniors I aspire to be like.
+Dialogue: 0,1:54:04.45,1:54:11.17,Default,,0,0,0,,Moa as the Student Council President, always tried her best to unite Sakura Gakuin.
+Dialogue: 0,1:54:12.09,1:54:16.90,Default,,0,0,0,,At the lessons every day, some of us would be tired
+Dialogue: 0,1:54:16.90,1:54:24.10,Default,,0,0,0,,but you tried to cheer us up and made us smile.
+Dialogue: 0,1:54:25.13,1:54:29.39,Default,,0,0,0,,Thanks to that, all the members always smile.
+Dialogue: 0,1:54:30.56,1:54:35.52,Default,,0,0,0,,This school year, we ten students had few opportunities to get together
+Dialogue: 0,1:54:35.52,1:54:40.37,Default,,0,0,0,,so it took a long time for our ten hearts to become one
+Dialogue: 0,1:54:40.37,1:54:44.49,Default,,0,0,0,,but we talked together, laughed and cried a lot.
+Dialogue: 0,1:54:44.49,1:54:49.01,Default,,0,0,0,,To Rinon, one by one, it was a very important time.
+Dialogue: 0,1:54:50.26,1:54:53.48,Default,,0,0,0,,Yui loves Sakura Gakuin
+Dialogue: 0,1:54:53.48,1:54:56.32,Default,,0,0,0,,and decided the setlists for all the concerts.
+Dialogue: 0,1:54:57.50,1:55:00.72,Default,,0,0,0,,Yui said she is always thinking about Sakura Gakuin
+Dialogue: 0,1:55:00.72,1:55:04.36,Default,,0,0,0,,and didn’t want to think so much about it anymore.
+Dialogue: 0,1:55:05.68,1:55:08.30,Default,,0,0,0,,There were a lot of troubles,
+Dialogue: 0,1:55:08.30,1:55:11.92,Default,,0,0,0,,thinking about how to make the setlist feel like Sakura Gakuin
+Dialogue: 0,1:55:11.92,1:55:17.20,Default,,0,0,0,,and to also have the 2014 school year’s color.
+Dialogue: 0,1:55:18.73,1:55:25.44,Default,,0,0,0,,And, Yui would point out our bad points and praise our good points.
+Dialogue: 0,1:55:26.32,1:55:31.99,Default,,0,0,0,,If we didn’t improve ourselves, we couldn’t improve together.
+Dialogue: 0,1:55:32.34,1:55:35.97,Default,,0,0,0,,When Yui was first transferred in she had a strong “little sister” image,
+Dialogue: 0,1:55:35.97,1:55:40.56,Default,,0,0,0,,but the Yui now is almost like Sakura Gakuin’s older sister.
+Dialogue: 0,1:55:41.42,1:55:44.13,Default,,0,0,0,,Hana is Rinon’s transfer-in buddy and
+Dialogue: 0,1:55:44.13,1:55:47.08,Default,,0,0,0,,looking back to that time, there are many memories.
+Dialogue: 0,1:55:48.01,1:55:52.57,Default,,0,0,0,,When you were talking about Pro Wrestling your eyes were sparkling.
+Dialogue: 0,1:55:53.48,1:55:57.74,Default,,0,0,0,,The first time we did the Pro Wrestling Circle together,
+Dialogue: 0,1:55:57.74,1:56:02.05,Default,,0,0,0,,I was anxious, but within in the severeness there was ease.
+Dialogue: 0,1:56:02.54,1:56:04.82,Default,,0,0,0,,Through my experience in the Pro Wrestling Circle
+Dialogue: 0,1:56:04.82,1:56:08.45,Default,,0,0,0,,I could learn many various things, so thank you.
+Dialogue: 0,1:56:09.74,1:56:14.68,Default,,0,0,0,,And so, as Spirit Chairman, before the concerts and lessons
+Dialogue: 0,1:56:14.68,1:56:20.20,Default,,0,0,0,,she lead us in the spirit circle, and actively, our hearts became one.
+Dialogue: 0,1:56:21.16,1:56:25.70,Default,,0,0,0,,Hana was always putting in more effort than anyone behind the scenes.
+Dialogue: 0,1:56:25.70,1:56:28.44,Default,,0,0,0,,Rinon always saw that in her.
+Dialogue: 0,1:56:29.79,1:56:33.99,Default,,0,0,0,,If there was no Sakura Gakuin, I wouldn’t have met Hana
+Dialogue: 0,1:56:33.99,1:56:39.92,Default,,0,0,0,,And I’m happy to have transferred in to Sakura Gakuin at the same time as her.
+Dialogue: 0,1:56:41.04,1:56:45.62,Default,,0,0,0,,Yunano transferred in a year after Rinon but,
+Dialogue: 0,1:56:45.62,1:56:47.57,Default,,0,0,0,,you are older than me by a year.
+Dialogue: 0,1:56:47.57,1:56:50.87,Default,,0,0,0,,At first I didn’t know how to approach you
+Dialogue: 0,1:56:51.70,1:56:55.60,Default,,0,0,0,,Maybe Yunano had felt the same.
+Dialogue: 0,1:56:56.76,1:56:58.89,Default,,0,0,0,,And so, gradually,
+Dialogue: 0,1:56:58.89,1:57:06.30,Default,,0,0,0,,without the senior and junior separation, everybody thought about Sakura Gakuin better than before.
+Dialogue: 0,1:57:07.58,1:57:15.53,Default,,0,0,0,,When Yunano said that to me, "I feel you are the best person to consult", I was very happy.
+Dialogue: 0,1:57:16.92,1:57:20.92,Default,,0,0,0,,She’s the only one out of the 9th graders to have transferred in during Junior High School.
+Dialogue: 0,1:57:21.42,1:57:26.88,Default,,0,0,0,,Compared to the other 9th graders, her time in Sakura Gakuin was shorter but
+Dialogue: 0,1:57:26.88,1:57:32.02,Default,,0,0,0,,she put more effort in and went through more troubles than the others.
+Dialogue: 0,1:57:32.02,1:57:35.16,Default,,0,0,0,,I've known that for a long time.
+Dialogue: 0,1:57:36.16,1:57:40.30,Default,,0,0,0,,I think it’s really amazing.
+Dialogue: 0,1:57:41.32,1:57:45.00,Default,,0,0,0,,Each of the four have their own charms.
+Dialogue: 0,1:57:45.77,1:57:50.67,Default,,0,0,0,,I have learned many things from them.
+Dialogue: 0,1:57:51.68,1:57:54.53,Default,,0,0,0,,You’ve been watching over us but
+Dialogue: 0,1:57:54.53,1:57:59.33,Default,,0,0,0,,this year’s 9th graders have been worrying about various things alone
+Dialogue: 0,1:57:59.33,1:58:00.98,Default,,0,0,0,,so we’ve been wondering if you’ve been okay
+Dialogue: 0,1:58:04.50,1:58:09.07,Default,,0,0,0,,However, even when the four of them are doing extra-curricular activities
+Dialogue: 0,1:58:09.07,1:58:10.94,Default,,0,0,0,,we thought it was really difficult for us,
+Dialogue: 0,1:58:10.94,1:58:15.84,Default,,0,0,0,,they set an example for us juniors, and you did your very best in everything
+Dialogue: 0,1:58:17.48,1:58:19.84,Default,,0,0,0,,“Even though we’re separated, our hearts are one.”
+Dialogue: 0,1:58:20.45,1:58:24.74,Default,,0,0,0,,There are so many things this year’s four graduates taught us but,
+Dialogue: 0,1:58:24.74,1:58:26.97,Default,,0,0,0,,I think this one is the best.
+Dialogue: 0,1:58:28.04,1:58:31.28,Default,,0,0,0,,Rinon has recently often thought
+Dialogue: 0,1:58:31.28,1:58:34.81,Default,,0,0,0,,there’s nothing sad about Sakura Gakuin graduations.
+Dialogue: 0,1:58:35.88,1:58:40.21,Default,,0,0,0,,Graduation is necessary in order to become a Super Lady.
+Dialogue: 0,1:58:41.30,1:58:44.92,Default,,0,0,0,,I would be lying if I said that we won't get lonely,
+Dialogue: 0,1:58:44.92,1:58:48.85,Default,,0,0,0,,but today, to the four people graduating from Sakura Gakuin
+Dialogue: 0,1:58:48.85,1:58:51.58,Default,,0,0,0,,I want you to try your best in achieving your dreams.
+Dialogue: 0,1:58:52.78,1:58:57.10,Default,,0,0,0,,I don’t know how us juniors will handle being entrusted with everything but
+Dialogue: 0,1:58:57.10,1:59:00.28,Default,,0,0,0,,what the graduates have built up for us until now
+Dialogue: 0,1:59:00.28,1:59:03.13,Default,,0,0,0,,will continue to be an important part of Sakura Gakuin.
+Dialogue: 0,1:59:03.13,1:59:07.80,Default,,0,0,0,,We’ll also create a new history for Sakura Gakuin next year.
+Dialogue: 0,1:59:08.90,1:59:11.86,Default,,0,0,0,,Even though you’re graduating please watch over us.
+Dialogue: 0,1:59:12.90,1:59:15.82,Default,,0,0,0,,I've not expressed my gratitude in lots of words but
+Dialogue: 0,1:59:15.82,1:59:17.69,Default,,0,0,0,,We all think we can't thank you more,
+Dialogue: 0,1:59:17.69,1:59:22.58,Default,,0,0,0,,more than we can express in words
+Dialogue: 0,1:59:23.78,1:59:24.45,Default,,0,0,0,,Moa.
+Dialogue: 0,1:59:24.72,1:59:25.37,Default,,0,0,0,,Yui.
+Dialogue: 0,1:59:25.68,1:59:26.33,Default,,0,0,0,,Hana.
+Dialogue: 0,1:59:26.62,1:59:27.32,Default,,0,0,0,,Yunano.
+Dialogue: 0,1:59:27.93,1:59:29.38,Default,,0,0,0,,Congratulations on your graduation.
+Dialogue: 0,1:59:29.38,1:59:31.55,Default,,0,0,0,,And, thank you.
+Dialogue: 0,1:59:32.16,1:59:35.36,Default,,0,0,0,,March 29th, 2015
+Dialogue: 0,1:59:35.36,1:59:37.02,Default,,0,0,0,,Current Student Representative.
+Dialogue: 0,1:59:37.02,1:59:39.46,Default,,0,0,0,,2nd grade in Junior High, Isono Rinon.

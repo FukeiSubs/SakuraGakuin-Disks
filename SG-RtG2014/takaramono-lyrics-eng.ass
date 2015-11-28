@@ -14,6 +14,7 @@ Audio File: ../../../../Desktop/SG-RtG2014 - BACKUP/Sakura Gakuin The Road to Gr
 Video File: ../../../../Desktop/SG-RtG2014 - BACKUP/Sakura Gakuin The Road to Graduation Final 2014.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
+Active Line: 45
 Video Position: 143906
 
 [V4+ Styles]
@@ -29,45 +30,45 @@ Dialogue: 0,1:20:20.59,1:20:25.90,Toptitle,,0,0,0,,If the sky clears, lalala we�
 Dialogue: 0,1:20:25.90,1:20:31.06,Toptitle,,0,0,0,,a song about our memories together
 Dialogue: 0,1:20:31.06,1:20:36.18,Toptitle,,0,0,0,,Surely if we’re apart our feelings will be connected
 Dialogue: 0,1:20:36.18,1:20:40.48,Toptitle,,0,0,0,,by a special magic
-Dialogue: 0,1:20:41.12,1:20:45.98,Toptitle,,0,0,0,,A memory from my heart
-Dialogue: 0,1:20:45.98,1:20:51.42,Toptitle,,0,0,0,,overflowing me as I’m smiling and crying
-Dialogue: 0,1:20:51.42,1:20:56.30,Toptitle,,0,0,0,,Hiding my face from everybody
-Dialogue: 0,1:20:56.30,1:21:02.08,Toptitle,,0,0,0,,All of these treasured things
-Dialogue: 0,1:21:03.42,1:21:09.02,Toptitle,,0,0,0,,Beyond the horizon, a new road has begun
-Dialogue: 0,1:21:09.02,1:21:13.87,Toptitle,,0,0,0,,I want to take any wind towards it!
-Dialogue: 0,1:21:13.87,1:21:19.39,Toptitle,,0,0,0,,The important winds shining too for a second
+Dialogue: 0,1:20:41.12,1:20:45.98,Toptitle,,0,0,0,,A memory in my mind is overflowed with
+Dialogue: 0,1:20:45.98,1:20:51.42,Toptitle,,0,0,0,,your faces, smiling and crying
+Dialogue: 0,1:20:51.42,1:20:56.30,Toptitle,,0,0,0,,and the faces you didn't show to anyone but me
+Dialogue: 0,1:20:56.30,1:21:02.08,Toptitle,,0,0,0,,All these memories are my treasures
+Dialogue: 0,1:21:03.42,1:21:09.02,Toptitle,,0,0,0,,Toward the horizon, I've started running on a road
+Dialogue: 0,1:21:09.02,1:21:13.87,Toptitle,,0,0,0,,I'm willing to take any wind against me!
+Dialogue: 0,1:21:13.87,1:21:19.39,Toptitle,,0,0,0,,Every single second looks brilliant and too precious for me
 Dialogue: 0,1:21:19.39,1:21:24.24,Toptitle,,0,0,0,,All the while, it would be good to stay
-Dialogue: 0,1:21:24.24,1:21:27.52,Toptitle,,0,0,0,,Really, we grew a little,
-Dialogue: 0,1:21:27.52,1:21:30.11,Toptitle,,0,0,0,,Had days that we were proud of
+Dialogue: 0,1:21:24.24,1:21:27.52,Toptitle,,0,0,0,,The days we brag to each other
+Dialogue: 0,1:21:27.52,1:21:30.11,Toptitle,,0,0,0,,of our very slight growth in height,
 Dialogue: 0,1:21:30.11,1:21:34.87,Toptitle,,0,0,0,,and days that we were nearly crying from laughter
 Dialogue: 0,1:21:34.87,1:21:40.47,Toptitle,,0,0,0,,All of these irreplaceable memories with friends
 Dialogue: 0,1:21:40.47,1:21:45.00,Toptitle,,0,0,0,,Let's hum an unending song
-Dialogue: 0,1:21:45.00,1:21:47.56,Toptitle,,0,0,0,,because we're a group
-Dialogue: 0,1:21:56.70,1:22:01.86,Toptitle,,0,0,0,,As we disappear together, a rainbow of happiness
-Dialogue: 0,1:22:01.86,1:22:07.04,Toptitle,,0,0,0,,begins to form before us
-Dialogue: 0,1:22:07.04,1:22:12.19,Toptitle,,0,0,0,,Happy, fun, we meet all divided
-Dialogue: 0,1:22:12.19,1:22:16.48,Toptitle,,0,0,0,,in a good relationship
-Dialogue: 0,1:22:17.15,1:22:21.94,Toptitle,,0,0,0,,Talking casually,
-Dialogue: 0,1:22:21.94,1:22:27.47,Toptitle,,0,0,0,,while blowing soap bubbles during an uncertain time
-Dialogue: 0,1:22:27.47,1:22:32.36,Toptitle,,0,0,0,,Still, I’m not scared
-Dialogue: 0,1:22:32.36,1:22:37.94,Toptitle,,0,0,0,,But now, I don’t want to go!
+Dialogue: 0,1:21:45.00,1:21:47.56,Toptitle,,0,0,0,,because we're best friends
+Dialogue: 0,1:21:56.70,1:22:01.86,Toptitle,,0,0,0,,In order to notice a rainbow of happiness, which disappear in a blink,
+Dialogue: 0,1:22:01.86,1:22:07.04,Toptitle,,0,0,0,,let's advance with keeping our eyes forward.
+Dialogue: 0,1:22:07.04,1:22:12.19,Toptitle,,0,0,0,,Happiness and fun, all we can share
+Dialogue: 0,1:22:12.19,1:22:16.48,Toptitle,,0,0,0,,I love such a good relationship
+Dialogue: 0,1:22:17.15,1:22:21.94,Toptitle,,0,0,0,,Casual chit-chatting,
+Dialogue: 0,1:22:21.94,1:22:27.47,Toptitle,,0,0,0,,The time which is so easily broken like a soap bubble
+Dialogue: 0,1:22:27.47,1:22:32.36,Toptitle,,0,0,0,,I hope to keep it still
+Dialogue: 0,1:22:32.36,1:22:37.94,Toptitle,,0,0,0,,But now, we must go
 Dialogue: 0,1:22:39.44,1:22:44.98,Toptitle,,0,0,0,,Hold your head up high, with a blossoming smile
-Dialogue: 0,1:22:44.98,1:22:49.86,Toptitle,,0,0,0,,Try to look back on small moments like now
+Dialogue: 0,1:22:44.98,1:22:49.86,Toptitle,,0,0,0,,Let's try to make you pay attention to me, although I'm still very small
 Dialogue: 0,1:22:49.86,1:22:55.38,Toptitle,,0,0,0,,Let dream balloons float towards the sky
-Dialogue: 0,1:22:55.38,1:23:00.22,Toptitle,,0,0,0,,Surely they will, here in this promised place
-Dialogue: 0,1:23:00.22,1:23:03.50,Toptitle,,0,0,0,,We liked the same things
-Dialogue: 0,1:23:03.50,1:23:06.00,Toptitle,,0,0,0,,We also had moments where we fought,
-Dialogue: 0,1:23:06.00,1:23:10.98,Toptitle,,0,0,0,,only over little things
-Dialogue: 0,1:23:10.98,1:23:16.42,Toptitle,,0,0,0,,But we’re opening a new door together
-Dialogue: 0,1:23:16.42,1:23:21.04,Toptitle,,0,0,0,,talking about dreams that will come true
-Dialogue: 0,1:23:21.04,1:23:23.63,Toptitle,,0,0,0,,as a group
-Dialogue: 0,1:23:52.11,1:23:57.67,Toptitle,,0,0,0,,Beyond the horizon, a new road has begun
-Dialogue: 0,1:23:57.67,1:24:02.51,Toptitle,,0,0,0,,I want to take any wind towards it!
-Dialogue: 0,1:24:02.51,1:24:08.02,Toptitle,,0,0,0,,The important ones shining too for a second
+Dialogue: 0,1:22:55.38,1:23:00.22,Toptitle,,0,0,0,,Surely the sky above must be our promised place
+Dialogue: 0,1:23:00.22,1:23:03.50,Toptitle,,0,0,0,,We could speak straightforward
+Dialogue: 0,1:23:03.50,1:23:06.00,Toptitle,,0,0,0,,And sometimes we could have a fight.
+Dialogue: 0,1:23:06.00,1:23:10.98,Toptitle,,0,0,0,,We've been in such close relation
+Dialogue: 0,1:23:10.98,1:23:16.42,Toptitle,,0,0,0,,Now, let's open the new door together
+Dialogue: 0,1:23:16.42,1:23:21.04,Toptitle,,0,0,0,,and advance to make our dream come true -- the dream we had talked about
+Dialogue: 0,1:23:21.04,1:23:23.63,Toptitle,,0,0,0,,because we're best friends
+Dialogue: 0,1:23:52.11,1:23:57.67,Toptitle,,0,0,0,,Toward the horizon, I've started running on a road
+Dialogue: 0,1:23:57.67,1:24:02.51,Toptitle,,0,0,0,,I'm willing to take any wind against me!
+Dialogue: 0,1:24:02.51,1:24:08.02,Toptitle,,0,0,0,,Every single seconds look brilliant and too precious for me
 Dialogue: 0,1:24:08.02,1:24:12.88,Toptitle,,0,0,0,,All the while, it would be good to stay
 Dialogue: 0,1:24:12.88,1:24:16.08,Toptitle,,0,0,0,,We said “bye” and shook hands
 Dialogue: 0,1:24:16.08,1:24:18.75,Toptitle,,0,0,0,,We cried a bit
-Dialogue: 0,1:24:18.75,1:24:23.50,Toptitle,,0,0,0,,We can not go back through the door after this day
-Dialogue: 0,1:24:23.50,1:24:29.06,Toptitle,,0,0,0,,Surely some day from now on we will be shining
-Dialogue: 0,1:24:29.06,1:24:33.68,Toptitle,,0,0,0,,and we'll gather here and meet again
-Dialogue: 0,1:24:33.68,1:24:36.22,Toptitle,,0,0,0,,as a group
+Dialogue: 0,1:24:18.75,1:24:23.50,Toptitle,,0,0,0,,Today, we've opened the door we can not go back through it.
+Dialogue: 0,1:24:23.50,1:24:29.06,Toptitle,,0,0,0,,Surely some day, let's gather here and meet again
+Dialogue: 0,1:24:29.06,1:24:33.68,Toptitle,,0,0,0,,with holding new glitters we'll get over there
+Dialogue: 0,1:24:33.68,1:24:36.22,Toptitle,,0,0,0,,because we're best friends

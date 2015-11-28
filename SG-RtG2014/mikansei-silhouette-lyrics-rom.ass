@@ -8,8 +8,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Scroll Position: 15
-Active Line: 25
+Active Line: 31
 Video Position: 137371
 
 [V4+ Styles]
@@ -32,7 +31,7 @@ Dialogue: 0,1:16:15.05,1:16:18.28,Subtitle,,0,0,0,,kasaneta kanjou mirufiiyu
 Dialogue: 0,1:16:18.28,1:16:23.60,Subtitle,,0,0,0,,Kanaderunda nijiiro no haamonii
 Dialogue: 0,1:16:23.60,1:16:27.45,Subtitle,,0,0,0,,Baibai kuyashikutte namida nagashita
 Dialogue: 0,1:16:27.45,1:16:35.46,Subtitle,,0,0,0,,Bukiyou na watashi ni ima wa nakanaide ieru yo
-Dialogue: 0,1:16:35.46,1:16:37.18,Subtitle,,0,0,0,,Jaa, mata ashita
+Dialogue: 0,1:16:35.46,1:16:37.18,Subtitle,,0,0,0,,"Jaa, mata ashita"
 Dialogue: 0,1:16:48.49,1:16:54.72,Subtitle,,0,0,0,,Saikin no kimi wa sa sora dake wo mitsumete
 Dialogue: 0,1:16:54.72,1:17:00.74,Subtitle,,0,0,0,,Yuruginai me de mugen no yume wo katatteru kedo
 Dialogue: 0,1:17:00.74,1:17:06.92,Subtitle,,0,0,0,,ribon wo hodoitara otona ni naru aizu
@@ -44,7 +43,7 @@ Dialogue: 0,1:17:28.98,1:17:32.13,Subtitle,,0,0,0,,kuzurenai kanjou mirufiiyu
 Dialogue: 0,1:17:32.13,1:17:37.44,Subtitle,,0,0,0,,Kono puraido dare ni mo kowasenai
 Dialogue: 0,1:17:37.44,1:17:41.25,Subtitle,,0,0,0,,Zettai! jibun rashiku tsutaetainda
 Dialogue: 0,1:17:41.25,1:17:49.26,Subtitle,,0,0,0,,Mikansei da to shite mo hazukashi garazu ni iu kara
-Dialogue: 0,1:17:49.26,1:17:51.10,Subtitle,,0,0,0,,Itsumo, arigatou
+Dialogue: 0,1:17:49.26,1:17:51.10,Subtitle,,0,0,0,,"Itsumo, arigatou"
 Dialogue: 0,1:18:16.05,1:18:22.34,Subtitle,,0,0,0,,Hajimari no akashi ni soroeta sutorappu
 Dialogue: 0,1:18:22.34,1:18:27.81,Subtitle,,0,0,0,,kimi ga kureta toki kara wa mou iroaseta kedo
 Dialogue: 0,1:18:28.34,1:18:32.09,Subtitle,,0,0,0,,Isshou waraiatte shigeki shiatte
@@ -52,4 +51,4 @@ Dialogue: 0,1:18:32.09,1:18:35.17,Subtitle,,0,0,0,,kasanetai yuujou mirufiiyu
 Dialogue: 0,1:18:35.17,1:18:40.60,Subtitle,,0,0,0,,Sekaijuu ni nijiiro no haamonii
 Dialogue: 0,1:18:40.60,1:18:44.36,Subtitle,,0,0,0,,Baibai kuyashikutte namida nagashita
 Dialogue: 0,1:18:44.36,1:18:52.32,Subtitle,,0,0,0,,Bukiyou na watashi ni ima wa nakanaide ieru yo
-Dialogue: 0,1:18:52.32,1:18:54.00,Subtitle,,0,0,0,,Jaa, mata ashita
+Dialogue: 0,1:18:52.32,1:18:54.00,Subtitle,,0,0,0,,"Jaa, mata ashita"

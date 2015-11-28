@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Scroll Position: 24
-Active Line: 37
+Scroll Position: 36
+Active Line: 41
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,7 +56,7 @@ Dialogue: 0,0:17:21.41,0:17:23.72,Default,,0,0,0,,I’m tormented by you
 Dialogue: 0,0:17:39.84,0:17:43.46,Default,,0,0,0,,But I can always stay in good spirits
 Dialogue: 0,0:17:43.46,0:17:46.88,Default,,0,0,0,,thanks to you
 Dialogue: 0,0:17:46.88,0:17:50.52,Default,,0,0,0,,So you have my thanks for doing this
-Dialogue: 0,0:17:50.52,0:17:53.65,Default,,0,0,0,,Nevertheless, I did a little too much!
+Dialogue: 0,0:17:50.52,0:17:53.65,Default,,0,0,0,,But, you did a little too much to me!
 Dialogue: 0,0:17:53.76,0:17:57.13,Default,,0,0,0,,Oh yeah! Burn it off!
 Dialogue: 0,0:17:57.13,0:18:00.97,Default,,0,0,0,,to get closer to the girl you want to be
 Dialogue: 0,0:18:00.97,0:18:04.36,Default,,0,0,0,,Still not satisfied! Get rid of it!

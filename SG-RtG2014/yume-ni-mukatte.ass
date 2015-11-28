@@ -15,7 +15,6 @@ Video File: D:/Downloads/Sakura Gakuin The Road to Graduation Final 2014/Sakura 
 Video AR Mode: 4
 Video AR Value: 1.777083
 Video Zoom Percent: 0.500000
-Active Line: 8
 Video Position: 175668
 
 [V4+ Styles]
@@ -24,7 +23,6 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Yume Ni Mukatte
 Dialogue: 0,1:37:41.45,1:37:44.50,Default,,0,0,0,,Thank you very much!
 Dialogue: 0,1:37:45.04,1:37:47.68,Default,,0,0,0,,The next song is the last song tonight
 Dialogue: 0,1:37:49.82,1:37:55.52,Default,,0,0,0,,The song we are going to play is the very first song Sakura Gakuin had made
