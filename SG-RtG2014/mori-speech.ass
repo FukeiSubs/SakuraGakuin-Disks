@@ -16,8 +16,7 @@ Video File: D:/Downloads/Sakura Gakuin The Road to Graduation Final 2014/Sakura 
 Video AR Mode: 4
 Video AR Value: 1.777083
 Video Zoom Percent: 0.875000
-Scroll Position: 19
-Active Line: 50
+Active Line: 25
 Video Position: 193152
 
 [V4+ Styles]
@@ -41,13 +40,17 @@ Dialogue: 0,1:47:20.01,1:47:22.95,Default,,0,0,0,,Elementary school, 6th grade, 
 Dialogue: 0,1:47:23.18,1:47:23.74,Default,,0,0,0,,Hai!
 Dialogue: 0,1:48:01.29,1:48:05.39,Default,,0,0,0,,Next, Jr High graduates.
 Dialogue: 0,1:48:06.79,1:48:10.06,Default,,0,0,0,,Jr. High, 3rd year, Kikuchi Moa
+Dialogue: 0,1:48:10.43,1:48:12.16,Default,,0,0,0,,Hai!
 Dialogue: 0,1:49:16.63,1:49:19.87,Default,,0,0,0,,Jr. High, 3rd year, Taguchi Hana
+Dialogue: 0,1:49:20.23,1:49:21.70,Default,,0,0,0,,Hai!
 Dialogue: 0,1:50:00.51,1:50:03.51,Default,,0,0,0,,Jr. High, 3rd year, Notsu Yunano
+Dialogue: 0,1:50:03.58,1:50:05.38,Default,,0,0,0,,Hai!
 Dialogue: 0,1:50:44.08,1:50:46.92,Default,,0,0,0,,Jr. High, 3rd year, Mizuno Yui
+Dialogue: 0,1:50:46.92,1:50:49.36,Default,,0,0,0,,Hai!
 Dialogue: 0,1:51:33.03,1:51:36.64,Default,,0,0,0,,So then, to give the student's Souji (A farewell message to the graduates from remaining students)
 Dialogue: 0,1:51:37.07,1:51:43.04,Default,,0,0,0,,Sakura Gakuin, 2011 transfer student, Jr High, 2nd year, Isono Rinon
 Dialogue: 0,2:00:01.47,2:00:05.08,Default,,0,0,0,,Next, to give the Graduation Touji (a message in reply to Souji from the graduates)
-Dialogue: 0,2:00:06.04,2:00:09.51,Default,,0,0,0,,Sakura Gakuin, Junoir High 3rd years.
+Dialogue: 0,2:00:06.04,2:00:09.51,Default,,0,0,0,,Sakura Gakuin, Junior High 3rd years.
 Dialogue: 0,2:00:10.25,2:00:11.38,Default,,0,0,0,,Hai!
 Dialogue: 0,2:00:23.20,2:00:26.80,Default,,0,0,0,,To be represented by Student Council President Kikuchi Moa.
 Dialogue: 0,2:11:26.56,2:11:32.60,Default,,0,0,0,,Now, we'll have a celebratory speech from Kuramoto Mitsuru, the Principal of Sakura Gakuin.
