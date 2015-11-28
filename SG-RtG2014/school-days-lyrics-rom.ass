@@ -13,38 +13,35 @@ Video Position: 13252
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Subtitle,Levenim MT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,2,10,10,3,1
-Style: Credits,PT Sans Narrow,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
-Style: Toptitle,PT Sans Narrow,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,8,10,10,0,1
+Style: Romaji Lyrics,Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:04:58.12,0:05:01.32,Default,,0,0,0,,{\i1}Start!{\i0} Omoikiri kakedasou
-Dialogue: 0,0:05:01.32,0:05:04.40,Default,,0,0,0,,{\i1}Jump!{\i0} Darenimo makenai hodo no
-Dialogue: 0,0:05:04.40,0:05:10.96,Default,,0,0,0,,Sorezore no yume motome dare yori kagayaku you ni
-Dialogue: 0,0:05:10.96,0:05:14.13,Default,,0,0,0,,{\i1}Dream!{\i0} Kyoushitsu no mado no soto
-Dialogue: 0,0:05:14.13,0:05:17.20,Default,,0,0,0,,{\i1}Chance!{\i0} Mugen ni hirogaru mirai
-Dialogue: 0,0:05:17.20,0:05:23.84,Default,,0,0,0,,Koi shi tari yumemi tari jibun no hana wo sakasou
-Dialogue: 0,0:05:24.13,0:05:30.13,Default,,0,0,0,,Tsubomi sake sakura sake
-Dialogue: 0,0:05:30.13,0:05:36.72,Default,,0,0,0,,kono manabinoniwa ni {\i1}My school days{\i0}
-Dialogue: 0,0:05:40.09,0:05:46.53,Default,,0,0,0,,Takanatta kodou ga kaze ni naru guraundo
-Dialogue: 0,0:05:46.53,0:05:52.88,Default,,0,0,0,,Sore wa kitto yume ga hashiridasu basho
-Dialogue: 0,0:05:52.88,0:05:59.28,Default,,0,0,0,,Akogare wa hajimari osaete mo afureru
-Dialogue: 0,0:05:59.28,0:06:05.29,Default,,0,0,0,,kimochi sotto hagukumi hanahiraku toki wo matsu
-Dialogue: 0,0:06:05.29,0:06:10.16,Default,,0,0,0,,Aa Sakura Gakuin!
-Dialogue: 0,0:06:11.73,0:06:14.81,Default,,0,0,0,,{\i1}Start!{\i0} Daisukina kimi no shigusa
-Dialogue: 0,0:06:14.81,0:06:18.05,Default,,0,0,0,,{\i1}Smile!{\i0} Nanigenai sono yokogao
-Dialogue: 0,0:06:18.05,0:06:24.52,Default,,0,0,0,,Jugyouchuu ni sotto mite omoi yo todoke to negau
-Dialogue: 0,0:06:24.52,0:06:27.69,Default,,0,0,0,,{\i1}Wish!{\i0} Taisetsuna sono kotoba
-Dialogue: 0,0:06:27.69,0:06:30.90,Default,,0,0,0,,{\i1}Say!{\i0} Nee kimi ni iwa retai na
-Dialogue: 0,0:06:30.90,0:06:37.48,Default,,0,0,0,,Darenimo yuzurenai yo doushitara umaku iku no?
-Dialogue: 0,0:06:37.72,0:06:43.76,Default,,0,0,0,,Tsubomi sake sakura sake
-Dialogue: 0,0:06:43.76,0:06:50.22,Default,,0,0,0,,iono kokoro no niwa ni {\i1}My sweet days{\i0}
-Dialogue: 0,0:07:22.16,0:07:28.36,Default,,0,0,0,,{\i1}Start!{\i0} Omoikiri kakedasou darenimo makenai hodo no
-Dialogue: 0,0:07:28.36,0:07:34.96,Default,,0,0,0,,Sorezore no yume motome dare yori kagayaku you ni
-Dialogue: 0,0:07:34.96,0:07:38.09,Default,,0,0,0,,{\i1}Believe!{\i0} Kyoushitsu no mado no soto
-Dialogue: 0,0:07:38.09,0:07:41.21,Default,,0,0,0,,{\i1}Chance!{\i0} Mugen ni hirogaru mirai
-Dialogue: 0,0:07:41.21,0:07:48.06,Default,,0,0,0,,Koi shi tari yumemi tari jibun no hana wo sakasou
-Dialogue: 0,0:07:48.06,0:07:54.14,Default,,0,0,0,,Tsubomi sake sakura sake
-Dialogue: 0,0:07:54.14,0:08:02.26,Default,,0,0,0,,kono manabinoniwa ni {\i1}My school days{\i0}
+Dialogue: 0,0:04:58.12,0:05:01.32,Romaji Lyrics,,0,0,0,,{\i1}Start!{\i0} Omoikiri kakedasou
+Dialogue: 0,0:05:01.32,0:05:04.40,Romaji Lyrics,,0,0,0,,{\i1}Jump!{\i0} Darenimo makenai hodo no
+Dialogue: 0,0:05:04.40,0:05:10.96,Romaji Lyrics,,0,0,0,,Sorezore no yume motome dare yori kagayaku you ni
+Dialogue: 0,0:05:10.96,0:05:14.13,Romaji Lyrics,,0,0,0,,{\i1}Dream!{\i0} Kyoushitsu no mado no soto
+Dialogue: 0,0:05:14.13,0:05:17.20,Romaji Lyrics,,0,0,0,,{\i1}Chance!{\i0} Mugen ni hirogaru mirai
+Dialogue: 0,0:05:17.20,0:05:23.84,Romaji Lyrics,,0,0,0,,Koi shi tari yumemi tari jibun no hana wo sakasou
+Dialogue: 0,0:05:24.13,0:05:30.13,Romaji Lyrics,,0,0,0,,Tsubomi sake sakura sake
+Dialogue: 0,0:05:30.13,0:05:36.72,Romaji Lyrics,,0,0,0,,kono manabinoniwa ni {\i1}My school days{\i0}
+Dialogue: 0,0:05:40.09,0:05:46.53,Romaji Lyrics,,0,0,0,,Takanatta kodou ga kaze ni naru guraundo
+Dialogue: 0,0:05:46.53,0:05:52.88,Romaji Lyrics,,0,0,0,,Sore wa kitto yume ga hashiridasu basho
+Dialogue: 0,0:05:52.88,0:05:59.28,Romaji Lyrics,,0,0,0,,Akogare wa hajimari osaete mo afureru
+Dialogue: 0,0:05:59.28,0:06:05.29,Romaji Lyrics,,0,0,0,,kimochi sotto hagukumi hanahiraku toki wo matsu
+Dialogue: 0,0:06:05.29,0:06:10.16,Romaji Lyrics,,0,0,0,,Aa Sakura Gakuin!
+Dialogue: 0,0:06:11.73,0:06:14.81,Romaji Lyrics,,0,0,0,,{\i1}Start!{\i0} Daisukina kimi no shigusa
+Dialogue: 0,0:06:14.81,0:06:18.05,Romaji Lyrics,,0,0,0,,{\i1}Smile!{\i0} Nanigenai sono yokogao
+Dialogue: 0,0:06:18.05,0:06:24.52,Romaji Lyrics,,0,0,0,,Jugyouchuu ni sotto mite omoi yo todoke to negau
+Dialogue: 0,0:06:24.52,0:06:27.69,Romaji Lyrics,,0,0,0,,{\i1}Wish!{\i0} Taisetsuna sono kotoba
+Dialogue: 0,0:06:27.69,0:06:30.90,Romaji Lyrics,,0,0,0,,{\i1}Say!{\i0} Nee kimi ni iwa retai na
+Dialogue: 0,0:06:30.90,0:06:37.48,Romaji Lyrics,,0,0,0,,Darenimo yuzurenai yo doushitara umaku iku no?
+Dialogue: 0,0:06:37.72,0:06:43.76,Romaji Lyrics,,0,0,0,,Tsubomi sake sakura sake
+Dialogue: 0,0:06:43.76,0:06:50.22,Romaji Lyrics,,0,0,0,,iono kokoro no niwa ni {\i1}My sweet days{\i0}
+Dialogue: 0,0:07:22.16,0:07:28.36,Romaji Lyrics,,0,0,0,,{\i1}Start!{\i0} Omoikiri kakedasou darenimo makenai hodo no
+Dialogue: 0,0:07:28.36,0:07:34.96,Romaji Lyrics,,0,0,0,,Sorezore no yume motome dare yori kagayaku you ni
+Dialogue: 0,0:07:34.96,0:07:38.09,Romaji Lyrics,,0,0,0,,{\i1}Believe!{\i0} Kyoushitsu no mado no soto
+Dialogue: 0,0:07:38.09,0:07:41.21,Romaji Lyrics,,0,0,0,,{\i1}Chance!{\i0} Mugen ni hirogaru mirai
+Dialogue: 0,0:07:41.21,0:07:48.06,Romaji Lyrics,,0,0,0,,Koi shi tari yumemi tari jibun no hana wo sakasou
+Dialogue: 0,0:07:48.06,0:07:54.14,Romaji Lyrics,,0,0,0,,Tsubomi sake sakura sake
+Dialogue: 0,0:07:54.14,0:08:02.26,Romaji Lyrics,,0,0,0,,kono manabinoniwa ni {\i1}My school days{\i0}

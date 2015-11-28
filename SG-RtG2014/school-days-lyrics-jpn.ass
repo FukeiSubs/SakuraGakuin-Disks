@@ -12,39 +12,35 @@ Active Line: 15
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Subtitle,Levenim MT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,2,10,10,3,1
-Style: Credits,PT Sans Narrow,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
-Style: Toptitle,PT Sans Narrow,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,8,10,10,0,1
-Style: Song Title,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Japanese Lyrics,@Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,5,-90,1,2,2,9,0,0,460,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:04:58.12,0:05:01.32,Default,,0,0,0,,{\i1}Start!{\i0} 思い切り駆け出そう
-Dialogue: 0,0:05:01.32,0:05:04.40,Default,,0,0,0,,{\i1}Jump!{\i0} 誰にも負けないほどの
-Dialogue: 0,0:05:04.40,0:05:10.96,Default,,0,0,0,,それぞれの夢求め 誰より輝くように
-Dialogue: 0,0:05:10.96,0:05:14.13,Default,,0,0,0,,{\i1}Dream!{\i0} 教室の窓の外
-Dialogue: 0,0:05:14.13,0:05:17.20,Default,,0,0,0,,{\i1}Chance!{\i0} 無限に広がる未来
-Dialogue: 0,0:05:17.20,0:05:23.84,Default,,0,0,0,,恋したり 夢見たり 自分の花を咲かそう
-Dialogue: 0,0:05:24.13,0:05:30.13,Default,,0,0,0,,つぼみ咲け さくら咲け
-Dialogue: 0,0:05:30.13,0:05:36.72,Default,,0,0,0,,この学びの庭に {\i1}My school days{\i0}
-Dialogue: 0,0:05:40.09,0:05:46.53,Default,,0,0,0,,高鳴った鼓動が 風になるグラウンド
-Dialogue: 0,0:05:46.53,0:05:52.88,Default,,0,0,0,,それはきっと夢が 走り出す場所
-Dialogue: 0,0:05:52.88,0:05:59.28,Default,,0,0,0,,憧れは始まり 抑えても溢れる
-Dialogue: 0,0:05:59.28,0:06:05.29,Default,,0,0,0,,気持ちそっと育み 花開く時を待つ
-Dialogue: 0,0:06:05.29,0:06:10.16,Default,,0,0,0,,ああ さくら学院
-Dialogue: 0,0:06:11.73,0:06:14.81,Default,,0,0,0,,{\i1}Start!{\i0} 大好きな君の仕草
-Dialogue: 0,0:06:14.81,0:06:18.05,Default,,0,0,0,,{\i1}Smile!{\i0} なにげないその横顔
-Dialogue: 0,0:06:18.05,0:06:24.52,Default,,0,0,0,,授業中にそっと見て、想いよ届けと願う
-Dialogue: 0,0:06:24.52,0:06:27.69,Default,,0,0,0,,{\i1}Wish!{\i0} 大切なその言葉
-Dialogue: 0,0:06:27.69,0:06:30.90,Default,,0,0,0,,{\i1}Say!{\i0} ねぇ君に言われたいな
-Dialogue: 0,0:06:30.90,0:06:37.48,Default,,0,0,0,,誰にもゆずれないよ どうしたら うまくいくの?
-Dialogue: 0,0:06:37.72,0:06:43.76,Default,,0,0,0,,つぼみ咲け さくら咲け
-Dialogue: 0,0:06:43.76,0:06:50.22,Default,,0,0,0,,この心の庭に {\i1}My sweet days{\i0}
-Dialogue: 0,0:07:22.16,0:07:28.36,Default,,0,0,0,,{\i1}Start!{\i0} 思い切り駆け出そう 誰にも負けないほどの
-Dialogue: 0,0:07:28.36,0:07:34.96,Default,,0,0,0,,それぞれの夢求め 誰より輝くように
-Dialogue: 0,0:07:34.96,0:07:38.09,Default,,0,0,0,,{\i1}Believe!{\i0} 教室の窓の外
-Dialogue: 0,0:07:38.09,0:07:41.21,Default,,0,0,0,,{\i1}Chance!{\i0} 無限に広がる未来
-Dialogue: 0,0:07:41.21,0:07:48.06,Default,,0,0,0,,恋したり 夢見たり 自分の花を咲かそう
-Dialogue: 0,0:07:48.06,0:07:54.14,Default,,0,0,0,,つぼみ咲け さくら咲け
-Dialogue: 0,0:07:54.14,0:08:02.26,Default,,0,0,0,,この学びの庭に {\i1}My school days{\i0}
+Dialogue: 0,0:04:58.12,0:05:01.32,Japanese Lyrics,,0,0,0,,{\i1}Start!{\i0} 思い切り駆け出そう
+Dialogue: 0,0:05:01.32,0:05:04.40,Japanese Lyrics,,0,0,0,,{\i1}Jump!{\i0} 誰にも負けないほどの
+Dialogue: 0,0:05:04.40,0:05:10.96,Japanese Lyrics,,0,0,0,,それぞれの夢求め 誰より輝くように
+Dialogue: 0,0:05:10.96,0:05:14.13,Japanese Lyrics,,0,0,0,,{\i1}Dream!{\i0} 教室の窓の外
+Dialogue: 0,0:05:14.13,0:05:17.20,Japanese Lyrics,,0,0,0,,{\i1}Chance!{\i0} 無限に広がる未来
+Dialogue: 0,0:05:17.20,0:05:23.84,Japanese Lyrics,,0,0,0,,恋したり 夢見たり 自分の花を咲かそう
+Dialogue: 0,0:05:24.13,0:05:30.13,Japanese Lyrics,,0,0,0,,つぼみ咲け さくら咲け
+Dialogue: 0,0:05:30.13,0:05:36.72,Japanese Lyrics,,0,0,0,,この学びの庭に {\i1}My school days{\i0}
+Dialogue: 0,0:05:40.09,0:05:46.53,Japanese Lyrics,,0,0,0,,高鳴った鼓動が 風になるグラウンド
+Dialogue: 0,0:05:46.53,0:05:52.88,Japanese Lyrics,,0,0,0,,それはきっと夢が 走り出す場所
+Dialogue: 0,0:05:52.88,0:05:59.28,Japanese Lyrics,,0,0,0,,憧れは始まり 抑えても溢れる
+Dialogue: 0,0:05:59.28,0:06:05.29,Japanese Lyrics,,0,0,0,,気持ちそっと育み 花開く時を待つ
+Dialogue: 0,0:06:05.29,0:06:10.16,Japanese Lyrics,,0,0,0,,ああ さくら学院
+Dialogue: 0,0:06:11.73,0:06:14.81,Japanese Lyrics,,0,0,0,,{\i1}Start!{\i0} 大好きな君の仕草
+Dialogue: 0,0:06:14.81,0:06:18.05,Japanese Lyrics,,0,0,0,,{\i1}Smile!{\i0} なにげないその横顔
+Dialogue: 0,0:06:18.05,0:06:24.52,Japanese Lyrics,,0,0,0,,授業中にそっと見て、想いよ届けと願う
+Dialogue: 0,0:06:24.52,0:06:27.69,Japanese Lyrics,,0,0,0,,{\i1}Wish!{\i0} 大切なその言葉
+Dialogue: 0,0:06:27.69,0:06:30.90,Japanese Lyrics,,0,0,0,,{\i1}Say!{\i0} ねぇ君に言われたいな
+Dialogue: 0,0:06:30.90,0:06:37.48,Japanese Lyrics,,0,0,0,,誰にもゆずれないよ どうしたら うまくいくの?
+Dialogue: 0,0:06:37.72,0:06:43.76,Japanese Lyrics,,0,0,0,,つぼみ咲け さくら咲け
+Dialogue: 0,0:06:43.76,0:06:50.22,Japanese Lyrics,,0,0,0,,この心の庭に {\i1}My sweet days{\i0}
+Dialogue: 0,0:07:22.16,0:07:28.36,Japanese Lyrics,,0,0,0,,{\i1}Start!{\i0} 思い切り駆け出そう 誰にも負けないほどの
+Dialogue: 0,0:07:28.36,0:07:34.96,Japanese Lyrics,,0,0,0,,それぞれの夢求め 誰より輝くように
+Dialogue: 0,0:07:34.96,0:07:38.09,Japanese Lyrics,,0,0,0,,{\i1}Believe!{\i0} 教室の窓の外
+Dialogue: 0,0:07:38.09,0:07:41.21,Japanese Lyrics,,0,0,0,,{\i1}Chance!{\i0} 無限に広がる未来
+Dialogue: 0,0:07:41.21,0:07:48.06,Japanese Lyrics,,0,0,0,,恋したり 夢見たり 自分の花を咲かそう
+Dialogue: 0,0:07:48.06,0:07:54.14,Japanese Lyrics,,0,0,0,,つぼみ咲け さくら咲け
+Dialogue: 0,0:07:54.14,0:08:02.26,Japanese Lyrics,,0,0,0,,この学びの庭に {\i1}My school days{\i0}

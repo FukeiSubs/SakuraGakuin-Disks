@@ -12,31 +12,27 @@ Active Line: 11
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Subtitle,Levenim MT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,2,10,10,3,1
-Style: Credits,PT Sans Narrow,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
-Style: Toptitle,PT Sans Narrow,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,8,10,10,0,1
-Style: Song Title,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: English Lyrics,Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,2:26:25.49,2:26:33.82,English,,0,0,0,,Amidst the white light, greenery sprouts on the mountain range
-Dialogue: 0,2:26:33.82,2:26:42.10,English,,0,0,0,,you start flying toward the distant corner of the sky
-Dialogue: 0,2:26:42.10,2:26:50.52,English,,0,0,0,,The endless blue sky moves your heart
-Dialogue: 0,2:26:50.52,2:26:58.57,English,,0,0,0,,To the bird dashing toward freedom, without looking back at all
-Dialogue: 0,2:26:58.57,2:27:06.98,English,,0,0,0,,Gather your courage onto your wings and ride on the wind of hope
-Dialogue: 0,2:27:06.98,2:27:18.90,English,,0,0,0,,Entrust your dream to the vast sky
-Dialogue: 0,2:27:32.62,2:27:39.76,English,,0,0,0,,I suddenly recall the nostalgic voices of my friends
-Dialogue: 0,2:27:39.76,2:27:46.60,English,,0,0,0,,The times I cried because of meaningless squabbles
-Dialogue: 0,2:27:46.60,2:27:53.56,English,,0,0,0,,The joy I felt in my heart, the days we embraced each other
-Dialogue: 0,2:27:53.56,2:28:00.26,English,,0,0,0,,Those days are gone, but I’ll hold on tightly to those memories
-Dialogue: 0,2:28:00.26,2:28:07.10,English,,0,0,0,,Gather your courage onto your wings and ride on the wind of hope
-Dialogue: 0,2:28:07.10,2:28:15.96,English,,0,0,0,,Entrust your dream to the vast sky
-Dialogue: 0,2:28:22.76,2:28:29.81,English,,0,0,0,,Gather your courage onto your wings and ride on the wind of hope
-Dialogue: 0,2:28:29.81,2:28:40.49,English,,0,0,0,,Entrust your dream to the vast sky
-Dialogue: 0,2:28:40.49,2:28:47.46,English,,0,0,0,,Now is the time to part, believe in the future you’re taking off to
-Dialogue: 0,2:28:47.46,2:28:50.80,English,,0,0,0,,Believe in the energetic power of youth
-Dialogue: 0,2:28:50.80,2:28:59.46,English,,0,0,0,,in this vast, boundless sky
-Dialogue: 0,2:28:59.84,2:29:06.86,English,,0,0,0,,Now is the time to part, believe in the future you’re taking off to
-Dialogue: 0,2:29:06.86,2:29:10.33,English,,0,0,0,,Believe in the energetic power of youth
-Dialogue: 0,2:29:10.33,2:29:21.90,English,,0,0,0,,in this vast, boundless sky
+Dialogue: 0,2:26:25.49,2:26:33.82,English Lyrics,,0,0,0,,Amidst the white light, greenery sprouts on the mountain range
+Dialogue: 0,2:26:33.82,2:26:42.10,English Lyrics,,0,0,0,,you start flying toward the distant corner of the sky
+Dialogue: 0,2:26:42.10,2:26:50.52,English Lyrics,,0,0,0,,The endless blue sky moves your heart
+Dialogue: 0,2:26:50.52,2:26:58.57,English Lyrics,,0,0,0,,To the bird dashing toward freedom, without looking back at all
+Dialogue: 0,2:26:58.57,2:27:06.98,English Lyrics,,0,0,0,,Gather your courage onto your wings and ride on the wind of hope
+Dialogue: 0,2:27:06.98,2:27:18.90,English Lyrics,,0,0,0,,Entrust your dream to the vast sky
+Dialogue: 0,2:27:32.62,2:27:39.76,English Lyrics,,0,0,0,,I suddenly recall the nostalgic voices of my friends
+Dialogue: 0,2:27:39.76,2:27:46.60,English Lyrics,,0,0,0,,The times I cried because of meaningless squabbles
+Dialogue: 0,2:27:46.60,2:27:53.56,English Lyrics,,0,0,0,,The joy I felt in my heart, the days we embraced each other
+Dialogue: 0,2:27:53.56,2:28:00.26,English Lyrics,,0,0,0,,Those days are gone, but I’ll hold on tightly to those memories
+Dialogue: 0,2:28:00.26,2:28:07.10,English Lyrics,,0,0,0,,Gather your courage onto your wings and ride on the wind of hope
+Dialogue: 0,2:28:07.10,2:28:15.96,English Lyrics,,0,0,0,,Entrust your dream to the vast sky
+Dialogue: 0,2:28:22.76,2:28:29.81,English Lyrics,,0,0,0,,Gather your courage onto your wings and ride on the wind of hope
+Dialogue: 0,2:28:29.81,2:28:40.49,English Lyrics,,0,0,0,,Entrust your dream to the vast sky
+Dialogue: 0,2:28:40.49,2:28:47.46,English Lyrics,,0,0,0,,Now is the time to part, believe in the future you’re taking off to
+Dialogue: 0,2:28:47.46,2:28:50.80,English Lyrics,,0,0,0,,Believe in the energetic power of youth
+Dialogue: 0,2:28:50.80,2:28:59.46,English Lyrics,,0,0,0,,in this vast, boundless sky
+Dialogue: 0,2:28:59.84,2:29:06.86,English Lyrics,,0,0,0,,Now is the time to part, believe in the future you’re taking off to
+Dialogue: 0,2:29:06.86,2:29:10.33,English Lyrics,,0,0,0,,Believe in the energetic power of youth
+Dialogue: 0,2:29:10.33,2:29:21.90,English Lyrics,,0,0,0,,in this vast, boundless sky

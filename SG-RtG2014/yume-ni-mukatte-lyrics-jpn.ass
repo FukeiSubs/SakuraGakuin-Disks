@@ -11,49 +11,45 @@ YCbCr Matrix: None
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Subtitle,Levenim MT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,2,10,10,3,1
-Style: Credits,PT Sans Narrow,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
-Style: Toptitle,PT Sans Narrow,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,8,10,10,0,1
-Style: Song Title,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Japanese Lyrics,@Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,5,-90,1,2,2,9,0,0,460,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:38:36.77,1:38:40.57,Default,,0,0,0,,はばたけ 夢に向かってまっすぐ
-Dialogue: 0,1:38:40.57,1:38:43.56,Default,,0,0,0,,明日じゃなくていますぐ
-Dialogue: 0,1:38:43.56,1:38:50.06,Default,,0,0,0,,みんな 輝くステージ 進め {\i1}fly away!{\i0}
-Dialogue: 0,1:39:01.58,1:39:06.85,Default,,0,0,0,,熱い誓いを 幾つも重ねたなら
-Dialogue: 0,1:39:06.85,1:39:13.59,Default,,0,0,0,,でっかいチャンスの扉さえ 開けるパワーになるよ
-Dialogue: 0,1:39:13.59,1:39:18.84,Default,,0,0,0,,苦しい時に 仲間の顔見るたび
-Dialogue: 0,1:39:18.84,1:39:25.51,Default,,0,0,0,,壊れてしまいそうな気持ちに ヒカリが射す気がした
-Dialogue: 0,1:39:25.51,1:39:31.71,Default,,0,0,0,,携帯メールでね 励まし合ったメッセージ
-Dialogue: 0,1:39:31.71,1:39:37.19,Default,,0,0,0,,元気勇気いっぱい もらったから
-Dialogue: 0,1:39:37.19,1:39:39.36,Default,,0,0,0,,
-Dialogue: 0,1:39:39.78,1:39:43.60,Default,,0,0,0,,はばたけ 夢に向かってまっすぐ
-Dialogue: 0,1:39:43.60,1:39:46.53,Default,,0,0,0,,明日じゃなくていますぐ
-Dialogue: 0,1:39:46.53,1:39:52.56,Default,,0,0,0,,だって待ってなんか いられない
-Dialogue: 0,1:39:52.56,1:39:57.81,Default,,0,0,0,,輝く希望の嵐 強い絆で
-Dialogue: 0,1:39:57.81,1:40:04.95,Default,,0,0,0,,キラメキ放ち 最高の未来 目指そうよ
-Dialogue: 0,1:40:16.54,1:40:21.87,Default,,0,0,0,,ちっちゃく見えても 夢はおっきいから
-Dialogue: 0,1:40:21.87,1:40:25.49,Default,,0,0,0,,失敗怖れない心で
-Dialogue: 0,1:40:25.49,1:40:28.51,Default,,0,0,0,,高い空を見上げた
-Dialogue: 0,1:40:28.51,1:40:33.80,Default,,0,0,0,,ちっちゃい翼で おっきな理想抱え
-Dialogue: 0,1:40:33.80,1:40:40.51,Default,,0,0,0,,ときには妹の気分で 仲間に甘えちゃった
-Dialogue: 0,1:40:40.51,1:40:46.70,Default,,0,0,0,,初めてブログを 書いた時に手にした
-Dialogue: 0,1:40:46.70,1:40:52.16,Default,,0,0,0,,宝物はいっぱい 今もあるよ
-Dialogue: 0,1:40:52.16,1:40:54.84,Default,,0,0,0,,
-Dialogue: 0,1:40:54.84,1:40:58.54,Default,,0,0,0,,はばたけ 夢に向かってまっすぐ
-Dialogue: 0,1:40:58.54,1:41:01.50,Default,,0,0,0,,明日じゃなくていますぐ
-Dialogue: 0,1:41:01.50,1:41:07.52,Default,,0,0,0,,強い願いを光る風にして
-Dialogue: 0,1:41:07.52,1:41:12.73,Default,,0,0,0,,緊張なんか吹き飛ばし 自分の笑顔で
-Dialogue: 0,1:41:12.73,1:41:20.21,Default,,0,0,0,,いつでも強く 前を向いて高く飛んで行こう
-Dialogue: 0,1:41:45.88,1:41:49.62,Default,,0,0,0,,はばたけ 夢に向かってまっすぐ
-Dialogue: 0,1:41:49.62,1:41:52.57,Default,,0,0,0,,明日じゃなくていますぐ
-Dialogue: 0,1:41:52.57,1:41:58.54,Default,,0,0,0,,だって待ってなんかいられない
-Dialogue: 0,1:41:58.54,1:42:03.84,Default,,0,0,0,,輝く希望の嵐 強い絆で
-Dialogue: 0,1:42:03.84,1:42:06.77,Default,,0,0,0,,キラメキ放ち 最高の
-Dialogue: 0,1:42:06.77,1:42:10.60,Default,,0,0,0,,未来へ 夢に向かってまっすぐ
-Dialogue: 0,1:42:10.60,1:42:13.60,Default,,0,0,0,,明日じゃなくていますぐ
-Dialogue: 0,1:42:13.60,1:42:19.56,Default,,0,0,0,,強い願いを光る風にして
-Dialogue: 0,1:42:19.56,1:42:24.83,Default,,0,0,0,,緊張なんか吹き飛ばし 自分の笑顔で
-Dialogue: 0,1:42:24.83,1:42:31.78,Default,,0,0,0,,いつでも強く 前を向いて高く飛んで行こう
+Dialogue: 0,1:38:36.77,1:38:40.57,Japanese Lyrics,,0,0,0,,はばたけ 夢に向かってまっすぐ
+Dialogue: 0,1:38:40.57,1:38:43.56,Japanese Lyrics,,0,0,0,,明日じゃなくていますぐ
+Dialogue: 0,1:38:43.56,1:38:50.06,Japanese Lyrics,,0,0,0,,みんな 輝くステージ 進め {\i1}fly away!{\i0}
+Dialogue: 0,1:39:01.58,1:39:06.85,Japanese Lyrics,,0,0,0,,熱い誓いを 幾つも重ねたなら
+Dialogue: 0,1:39:06.85,1:39:13.59,Japanese Lyrics,,0,0,0,,でっかいチャンスの扉さえ 開けるパワーになるよ
+Dialogue: 0,1:39:13.59,1:39:18.84,Japanese Lyrics,,0,0,0,,苦しい時に 仲間の顔見るたび
+Dialogue: 0,1:39:18.84,1:39:25.51,Japanese Lyrics,,0,0,0,,壊れてしまいそうな気持ちに ヒカリが射す気がした
+Dialogue: 0,1:39:25.51,1:39:31.71,Japanese Lyrics,,0,0,0,,携帯メールでね 励まし合ったメッセージ
+Dialogue: 0,1:39:31.71,1:39:37.19,Japanese Lyrics,,0,0,0,,元気勇気いっぱい もらったから
+Dialogue: 0,1:39:37.19,1:39:39.36,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,1:39:39.78,1:39:43.60,Japanese Lyrics,,0,0,0,,はばたけ 夢に向かってまっすぐ
+Dialogue: 0,1:39:43.60,1:39:46.53,Japanese Lyrics,,0,0,0,,明日じゃなくていますぐ
+Dialogue: 0,1:39:46.53,1:39:52.56,Japanese Lyrics,,0,0,0,,だって待ってなんか いられない
+Dialogue: 0,1:39:52.56,1:39:57.81,Japanese Lyrics,,0,0,0,,輝く希望の嵐 強い絆で
+Dialogue: 0,1:39:57.81,1:40:04.95,Japanese Lyrics,,0,0,0,,キラメキ放ち 最高の未来 目指そうよ
+Dialogue: 0,1:40:16.54,1:40:21.87,Japanese Lyrics,,0,0,0,,ちっちゃく見えても 夢はおっきいから
+Dialogue: 0,1:40:21.87,1:40:25.49,Japanese Lyrics,,0,0,0,,失敗怖れない心で
+Dialogue: 0,1:40:25.49,1:40:28.51,Japanese Lyrics,,0,0,0,,高い空を見上げた
+Dialogue: 0,1:40:28.51,1:40:33.80,Japanese Lyrics,,0,0,0,,ちっちゃい翼で おっきな理想抱え
+Dialogue: 0,1:40:33.80,1:40:40.51,Japanese Lyrics,,0,0,0,,ときには妹の気分で 仲間に甘えちゃった
+Dialogue: 0,1:40:40.51,1:40:46.70,Japanese Lyrics,,0,0,0,,初めてブログを 書いた時に手にした
+Dialogue: 0,1:40:46.70,1:40:52.16,Japanese Lyrics,,0,0,0,,宝物はいっぱい 今もあるよ
+Dialogue: 0,1:40:52.16,1:40:54.84,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,1:40:54.84,1:40:58.54,Japanese Lyrics,,0,0,0,,はばたけ 夢に向かってまっすぐ
+Dialogue: 0,1:40:58.54,1:41:01.50,Japanese Lyrics,,0,0,0,,明日じゃなくていますぐ
+Dialogue: 0,1:41:01.50,1:41:07.52,Japanese Lyrics,,0,0,0,,強い願いを光る風にして
+Dialogue: 0,1:41:07.52,1:41:12.73,Japanese Lyrics,,0,0,0,,緊張なんか吹き飛ばし 自分の笑顔で
+Dialogue: 0,1:41:12.73,1:41:20.21,Japanese Lyrics,,0,0,0,,いつでも強く 前を向いて高く飛んで行こう
+Dialogue: 0,1:41:45.88,1:41:49.62,Japanese Lyrics,,0,0,0,,はばたけ 夢に向かってまっすぐ
+Dialogue: 0,1:41:49.62,1:41:52.57,Japanese Lyrics,,0,0,0,,明日じゃなくていますぐ
+Dialogue: 0,1:41:52.57,1:41:58.54,Japanese Lyrics,,0,0,0,,だって待ってなんかいられない
+Dialogue: 0,1:41:58.54,1:42:03.84,Japanese Lyrics,,0,0,0,,輝く希望の嵐 強い絆で
+Dialogue: 0,1:42:03.84,1:42:06.77,Japanese Lyrics,,0,0,0,,キラメキ放ち 最高の
+Dialogue: 0,1:42:06.77,1:42:10.60,Japanese Lyrics,,0,0,0,,未来へ 夢に向かってまっすぐ
+Dialogue: 0,1:42:10.60,1:42:13.60,Japanese Lyrics,,0,0,0,,明日じゃなくていますぐ
+Dialogue: 0,1:42:13.60,1:42:19.56,Japanese Lyrics,,0,0,0,,強い願いを光る風にして
+Dialogue: 0,1:42:19.56,1:42:24.83,Japanese Lyrics,,0,0,0,,緊張なんか吹き飛ばし 自分の笑顔で
+Dialogue: 0,1:42:24.83,1:42:31.78,Japanese Lyrics,,0,0,0,,いつでも強く 前を向いて高く飛んで行こう

@@ -12,77 +12,73 @@ Active Line: 4
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Subtitle,Levenim MT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,2,10,10,3,1
-Style: Credits,PT Sans Narrow,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
-Style: Toptitle,PT Sans Narrow,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,8,10,10,0,1
-Style: Song Title,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: English Lyrics,Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:09:18.40,1:09:22.05,Default,,0,0,0,,If we connected our hearts together
-Dialogue: 0,1:09:22.05,1:09:25.69,Default,,0,0,0,,Earth would be a glittering, shining planet
-Dialogue: 0,1:09:25.69,1:09:29.33,Default,,0,0,0,,These dreaming feelings are
-Dialogue: 0,1:09:29.33,1:09:33.00,Default,,0,0,0,,shining pieces of a bigger puzzle
-Dialogue: 0,1:09:33.00,1:09:35.05,Default,,0,0,0,,
-Dialogue: 0,1:09:40.04,1:09:43.68,Default,,0,0,0,,When I slowly came down the stairs
-Dialogue: 0,1:09:43.68,1:09:48.18,Default,,0,0,0,,rubbing my sleepy eyes,
-Dialogue: 0,1:09:48.18,1:09:50.26,Default,,0,0,0,,I was in an unknown place
-Dialogue: 0,1:09:50.26,1:09:54.56,Default,,0,0,0,,There was a distinguished-looking rabbit hopping about
-Dialogue: 0,1:09:54.56,1:09:58.22,Default,,0,0,0,,There’s a door that emerges into a rainbow
-Dialogue: 0,1:09:58.22,1:10:01.98,Default,,0,0,0,,and bubble gum that gives you dreams
-Dialogue: 0,1:10:01.98,1:10:09.22,Default,,0,0,0,,Let’s put on our glass slippers and set out
-Dialogue: 0,1:10:09.37,1:10:15.56,Default,,0,0,0,,If we believe that the images in our head can become reality
-Dialogue: 0,1:10:15.93,1:10:22.29,Default,,0,0,0,,they’ll come true with just a wink!
-Dialogue: 0,1:10:22.41,1:10:25.97,Default,,0,0,0,,It moved me to tears, the color of the sky
-Dialogue: 0,1:10:25.97,1:10:29.57,Default,,0,0,0,,is always nearby, no matter the time
-Dialogue: 0,1:10:29.57,1:10:33.21,Default,,0,0,0,,No matter where you are, the same moon floats above us
-Dialogue: 0,1:10:33.21,1:10:36.93,Default,,0,0,0,,in the creamy sky
-Dialogue: 0,1:10:36.93,1:10:40.50,Default,,0,0,0,,Lying down on top of the marshmallow clouds,
-Dialogue: 0,1:10:40.50,1:10:44.12,Default,,0,0,0,,I looked down below
-Dialogue: 0,1:10:44.12,1:10:47.28,Default,,0,0,0,,This world is so fun!
-Dialogue: 0,1:10:47.28,1:10:52.90,Default,,0,0,0,,A sparkling Earth of Hearts
-Dialogue: 0,1:10:52.90,1:10:56.36,Default,,0,0,0,,Whenever an anxious-to-please clown
-Dialogue: 0,1:10:56.36,1:11:00.92,Default,,0,0,0,,comes closer, I think
-Dialogue: 0,1:11:00.92,1:11:02.96,Default,,0,0,0,,I’m not a child!
-Dialogue: 0,1:11:02.96,1:11:07.34,Default,,0,0,0,,Cut it out! Take care in how you handle me
-Dialogue: 0,1:11:07.34,1:11:10.94,Default,,0,0,0,,When do full-fledged, proper ladies
-Dialogue: 0,1:11:10.94,1:11:14.77,Default,,0,0,0,,cry?
-Dialogue: 0,1:11:14.77,1:11:21.90,Default,,0,0,0,,I’ll sing about my dreams by the lakeside
-Dialogue: 0,1:11:22.09,1:11:28.21,Default,,0,0,0,,I don’t particularly want you to make me laugh
-Dialogue: 0,1:11:28.69,1:11:35.00,Default,,0,0,0,,I’d rather you please watch gently over me
-Dialogue: 0,1:11:35.12,1:11:38.68,Default,,0,0,0,,It’s a promise
-Dialogue: 0,1:11:38.68,1:11:42.32,Default,,0,0,0,,If we’re separated, you might lose heart but
-Dialogue: 0,1:11:42.32,1:11:45.97,Default,,0,0,0,,don’t despair
-Dialogue: 0,1:11:45.97,1:11:49.61,Default,,0,0,0,,because I’ll be cheering for you
-Dialogue: 0,1:11:49.61,1:11:53.24,Default,,0,0,0,,When I open the music box
-Dialogue: 0,1:11:53.24,1:11:56.86,Default,,0,0,0,,where I collected all my treasures,
-Dialogue: 0,1:11:56.86,1:12:00.04,Default,,0,0,0,,They’re bonds between us that have been tested and confirmed
-Dialogue: 0,1:12:00.04,1:12:06.01,Default,,0,0,0,,An Earth made of everyone’s hearts
-Dialogue: 0,1:12:11.21,1:12:12.00,Default,,0,0,0,,S
-Dialogue: 0,1:12:14.78,1:12:15.57,Default,,0,0,0,,A
-Dialogue: 0,1:12:16.53,1:12:17.36,Default,,0,0,0,,K
-Dialogue: 0,1:12:18.24,1:12:19.13,Default,,0,0,0,,U
-Dialogue: 0,1:12:20.17,1:12:20.98,Default,,0,0,0,,R
-Dialogue: 0,1:12:22.08,1:12:22.82,Default,,0,0,0,,A
-Dialogue: 0,1:12:25.68,1:12:29.33,Default,,0,0,0,,If we connected our hearts together
-Dialogue: 0,1:12:29.33,1:12:33.00,Default,,0,0,0,,Earth would be a glittering, shining planet
-Dialogue: 0,1:12:33.00,1:12:36.60,Default,,0,0,0,,These dreaming feelings are
-Dialogue: 0,1:12:36.60,1:12:40.36,Default,,0,0,0,,shining pieces of a bigger puzzle
-Dialogue: 0,1:12:40.68,1:12:46.86,Default,,0,0,0,,I’ll show you I can protect you
-Dialogue: 0,1:12:48.00,1:12:52.24,Default,,0,0,0,,from those mean old monsters
-Dialogue: 0,1:12:55.26,1:12:58.86,Default,,0,0,0,,that swallow up dreams!
-Dialogue: 0,1:12:58.86,1:13:03.72,Default,,0,0,0,,Don’t let anyone trick you
-Dialogue: 0,1:13:03.72,1:13:09.82,Default,,0,0,0,,Let’s go on a fun journey full of adventure
-Dialogue: 0,1:13:11.38,1:13:15.02,Default,,0,0,0,,It’ll be okay, close your eyes
-Dialogue: 0,1:13:15.02,1:13:18.65,Default,,0,0,0,,I'll always be here
-Dialogue: 0,1:13:18.65,1:13:22.37,Default,,0,0,0,,Even if we’re far apart, the same dream
-Dialogue: 0,1:13:22.37,1:13:25.98,Default,,0,0,0,,floats above us in the creamy sky
-Dialogue: 0,1:13:25.98,1:13:29.58,Default,,0,0,0,,It moved me to tears, the color of the sky
-Dialogue: 0,1:13:29.58,1:13:33.21,Default,,0,0,0,,is always nearby, no matter the time
-Dialogue: 0,1:13:33.21,1:13:36.85,Default,,0,0,0,,No matter where you are, the same moon floats above us
-Dialogue: 0,1:13:36.85,1:13:40.52,Default,,0,0,0,,in the creamy sky
-Dialogue: 0,1:13:40.52,1:13:44.13,Default,,0,0,0,,Lying down on top of the marshmallow clouds,
-Dialogue: 0,1:13:44.13,1:13:47.74,Default,,0,0,0,,I looked down below
-Dialogue: 0,1:13:47.74,1:13:50.92,Default,,0,0,0,,This world is so fun!
-Dialogue: 0,1:13:50.92,1:13:59.48,Default,,0,0,0,,A sparkling Earth of Hearts
+Dialogue: 0,1:09:18.40,1:09:22.05,English Lyrics,,0,0,0,,If we connected our hearts together
+Dialogue: 0,1:09:22.05,1:09:25.69,English Lyrics,,0,0,0,,Earth would be a glittering, shining planet
+Dialogue: 0,1:09:25.69,1:09:29.33,English Lyrics,,0,0,0,,These dreaming feelings are
+Dialogue: 0,1:09:29.33,1:09:33.00,English Lyrics,,0,0,0,,shining pieces of a bigger puzzle
+Dialogue: 0,1:09:33.00,1:09:35.05,English Lyrics,,0,0,0,,
+Dialogue: 0,1:09:40.04,1:09:43.68,English Lyrics,,0,0,0,,When I slowly came down the stairs
+Dialogue: 0,1:09:43.68,1:09:48.18,English Lyrics,,0,0,0,,rubbing my sleepy eyes,
+Dialogue: 0,1:09:48.18,1:09:50.26,English Lyrics,,0,0,0,,I was in an unknown place
+Dialogue: 0,1:09:50.26,1:09:54.56,English Lyrics,,0,0,0,,There was a distinguished-looking rabbit hopping about
+Dialogue: 0,1:09:54.56,1:09:58.22,English Lyrics,,0,0,0,,There’s a door that emerges into a rainbow
+Dialogue: 0,1:09:58.22,1:10:01.98,English Lyrics,,0,0,0,,and bubble gum that gives you dreams
+Dialogue: 0,1:10:01.98,1:10:09.22,English Lyrics,,0,0,0,,Let’s put on our glass slippers and set out
+Dialogue: 0,1:10:09.37,1:10:15.56,English Lyrics,,0,0,0,,If we believe that the images in our head can become reality
+Dialogue: 0,1:10:15.93,1:10:22.29,English Lyrics,,0,0,0,,they’ll come true with just a wink!
+Dialogue: 0,1:10:22.41,1:10:25.97,English Lyrics,,0,0,0,,It moved me to tears, the color of the sky
+Dialogue: 0,1:10:25.97,1:10:29.57,English Lyrics,,0,0,0,,is always nearby, no matter the time
+Dialogue: 0,1:10:29.57,1:10:33.21,English Lyrics,,0,0,0,,No matter where you are, the same moon floats above us
+Dialogue: 0,1:10:33.21,1:10:36.93,English Lyrics,,0,0,0,,in the creamy sky
+Dialogue: 0,1:10:36.93,1:10:40.50,English Lyrics,,0,0,0,,Lying down on top of the marshmallow clouds,
+Dialogue: 0,1:10:40.50,1:10:44.12,English Lyrics,,0,0,0,,I looked down below
+Dialogue: 0,1:10:44.12,1:10:47.28,English Lyrics,,0,0,0,,This world is so fun!
+Dialogue: 0,1:10:47.28,1:10:52.90,English Lyrics,,0,0,0,,A sparkling Earth of Hearts
+Dialogue: 0,1:10:52.90,1:10:56.36,English Lyrics,,0,0,0,,Whenever an anxious-to-please clown
+Dialogue: 0,1:10:56.36,1:11:00.92,English Lyrics,,0,0,0,,comes closer, I think
+Dialogue: 0,1:11:00.92,1:11:02.96,English Lyrics,,0,0,0,,I’m not a child!
+Dialogue: 0,1:11:02.96,1:11:07.34,English Lyrics,,0,0,0,,Cut it out! Take care in how you handle me
+Dialogue: 0,1:11:07.34,1:11:10.94,English Lyrics,,0,0,0,,When do full-fledged, proper ladies
+Dialogue: 0,1:11:10.94,1:11:14.77,English Lyrics,,0,0,0,,cry?
+Dialogue: 0,1:11:14.77,1:11:21.90,English Lyrics,,0,0,0,,I’ll sing about my dreams by the lakeside
+Dialogue: 0,1:11:22.09,1:11:28.21,English Lyrics,,0,0,0,,I don’t particularly want you to make me laugh
+Dialogue: 0,1:11:28.69,1:11:35.00,English Lyrics,,0,0,0,,I’d rather you please watch gently over me
+Dialogue: 0,1:11:35.12,1:11:38.68,English Lyrics,,0,0,0,,It’s a promise
+Dialogue: 0,1:11:38.68,1:11:42.32,English Lyrics,,0,0,0,,If we’re separated, you might lose heart but
+Dialogue: 0,1:11:42.32,1:11:45.97,English Lyrics,,0,0,0,,don’t despair
+Dialogue: 0,1:11:45.97,1:11:49.61,English Lyrics,,0,0,0,,because I’ll be cheering for you
+Dialogue: 0,1:11:49.61,1:11:53.24,English Lyrics,,0,0,0,,When I open the music box
+Dialogue: 0,1:11:53.24,1:11:56.86,English Lyrics,,0,0,0,,where I collected all my treasures,
+Dialogue: 0,1:11:56.86,1:12:00.04,English Lyrics,,0,0,0,,They’re bonds between us that have been tested and confirmed
+Dialogue: 0,1:12:00.04,1:12:06.01,English Lyrics,,0,0,0,,An Earth made of everyone’s hearts
+Dialogue: 0,1:12:11.21,1:12:12.00,English Lyrics,,0,0,0,,S
+Dialogue: 0,1:12:14.78,1:12:15.57,English Lyrics,,0,0,0,,A
+Dialogue: 0,1:12:16.53,1:12:17.36,English Lyrics,,0,0,0,,K
+Dialogue: 0,1:12:18.24,1:12:19.13,English Lyrics,,0,0,0,,U
+Dialogue: 0,1:12:20.17,1:12:20.98,English Lyrics,,0,0,0,,R
+Dialogue: 0,1:12:22.08,1:12:22.82,English Lyrics,,0,0,0,,A
+Dialogue: 0,1:12:25.68,1:12:29.33,English Lyrics,,0,0,0,,If we connected our hearts together
+Dialogue: 0,1:12:29.33,1:12:33.00,English Lyrics,,0,0,0,,Earth would be a glittering, shining planet
+Dialogue: 0,1:12:33.00,1:12:36.60,English Lyrics,,0,0,0,,These dreaming feelings are
+Dialogue: 0,1:12:36.60,1:12:40.36,English Lyrics,,0,0,0,,shining pieces of a bigger puzzle
+Dialogue: 0,1:12:40.68,1:12:46.86,English Lyrics,,0,0,0,,I’ll show you I can protect you
+Dialogue: 0,1:12:48.00,1:12:52.24,English Lyrics,,0,0,0,,from those mean old monsters
+Dialogue: 0,1:12:55.26,1:12:58.86,English Lyrics,,0,0,0,,that swallow up dreams!
+Dialogue: 0,1:12:58.86,1:13:03.72,English Lyrics,,0,0,0,,Don’t let anyone trick you
+Dialogue: 0,1:13:03.72,1:13:09.82,English Lyrics,,0,0,0,,Let’s go on a fun journey full of adventure
+Dialogue: 0,1:13:11.38,1:13:15.02,English Lyrics,,0,0,0,,It’ll be okay, close your eyes
+Dialogue: 0,1:13:15.02,1:13:18.65,English Lyrics,,0,0,0,,I'll always be here
+Dialogue: 0,1:13:18.65,1:13:22.37,English Lyrics,,0,0,0,,Even if we’re far apart, the same dream
+Dialogue: 0,1:13:22.37,1:13:25.98,English Lyrics,,0,0,0,,floats above us in the creamy sky
+Dialogue: 0,1:13:25.98,1:13:29.58,English Lyrics,,0,0,0,,It moved me to tears, the color of the sky
+Dialogue: 0,1:13:29.58,1:13:33.21,English Lyrics,,0,0,0,,is always nearby, no matter the time
+Dialogue: 0,1:13:33.21,1:13:36.85,English Lyrics,,0,0,0,,No matter where you are, the same moon floats above us
+Dialogue: 0,1:13:36.85,1:13:40.52,English Lyrics,,0,0,0,,in the creamy sky
+Dialogue: 0,1:13:40.52,1:13:44.13,English Lyrics,,0,0,0,,Lying down on top of the marshmallow clouds,
+Dialogue: 0,1:13:44.13,1:13:47.74,English Lyrics,,0,0,0,,I looked down below
+Dialogue: 0,1:13:47.74,1:13:50.92,English Lyrics,,0,0,0,,This world is so fun!
+Dialogue: 0,1:13:50.92,1:13:59.48,English Lyrics,,0,0,0,,A sparkling Earth of Hearts

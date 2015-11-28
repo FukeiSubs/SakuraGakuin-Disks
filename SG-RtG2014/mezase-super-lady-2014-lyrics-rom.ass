@@ -20,88 +20,84 @@ Video Position: 3092
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Subtitle,Levenim MT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,2,10,10,3,1
-Style: Credits,PT Sans Narrow,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
-Style: Toptitle,PT Sans Narrow,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,8,10,10,0,1
-Style: Song Title,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Romaji Lyrics,Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:15.88,0:01:16.41,Default,,0,0,0,,Mizuno!
-Dialogue: 0,0:01:16.41,0:01:19.53,Default,,0,0,0,,Obiete pyon pyon, kowagari pyon doki doki pyon
-Dialogue: 0,0:01:19.53,0:01:22.54,Default,,0,0,0,,Janpu de shinchou kaseideru?
-Dialogue: 0,0:01:22.54,0:01:24.61,Default,,0,0,0,,Yui wa konna ni ookiku natta mon!
-Dialogue: 0,0:01:24.61,0:01:24.97,Default,,0,0,0,,Kikuchi!
-Dialogue: 0,0:01:24.97,0:01:28.04,Default,,0,0,0,,Aidoru dakedo aidoru otaku, chicchai otona
-Dialogue: 0,0:01:28.04,0:01:31.58,Default,,0,0,0,,Koakuma keihou hatsureichu
-Dialogue: 0,0:01:31.58,0:01:34.17,Default,,0,0,0,,Moa ni gochui!
-Dialogue: 0,0:01:34.17,0:01:35.05,Default,,0,0,0,,Notsu!
-Dialogue: 0,0:01:35.05,0:01:38.29,Default,,0,0,0,,Niko niko shinagara doku wo haku! kakushinhan
-Dialogue: 0,0:01:38.29,0:01:41.05,Default,,0,0,0,,Mizukara nazuketa adana wa?
-Dialogue: 0,0:01:41.05,0:01:42.33,Default,,0,0,0,,Nise yuutousei!
-Dialogue: 0,0:01:43.17,0:01:43.66,Default,,0,0,0,,Taguchi!
-Dialogue: 0,0:01:43.66,0:01:46.76,Default,,0,0,0,,Migite ni "retasu,"hidari ni "daikon," kajiritsuku
-Dialogue: 0,0:01:46.76,0:01:50.10,Default,,0,0,0,,Ryote awasete "kurosuchoppu!"
-Dialogue: 0,0:01:50.86,0:01:53.45,Default,,0,0,0,,Nee, Hana, kyou no kansou wa?
-Dialogue: 0,0:01:54.58,0:01:55.61,Default,,0,0,0,,Futsuu desu.
-Dialogue: 0,0:01:56.52,0:01:59.93,Default,,0,0,0,,Cho cho cho watashi no koto "wakattenno?"
-Dialogue: 0,0:01:59.93,0:02:03.37,Default,,0,0,0,,Mitame to no gyappu ga miryoku
-Dialogue: 0,0:02:03.37,0:02:06.92,Default,,0,0,0,,Nisshingeppo, mitero, kono joshiryoku
-Dialogue: 0,0:02:06.92,0:02:11.05,Default,,0,0,0,,Mezase! Suupaa Redii wo
-Dialogue: 0,0:02:23.88,0:02:24.45,Default,,0,0,0,,Shirai!
-Dialogue: 0,0:02:24.45,0:02:26.25,Default,,0,0,0,,Jibara de raibu ni kayottemashita
-Dialogue: 0,0:02:26.25,0:02:27.81,Default,,0,0,0,,Guzzu mo zenbu kaimashita
-Dialogue: 0,0:02:27.81,0:02:30.68,Default,,0,0,0,,Yume wo kanaeta motofukei
-Dialogue: 0,0:02:30.68,0:02:32.54,Default,,0,0,0,,Sakura Gakuin daisuki!!
-Dialogue: 0,0:02:32.54,0:02:33.02,Default,,0,0,0,,Isono!
-Dialogue: 0,0:02:33.02,0:02:36.32,Default,,0,0,0,,Tensaisei de umareochita regee sodachi
-Dialogue: 0,0:02:36.32,0:02:39.49,Default,,0,0,0,,Warusouna yatsu ni mo daitai tameguchi
-Dialogue: 0,0:02:39.49,0:02:41.82,Default,,0,0,0,,Eh? Imi wakannai
-Dialogue: 0,0:02:42.69,0:02:43.25,Default,,0,0,0,,Ooga!
-Dialogue: 0,0:02:43.25,0:02:46.49,Default,,0,0,0,,Te ni asenigiru jikoshokai yoroshiku ne "Hai!"
-Dialogue: 0,0:02:46.49,0:02:49.32,Default,,0,0,0,,Mesen wa ue kara? Shita kara?
-Dialogue: 0,0:02:49.32,0:02:50.44,Default,,0,0,0,,Shita kara iku yo!
-Dialogue: 0,0:02:51.24,0:02:51.88,Default,,0,0,0,,Yamaide!
-Dialogue: 0,0:02:51.88,0:02:55.02,Default,,0,0,0,,Kagoshimaken kara kayottemasu "Taihen de gowasu!" (in Kagoshima dialect)
-Dialogue: 0,0:02:55.02,0:02:58.10,Default,,0,0,0,,Yama kara dete kita itoshii kodomo desu
-Dialogue: 0,0:02:58.10,0:03:01.06,Default,,0,0,0,,Oi, Yamaide, dare dattara udezumou katesou?
-Dialogue: 0,0:03:01.06,0:03:03.09,Default,,0,0,0,,Uuun, Hana-chan!
-Dialogue: 0,0:03:03.09,0:03:04.20,Default,,0,0,0,,Eh! Maji ka!
-Dialogue: 0,0:03:04.46,0:03:08.20,Default,,0,0,0,,Nee nee nee watashi no koto "Chanto mietemasu ka?"
-Dialogue: 0,0:03:08.20,0:03:11.40,Default,,0,0,0,,Mitame tono gyappu ga miryoku
-Dialogue: 0,0:03:11.40,0:03:15.05,Default,,0,0,0,,Shogyoumujou migako sono joshiryoku
-Dialogue: 0,0:03:15.05,0:03:19.08,Default,,0,0,0,,Mezase! Suupaa Redii wo
-Dialogue: 0,0:03:22.38,0:03:23.32,Default,,0,0,0,,Sore dewa, shusseki wo torimasu
-Dialogue: 0,0:03:23.32,0:03:24.82,Default,,0,0,0,,Chuutoubu sannen, Kikuchi Moa "Niko!"
-Dialogue: 0,0:03:24.82,0:03:25.96,Default,,0,0,0,,Taguchi Hana "Deyaa!"
-Dialogue: 0,0:03:25.96,0:03:27.01,Default,,0,0,0,,Notsu Yunano "Nan desu ka?"
-Dialogue: 0,0:03:27.01,0:03:27.92,Default,,0,0,0,,Mizuno Yui "Haaaai"
-Dialogue: 0,0:03:27.92,0:03:29.68,Default,,0,0,0,,Chuutoubu ninen, Isono Rinon "Tensai"
-Dialogue: 0,0:03:29.68,0:03:30.54,Default,,0,0,0,,Ooga Saki "Zo"
-Dialogue: 0,0:03:30.54,0:03:31.73,Default,,0,0,0,,Shirai Saki "Sakura Gakuin"
-Dialogue: 0,0:03:31.73,0:03:33.36,Default,,0,0,0,,Chuutoubu ichinen, Kurashima Sara "Hai"
-Dialogue: 0,0:03:33.36,0:03:35.22,Default,,0,0,0,,Shoutoubu rokunen Okada Megumi "Gozaru"
-Dialogue: 0,0:03:35.22,0:03:36.33,Default,,0,0,0,,Yamaide Aiko "Iessaa"
-Dialogue: 0,0:03:36.33,0:03:38.62,Default,,0,0,0,,Sore dewa nokori no menbaa no jikoshoukai yoroshiku!
-Dialogue: 0,0:03:38.62,0:03:41.05,Default,,0,0,0,,Etto, a, dare dakke? Ah! souda, Kurashima!
-Dialogue: 0,0:03:41.05,0:03:44.42,Default,,0,0,0,,Namae wo wasureru tannin ni wa kibishiku iku zo
-Dialogue: 0,0:03:44.42,0:03:47.38,Default,,0,0,0,,Majishan-Kurashima iryuujon
-Dialogue: 0,0:03:47.38,0:03:49.21,Default,,0,0,0,,Oboete kurenai to keshichaimasu yo!
-Dialogue: 0,0:03:49.21,0:03:49.60,Default,,0,0,0,,Okada!
-Dialogue: 0,0:03:49.60,0:03:52.36,Default,,0,0,0,,Mikawa no kuni kara semekonda monoshiri rekijo
-Dialogue: 0,0:03:52.36,0:03:53.24,Default,,0,0,0,,Megu shitteru! shitteru!
-Dialogue: 0,0:03:53.24,0:03:55.82,Default,,0,0,0,,Kaiten shinagara bushi no meigen iimasu
-Dialogue: 0,0:03:56.29,0:03:58.70,Default,,0,0,0,,Kyou wa Tokugawa Ieyasu-san desu
-Dialogue: 0,0:03:59.66,0:04:02.12,Default,,0,0,0,,Katte kabuto no o oshimero!
-Dialogue: 0,0:04:02.46,0:04:04.26,Default,,0,0,0,,Minna-san, benkyou natta desho?
-Dialogue: 0,0:04:04.26,0:04:07.66,Default,,0,0,0,,Cho cho cho watashi no koto "wakattemasu ka?"
-Dialogue: 0,0:04:07.66,0:04:11.01,Default,,0,0,0,,Mitame tono gyappu ga miryoku
-Dialogue: 0,0:04:11.01,0:04:14.61,Default,,0,0,0,,Nisshingeppo, mitero, kono joshiryoku
-Dialogue: 0,0:04:14.61,0:04:18.41,Default,,0,0,0,,Mezase! Suupaa Redii wo
-Dialogue: 0,0:04:18.41,0:04:21.41,Default,,0,0,0,,Nee nee nee watashi no koto "Oshiete agemasu"
-Dialogue: 0,0:04:21.41,0:04:24.62,Default,,0,0,0,,Mitame tono gyappu ga miryoku
-Dialogue: 0,0:04:24.62,0:04:28.22,Default,,0,0,0,,Shogyoumujou migako sono joshiryoku
-Dialogue: 0,0:04:28.22,0:04:32.26,Default,,0,0,0,,Mezase! Suupaa Redii wo
-Dialogue: 0,0:04:39.65,0:04:43.34,Default,,0,0,0,,Ijoh! Watashitachi seichoukigentei yunitto
-Dialogue: 0,0:04:43.34,0:04:44.90,Default,,0,0,0,,Sakura Gakuin desu!
+Dialogue: 0,0:01:15.88,0:01:16.41,Romaji Lyrics,,0,0,0,,Mizuno!
+Dialogue: 0,0:01:16.41,0:01:19.53,Romaji Lyrics,,0,0,0,,Obiete pyon pyon, kowagari pyon doki doki pyon
+Dialogue: 0,0:01:19.53,0:01:22.54,Romaji Lyrics,,0,0,0,,Janpu de shinchou kaseideru?
+Dialogue: 0,0:01:22.54,0:01:24.61,Romaji Lyrics,,0,0,0,,Yui wa konna ni ookiku natta mon!
+Dialogue: 0,0:01:24.61,0:01:24.97,Romaji Lyrics,,0,0,0,,Kikuchi!
+Dialogue: 0,0:01:24.97,0:01:28.04,Romaji Lyrics,,0,0,0,,Aidoru dakedo aidoru otaku, chicchai otona
+Dialogue: 0,0:01:28.04,0:01:31.58,Romaji Lyrics,,0,0,0,,Koakuma keihou hatsureichu
+Dialogue: 0,0:01:31.58,0:01:34.17,Romaji Lyrics,,0,0,0,,Moa ni gochui!
+Dialogue: 0,0:01:34.17,0:01:35.05,Romaji Lyrics,,0,0,0,,Notsu!
+Dialogue: 0,0:01:35.05,0:01:38.29,Romaji Lyrics,,0,0,0,,Niko niko shinagara doku wo haku! kakushinhan
+Dialogue: 0,0:01:38.29,0:01:41.05,Romaji Lyrics,,0,0,0,,Mizukara nazuketa adana wa?
+Dialogue: 0,0:01:41.05,0:01:42.33,Romaji Lyrics,,0,0,0,,Nise yuutousei!
+Dialogue: 0,0:01:43.17,0:01:43.66,Romaji Lyrics,,0,0,0,,Taguchi!
+Dialogue: 0,0:01:43.66,0:01:46.76,Romaji Lyrics,,0,0,0,,Migite ni "retasu,"hidari ni "daikon," kajiritsuku
+Dialogue: 0,0:01:46.76,0:01:50.10,Romaji Lyrics,,0,0,0,,Ryote awasete "kurosuchoppu!"
+Dialogue: 0,0:01:50.86,0:01:53.45,Romaji Lyrics,,0,0,0,,Nee, Hana, kyou no kansou wa?
+Dialogue: 0,0:01:54.58,0:01:55.61,Romaji Lyrics,,0,0,0,,Futsuu desu.
+Dialogue: 0,0:01:56.52,0:01:59.93,Romaji Lyrics,,0,0,0,,Cho cho cho watashi no koto "wakattenno?"
+Dialogue: 0,0:01:59.93,0:02:03.37,Romaji Lyrics,,0,0,0,,Mitame to no gyappu ga miryoku
+Dialogue: 0,0:02:03.37,0:02:06.92,Romaji Lyrics,,0,0,0,,Nisshingeppo, mitero, kono joshiryoku
+Dialogue: 0,0:02:06.92,0:02:11.05,Romaji Lyrics,,0,0,0,,Mezase! Suupaa Redii wo
+Dialogue: 0,0:02:23.88,0:02:24.45,Romaji Lyrics,,0,0,0,,Shirai!
+Dialogue: 0,0:02:24.45,0:02:26.25,Romaji Lyrics,,0,0,0,,Jibara de raibu ni kayottemashita
+Dialogue: 0,0:02:26.25,0:02:27.81,Romaji Lyrics,,0,0,0,,Guzzu mo zenbu kaimashita
+Dialogue: 0,0:02:27.81,0:02:30.68,Romaji Lyrics,,0,0,0,,Yume wo kanaeta motofukei
+Dialogue: 0,0:02:30.68,0:02:32.54,Romaji Lyrics,,0,0,0,,Sakura Gakuin daisuki!!
+Dialogue: 0,0:02:32.54,0:02:33.02,Romaji Lyrics,,0,0,0,,Isono!
+Dialogue: 0,0:02:33.02,0:02:36.32,Romaji Lyrics,,0,0,0,,Tensaisei de umareochita regee sodachi
+Dialogue: 0,0:02:36.32,0:02:39.49,Romaji Lyrics,,0,0,0,,Warusouna yatsu ni mo daitai tameguchi
+Dialogue: 0,0:02:39.49,0:02:41.82,Romaji Lyrics,,0,0,0,,Eh? Imi wakannai
+Dialogue: 0,0:02:42.69,0:02:43.25,Romaji Lyrics,,0,0,0,,Ooga!
+Dialogue: 0,0:02:43.25,0:02:46.49,Romaji Lyrics,,0,0,0,,Te ni asenigiru jikoshokai yoroshiku ne "Hai!"
+Dialogue: 0,0:02:46.49,0:02:49.32,Romaji Lyrics,,0,0,0,,Mesen wa ue kara? Shita kara?
+Dialogue: 0,0:02:49.32,0:02:50.44,Romaji Lyrics,,0,0,0,,Shita kara iku yo!
+Dialogue: 0,0:02:51.24,0:02:51.88,Romaji Lyrics,,0,0,0,,Yamaide!
+Dialogue: 0,0:02:51.88,0:02:55.02,Romaji Lyrics,,0,0,0,,Kagoshimaken kara kayottemasu "Taihen de gowasu!" (in Kagoshima dialect)
+Dialogue: 0,0:02:55.02,0:02:58.10,Romaji Lyrics,,0,0,0,,Yama kara dete kita itoshii kodomo desu
+Dialogue: 0,0:02:58.10,0:03:01.06,Romaji Lyrics,,0,0,0,,Oi, Yamaide, dare dattara udezumou katesou?
+Dialogue: 0,0:03:01.06,0:03:03.09,Romaji Lyrics,,0,0,0,,Uuun, Hana-chan!
+Dialogue: 0,0:03:03.09,0:03:04.20,Romaji Lyrics,,0,0,0,,Eh! Maji ka!
+Dialogue: 0,0:03:04.46,0:03:08.20,Romaji Lyrics,,0,0,0,,Nee nee nee watashi no koto "Chanto mietemasu ka?"
+Dialogue: 0,0:03:08.20,0:03:11.40,Romaji Lyrics,,0,0,0,,Mitame tono gyappu ga miryoku
+Dialogue: 0,0:03:11.40,0:03:15.05,Romaji Lyrics,,0,0,0,,Shogyoumujou migako sono joshiryoku
+Dialogue: 0,0:03:15.05,0:03:19.08,Romaji Lyrics,,0,0,0,,Mezase! Suupaa Redii wo
+Dialogue: 0,0:03:22.38,0:03:23.32,Romaji Lyrics,,0,0,0,,Sore dewa, shusseki wo torimasu
+Dialogue: 0,0:03:23.32,0:03:24.82,Romaji Lyrics,,0,0,0,,Chuutoubu sannen, Kikuchi Moa "Niko!"
+Dialogue: 0,0:03:24.82,0:03:25.96,Romaji Lyrics,,0,0,0,,Taguchi Hana "Deyaa!"
+Dialogue: 0,0:03:25.96,0:03:27.01,Romaji Lyrics,,0,0,0,,Notsu Yunano "Nan desu ka?"
+Dialogue: 0,0:03:27.01,0:03:27.92,Romaji Lyrics,,0,0,0,,Mizuno Yui "Haaaai"
+Dialogue: 0,0:03:27.92,0:03:29.68,Romaji Lyrics,,0,0,0,,Chuutoubu ninen, Isono Rinon "Tensai"
+Dialogue: 0,0:03:29.68,0:03:30.54,Romaji Lyrics,,0,0,0,,Ooga Saki "Zo"
+Dialogue: 0,0:03:30.54,0:03:31.73,Romaji Lyrics,,0,0,0,,Shirai Saki "Sakura Gakuin"
+Dialogue: 0,0:03:31.73,0:03:33.36,Romaji Lyrics,,0,0,0,,Chuutoubu ichinen, Kurashima Sara "Hai"
+Dialogue: 0,0:03:33.36,0:03:35.22,Romaji Lyrics,,0,0,0,,Shoutoubu rokunen Okada Megumi "Gozaru"
+Dialogue: 0,0:03:35.22,0:03:36.33,Romaji Lyrics,,0,0,0,,Yamaide Aiko "Iessaa"
+Dialogue: 0,0:03:36.33,0:03:38.62,Romaji Lyrics,,0,0,0,,Sore dewa nokori no menbaa no jikoshoukai yoroshiku!
+Dialogue: 0,0:03:38.62,0:03:41.05,Romaji Lyrics,,0,0,0,,Etto, a, dare dakke? Ah! souda, Kurashima!
+Dialogue: 0,0:03:41.05,0:03:44.42,Romaji Lyrics,,0,0,0,,Namae wo wasureru tannin ni wa kibishiku iku zo
+Dialogue: 0,0:03:44.42,0:03:47.38,Romaji Lyrics,,0,0,0,,Majishan-Kurashima iryuujon
+Dialogue: 0,0:03:47.38,0:03:49.21,Romaji Lyrics,,0,0,0,,Oboete kurenai to keshichaimasu yo!
+Dialogue: 0,0:03:49.21,0:03:49.60,Romaji Lyrics,,0,0,0,,Okada!
+Dialogue: 0,0:03:49.60,0:03:52.36,Romaji Lyrics,,0,0,0,,Mikawa no kuni kara semekonda monoshiri rekijo
+Dialogue: 0,0:03:52.36,0:03:53.24,Romaji Lyrics,,0,0,0,,Megu shitteru! shitteru!
+Dialogue: 0,0:03:53.24,0:03:55.82,Romaji Lyrics,,0,0,0,,Kaiten shinagara bushi no meigen iimasu
+Dialogue: 0,0:03:56.29,0:03:58.70,Romaji Lyrics,,0,0,0,,Kyou wa Tokugawa Ieyasu-san desu
+Dialogue: 0,0:03:59.66,0:04:02.12,Romaji Lyrics,,0,0,0,,Katte kabuto no o oshimero!
+Dialogue: 0,0:04:02.46,0:04:04.26,Romaji Lyrics,,0,0,0,,Minna-san, benkyou natta desho?
+Dialogue: 0,0:04:04.26,0:04:07.66,Romaji Lyrics,,0,0,0,,Cho cho cho watashi no koto "wakattemasu ka?"
+Dialogue: 0,0:04:07.66,0:04:11.01,Romaji Lyrics,,0,0,0,,Mitame tono gyappu ga miryoku
+Dialogue: 0,0:04:11.01,0:04:14.61,Romaji Lyrics,,0,0,0,,Nisshingeppo, mitero, kono joshiryoku
+Dialogue: 0,0:04:14.61,0:04:18.41,Romaji Lyrics,,0,0,0,,Mezase! Suupaa Redii wo
+Dialogue: 0,0:04:18.41,0:04:21.41,Romaji Lyrics,,0,0,0,,Nee nee nee watashi no koto "Oshiete agemasu"
+Dialogue: 0,0:04:21.41,0:04:24.62,Romaji Lyrics,,0,0,0,,Mitame tono gyappu ga miryoku
+Dialogue: 0,0:04:24.62,0:04:28.22,Romaji Lyrics,,0,0,0,,Shogyoumujou migako sono joshiryoku
+Dialogue: 0,0:04:28.22,0:04:32.26,Romaji Lyrics,,0,0,0,,Mezase! Suupaa Redii wo
+Dialogue: 0,0:04:39.65,0:04:43.34,Romaji Lyrics,,0,0,0,,Ijoh! Watashitachi seichoukigentei yunitto
+Dialogue: 0,0:04:43.34,0:04:44.90,Romaji Lyrics,,0,0,0,,Sakura Gakuin desu!

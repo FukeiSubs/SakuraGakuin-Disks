@@ -14,55 +14,52 @@ Video Position: 160534
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Subtitle,Levenim MT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,2,10,10,3,1
-Style: Credits,PT Sans Narrow,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
-Style: Toptitle,PT Sans Narrow,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,8,10,10,0,1
+Style: Romaji Lyrics,Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:28:14.52,1:28:22.84,Default,,0,0,0,,Kaze ni yureru sakura no hana furisosogu hizashi
-Dialogue: 0,1:28:24.92,1:28:32.90,Default,,0,0,0,,Mizuiro ni kagayaku asamoya kyou mo arigatou
-Dialogue: 0,1:28:35.25,1:28:43.26,Default,,0,0,0,,Tachidomatta kagami no mae oboeta itami
-Dialogue: 0,1:28:45.70,1:28:53.84,Default,,0,0,0,,Minareta seifuku sugata mo kyou de saigona nda ne
-Dialogue: 0,1:28:55.38,1:29:05.12,Default,,0,0,0,,Botan ni karamitsuku sabishisa wo hodo ki nagara
-Dialogue: 0,1:29:05.12,1:29:16.46,Default,,0,0,0,,massugu mitsumeta mirai e no tobira wo akete
-Dialogue: 0,1:29:16.46,1:29:21.02,Default,,0,0,0,,Kimi ni okuru {\i1}“Graduation Toss”{\i0}
-Dialogue: 0,1:29:21.02,1:29:31.40,Default,,0,0,0,,Takaramono wo atsumeta orugooru no naka kirameku tabi
-Dialogue: 0,1:29:31.40,1:29:37.38,Default,,0,0,0,,itsu demo omoidaseru minna no koto
-Dialogue: 0,1:29:37.38,1:29:47.00,Default,,0,0,0,,Toki wo tsugeru unmei ga betsubetsu no michi wo shimesunara
-Dialogue: 0,1:29:47.00,1:29:52.18,Default,,0,0,0,,uketomeru tatoe hitori demo
-Dialogue: 0,1:29:52.18,1:30:00.74,Default,,0,0,0,,Tabidachi to iu na no shoudou no mukou e
-Dialogue: 0,1:29:58.36,1:30:02.28,Default,,0,0,0,,
-Dialogue: 0,1:30:02.28,1:30:07.85,Default,,0,0,0,,{\i1}“My Graduation Toss”{\i0} aruki dasu
-Dialogue: 0,1:30:03.58,1:30:05.93,Default,,0,0,0,,
-Dialogue: 0,1:30:08.72,1:30:16.80,Default,,0,0,0,,Koe ni narazu okuridashita kyonen no imagoro
-Dialogue: 0,1:30:16.80,1:30:19.17,Default,,0,0,0,,
-Dialogue: 0,1:30:19.17,1:30:27.40,Default,,0,0,0,,Konya wa sotsugyou shousho wo dakishimete nemuru kamo
-Dialogue: 0,1:30:28.86,1:30:38.57,Default,,0,0,0,,Futo miageta sora ni sakura no hanabira ga mau
-Dialogue: 0,1:30:38.57,1:30:49.90,Default,,0,0,0,,Sotsugyou shitatte kawaranai kokoro no kizuna
-Dialogue: 0,1:30:49.90,1:30:54.45,Default,,0,0,0,,Yume wo tsunagu {\i1}“Graduation Toss”{\i0}
-Dialogue: 0,1:30:54.45,1:31:04.76,Default,,0,0,0,,Manten no hoshizora ni ukabu seiza no you ni itsu demo
-Dialogue: 0,1:31:04.76,1:31:10.68,Default,,0,0,0,,kokoro wa hitotsu ni nareru hanarete mo
-Dialogue: 0,1:31:10.68,1:31:20.40,Default,,0,0,0,,Kotoba ni naranai omoi tsutaete okitakatta kimochi
-Dialogue: 0,1:31:20.40,1:31:25.58,Default,,0,0,0,,kuchi ni dashitara naite shimau
-Dialogue: 0,1:31:25.58,1:31:34.10,Default,,0,0,0,,Saigomade egao janakute gomen ne...
-Dialogue: 0,1:31:31.84,1:31:35.73,Default,,0,0,0,,
-Dialogue: 0,1:31:35.73,1:31:41.17,Default,,0,0,0,,{\i1}“My Graduation Toss”{\i0} uketomete
-Dialogue: 0,1:31:37.00,1:31:39.46,Default,,0,0,0,,
-Dialogue: 0,1:31:42.14,1:31:47.30,Default,,0,0,0,,{\i1}Hey, everybody!{\i0} hanarete mo
-Dialogue: 0,1:31:47.30,1:31:51.61,Default,,0,0,0,,{\i1}Yeah, everybody!{\i0} nakama yo
-Dialogue: 0,1:31:52.13,1:31:56.77,Default,,0,0,0,,{\i1}Dear my friends{\i0}...daisukiyo
-Dialogue: 0,1:31:56.77,1:32:02.24,Default,,0,0,0,,Minna ni deaete yokatta
-Dialogue: 0,1:32:02.24,1:32:07.10,Default,,0,0,0,,Donna omoide datte
-Dialogue: 0,1:32:07.10,1:32:14.74,Default,,0,0,0,,zenbu motte iku yo wasurenai
-Dialogue: 0,1:32:14.90,1:32:20.06,Default,,0,0,0,,Ima kimi ni okuru {\i1}“Graduation Toss”{\i0}
-Dialogue: 0,1:32:20.06,1:32:30.46,Default,,0,0,0,,Takaramono ni deaeta orugooru no naka kirameku tabi
-Dialogue: 0,1:32:30.46,1:32:36.32,Default,,0,0,0,,itsu demo omoidaseru nakama ga iru
-Dialogue: 0,1:32:36.32,1:32:46.02,Default,,0,0,0,,Unmei wo sasu hikari ga sorezore no michi wo terasunara
-Dialogue: 0,1:32:46.02,1:32:51.21,Default,,0,0,0,,namida wo fuite aruki dasou
-Dialogue: 0,1:32:51.21,1:32:59.76,Default,,0,0,0,,Tabidachi to iu na no shoudou no mukou e
-Dialogue: 0,1:32:57.45,1:33:01.33,Default,,0,0,0,,
-Dialogue: 0,1:33:01.33,1:33:09.65,Default,,0,0,0,,{\i1}“My Graduation Toss”{\i0} ai wo komete
-Dialogue: 0,1:33:02.62,1:33:05.01,Default,,0,0,0,,
-Dialogue: 0,1:33:09.65,1:33:11.76,Default,,0,0,0,,
+Dialogue: 0,1:28:14.52,1:28:22.84,Romaji Lyrics,,0,0,0,,Kaze ni yureru sakura no hana furisosogu hizashi
+Dialogue: 0,1:28:24.92,1:28:32.90,Romaji Lyrics,,0,0,0,,Mizuiro ni kagayaku asamoya kyou mo arigatou
+Dialogue: 0,1:28:35.25,1:28:43.26,Romaji Lyrics,,0,0,0,,Tachidomatta kagami no mae oboeta itami
+Dialogue: 0,1:28:45.70,1:28:53.84,Romaji Lyrics,,0,0,0,,Minareta seifuku sugata mo kyou de saigona nda ne
+Dialogue: 0,1:28:55.38,1:29:05.12,Romaji Lyrics,,0,0,0,,Botan ni karamitsuku sabishisa wo hodo ki nagara
+Dialogue: 0,1:29:05.12,1:29:16.46,Romaji Lyrics,,0,0,0,,massugu mitsumeta mirai e no tobira wo akete
+Dialogue: 0,1:29:16.46,1:29:21.02,Romaji Lyrics,,0,0,0,,Kimi ni okuru {\i1}“Graduation Toss”{\i0}
+Dialogue: 0,1:29:21.02,1:29:31.40,Romaji Lyrics,,0,0,0,,Takaramono wo atsumeta orugooru no naka kirameku tabi
+Dialogue: 0,1:29:31.40,1:29:37.38,Romaji Lyrics,,0,0,0,,itsu demo omoidaseru minna no koto
+Dialogue: 0,1:29:37.38,1:29:47.00,Romaji Lyrics,,0,0,0,,Toki wo tsugeru unmei ga betsubetsu no michi wo shimesunara
+Dialogue: 0,1:29:47.00,1:29:52.18,Romaji Lyrics,,0,0,0,,uketomeru tatoe hitori demo
+Dialogue: 0,1:29:52.18,1:30:00.74,Romaji Lyrics,,0,0,0,,Tabidachi to iu na no shoudou no mukou e
+Dialogue: 0,1:29:58.36,1:30:02.28,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,1:30:02.28,1:30:07.85,Romaji Lyrics,,0,0,0,,{\i1}“My Graduation Toss”{\i0} aruki dasu
+Dialogue: 0,1:30:03.58,1:30:05.93,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,1:30:08.72,1:30:16.80,Romaji Lyrics,,0,0,0,,Koe ni narazu okuridashita kyonen no imagoro
+Dialogue: 0,1:30:16.80,1:30:19.17,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,1:30:19.17,1:30:27.40,Romaji Lyrics,,0,0,0,,Konya wa sotsugyou shousho wo dakishimete nemuru kamo
+Dialogue: 0,1:30:28.86,1:30:38.57,Romaji Lyrics,,0,0,0,,Futo miageta sora ni sakura no hanabira ga mau
+Dialogue: 0,1:30:38.57,1:30:49.90,Romaji Lyrics,,0,0,0,,Sotsugyou shitatte kawaranai kokoro no kizuna
+Dialogue: 0,1:30:49.90,1:30:54.45,Romaji Lyrics,,0,0,0,,Yume wo tsunagu {\i1}“Graduation Toss”{\i0}
+Dialogue: 0,1:30:54.45,1:31:04.76,Romaji Lyrics,,0,0,0,,Manten no hoshizora ni ukabu seiza no you ni itsu demo
+Dialogue: 0,1:31:04.76,1:31:10.68,Romaji Lyrics,,0,0,0,,kokoro wa hitotsu ni nareru hanarete mo
+Dialogue: 0,1:31:10.68,1:31:20.40,Romaji Lyrics,,0,0,0,,Kotoba ni naranai omoi tsutaete okitakatta kimochi
+Dialogue: 0,1:31:20.40,1:31:25.58,Romaji Lyrics,,0,0,0,,kuchi ni dashitara naite shimau
+Dialogue: 0,1:31:25.58,1:31:34.10,Romaji Lyrics,,0,0,0,,Saigomade egao janakute gomen ne...
+Dialogue: 0,1:31:31.84,1:31:35.73,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,1:31:35.73,1:31:41.17,Romaji Lyrics,,0,0,0,,{\i1}“My Graduation Toss”{\i0} uketomete
+Dialogue: 0,1:31:37.00,1:31:39.46,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,1:31:42.14,1:31:47.30,Romaji Lyrics,,0,0,0,,{\i1}Hey, everybody!{\i0} hanarete mo
+Dialogue: 0,1:31:47.30,1:31:51.61,Romaji Lyrics,,0,0,0,,{\i1}Yeah, everybody!{\i0} nakama yo
+Dialogue: 0,1:31:52.13,1:31:56.77,Romaji Lyrics,,0,0,0,,{\i1}Dear my friends{\i0}...daisukiyo
+Dialogue: 0,1:31:56.77,1:32:02.24,Romaji Lyrics,,0,0,0,,Minna ni deaete yokatta
+Dialogue: 0,1:32:02.24,1:32:07.10,Romaji Lyrics,,0,0,0,,Donna omoide datte
+Dialogue: 0,1:32:07.10,1:32:14.74,Romaji Lyrics,,0,0,0,,zenbu motte iku yo wasurenai
+Dialogue: 0,1:32:14.90,1:32:20.06,Romaji Lyrics,,0,0,0,,Ima kimi ni okuru {\i1}“Graduation Toss”{\i0}
+Dialogue: 0,1:32:20.06,1:32:30.46,Romaji Lyrics,,0,0,0,,Takaramono ni deaeta orugooru no naka kirameku tabi
+Dialogue: 0,1:32:30.46,1:32:36.32,Romaji Lyrics,,0,0,0,,itsu demo omoidaseru nakama ga iru
+Dialogue: 0,1:32:36.32,1:32:46.02,Romaji Lyrics,,0,0,0,,Unmei wo sasu hikari ga sorezore no michi wo terasunara
+Dialogue: 0,1:32:46.02,1:32:51.21,Romaji Lyrics,,0,0,0,,namida wo fuite aruki dasou
+Dialogue: 0,1:32:51.21,1:32:59.76,Romaji Lyrics,,0,0,0,,Tabidachi to iu na no shoudou no mukou e
+Dialogue: 0,1:32:57.45,1:33:01.33,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,1:33:01.33,1:33:09.65,Romaji Lyrics,,0,0,0,,{\i1}“My Graduation Toss”{\i0} ai wo komete
+Dialogue: 0,1:33:02.62,1:33:05.01,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,1:33:09.65,1:33:11.76,Romaji Lyrics,,0,0,0,,

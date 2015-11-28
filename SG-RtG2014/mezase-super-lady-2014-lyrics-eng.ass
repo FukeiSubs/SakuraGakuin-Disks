@@ -13,92 +13,88 @@ Active Line: 76
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Subtitle,Levenim MT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,2,10,10,3,1
-Style: Credits,PT Sans Narrow,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
-Style: Toptitle,PT Sans Narrow,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,8,10,10,0,1
-Style: Song Title,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: English Lyrics,Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:15.88,0:01:16.41,Default,,0,0,0,,Mizuno!
-Dialogue: 0,0:01:16.41,0:01:19.53,Default,,0,0,0,,She gets scared “pyon pyon,” and frightens easily, “pyon, doki-doki, pyon!” 
-Dialogue: 0,0:01:19.53,0:01:22.54,Default,,0,0,0,,Are you trying to gain height by jumping?
-Dialogue: 0,0:01:22.54,0:01:24.61,Default,,0,0,0,,Yui has already gotten bigger this way!
-Dialogue: 0,0:01:24.61,0:01:24.97,Default,,0,0,0,,Kikuchi!
-Dialogue: 0,0:01:24.97,0:01:28.04,Default,,0,0,0,,An idol-obsessed idol, a miniature adult
-Dialogue: 0,0:01:28.04,0:01:31.58,Default,,0,0,0,,Meanwhile there’s a warning being issued for this little devil
-Dialogue: 0,0:01:31.58,0:01:34.17,Default,,0,0,0,,Beware of Moa!
-Dialogue: 0,0:01:34.17,0:01:35.05,Default,,0,0,0,,Notsu!
-Dialogue: 0,0:01:35.05,0:01:38.29,Default,,0,0,0,,Even as she smiles, she spits poison; she is a steadfast offender
-Dialogue: 0,0:01:38.29,0:01:41.05,Default,,0,0,0,,What’s the phrase she personally devised?
-Dialogue: 0,0:01:41.05,0:01:42.33,Default,,0,0,0,,Fake honor student!
-Dialogue: 0,0:01:43.17,0:01:43.66,Default,,0,0,0,,Taguchi!
-Dialogue: 0,0:01:43.66,0:01:46.76,Default,,0,0,0,,In her right hand, “lettuce,” in her left, “a radish,” she takes a bite
-Dialogue: 0,0:01:46.76,0:01:50.10,Default,,0,0,0,,When both her arms come together, “cross chop!”
-Dialogue: 0,0:01:50.86,0:01:53.45,Default,,0,0,0,,Hey, Hana, thoughts on today?
-Dialogue: 0,0:01:54.58,0:01:55.61,Default,,0,0,0,,Normal.
-Dialogue: 0,0:01:56.52,0:01:59.93,Default,,0,0,0,,Hey, hey, hey, if you want to know about us, “Are you following?”
-Dialogue: 0,0:01:59.93,0:02:03.37,Default,,0,0,0,,Our appeal lies both in our appearances and the gaps between
-Dialogue: 0,0:02:03.37,0:02:06.92,Default,,0,0,0,,Observe the steady progress of our feminine power!
-Dialogue: 0,0:02:06.92,0:02:11.05,Default,,0,0,0,,Let’s strive to become Super Ladies!
-Dialogue: 0,0:02:11.05,0:02:14.36,Default,,0,0,0,,Jump Jump Jump Jump Jump \N (High! High! High!)
-Dialogue: 0,0:02:23.88,0:02:24.45,Default,,0,0,0,,Shirai!
-Dialogue: 0,0:02:24.45,0:02:26.25,Default,,0,0,0,,She’d commute to concerts out of her own pocket
-Dialogue: 0,0:02:26.25,0:02:27.81,Default,,0,0,0,,And I bought all the merch!
-Dialogue: 0,0:02:27.81,0:02:30.68,Default,,0,0,0,,She realized her dream, the destined fukei
-Dialogue: 0,0:02:30.68,0:02:32.54,Default,,0,0,0,,I love Sakura Gakuin!
-Dialogue: 0,0:02:32.54,0:02:33.02,Default,,0,0,0,,Isono!
-Dialogue: 0,0:02:33.02,0:02:36.32,Default,,0,0,0,,Born from the genius star, she fell to Earth and was raised on reggae
-Dialogue: 0,0:02:36.32,0:02:39.49,Default,,0,0,0,,She’s known to speak casually, even to vicious-looking folk
-Dialogue: 0,0:02:39.49,0:02:41.82,Default,,0,0,0,,Huh? I’m not sure what you mean
-Dialogue: 0,0:02:42.69,0:02:43.25,Default,,0,0,0,,Ooga!
-Dialogue: 0,0:02:43.25,0:02:46.49,Default,,0,0,0,,If you please, your exciting self-introduction “Right!”
-Dialogue: 0,0:02:46.49,0:02:49.32,Default,,0,0,0,,Will you look down on us? Or upward?
-Dialogue: 0,0:02:49.32,0:02:50.44,Default,,0,0,0,,I’ll look up!
-Dialogue: 0,0:02:51.24,0:02:51.88,Default,,0,0,0,,Yamaide!
-Dialogue: 0,0:02:51.88,0:02:55.02,Default,,0,0,0,,She commutes from Kagoshima prefecture “It’s difficult!” 
-Dialogue: 0,0:02:55.02,0:02:58.10,Default,,0,0,0,,She’s our dear child who came down from the mountains
-Dialogue: 0,0:02:58.10,0:03:01.06,Default,,0,0,0,,Yamaide, who looks like you could beat them at arm-wrestling?
-Dialogue: 0,0:03:01.06,0:03:03.09,Default,,0,0,0,,Hmm… Hana-chan!
-Dialogue: 0,0:03:03.09,0:03:04.20,Default,,0,0,0,,Woah! Really?
-Dialogue: 0,0:03:04.46,0:03:08.20,Default,,0,0,0,,Hey, hey, hey, if you want to know about us “Are you looking on intently?”
-Dialogue: 0,0:03:08.20,0:03:11.40,Default,,0,0,0,,Our appeal lies both in our appearances and the gaps between
-Dialogue: 0,0:03:11.40,0:03:15.05,Default,,0,0,0,,All worldly things are but ephemeral,  Let’s brush up on our feminine power!
-Dialogue: 0,0:03:15.05,0:03:19.08,Default,,0,0,0,,Let’s strive to become Super Ladies!
-Dialogue: 0,0:03:19.08,0:03:22.38,Default,,0,0,0,,Jump Jump Jump Jump Jump \N (High! High! High!)
-Dialogue: 0,0:03:22.38,0:03:23.32,Default,,0,0,0,,Then, I shall call the roll!
-Dialogue: 0,0:03:23.32,0:03:24.82,Default,,0,0,0,,Middle school third years, Kikuchi Moa “Smile!”
-Dialogue: 0,0:03:24.82,0:03:25.96,Default,,0,0,0,,Taguchi Hana “Deyaa!” 
-Dialogue: 0,0:03:25.96,0:03:27.01,Default,,0,0,0,,Notsu Yunano “What is it?”
-Dialogue: 0,0:03:27.01,0:03:27.92,Default,,0,0,0,,Mizuno Yui “Hiii”
-Dialogue: 0,0:03:27.92,0:03:29.68,Default,,0,0,0,,Middle school second years, Isono Rinon “Genius!”
-Dialogue: 0,0:03:29.68,0:03:30.54,Default,,0,0,0,,Ooga Saki “Indeed!”
-Dialogue: 0,0:03:30.54,0:03:31.73,Default,,0,0,0,,Shirai Saki “Sakura Gakuin!”
-Dialogue: 0,0:03:31.73,0:03:33.36,Default,,0,0,0,,Middle school first year, Kurashima Sara “Here!”
-Dialogue: 0,0:03:33.36,0:03:35.22,Default,,0,0,0,,Elementary school sixth years, Okada Megumi “Here am I!”
-Dialogue: 0,0:03:35.22,0:03:36.33,Default,,0,0,0,,Yamaide Aiko “Yes, sir!”
-Dialogue: 0,0:03:36.33,0:03:38.62,Default,,0,0,0,,Well then, remaining members, please introduce yourselves!
-Dialogue: 0,0:03:38.62,0:03:41.05,Default,,0,0,0,,Um.. Who is it again? Oh, right! Kurashima!
-Dialogue: 0,0:03:41.05,0:03:44.42,Default,,0,0,0,,She deals sternly with her homeroom teacher, who forgets her name
-Dialogue: 0,0:03:44.42,0:03:47.38,Default,,0,0,0,,Kurashima the magician, with her illusions
-Dialogue: 0,0:03:47.38,0:03:49.21,Default,,0,0,0,,Those who do not remember will be vanished!
-Dialogue: 0,0:03:49.21,0:03:49.60,Default,,0,0,0,,Okada!
-Dialogue: 0,0:03:49.60,0:03:52.36,Default,,0,0,0,,From Mikawa province she has invaded, a knowledgeable history buff
-Dialogue: 0,0:03:52.36,0:03:53.24,Default,,0,0,0,,Megu knows! I know!
-Dialogue: 0,0:03:53.24,0:03:55.82,Default,,0,0,0,,She is wont to quote samurai while she spins
-Dialogue: 0,0:03:56.29,0:03:58.70,Default,,0,0,0,,Today, I am Tokugawa Ieyasu-san!
-Dialogue: 0,0:03:59.66,0:04:02.12,Default,,0,0,0,,Tighten the string of the kabuto (helmet worn by samurai) after winning the war! (Note: It figuratively means"Don't lower your efforts after succeeding.")
-Dialogue: 0,0:04:02.46,0:04:04.26,Default,,0,0,0,,Have you studied this yet, everyone?
-Dialogue: 0,0:04:04.26,0:04:07.66,Default,,0,0,0,,Hey, hey, hey, if you want to know about us, “Do you get it now?”
-Dialogue: 0,0:04:07.66,0:04:11.01,Default,,0,0,0,,Our appeal lies both in our appearances and the gaps between
-Dialogue: 0,0:04:11.01,0:04:14.61,Default,,0,0,0,,Observe the steady progress of our feminine power!
-Dialogue: 0,0:04:14.61,0:04:18.41,Default,,0,0,0,,Let’s strive to become Super Ladies!
-Dialogue: 0,0:04:18.41,0:04:21.41,Default,,0,0,0,,Hey, hey, hey, if you want to know about us, “We’ll tell you!”
-Dialogue: 0,0:04:21.41,0:04:24.62,Default,,0,0,0,,Our appeal lies both in our appearances and the gaps between
-Dialogue: 0,0:04:24.62,0:04:28.22,Default,,0,0,0,,All worldly things are but ephemeral, let’s brush up on our feminine power!
-Dialogue: 0,0:04:28.22,0:04:32.26,Default,,0,0,0,,Let’s strive to become Super Ladies!
-Dialogue: 0,0:04:32.26,0:04:35.50,Default,,0,0,0,,Jump Jump Jump Jump Jump \N (High! High! High!)
-Dialogue: 0,0:04:35.50,0:04:39.13,Default,,0,0,0,,Jump Jump Jump Jump Jump \N (High! High! High!)
-Dialogue: 0,0:04:39.65,0:04:43.34,Default,,0,0,0,,In conclusion, we are the “Limited to the growth period” unit,
-Dialogue: 0,0:04:43.34,0:04:44.90,Default,,0,0,0,,Sakura Gakuin!
+Dialogue: 0,0:01:15.88,0:01:16.41,English Lyrics,,0,0,0,,Mizuno!
+Dialogue: 0,0:01:16.41,0:01:19.53,English Lyrics,,0,0,0,,She gets scared “pyon pyon,” and frightens easily, “pyon, doki-doki, pyon!” 
+Dialogue: 0,0:01:19.53,0:01:22.54,English Lyrics,,0,0,0,,Are you trying to gain height by jumping?
+Dialogue: 0,0:01:22.54,0:01:24.61,English Lyrics,,0,0,0,,Yui has already gotten bigger this way!
+Dialogue: 0,0:01:24.61,0:01:24.97,English Lyrics,,0,0,0,,Kikuchi!
+Dialogue: 0,0:01:24.97,0:01:28.04,English Lyrics,,0,0,0,,An idol-obsessed idol, a miniature adult
+Dialogue: 0,0:01:28.04,0:01:31.58,English Lyrics,,0,0,0,,Meanwhile there’s a warning being issued for this little devil
+Dialogue: 0,0:01:31.58,0:01:34.17,English Lyrics,,0,0,0,,Beware of Moa!
+Dialogue: 0,0:01:34.17,0:01:35.05,English Lyrics,,0,0,0,,Notsu!
+Dialogue: 0,0:01:35.05,0:01:38.29,English Lyrics,,0,0,0,,Even as she smiles, she spits poison; she is a steadfast offender
+Dialogue: 0,0:01:38.29,0:01:41.05,English Lyrics,,0,0,0,,What’s the phrase she personally devised?
+Dialogue: 0,0:01:41.05,0:01:42.33,English Lyrics,,0,0,0,,Fake honor student!
+Dialogue: 0,0:01:43.17,0:01:43.66,English Lyrics,,0,0,0,,Taguchi!
+Dialogue: 0,0:01:43.66,0:01:46.76,English Lyrics,,0,0,0,,In her right hand, “lettuce,” in her left, “a radish,” she takes a bite
+Dialogue: 0,0:01:46.76,0:01:50.10,English Lyrics,,0,0,0,,When both her arms come together, “cross chop!”
+Dialogue: 0,0:01:50.86,0:01:53.45,English Lyrics,,0,0,0,,Hey, Hana, thoughts on today?
+Dialogue: 0,0:01:54.58,0:01:55.61,English Lyrics,,0,0,0,,Normal.
+Dialogue: 0,0:01:56.52,0:01:59.93,English Lyrics,,0,0,0,,Hey, hey, hey, if you want to know about us, “Are you following?”
+Dialogue: 0,0:01:59.93,0:02:03.37,English Lyrics,,0,0,0,,Our appeal lies both in our appearances and the gaps between
+Dialogue: 0,0:02:03.37,0:02:06.92,English Lyrics,,0,0,0,,Observe the steady progress of our feminine power!
+Dialogue: 0,0:02:06.92,0:02:11.05,English Lyrics,,0,0,0,,Let’s strive to become Super Ladies!
+Dialogue: 0,0:02:11.05,0:02:14.36,English Lyrics,,0,0,0,,Jump Jump Jump Jump Jump \N (High! High! High!)
+Dialogue: 0,0:02:23.88,0:02:24.45,English Lyrics,,0,0,0,,Shirai!
+Dialogue: 0,0:02:24.45,0:02:26.25,English Lyrics,,0,0,0,,She’d commute to concerts out of her own pocket
+Dialogue: 0,0:02:26.25,0:02:27.81,English Lyrics,,0,0,0,,And I bought all the merch!
+Dialogue: 0,0:02:27.81,0:02:30.68,English Lyrics,,0,0,0,,She realized her dream, the destined fukei
+Dialogue: 0,0:02:30.68,0:02:32.54,English Lyrics,,0,0,0,,I love Sakura Gakuin!
+Dialogue: 0,0:02:32.54,0:02:33.02,English Lyrics,,0,0,0,,Isono!
+Dialogue: 0,0:02:33.02,0:02:36.32,English Lyrics,,0,0,0,,Born from the genius star, she fell to Earth and was raised on reggae
+Dialogue: 0,0:02:36.32,0:02:39.49,English Lyrics,,0,0,0,,She’s known to speak casually, even to vicious-looking folk
+Dialogue: 0,0:02:39.49,0:02:41.82,English Lyrics,,0,0,0,,Huh? I’m not sure what you mean
+Dialogue: 0,0:02:42.69,0:02:43.25,English Lyrics,,0,0,0,,Ooga!
+Dialogue: 0,0:02:43.25,0:02:46.49,English Lyrics,,0,0,0,,If you please, your exciting self-introduction “Right!”
+Dialogue: 0,0:02:46.49,0:02:49.32,English Lyrics,,0,0,0,,Will you look down on us? Or upward?
+Dialogue: 0,0:02:49.32,0:02:50.44,English Lyrics,,0,0,0,,I’ll look up!
+Dialogue: 0,0:02:51.24,0:02:51.88,English Lyrics,,0,0,0,,Yamaide!
+Dialogue: 0,0:02:51.88,0:02:55.02,English Lyrics,,0,0,0,,She commutes from Kagoshima prefecture “It’s difficult!” 
+Dialogue: 0,0:02:55.02,0:02:58.10,English Lyrics,,0,0,0,,She’s our dear child who came down from the mountains
+Dialogue: 0,0:02:58.10,0:03:01.06,English Lyrics,,0,0,0,,Yamaide, who looks like you could beat them at arm-wrestling?
+Dialogue: 0,0:03:01.06,0:03:03.09,English Lyrics,,0,0,0,,Hmm… Hana-chan!
+Dialogue: 0,0:03:03.09,0:03:04.20,English Lyrics,,0,0,0,,Woah! Really?
+Dialogue: 0,0:03:04.46,0:03:08.20,English Lyrics,,0,0,0,,Hey, hey, hey, if you want to know about us “Are you looking on intently?”
+Dialogue: 0,0:03:08.20,0:03:11.40,English Lyrics,,0,0,0,,Our appeal lies both in our appearances and the gaps between
+Dialogue: 0,0:03:11.40,0:03:15.05,English Lyrics,,0,0,0,,All worldly things are but ephemeral,  Let’s brush up on our feminine power!
+Dialogue: 0,0:03:15.05,0:03:19.08,English Lyrics,,0,0,0,,Let’s strive to become Super Ladies!
+Dialogue: 0,0:03:19.08,0:03:22.38,English Lyrics,,0,0,0,,Jump Jump Jump Jump Jump \N (High! High! High!)
+Dialogue: 0,0:03:22.38,0:03:23.32,English Lyrics,,0,0,0,,Then, I shall call the roll!
+Dialogue: 0,0:03:23.32,0:03:24.82,English Lyrics,,0,0,0,,Middle school third years, Kikuchi Moa “Smile!”
+Dialogue: 0,0:03:24.82,0:03:25.96,English Lyrics,,0,0,0,,Taguchi Hana “Deyaa!” 
+Dialogue: 0,0:03:25.96,0:03:27.01,English Lyrics,,0,0,0,,Notsu Yunano “What is it?”
+Dialogue: 0,0:03:27.01,0:03:27.92,English Lyrics,,0,0,0,,Mizuno Yui “Hiii”
+Dialogue: 0,0:03:27.92,0:03:29.68,English Lyrics,,0,0,0,,Middle school second years, Isono Rinon “Genius!”
+Dialogue: 0,0:03:29.68,0:03:30.54,English Lyrics,,0,0,0,,Ooga Saki “Indeed!”
+Dialogue: 0,0:03:30.54,0:03:31.73,English Lyrics,,0,0,0,,Shirai Saki “Sakura Gakuin!”
+Dialogue: 0,0:03:31.73,0:03:33.36,English Lyrics,,0,0,0,,Middle school first year, Kurashima Sara “Here!”
+Dialogue: 0,0:03:33.36,0:03:35.22,English Lyrics,,0,0,0,,Elementary school sixth years, Okada Megumi “Here am I!”
+Dialogue: 0,0:03:35.22,0:03:36.33,English Lyrics,,0,0,0,,Yamaide Aiko “Yes, sir!”
+Dialogue: 0,0:03:36.33,0:03:38.62,English Lyrics,,0,0,0,,Well then, remaining members, please introduce yourselves!
+Dialogue: 0,0:03:38.62,0:03:41.05,English Lyrics,,0,0,0,,Um.. Who is it again? Oh, right! Kurashima!
+Dialogue: 0,0:03:41.05,0:03:44.42,English Lyrics,,0,0,0,,She deals sternly with her homeroom teacher, who forgets her name
+Dialogue: 0,0:03:44.42,0:03:47.38,English Lyrics,,0,0,0,,Kurashima the magician, with her illusions
+Dialogue: 0,0:03:47.38,0:03:49.21,English Lyrics,,0,0,0,,Those who do not remember will be vanished!
+Dialogue: 0,0:03:49.21,0:03:49.60,English Lyrics,,0,0,0,,Okada!
+Dialogue: 0,0:03:49.60,0:03:52.36,English Lyrics,,0,0,0,,From Mikawa province she has invaded, a knowledgeable history buff
+Dialogue: 0,0:03:52.36,0:03:53.24,English Lyrics,,0,0,0,,Megu knows! I know!
+Dialogue: 0,0:03:53.24,0:03:55.82,English Lyrics,,0,0,0,,She is wont to quote samurai while she spins
+Dialogue: 0,0:03:56.29,0:03:58.70,English Lyrics,,0,0,0,,Today, I am Tokugawa Ieyasu-san!
+Dialogue: 0,0:03:59.66,0:04:02.12,English Lyrics,,0,0,0,,Tighten the string of the kabuto (helmet worn by samurai) after winning the war! (Note: It figuratively means"Don't lower your efforts after succeeding.")
+Dialogue: 0,0:04:02.46,0:04:04.26,English Lyrics,,0,0,0,,Have you studied this yet, everyone?
+Dialogue: 0,0:04:04.26,0:04:07.66,English Lyrics,,0,0,0,,Hey, hey, hey, if you want to know about us, “Do you get it now?”
+Dialogue: 0,0:04:07.66,0:04:11.01,English Lyrics,,0,0,0,,Our appeal lies both in our appearances and the gaps between
+Dialogue: 0,0:04:11.01,0:04:14.61,English Lyrics,,0,0,0,,Observe the steady progress of our feminine power!
+Dialogue: 0,0:04:14.61,0:04:18.41,English Lyrics,,0,0,0,,Let’s strive to become Super Ladies!
+Dialogue: 0,0:04:18.41,0:04:21.41,English Lyrics,,0,0,0,,Hey, hey, hey, if you want to know about us, “We’ll tell you!”
+Dialogue: 0,0:04:21.41,0:04:24.62,English Lyrics,,0,0,0,,Our appeal lies both in our appearances and the gaps between
+Dialogue: 0,0:04:24.62,0:04:28.22,English Lyrics,,0,0,0,,All worldly things are but ephemeral, let’s brush up on our feminine power!
+Dialogue: 0,0:04:28.22,0:04:32.26,English Lyrics,,0,0,0,,Let’s strive to become Super Ladies!
+Dialogue: 0,0:04:32.26,0:04:35.50,English Lyrics,,0,0,0,,Jump Jump Jump Jump Jump \N (High! High! High!)
+Dialogue: 0,0:04:35.50,0:04:39.13,English Lyrics,,0,0,0,,Jump Jump Jump Jump Jump \N (High! High! High!)
+Dialogue: 0,0:04:39.65,0:04:43.34,English Lyrics,,0,0,0,,In conclusion, we are the “Limited to the growth period” unit,
+Dialogue: 0,0:04:43.34,0:04:44.90,English Lyrics,,0,0,0,,Sakura Gakuin!

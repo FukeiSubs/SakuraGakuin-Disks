@@ -13,58 +13,54 @@ Active Line: 31
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Subtitle,Levenim MT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,2,10,10,3,1
-Style: Credits,PT Sans Narrow,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
-Style: Toptitle,PT Sans Narrow,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,8,10,10,0,1
-Style: Song Title,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: English Lyrics,Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:38:17.85,0:38:22.80,Default,,0,0,0,,Lucky! The concert's almost over, change into a t-shirt and reset
-Dialogue: 0,0:38:23.32,0:38:27.14,Default,,0,0,0,,Like it! It’s a brand-new you, say bye-bye to
-Dialogue: 0,0:38:27.14,0:38:28.70,Default,,0,0,0,,the blues you felt on that day! Let’s go!
-Dialogue: 0,0:38:28.89,0:38:31.62,Default,,0,0,0,,Check out this piece! Check out this piece!
-Dialogue: 0,0:38:31.62,0:38:34.36,Default,,0,0,0,,Check out this piece! Che-che-check it out!
-Dialogue: 0,0:38:34.36,0:38:37.10,Default,,0,0,0,,Check out this piece! Piece-ful days!
-Dialogue: 0,0:38:37.10,0:38:39.85,Default,,0,0,0,,Get it, get it, get it, it's on the verge of selling out!
-Dialogue: 0,0:38:39.85,0:38:42.29,Default,,0,0,0,,
-Dialogue: 0,0:38:42.62,0:38:48.04,Default,,0,0,0,,We've pledged with a badge pin with the school emblem shining bright on our chest
-Dialogue: 0,0:38:48.04,0:38:53.22,Default,,0,0,0,,Wave the flag with the diagram
-Dialogue: 0,0:38:51.88,0:38:53.54,Default,,0,0,0,,
-Dialogue: 0,0:38:53.54,0:38:58.34,Default,,0,0,0,,Punch up at the air with a pumpkin glove beam until your arm hurts
-Dialogue: 0,0:38:58.34,0:39:04.16,Default,,0,0,0,,In our stickers we've placed a heartfelt message for you
-Dialogue: 0,0:39:04.16,0:39:07.22,Default,,0,0,0,,One, two, three, four, five, so-so-so-SOLD OUT!
-Dialogue: 0,0:39:07.22,0:39:11.38,Default,,0,0,0,,Hey guys, items always end up selling out during the pre-sales, sorry
-Dialogue: 0,0:39:11.38,0:39:12.76,Default,,0,0,0,,What, again?!
-Dialogue: 0,0:39:12.76,0:39:15.16,Default,,0,0,0,,There's only a few photo sets left
-Dialogue: 0,0:39:14.81,0:39:17.18,Default,,0,0,0,,Ugh, they should at least be able to print out more photos right on the spot, shouldn't they!?
-Dialogue: 0,0:39:17.18,0:39:18.08,Default,,0,0,0,,Sorry!
-Dialogue: 0,0:39:18.25,0:39:20.97,Default,,0,0,0,,Check out this piece! Check out this piece!
-Dialogue: 0,0:39:20.97,0:39:23.72,Default,,0,0,0,,Check out this piece! Che-che-check it out!
-Dialogue: 0,0:39:23.72,0:39:26.46,Default,,0,0,0,,Check out this piece! Piece-ful DAYS!
-Dialogue: 0,0:39:26.46,0:39:29.21,Default,,0,0,0,,Get it, get it, get it, it's on the verge of selling out!
-Dialogue: 0,0:39:29.21,0:39:31.65,Default,,0,0,0,,
-Dialogue: 0,0:39:31.97,0:39:37.41,Default,,0,0,0,,We've pledged with a badge pin with the school emblem shining bright on our chest
-Dialogue: 0,0:39:37.41,0:39:42.57,Default,,0,0,0,,Wave the flag with the diagram
-Dialogue: 0,0:39:41.25,0:39:42.92,Default,,0,0,0,,
-Dialogue: 0,0:39:42.92,0:39:47.56,Default,,0,0,0,,Punch up at the air with a pumpkin glove beam until your arm hurts
-Dialogue: 0,0:39:47.56,0:39:53.45,Default,,0,0,0,,In our stickers we've placed a heartfelt message for you
-Dialogue: 0,0:40:31.92,0:40:34.94,Default,,0,0,0,,One, two, three, four, five, here we go, here we go!
-Dialogue: 0,0:40:34.94,0:40:37.46,Default,,0,0,0,,My collection of items increased, gimme, check it out!
-Dialogue: 0,0:40:37.46,0:40:40.46,Default,,0,0,0,,Please, please, please, please, let me get the random-bonus in really random manner!
-Dialogue: 0,0:40:40.46,0:40:43.01,Default,,0,0,0,,Find me, look for the one with me on it!
-Dialogue: 0,0:40:43.01,0:40:45.70,Default,,0,0,0,,The one I always get is Yunano, Yunano, YOU-nano…
-Dialogue: 0,0:40:46.14,0:40:50.21,Default,,0,0,0,,What!? You don't like Yunano!? Well, fine then, give it back!!!
-Dialogue: 0,0:40:52.50,0:40:55.30,Default,,0,0,0,,What? Well, I'll take it then~!!
-Dialogue: 0,0:40:56.97,0:40:59.72,Default,,0,0,0,,Check out this piece! Check out this piece!
-Dialogue: 0,0:40:59.72,0:41:02.48,Default,,0,0,0,,Check out this piece! Che-che-check it out!
-Dialogue: 0,0:41:02.48,0:41:05.16,Default,,0,0,0,,Check out this piece! Piece-ful DAYS!
-Dialogue: 0,0:41:05.16,0:41:07.93,Default,,0,0,0,,Get it, get it, get it, it's on the verge of selling out!
-Dialogue: 0,0:41:07.93,0:41:10.57,Default,,0,0,0,,
-Dialogue: 0,0:41:12.00,0:41:17.49,Default,,0,0,0,,Never forget Article 7 of the creed inside our student handbook
-Dialogue: 0,0:41:17.49,0:41:21.29,Default,,0,0,0,,Staining our towels, our sweat and tears flash
-Dialogue: 0,0:41:21.29,0:41:23.01,Default,,0,0,0,,Seize it, rolling rolling stones!
-Dialogue: 0,0:41:23.01,0:41:27.65,Default,,0,0,0,,This line up is fiery hot with strong emotion
-Dialogue: 0,0:41:27.65,0:41:32.89,Default,,0,0,0,,Don't pass it up, get your hands on it, okay? Do your best!
-Dialogue: 0,0:41:33.16,0:41:39.32,Default,,0,0,0,,Please try and check it out by all means, catch it!
+Dialogue: 0,0:38:17.85,0:38:22.80,English Lyrics,,0,0,0,,Lucky! The concert's almost over, change into a t-shirt and reset
+Dialogue: 0,0:38:23.32,0:38:27.14,English Lyrics,,0,0,0,,Like it! It’s a brand-new you, say bye-bye to
+Dialogue: 0,0:38:27.14,0:38:28.70,English Lyrics,,0,0,0,,the blues you felt on that day! Let’s go!
+Dialogue: 0,0:38:28.89,0:38:31.62,English Lyrics,,0,0,0,,Check out this piece! Check out this piece!
+Dialogue: 0,0:38:31.62,0:38:34.36,English Lyrics,,0,0,0,,Check out this piece! Che-che-check it out!
+Dialogue: 0,0:38:34.36,0:38:37.10,English Lyrics,,0,0,0,,Check out this piece! Piece-ful days!
+Dialogue: 0,0:38:37.10,0:38:39.85,English Lyrics,,0,0,0,,Get it, get it, get it, it's on the verge of selling out!
+Dialogue: 0,0:38:39.85,0:38:42.29,English Lyrics,,0,0,0,,
+Dialogue: 0,0:38:42.62,0:38:48.04,English Lyrics,,0,0,0,,We've pledged with a badge pin with the school emblem shining bright on our chest
+Dialogue: 0,0:38:48.04,0:38:53.22,English Lyrics,,0,0,0,,Wave the flag with the diagram
+Dialogue: 0,0:38:51.88,0:38:53.54,English Lyrics,,0,0,0,,
+Dialogue: 0,0:38:53.54,0:38:58.34,English Lyrics,,0,0,0,,Punch up at the air with a pumpkin glove beam until your arm hurts
+Dialogue: 0,0:38:58.34,0:39:04.16,English Lyrics,,0,0,0,,In our stickers we've placed a heartfelt message for you
+Dialogue: 0,0:39:04.16,0:39:07.22,English Lyrics,,0,0,0,,One, two, three, four, five, so-so-so-SOLD OUT!
+Dialogue: 0,0:39:07.22,0:39:11.38,English Lyrics,,0,0,0,,Hey guys, items always end up selling out during the pre-sales, sorry
+Dialogue: 0,0:39:11.38,0:39:12.76,English Lyrics,,0,0,0,,What, again?!
+Dialogue: 0,0:39:12.76,0:39:15.16,English Lyrics,,0,0,0,,There's only a few photo sets left
+Dialogue: 0,0:39:14.81,0:39:17.18,English Lyrics,,0,0,0,,Ugh, they should at least be able to print out more photos right on the spot, shouldn't they!?
+Dialogue: 0,0:39:17.18,0:39:18.08,English Lyrics,,0,0,0,,Sorry!
+Dialogue: 0,0:39:18.25,0:39:20.97,English Lyrics,,0,0,0,,Check out this piece! Check out this piece!
+Dialogue: 0,0:39:20.97,0:39:23.72,English Lyrics,,0,0,0,,Check out this piece! Che-che-check it out!
+Dialogue: 0,0:39:23.72,0:39:26.46,English Lyrics,,0,0,0,,Check out this piece! Piece-ful DAYS!
+Dialogue: 0,0:39:26.46,0:39:29.21,English Lyrics,,0,0,0,,Get it, get it, get it, it's on the verge of selling out!
+Dialogue: 0,0:39:29.21,0:39:31.65,English Lyrics,,0,0,0,,
+Dialogue: 0,0:39:31.97,0:39:37.41,English Lyrics,,0,0,0,,We've pledged with a badge pin with the school emblem shining bright on our chest
+Dialogue: 0,0:39:37.41,0:39:42.57,English Lyrics,,0,0,0,,Wave the flag with the diagram
+Dialogue: 0,0:39:41.25,0:39:42.92,English Lyrics,,0,0,0,,
+Dialogue: 0,0:39:42.92,0:39:47.56,English Lyrics,,0,0,0,,Punch up at the air with a pumpkin glove beam until your arm hurts
+Dialogue: 0,0:39:47.56,0:39:53.45,English Lyrics,,0,0,0,,In our stickers we've placed a heartfelt message for you
+Dialogue: 0,0:40:31.92,0:40:34.94,English Lyrics,,0,0,0,,One, two, three, four, five, here we go, here we go!
+Dialogue: 0,0:40:34.94,0:40:37.46,English Lyrics,,0,0,0,,My collection of items increased, gimme, check it out!
+Dialogue: 0,0:40:37.46,0:40:40.46,English Lyrics,,0,0,0,,Please, please, please, please, let me get the random-bonus in really random manner!
+Dialogue: 0,0:40:40.46,0:40:43.01,English Lyrics,,0,0,0,,Find me, look for the one with me on it!
+Dialogue: 0,0:40:43.01,0:40:45.70,English Lyrics,,0,0,0,,The one I always get is Yunano, Yunano, YOU-nano…
+Dialogue: 0,0:40:46.14,0:40:50.21,English Lyrics,,0,0,0,,What!? You don't like Yunano!? Well, fine then, give it back!!!
+Dialogue: 0,0:40:52.50,0:40:55.30,English Lyrics,,0,0,0,,What? Well, I'll take it then~!!
+Dialogue: 0,0:40:56.97,0:40:59.72,English Lyrics,,0,0,0,,Check out this piece! Check out this piece!
+Dialogue: 0,0:40:59.72,0:41:02.48,English Lyrics,,0,0,0,,Check out this piece! Che-che-check it out!
+Dialogue: 0,0:41:02.48,0:41:05.16,English Lyrics,,0,0,0,,Check out this piece! Piece-ful DAYS!
+Dialogue: 0,0:41:05.16,0:41:07.93,English Lyrics,,0,0,0,,Get it, get it, get it, it's on the verge of selling out!
+Dialogue: 0,0:41:07.93,0:41:10.57,English Lyrics,,0,0,0,,
+Dialogue: 0,0:41:12.00,0:41:17.49,English Lyrics,,0,0,0,,Never forget Article 7 of the creed inside our student handbook
+Dialogue: 0,0:41:17.49,0:41:21.29,English Lyrics,,0,0,0,,Staining our towels, our sweat and tears flash
+Dialogue: 0,0:41:21.29,0:41:23.01,English Lyrics,,0,0,0,,Seize it, rolling rolling stones!
+Dialogue: 0,0:41:23.01,0:41:27.65,English Lyrics,,0,0,0,,This line up is fiery hot with strong emotion
+Dialogue: 0,0:41:27.65,0:41:32.89,English Lyrics,,0,0,0,,Don't pass it up, get your hands on it, okay? Do your best!
+Dialogue: 0,0:41:33.16,0:41:39.32,English Lyrics,,0,0,0,,Please try and check it out by all means, catch it!

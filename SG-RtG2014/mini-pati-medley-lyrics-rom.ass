@@ -14,97 +14,94 @@ Video Position: 78446
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Subtitle,Levenim MT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,2,10,10,3,1
-Style: Credits,PT Sans Narrow,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
-Style: Toptitle,PT Sans Narrow,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,8,10,10,0,1
+Style: Romaji Lyrics,Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:42:48.64,0:42:49.74,Default,,0,0,0,,Hanbaagaa!
-Dialogue: 0,0:43:07.60,0:43:10.97,Default,,0,0,0,,Kyou no kibun wa hanbaagaa
-Dialogue: 0,0:43:10.97,0:43:14.30,Default,,0,0,0,,Supesharu orijinaru baagaa
-Dialogue: 0,0:43:14.30,0:43:17.45,Default,,0,0,0,,Suki na gu wo kasaneyou
-Dialogue: 0,0:43:17.45,0:43:20.36,Default,,0,0,0,,Wakuwaku ga tomaranai
-Dialogue: 0,0:43:20.97,0:43:24.28,Default,,0,0,0,,Omise ni ikeba kaete mo
-Dialogue: 0,0:43:24.28,0:43:27.62,Default,,0,0,0,,Yappa tezukuri saikyou desho
-Dialogue: 0,0:43:27.62,0:43:30.96,Default,,0,0,0,,Patishie no chi ga sawagu
-Dialogue: 0,0:43:30.96,0:43:33.53,Default,,0,0,0,,Oide! chiisana hanbaagaa shoppu
-Dialogue: 0,0:43:35.73,0:43:37.30,Default,,0,0,0,,A ra moodo!
-Dialogue: 0,0:43:37.48,0:43:40.74,Default,,0,0,0,,{\i1}LOVE LOVE{\i0} toppingu a ra moodo
-Dialogue: 0,0:43:40.74,0:43:44.81,Default,,0,0,0,,Amaku torokete egao tsukuru yo
-Dialogue: 0,0:43:44.81,0:43:48.12,Default,,0,0,0,,Shiage ni chotto remoneedo
-Dialogue: 0,0:43:48.12,0:43:51.98,Default,,0,0,0,,Kimi ni okuru yo suteki na suiitsu
-Dialogue: 0,0:44:16.00,0:44:17.48,Default,,0,0,0,,Tsugi wa Dorayaki!
-Dialogue: 0,0:44:17.48,0:44:17.96,Default,,0,0,0,,Soiya!
-Dialogue: 0,0:44:20.29,0:44:21.02,Default,,0,0,0,,A yoisho!
-Dialogue: 0,0:44:26.74,0:44:29.73,Default,,0,0,0,,Sakura no hanabira
-Dialogue: 0,0:44:32.42,0:44:35.37,Default,,0,0,0,,Usubeni-iro no anko
-Dialogue: 0,0:44:37.68,0:44:42.74,Default,,0,0,0,,Fooku no saki yori chicchai ohime-sama
-Dialogue: 0,0:44:43.04,0:44:49.01,Default,,0,0,0,,Zenryoku de janpu yakiin oshitara dekiagari
-Dialogue: 0,0:44:49.01,0:44:51.82,Default,,0,0,0,,Dorayaki otome
-Dialogue: 0,0:44:51.82,0:44:54.82,Default,,0,0,0,,Hajirau sakura soosu
-Dialogue: 0,0:44:54.82,0:44:58.17,Default,,0,0,0,,Oishi shanari hannari ureshi
-Dialogue: 0,0:44:58.17,0:45:00.34,Default,,0,0,0,,Yamato nadeshiko banzai
-Dialogue: 0,0:45:00.34,0:45:03.12,Default,,0,0,0,,Amai kaori de
-Dialogue: 0,0:45:03.12,0:45:06.18,Default,,0,0,0,,yururi to me ga sameta
-Dialogue: 0,0:45:06.18,0:45:09.45,Default,,0,0,0,,Gochisou yume ka utsutsu nokoshi
-Dialogue: 0,0:45:09.45,0:45:12.12,Default,,0,0,0,,Ohime-sama wa kieta
-Dialogue: 0,0:45:13.94,0:45:14.52,Default,,0,0,0,,Soiya!
-Dialogue: 0,0:45:16.76,0:45:17.58,Default,,0,0,0,,A yoisho!
-Dialogue: 0,0:45:30.62,0:45:32.10,Default,,0,0,0,,Ookini
-Dialogue: 0,0:45:34.38,0:45:37.33,Default,,0,0,0,,Hapi hapi suwiitsu
-Dialogue: 0,0:45:37.33,0:45:39.37,Default,,0,0,0,,Daisuki kureepu
-Dialogue: 0,0:45:41.64,0:45:43.05,Default,,0,0,0,,Kaarii!
-Dialogue: 0,0:45:57.78,0:46:01.32,Default,,0,0,0,,Watashi no motomeru aitsu wa
-Dialogue: 0,0:46:01.32,0:46:04.93,Default,,0,0,0,,sokora hen ni aru no to chotto chigau
-Dialogue: 0,0:46:04.93,0:46:08.05,Default,,0,0,0,,Nani nani nani oshiete yo
-Dialogue: 0,0:46:08.05,0:46:11.90,Default,,0,0,0,,Soo ne un jaa atete mite?
-Dialogue: 0,0:46:11.90,0:46:13.68,Default,,0,0,0,,Ringo? NONO!
-Dialogue: 0,0:46:13.68,0:46:15.53,Default,,0,0,0,,Nattou? NONO!
-Dialogue: 0,0:46:15.53,0:46:18.77,Default,,0,0,0,,Jaa... O miso? Acchikai! E?!
-Dialogue: 0,0:46:18.77,0:46:21.92,Default,,0,0,0,,Mezasu wa sekai no saikouhou
-Dialogue: 0,0:46:21.92,0:46:25.85,Default,,0,0,0,,Iine! Un jaa tsukurimashou!
-Dialogue: 0,0:46:25.85,0:46:29.41,Default,,0,0,0,,Mijukuna watashi to fushigina reshipi de
-Dialogue: 0,0:46:29.41,0:46:32.34,Default,,0,0,0,,hii~ haa~ hii~ haa~ shimasen ka?
-Dialogue: 0,0:46:32.78,0:46:36.28,Default,,0,0,0,,Karai karai karai karai karee wo meshiagare (de)
-Dialogue: 0,0:46:36.28,0:46:39.32,Default,,0,0,0,,Amai amai amai amai jikan wo sugoshimasho
-Dialogue: 0,0:46:39.32,0:46:43.22,Default,,0,0,0,,Mune-ippai no kono kooshinryou mo (haa...)
-Dialogue: 0,0:46:43.22,0:46:46.69,Default,,0,0,0,,Ire sugi chau kurai ai wo komemashita
-Dialogue: 0,0:46:46.69,0:46:50.34,Default,,0,0,0,,Nokosazu zenbu meshiagare (hii~ haa~!)
-Dialogue: 0,0:47:03.53,0:47:04.49,Default,,0,0,0,,hii~ haa~!
-Dialogue: 0,0:47:08.08,0:47:10.58,Default,,0,0,0,,Tsugi wa Happii Baasudei!
-Dialogue: 0,0:47:20.24,0:47:22.86,Default,,0,0,0,,Happii MiniPati baasudei
-Dialogue: 0,0:47:22.86,0:47:25.41,Default,,0,0,0,,fuwafuwa kirakira
-Dialogue: 0,0:47:25.41,0:47:28.00,Default,,0,0,0,,Happii MiniPati baasudei
-Dialogue: 0,0:47:28.00,0:47:30.60,Default,,0,0,0,,Mahou wo kakechao!
-Dialogue: 0,0:47:30.60,0:47:33.20,Default,,0,0,0,,Happii MiniPati baasudei
-Dialogue: 0,0:47:33.20,0:47:35.78,Default,,0,0,0,,Oishiku dekiru kana?
-Dialogue: 0,0:47:35.78,0:47:38.25,Default,,0,0,0,,Happii MiniPati baasudei
-Dialogue: 0,0:47:38.25,0:47:40.86,Default,,0,0,0,,Mune ga dokidoki hayaku tabete ne
-Dialogue: 0,0:47:55.48,0:47:57.48,Default,,0,0,0,,Suiitsu Aatowo meshiagare
-Dialogue: 0,0:48:29.33,0:48:32.73,Default,,0,0,0,,Osara no kyanbasu ni
-Dialogue: 0,0:48:32.73,0:48:36.20,Default,,0,0,0,,E wo kaku mitai ni kukku taimu
-Dialogue: 0,0:48:36.20,0:48:42.20,Default,,0,0,0,,Runowaaru, Mone, Pikaso: ryouri wa aato desu
-Dialogue: 0,0:48:42.58,0:48:45.98,Default,,0,0,0,,Pinku sakura no shifon keeki
-Dialogue: 0,0:48:45.98,0:48:49.46,Default,,0,0,0,,Howaito shiratama odango
-Dialogue: 0,0:48:49.46,0:48:52.89,Default,,0,0,0,,Beeju purin aisu kuriimu
-Dialogue: 0,0:48:52.89,0:48:56.37,Default,,0,0,0,,Reddo {\i1}mix{\i0} berii soosu
-Dialogue: 0,0:48:56.37,0:49:00.88,Default,,0,0,0,,Fooku to supuun ga efude no daitansa,
-Dialogue: 0,0:49:00.88,0:49:03.22,Default,,0,0,0,,koozu, soshite irodori
-Dialogue: 0,0:49:03.22,0:49:09.56,Default,,0,0,0,,Sanou yori mo unou de hirameke PIPIPIPI
-Dialogue: 0,0:49:10.02,0:49:13.48,Default,,0,0,0,,Kirakira kukku MiniPati!
-Dialogue: 0,0:49:13.48,0:49:16.93,Default,,0,0,0,,Shiage wa mahou no zerii
-Dialogue: 0,0:49:16.93,0:49:23.34,Default,,0,0,0,,Sakura no hanabira hirari, haru urara meshimase
-Dialogue: 0,0:49:37.04,0:49:43.85,Default,,0,0,0,,Perori tairagete pikapika no osara ni modoru
-Dialogue: 0,0:49:43.85,0:49:50.94,Default,,0,0,0,,Kimi no sono egao sore koso ga aato desu
-Dialogue: 0,0:49:51.20,0:49:58.01,Default,,0,0,0,,Kirakira kaze no bijutsukan kankyaku wa tatta hitori
-Dialogue: 0,0:49:58.01,0:50:04.48,Default,,0,0,0,,Sekai ga mitameru yori mo "oishii" ga ureshii
-Dialogue: 0,0:50:04.85,0:50:08.34,Default,,0,0,0,,Kirakira kukku MiniPati!
-Dialogue: 0,0:50:08.34,0:50:11.74,Default,,0,0,0,,Shiage wa mahou no zerii
-Dialogue: 0,0:50:11.74,0:50:18.26,Default,,0,0,0,,Sakura no hanabira hirari, haru urara meshimase
-Dialogue: 0,0:50:41.81,0:50:42.48,Default,,0,0,0,,Hana desu!
-Dialogue: 0,0:50:42.93,0:50:43.61,Default,,0,0,0,,Yui desu!
-Dialogue: 0,0:50:44.00,0:50:44.80,Default,,0,0,0,,Moa desu!
-Dialogue: 0,0:50:45.13,0:50:46.70,Default,,0,0,0,,MiniPati desu!
-Dialogue: 0,0:50:46.98,0:50:49.34,Default,,0,0,0,,Gochisousama deshita!
+Dialogue: 0,0:42:48.64,0:42:49.74,Romaji Lyrics,,0,0,0,,Hanbaagaa!
+Dialogue: 0,0:43:07.60,0:43:10.97,Romaji Lyrics,,0,0,0,,Kyou no kibun wa hanbaagaa
+Dialogue: 0,0:43:10.97,0:43:14.30,Romaji Lyrics,,0,0,0,,Supesharu orijinaru baagaa
+Dialogue: 0,0:43:14.30,0:43:17.45,Romaji Lyrics,,0,0,0,,Suki na gu wo kasaneyou
+Dialogue: 0,0:43:17.45,0:43:20.36,Romaji Lyrics,,0,0,0,,Wakuwaku ga tomaranai
+Dialogue: 0,0:43:20.97,0:43:24.28,Romaji Lyrics,,0,0,0,,Omise ni ikeba kaete mo
+Dialogue: 0,0:43:24.28,0:43:27.62,Romaji Lyrics,,0,0,0,,Yappa tezukuri saikyou desho
+Dialogue: 0,0:43:27.62,0:43:30.96,Romaji Lyrics,,0,0,0,,Patishie no chi ga sawagu
+Dialogue: 0,0:43:30.96,0:43:33.53,Romaji Lyrics,,0,0,0,,Oide! chiisana hanbaagaa shoppu
+Dialogue: 0,0:43:35.73,0:43:37.30,Romaji Lyrics,,0,0,0,,A ra moodo!
+Dialogue: 0,0:43:37.48,0:43:40.74,Romaji Lyrics,,0,0,0,,{\i1}LOVE LOVE{\i0} toppingu a ra moodo
+Dialogue: 0,0:43:40.74,0:43:44.81,Romaji Lyrics,,0,0,0,,Amaku torokete egao tsukuru yo
+Dialogue: 0,0:43:44.81,0:43:48.12,Romaji Lyrics,,0,0,0,,Shiage ni chotto remoneedo
+Dialogue: 0,0:43:48.12,0:43:51.98,Romaji Lyrics,,0,0,0,,Kimi ni okuru yo suteki na suiitsu
+Dialogue: 0,0:44:16.00,0:44:17.48,Romaji Lyrics,,0,0,0,,Tsugi wa Dorayaki!
+Dialogue: 0,0:44:17.48,0:44:17.96,Romaji Lyrics,,0,0,0,,Soiya!
+Dialogue: 0,0:44:20.29,0:44:21.02,Romaji Lyrics,,0,0,0,,A yoisho!
+Dialogue: 0,0:44:26.74,0:44:29.73,Romaji Lyrics,,0,0,0,,Sakura no hanabira
+Dialogue: 0,0:44:32.42,0:44:35.37,Romaji Lyrics,,0,0,0,,Usubeni-iro no anko
+Dialogue: 0,0:44:37.68,0:44:42.74,Romaji Lyrics,,0,0,0,,Fooku no saki yori chicchai ohime-sama
+Dialogue: 0,0:44:43.04,0:44:49.01,Romaji Lyrics,,0,0,0,,Zenryoku de janpu yakiin oshitara dekiagari
+Dialogue: 0,0:44:49.01,0:44:51.82,Romaji Lyrics,,0,0,0,,Dorayaki otome
+Dialogue: 0,0:44:51.82,0:44:54.82,Romaji Lyrics,,0,0,0,,Hajirau sakura soosu
+Dialogue: 0,0:44:54.82,0:44:58.17,Romaji Lyrics,,0,0,0,,Oishi shanari hannari ureshi
+Dialogue: 0,0:44:58.17,0:45:00.34,Romaji Lyrics,,0,0,0,,Yamato nadeshiko banzai
+Dialogue: 0,0:45:00.34,0:45:03.12,Romaji Lyrics,,0,0,0,,Amai kaori de
+Dialogue: 0,0:45:03.12,0:45:06.18,Romaji Lyrics,,0,0,0,,yururi to me ga sameta
+Dialogue: 0,0:45:06.18,0:45:09.45,Romaji Lyrics,,0,0,0,,Gochisou yume ka utsutsu nokoshi
+Dialogue: 0,0:45:09.45,0:45:12.12,Romaji Lyrics,,0,0,0,,Ohime-sama wa kieta
+Dialogue: 0,0:45:13.94,0:45:14.52,Romaji Lyrics,,0,0,0,,Soiya!
+Dialogue: 0,0:45:16.76,0:45:17.58,Romaji Lyrics,,0,0,0,,A yoisho!
+Dialogue: 0,0:45:30.62,0:45:32.10,Romaji Lyrics,,0,0,0,,Ookini
+Dialogue: 0,0:45:34.38,0:45:37.33,Romaji Lyrics,,0,0,0,,Hapi hapi suwiitsu
+Dialogue: 0,0:45:37.33,0:45:39.37,Romaji Lyrics,,0,0,0,,Daisuki kureepu
+Dialogue: 0,0:45:41.64,0:45:43.05,Romaji Lyrics,,0,0,0,,Kaarii!
+Dialogue: 0,0:45:57.78,0:46:01.32,Romaji Lyrics,,0,0,0,,Watashi no motomeru aitsu wa
+Dialogue: 0,0:46:01.32,0:46:04.93,Romaji Lyrics,,0,0,0,,sokora hen ni aru no to chotto chigau
+Dialogue: 0,0:46:04.93,0:46:08.05,Romaji Lyrics,,0,0,0,,Nani nani nani oshiete yo
+Dialogue: 0,0:46:08.05,0:46:11.90,Romaji Lyrics,,0,0,0,,Soo ne un jaa atete mite?
+Dialogue: 0,0:46:11.90,0:46:13.68,Romaji Lyrics,,0,0,0,,Ringo? NONO!
+Dialogue: 0,0:46:13.68,0:46:15.53,Romaji Lyrics,,0,0,0,,Nattou? NONO!
+Dialogue: 0,0:46:15.53,0:46:18.77,Romaji Lyrics,,0,0,0,,Jaa... O miso? Acchikai! E?!
+Dialogue: 0,0:46:18.77,0:46:21.92,Romaji Lyrics,,0,0,0,,Mezasu wa sekai no saikouhou
+Dialogue: 0,0:46:21.92,0:46:25.85,Romaji Lyrics,,0,0,0,,Iine! Un jaa tsukurimashou!
+Dialogue: 0,0:46:25.85,0:46:29.41,Romaji Lyrics,,0,0,0,,Mijukuna watashi to fushigina reshipi de
+Dialogue: 0,0:46:29.41,0:46:32.34,Romaji Lyrics,,0,0,0,,hii~ haa~ hii~ haa~ shimasen ka?
+Dialogue: 0,0:46:32.78,0:46:36.28,Romaji Lyrics,,0,0,0,,Karai karai karai karai karee wo meshiagare (de)
+Dialogue: 0,0:46:36.28,0:46:39.32,Romaji Lyrics,,0,0,0,,Amai amai amai amai jikan wo sugoshimasho
+Dialogue: 0,0:46:39.32,0:46:43.22,Romaji Lyrics,,0,0,0,,Mune-ippai no kono kooshinryou mo (haa...)
+Dialogue: 0,0:46:43.22,0:46:46.69,Romaji Lyrics,,0,0,0,,Ire sugi chau kurai ai wo komemashita
+Dialogue: 0,0:46:46.69,0:46:50.34,Romaji Lyrics,,0,0,0,,Nokosazu zenbu meshiagare (hii~ haa~!)
+Dialogue: 0,0:47:03.53,0:47:04.49,Romaji Lyrics,,0,0,0,,hii~ haa~!
+Dialogue: 0,0:47:08.08,0:47:10.58,Romaji Lyrics,,0,0,0,,Tsugi wa Happii Baasudei!
+Dialogue: 0,0:47:20.24,0:47:22.86,Romaji Lyrics,,0,0,0,,Happii MiniPati baasudei
+Dialogue: 0,0:47:22.86,0:47:25.41,Romaji Lyrics,,0,0,0,,fuwafuwa kirakira
+Dialogue: 0,0:47:25.41,0:47:28.00,Romaji Lyrics,,0,0,0,,Happii MiniPati baasudei
+Dialogue: 0,0:47:28.00,0:47:30.60,Romaji Lyrics,,0,0,0,,Mahou wo kakechao!
+Dialogue: 0,0:47:30.60,0:47:33.20,Romaji Lyrics,,0,0,0,,Happii MiniPati baasudei
+Dialogue: 0,0:47:33.20,0:47:35.78,Romaji Lyrics,,0,0,0,,Oishiku dekiru kana?
+Dialogue: 0,0:47:35.78,0:47:38.25,Romaji Lyrics,,0,0,0,,Happii MiniPati baasudei
+Dialogue: 0,0:47:38.25,0:47:40.86,Romaji Lyrics,,0,0,0,,Mune ga dokidoki hayaku tabete ne
+Dialogue: 0,0:47:55.48,0:47:57.48,Romaji Lyrics,,0,0,0,,Suiitsu Aatowo meshiagare
+Dialogue: 0,0:48:29.33,0:48:32.73,Romaji Lyrics,,0,0,0,,Osara no kyanbasu ni
+Dialogue: 0,0:48:32.73,0:48:36.20,Romaji Lyrics,,0,0,0,,E wo kaku mitai ni kukku taimu
+Dialogue: 0,0:48:36.20,0:48:42.20,Romaji Lyrics,,0,0,0,,Runowaaru, Mone, Pikaso: ryouri wa aato desu
+Dialogue: 0,0:48:42.58,0:48:45.98,Romaji Lyrics,,0,0,0,,Pinku sakura no shifon keeki
+Dialogue: 0,0:48:45.98,0:48:49.46,Romaji Lyrics,,0,0,0,,Howaito shiratama odango
+Dialogue: 0,0:48:49.46,0:48:52.89,Romaji Lyrics,,0,0,0,,Beeju purin aisu kuriimu
+Dialogue: 0,0:48:52.89,0:48:56.37,Romaji Lyrics,,0,0,0,,Reddo {\i1}mix{\i0} berii soosu
+Dialogue: 0,0:48:56.37,0:49:00.88,Romaji Lyrics,,0,0,0,,Fooku to supuun ga efude no daitansa,
+Dialogue: 0,0:49:00.88,0:49:03.22,Romaji Lyrics,,0,0,0,,koozu, soshite irodori
+Dialogue: 0,0:49:03.22,0:49:09.56,Romaji Lyrics,,0,0,0,,Sanou yori mo unou de hirameke PIPIPIPI
+Dialogue: 0,0:49:10.02,0:49:13.48,Romaji Lyrics,,0,0,0,,Kirakira kukku MiniPati!
+Dialogue: 0,0:49:13.48,0:49:16.93,Romaji Lyrics,,0,0,0,,Shiage wa mahou no zerii
+Dialogue: 0,0:49:16.93,0:49:23.34,Romaji Lyrics,,0,0,0,,Sakura no hanabira hirari, haru urara meshimase
+Dialogue: 0,0:49:37.04,0:49:43.85,Romaji Lyrics,,0,0,0,,Perori tairagete pikapika no osara ni modoru
+Dialogue: 0,0:49:43.85,0:49:50.94,Romaji Lyrics,,0,0,0,,Kimi no sono egao sore koso ga aato desu
+Dialogue: 0,0:49:51.20,0:49:58.01,Romaji Lyrics,,0,0,0,,Kirakira kaze no bijutsukan kankyaku wa tatta hitori
+Dialogue: 0,0:49:58.01,0:50:04.48,Romaji Lyrics,,0,0,0,,Sekai ga mitameru yori mo "oishii" ga ureshii
+Dialogue: 0,0:50:04.85,0:50:08.34,Romaji Lyrics,,0,0,0,,Kirakira kukku MiniPati!
+Dialogue: 0,0:50:08.34,0:50:11.74,Romaji Lyrics,,0,0,0,,Shiage wa mahou no zerii
+Dialogue: 0,0:50:11.74,0:50:18.26,Romaji Lyrics,,0,0,0,,Sakura no hanabira hirari, haru urara meshimase
+Dialogue: 0,0:50:41.81,0:50:42.48,Romaji Lyrics,,0,0,0,,Hana desu!
+Dialogue: 0,0:50:42.93,0:50:43.61,Romaji Lyrics,,0,0,0,,Yui desu!
+Dialogue: 0,0:50:44.00,0:50:44.80,Romaji Lyrics,,0,0,0,,Moa desu!
+Dialogue: 0,0:50:45.13,0:50:46.70,Romaji Lyrics,,0,0,0,,MiniPati desu!
+Dialogue: 0,0:50:46.98,0:50:49.34,Romaji Lyrics,,0,0,0,,Gochisousama deshita!

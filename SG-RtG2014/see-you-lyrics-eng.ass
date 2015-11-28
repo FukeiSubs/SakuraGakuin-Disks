@@ -12,54 +12,50 @@ Active Line: 16
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Subtitle,Levenim MT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,2,10,10,3,1
-Style: Credits,PT Sans Narrow,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
-Style: Toptitle,PT Sans Narrow,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,8,10,10,0,1
-Style: Song Title,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: English Lyrics,Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,2:29:58.04,2:30:03.78,English,,0,0,0,,Walking out, the road spreads in front of my eyes
-Dialogue: 0,2:30:03.78,2:30:08.78,English,,0,0,0,,It’s my first step closer to adulthood
-Dialogue: 0,2:30:08.78,2:30:11.77,English,,0,0,0,,My departure day
-Dialogue: 0,2:30:22.60,2:30:27.88,English,,0,0,0,,Today’s bright blue sky is more dazzling than usual, isn’t it?
-Dialogue: 0,2:30:27.88,2:30:34.21,English,,0,0,0,,as if it’s congratulating everyone who is moving on
-Dialogue: 0,2:30:34.58,2:30:39.88,English,,0,0,0,,It’d be scary if I were all alone, but my friends are here with me
-Dialogue: 0,2:30:39.88,2:30:46.08,English,,0,0,0,,The precious time that we spent together is our bond, huh?
-Dialogue: 0,2:30:46.08,2:30:50.98,English,,0,0,0,,Even if I’m going away,
-Dialogue: 0,2:30:50.98,2:30:54.53,English,,0,0,0,,we got to know each other, our hearts are one
-Dialogue: 0,2:30:54.53,2:30:57.97,English,,0,0,0,,I’m not on my own
-Dialogue: 0,2:30:58.06,2:31:03.88,English,,0,0,0,,Looking up at the sky, nobody knows what it holds yet
-Dialogue: 0,2:31:03.88,2:31:09.50,English,,0,0,0,,Hey, a shining tomorrow is surely waiting for us
-Dialogue: 0,2:31:09.50,2:31:15.69,English,,0,0,0,,That’s why I won’t cry! Today is only the beginning
-Dialogue: 0,2:31:15.69,2:31:20.80,English,,0,0,0,,A bunch of smiles are gathered together under the sakura for
-Dialogue: 0,2:31:20.80,2:31:23.68,English,,0,0,0,,my departure day
-Dialogue: 0,2:31:34.64,2:31:39.86,English,,0,0,0,,Which path should I travel? I was troubled by that, so
-Dialogue: 0,2:31:39.86,2:31:46.13,English,,0,0,0,,We were always staying behind after school, consulting with each other
-Dialogue: 0,2:31:46.62,2:31:51.78,English,,0,0,0,,If the future is uncertain, I’ll just be honest with my own dreams
-Dialogue: 0,2:31:51.78,2:31:58.12,English,,0,0,0,,That’s my answer, so, I’ll be alright, okay?
-Dialogue: 0,2:31:58.12,2:32:02.92,English,,0,0,0,,To tell you the truth, I’m somewhat sad, but
-Dialogue: 0,2:32:02.92,2:32:06.52,English,,0,0,0,,in the print club photo I’m texting you, I’m smiling through my tears,
-Dialogue: 0,2:32:06.52,2:32:09.94,English,,0,0,0,,making a double-peace sign like I always do
-Dialogue: 0,2:32:10.08,2:32:15.86,English,,0,0,0,,Thank you, I’m so glad we became friends
-Dialogue: 0,2:32:15.86,2:32:21.49,English,,0,0,0,,We cried, sulked, and smiled together
-Dialogue: 0,2:32:21.49,2:32:27.70,English,,0,0,0,,Because of that, I have faith that this “farewell” is only the beginning, don’t you think?
-Dialogue: 0,2:32:27.70,2:32:32.81,English,,0,0,0,,Until the day when our dreams come true and we meet again, this is
-Dialogue: 0,2:32:32.81,2:32:35.77,English,,0,0,0,,my departure day
-Dialogue: 0,2:32:50.21,2:32:53.02,English,,0,0,0,,I won’t forget
-Dialogue: 0,2:32:53.02,2:32:56.18,English,,0,0,0,,meeting here
-Dialogue: 0,2:32:56.18,2:33:02.17,English,,0,0,0,,We overcame even the painful stuff together, so
-Dialogue: 0,2:33:02.17,2:33:06.50,English,,0,0,0,,inside our hearts, let’s make a promise:
-Dialogue: 0,2:33:06.50,2:33:08.06,English,,0,0,0,,You and I are friends!
-Dialogue: 0,2:33:08.06,2:33:13.25,English,,0,0,0,,That’s right, even we’re grown up, we’ll be friends forever, won’t we…
-Dialogue: 0,2:33:14.40,2:33:20.36,English,,0,0,0,,Looking up at the sky, nobody knows what it holds yet
-Dialogue: 0,2:33:20.36,2:33:25.97,English,,0,0,0,,Hey, a shining tomorrow is surely waiting for us
-Dialogue: 0,2:33:25.97,2:33:32.17,English,,0,0,0,,That’s why I won’t cry! Today is only the beginning
-Dialogue: 0,2:33:32.17,2:33:37.29,English,,0,0,0,,A bunch of smiles are gathered together under the sakura for
-Dialogue: 0,2:33:37.29,2:33:38.63,English,,0,0,0,,my departure day
-Dialogue: 0,2:33:38.63,2:33:44.40,English,,0,0,0,,Thank you, I’m so glad we became friends
-Dialogue: 0,2:33:44.40,2:33:50.02,English,,0,0,0,,We cried, sulked, and smiled together
-Dialogue: 0,2:33:50.02,2:33:56.19,English,,0,0,0,,Because of that, I have faith that this “farewell” is only the beginning, don’t you think?
-Dialogue: 0,2:33:56.19,2:34:01.26,English,,0,0,0,,Until the day when our dreams come true and we meet once more,
-Dialogue: 0,2:34:01.26,2:34:05.72,English,,0,0,0,,See you again...
+Dialogue: 0,2:29:58.04,2:30:03.78,English Lyrics,,0,0,0,,Walking out, the road spreads in front of my eyes
+Dialogue: 0,2:30:03.78,2:30:08.78,English Lyrics,,0,0,0,,It’s my first step closer to adulthood
+Dialogue: 0,2:30:08.78,2:30:11.77,English Lyrics,,0,0,0,,My departure day
+Dialogue: 0,2:30:22.60,2:30:27.88,English Lyrics,,0,0,0,,Today’s bright blue sky is more dazzling than usual, isn’t it?
+Dialogue: 0,2:30:27.88,2:30:34.21,English Lyrics,,0,0,0,,as if it’s congratulating everyone who is moving on
+Dialogue: 0,2:30:34.58,2:30:39.88,English Lyrics,,0,0,0,,It’d be scary if I were all alone, but my friends are here with me
+Dialogue: 0,2:30:39.88,2:30:46.08,English Lyrics,,0,0,0,,The precious time that we spent together is our bond, huh?
+Dialogue: 0,2:30:46.08,2:30:50.98,English Lyrics,,0,0,0,,Even if I’m going away,
+Dialogue: 0,2:30:50.98,2:30:54.53,English Lyrics,,0,0,0,,we got to know each other, our hearts are one
+Dialogue: 0,2:30:54.53,2:30:57.97,English Lyrics,,0,0,0,,I’m not on my own
+Dialogue: 0,2:30:58.06,2:31:03.88,English Lyrics,,0,0,0,,Looking up at the sky, nobody knows what it holds yet
+Dialogue: 0,2:31:03.88,2:31:09.50,English Lyrics,,0,0,0,,Hey, a shining tomorrow is surely waiting for us
+Dialogue: 0,2:31:09.50,2:31:15.69,English Lyrics,,0,0,0,,That’s why I won’t cry! Today is only the beginning
+Dialogue: 0,2:31:15.69,2:31:20.80,English Lyrics,,0,0,0,,A bunch of smiles are gathered together under the sakura for
+Dialogue: 0,2:31:20.80,2:31:23.68,English Lyrics,,0,0,0,,my departure day
+Dialogue: 0,2:31:34.64,2:31:39.86,English Lyrics,,0,0,0,,Which path should I travel? I was troubled by that, so
+Dialogue: 0,2:31:39.86,2:31:46.13,English Lyrics,,0,0,0,,We were always staying behind after school, consulting with each other
+Dialogue: 0,2:31:46.62,2:31:51.78,English Lyrics,,0,0,0,,If the future is uncertain, I’ll just be honest with my own dreams
+Dialogue: 0,2:31:51.78,2:31:58.12,English Lyrics,,0,0,0,,That’s my answer, so, I’ll be alright, okay?
+Dialogue: 0,2:31:58.12,2:32:02.92,English Lyrics,,0,0,0,,To tell you the truth, I’m somewhat sad, but
+Dialogue: 0,2:32:02.92,2:32:06.52,English Lyrics,,0,0,0,,in the print club photo I’m texting you, I’m smiling through my tears,
+Dialogue: 0,2:32:06.52,2:32:09.94,English Lyrics,,0,0,0,,making a double-peace sign like I always do
+Dialogue: 0,2:32:10.08,2:32:15.86,English Lyrics,,0,0,0,,Thank you, I’m so glad we became friends
+Dialogue: 0,2:32:15.86,2:32:21.49,English Lyrics,,0,0,0,,We cried, sulked, and smiled together
+Dialogue: 0,2:32:21.49,2:32:27.70,English Lyrics,,0,0,0,,Because of that, I have faith that this “farewell” is only the beginning, don’t you think?
+Dialogue: 0,2:32:27.70,2:32:32.81,English Lyrics,,0,0,0,,Until the day when our dreams come true and we meet again, this is
+Dialogue: 0,2:32:32.81,2:32:35.77,English Lyrics,,0,0,0,,my departure day
+Dialogue: 0,2:32:50.21,2:32:53.02,English Lyrics,,0,0,0,,I won’t forget
+Dialogue: 0,2:32:53.02,2:32:56.18,English Lyrics,,0,0,0,,meeting here
+Dialogue: 0,2:32:56.18,2:33:02.17,English Lyrics,,0,0,0,,We overcame even the painful stuff together, so
+Dialogue: 0,2:33:02.17,2:33:06.50,English Lyrics,,0,0,0,,inside our hearts, let’s make a promise:
+Dialogue: 0,2:33:06.50,2:33:08.06,English Lyrics,,0,0,0,,You and I are friends!
+Dialogue: 0,2:33:08.06,2:33:13.25,English Lyrics,,0,0,0,,That’s right, even we’re grown up, we’ll be friends forever, won’t we…
+Dialogue: 0,2:33:14.40,2:33:20.36,English Lyrics,,0,0,0,,Looking up at the sky, nobody knows what it holds yet
+Dialogue: 0,2:33:20.36,2:33:25.97,English Lyrics,,0,0,0,,Hey, a shining tomorrow is surely waiting for us
+Dialogue: 0,2:33:25.97,2:33:32.17,English Lyrics,,0,0,0,,That’s why I won’t cry! Today is only the beginning
+Dialogue: 0,2:33:32.17,2:33:37.29,English Lyrics,,0,0,0,,A bunch of smiles are gathered together under the sakura for
+Dialogue: 0,2:33:37.29,2:33:38.63,English Lyrics,,0,0,0,,my departure day
+Dialogue: 0,2:33:38.63,2:33:44.40,English Lyrics,,0,0,0,,Thank you, I’m so glad we became friends
+Dialogue: 0,2:33:44.40,2:33:50.02,English Lyrics,,0,0,0,,We cried, sulked, and smiled together
+Dialogue: 0,2:33:50.02,2:33:56.19,English Lyrics,,0,0,0,,Because of that, I have faith that this “farewell” is only the beginning, don’t you think?
+Dialogue: 0,2:33:56.19,2:34:01.26,English Lyrics,,0,0,0,,Until the day when our dreams come true and we meet once more,
+Dialogue: 0,2:34:01.26,2:34:05.72,English Lyrics,,0,0,0,,See you again...

@@ -20,42 +20,39 @@ Video Position: 17130
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Subtitle,Levenim MT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,2,10,10,3,1
-Style: Credits,PT Sans Narrow,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
-Style: Toptitle,PT Sans Narrow,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,8,10,10,0,1
+Style: Romaji Lyrics,Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:08:24.40,0:08:26.96,Default,,0,0,0,,
-Dialogue: 0,0:08:31.05,0:08:33.21,Default,,0,0,0,,Kuuru de ikou yo
-Dialogue: 0,0:08:33.21,0:08:35.24,Default,,0,0,0,,Motto, motto, motto
-Dialogue: 0,0:08:35.24,0:08:39.40,Default,,0,0,0,,
-Dialogue: 0,0:08:39.40,0:08:43.54,Default,,0,0,0,,Sutoreeto heaa ni sunao na kaori
-Dialogue: 0,0:08:43.54,0:08:47.69,Default,,0,0,0,,
-Dialogue: 0,0:09:06.49,0:09:10.77,Default,,0,0,0,,Yuuyake ga kousha wo somete iku
-Dialogue: 0,0:09:10.77,0:09:14.90,Default,,0,0,0,,noru ko no inai buranko ga
-Dialogue: 0,0:09:14.90,0:09:19.02,Default,,0,0,0,,yura yura yurete iru
-Dialogue: 0,0:09:19.02,0:09:21.62,Default,,0,0,0,,Doushita no?
-Dialogue: 0,0:09:23.20,0:09:27.44,Default,,0,0,0,,Kimi, hitori de nayande naide
-Dialogue: 0,0:09:27.44,0:09:31.57,Default,,0,0,0,,Isshouni arukou yo
-Dialogue: 0,0:09:31.57,0:09:35.48,Default,,0,0,0,,kikasete yo uchiakete
-Dialogue: 0,0:09:35.48,0:09:38.06,Default,,0,0,0,,Kore kara no kimi wo
-Dialogue: 0,0:09:39.88,0:09:44.09,Default,,0,0,0,,{\i1}IVY Girl{\i0} wa yasashikute
-Dialogue: 0,0:09:44.09,0:09:48.29,Default,,0,0,0,,{\i1}IVY Girl{\i0} wa kagayaki hikaru
-Dialogue: 0,0:09:48.29,0:09:52.41,Default,,0,0,0,,{\i1}IVY Girl{\i0} wa yasashikute
-Dialogue: 0,0:09:52.41,0:09:56.69,Default,,0,0,0,,{\i1}IVY Girl{\i0} wa kirakira hikaru
-Dialogue: 0,0:09:58.69,0:10:00.82,Default,,0,0,0,,Furesshu de ikou yo
-Dialogue: 0,0:10:00.82,0:10:02.88,Default,,0,0,0,,Motto, motto, motto
-Dialogue: 0,0:10:02.88,0:10:07.06,Default,,0,0,0,,
-Dialogue: 0,0:10:07.06,0:10:11.24,Default,,0,0,0,,Jibun wo migaite sensu appu
-Dialogue: 0,0:10:11.24,0:10:15.41,Default,,0,0,0,,
-Dialogue: 0,0:11:09.70,0:11:11.80,Default,,0,0,0,,Kyuuto ni ikou yo
-Dialogue: 0,0:11:11.80,0:11:13.82,Default,,0,0,0,,Motto, motto, motto
-Dialogue: 0,0:11:13.82,0:11:18.01,Default,,0,0,0,,
-Dialogue: 0,0:11:18.01,0:11:22.18,Default,,0,0,0,,Toraddo saikou chou kakkoii
-Dialogue: 0,0:11:22.18,0:11:26.30,Default,,0,0,0,,
-Dialogue: 0,0:11:26.30,0:11:29.82,Default,,0,0,0,,
-Dialogue: 0,0:11:29.82,0:11:32.26,Default,,0,0,0,,
-Dialogue: 0,0:11:45.20,0:11:49.37,Default,,0,0,0,,
-Dialogue: 0,0:11:49.37,0:11:53.84,Default,,0,0,0,,
+Dialogue: 0,0:08:24.40,0:08:26.96,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,0:08:31.05,0:08:33.21,Romaji Lyrics,,0,0,0,,Kuuru de ikou yo
+Dialogue: 0,0:08:33.21,0:08:35.24,Romaji Lyrics,,0,0,0,,Motto, motto, motto
+Dialogue: 0,0:08:35.24,0:08:39.40,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,0:08:39.40,0:08:43.54,Romaji Lyrics,,0,0,0,,Sutoreeto heaa ni sunao na kaori
+Dialogue: 0,0:08:43.54,0:08:47.69,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,0:09:06.49,0:09:10.77,Romaji Lyrics,,0,0,0,,Yuuyake ga kousha wo somete iku
+Dialogue: 0,0:09:10.77,0:09:14.90,Romaji Lyrics,,0,0,0,,noru ko no inai buranko ga
+Dialogue: 0,0:09:14.90,0:09:19.02,Romaji Lyrics,,0,0,0,,yura yura yurete iru
+Dialogue: 0,0:09:19.02,0:09:21.62,Romaji Lyrics,,0,0,0,,Doushita no?
+Dialogue: 0,0:09:23.20,0:09:27.44,Romaji Lyrics,,0,0,0,,Kimi, hitori de nayande naide
+Dialogue: 0,0:09:27.44,0:09:31.57,Romaji Lyrics,,0,0,0,,Isshouni arukou yo
+Dialogue: 0,0:09:31.57,0:09:35.48,Romaji Lyrics,,0,0,0,,kikasete yo uchiakete
+Dialogue: 0,0:09:35.48,0:09:38.06,Romaji Lyrics,,0,0,0,,Kore kara no kimi wo
+Dialogue: 0,0:09:39.88,0:09:44.09,Romaji Lyrics,,0,0,0,,{\i1}IVY Girl{\i0} wa yasashikute
+Dialogue: 0,0:09:44.09,0:09:48.29,Romaji Lyrics,,0,0,0,,{\i1}IVY Girl{\i0} wa kagayaki hikaru
+Dialogue: 0,0:09:48.29,0:09:52.41,Romaji Lyrics,,0,0,0,,{\i1}IVY Girl{\i0} wa yasashikute
+Dialogue: 0,0:09:52.41,0:09:56.69,Romaji Lyrics,,0,0,0,,{\i1}IVY Girl{\i0} wa kirakira hikaru
+Dialogue: 0,0:09:58.69,0:10:00.82,Romaji Lyrics,,0,0,0,,Furesshu de ikou yo
+Dialogue: 0,0:10:00.82,0:10:02.88,Romaji Lyrics,,0,0,0,,Motto, motto, motto
+Dialogue: 0,0:10:02.88,0:10:07.06,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,0:10:07.06,0:10:11.24,Romaji Lyrics,,0,0,0,,Jibun wo migaite sensu appu
+Dialogue: 0,0:10:11.24,0:10:15.41,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,0:11:09.70,0:11:11.80,Romaji Lyrics,,0,0,0,,Kyuuto ni ikou yo
+Dialogue: 0,0:11:11.80,0:11:13.82,Romaji Lyrics,,0,0,0,,Motto, motto, motto
+Dialogue: 0,0:11:13.82,0:11:18.01,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,0:11:18.01,0:11:22.18,Romaji Lyrics,,0,0,0,,Toraddo saikou chou kakkoii
+Dialogue: 0,0:11:22.18,0:11:26.30,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,0:11:26.30,0:11:29.82,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,0:11:29.82,0:11:32.26,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,0:11:45.20,0:11:49.37,Romaji Lyrics,,0,0,0,,
+Dialogue: 0,0:11:49.37,0:11:53.84,Romaji Lyrics,,0,0,0,,

@@ -11,31 +11,27 @@ YCbCr Matrix: None
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Subtitle,Levenim MT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,2,10,10,3,1
-Style: Credits,PT Sans Narrow,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
-Style: Toptitle,PT Sans Narrow,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,8,10,10,0,1
-Style: Song Title,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Japanese Lyrics,@Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,5,-90,1,2,2,9,0,0,460,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,2:26:25.49,2:26:33.82,Default,,0,0,0,,白い光の中に 山なみは萌えて
-Dialogue: 0,2:26:33.82,2:26:42.10,Default,,0,0,0,,遥かな空の果てまでも 君は飛び立つ
-Dialogue: 0,2:26:42.10,2:26:50.52,Default,,0,0,0,,限り無く青い空に 心ふるわせ
-Dialogue: 0,2:26:50.52,2:26:58.57,Default,,0,0,0,,自由を駆ける鳥よ ふり返ることもせず
-Dialogue: 0,2:26:58.57,2:27:06.98,Default,,0,0,0,,勇気を翼にこめて希望の風にのり
-Dialogue: 0,2:27:06.98,2:27:18.90,Default,,0,0,0,,このひろい大空に夢をたくして
-Dialogue: 0,2:27:32.62,2:27:39.76,Default,,0,0,0,,懐かしい友の声 ふとよみがえる
-Dialogue: 0,2:27:39.76,2:27:46.60,Default,,0,0,0,,意味もないいさかいに 泣いたあのとき
-Dialogue: 0,2:27:46.60,2:27:53.56,Default,,0,0,0,,心かよったうれしさに 抱き合った日よ
-Dialogue: 0,2:27:53.56,2:28:00.26,Default,,0,0,0,,みんなすぎたけれど 思いで強く抱いて
-Dialogue: 0,2:28:00.26,2:28:07.10,Default,,0,0,0,,勇気を翼にこめて希望の風にのり
-Dialogue: 0,2:28:07.10,2:28:15.96,Default,,0,0,0,,このひろい大空に夢をたくして
-Dialogue: 0,2:28:22.76,2:28:29.81,Default,,0,0,0,,勇気を翼にこめて希望の風にのり
-Dialogue: 0,2:28:29.81,2:28:40.49,Default,,0,0,0,,このひろい大空に夢をたくして
-Dialogue: 0,2:28:40.49,2:28:47.46,Default,,0,0,0,,いま, 別れのとき 飛び立とう未来信じて
-Dialogue: 0,2:28:47.46,2:28:50.80,Default,,0,0,0,,弾む若い力信じて
-Dialogue: 0,2:28:50.80,2:28:59.46,Default,,0,0,0,,このひろい (このひろい) 大空に
-Dialogue: 0,2:28:59.84,2:29:06.86,Default,,0,0,0,,いま, 別れのとき 飛び立とう未来信じて
-Dialogue: 0,2:29:06.86,2:29:10.33,Default,,0,0,0,,弾む若い力信じて
-Dialogue: 0,2:29:10.33,2:29:21.90,Default,,0,0,0,,このひろい (このひろい) このひろい (このひろい) 大空に
+Dialogue: 0,2:26:25.49,2:26:33.82,Japanese Lyrics,,0,0,0,,白い光の中に 山なみは萌えて
+Dialogue: 0,2:26:33.82,2:26:42.10,Japanese Lyrics,,0,0,0,,遥かな空の果てまでも 君は飛び立つ
+Dialogue: 0,2:26:42.10,2:26:50.52,Japanese Lyrics,,0,0,0,,限り無く青い空に 心ふるわせ
+Dialogue: 0,2:26:50.52,2:26:58.57,Japanese Lyrics,,0,0,0,,自由を駆ける鳥よ ふり返ることもせず
+Dialogue: 0,2:26:58.57,2:27:06.98,Japanese Lyrics,,0,0,0,,勇気を翼にこめて希望の風にのり
+Dialogue: 0,2:27:06.98,2:27:18.90,Japanese Lyrics,,0,0,0,,このひろい大空に夢をたくして
+Dialogue: 0,2:27:32.62,2:27:39.76,Japanese Lyrics,,0,0,0,,懐かしい友の声 ふとよみがえる
+Dialogue: 0,2:27:39.76,2:27:46.60,Japanese Lyrics,,0,0,0,,意味もないいさかいに 泣いたあのとき
+Dialogue: 0,2:27:46.60,2:27:53.56,Japanese Lyrics,,0,0,0,,心かよったうれしさに 抱き合った日よ
+Dialogue: 0,2:27:53.56,2:28:00.26,Japanese Lyrics,,0,0,0,,みんなすぎたけれど 思いで強く抱いて
+Dialogue: 0,2:28:00.26,2:28:07.10,Japanese Lyrics,,0,0,0,,勇気を翼にこめて希望の風にのり
+Dialogue: 0,2:28:07.10,2:28:15.96,Japanese Lyrics,,0,0,0,,このひろい大空に夢をたくして
+Dialogue: 0,2:28:22.76,2:28:29.81,Japanese Lyrics,,0,0,0,,勇気を翼にこめて希望の風にのり
+Dialogue: 0,2:28:29.81,2:28:40.49,Japanese Lyrics,,0,0,0,,このひろい大空に夢をたくして
+Dialogue: 0,2:28:40.49,2:28:47.46,Japanese Lyrics,,0,0,0,,いま, 別れのとき 飛び立とう未来信じて
+Dialogue: 0,2:28:47.46,2:28:50.80,Japanese Lyrics,,0,0,0,,弾む若い力信じて
+Dialogue: 0,2:28:50.80,2:28:59.46,Japanese Lyrics,,0,0,0,,このひろい (このひろい) 大空に
+Dialogue: 0,2:28:59.84,2:29:06.86,Japanese Lyrics,,0,0,0,,いま, 別れのとき 飛び立とう未来信じて
+Dialogue: 0,2:29:06.86,2:29:10.33,Japanese Lyrics,,0,0,0,,弾む若い力信じて
+Dialogue: 0,2:29:10.33,2:29:21.90,Japanese Lyrics,,0,0,0,,このひろい (このひろい) このひろい (このひろい) 大空に

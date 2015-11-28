@@ -13,32 +13,28 @@ Active Line: 10
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Subtitle,Levenim MT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,2,10,10,3,1
-Style: Credits,PT Sans Narrow,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
-Style: Toptitle,PT Sans Narrow,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,8,10,10,0,1
-Style: Song Title,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Japanese Lyrics,@Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,5,-90,1,2,2,9,0,0,460,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:28:44.89,0:28:48.57,Default,,0,0,0,,{\i1}Shaking Heart!{\i0}　立ち上がれ今こそ
-Dialogue: 0,0:28:48.57,0:28:51.08,Default,,0,0,0,,力を試す時間だ
-Dialogue: 0,0:28:51.08,0:28:54.73,Default,,0,0,0,,さあ　ぶつけ合う命が
-Dialogue: 0,0:28:54.73,0:28:57.04,Default,,0,0,0,,火花を散らす
-Dialogue: 0,0:28:57.04,0:29:03.78,Default,,0,0,0,,{\i1}Burning!{\i0}　鼓動感じたら…伝わる
-Dialogue: 0,0:29:14.86,0:29:21.04,Default,,0,0,0,,風吹く中　ただ独り
-Dialogue: 0,0:29:21.04,0:29:27.25,Default,,0,0,0,,立ち向って行く　この両手
-Dialogue: 0,0:29:27.25,0:29:33.40,Default,,0,0,0,,傷をつける　ためじゃなく
-Dialogue: 0,0:29:33.40,0:29:39.64,Default,,0,0,0,,誰かのために　使えるはず
-Dialogue: 0,0:29:39.64,0:29:48.90,Default,,0,0,0,,回れ　強く　輝やかせて
-Dialogue: 0,0:29:48.90,0:29:57.02,Default,,0,0,0,,回せ　風車(ふうしゃ)のように
-Dialogue: 0,0:29:57.58,0:30:01.33,Default,,0,0,0,,{\i1}Spinning Heart!{\i0}　走り出せ今こそ
-Dialogue: 0,0:30:01.33,0:30:03.88,Default,,0,0,0,,心を試す合図だ
-Dialogue: 0,0:30:03.88,0:30:07.58,Default,,0,0,0,,さあ　あふれ出す本気が
-Dialogue: 0,0:30:07.58,0:30:09.84,Default,,0,0,0,,涙を散らす
-Dialogue: 0,0:30:09.84,0:30:16.76,Default,,0,0,0,,{\i1}Ready!{\i0}　声が枯れるまで…届ける
-Dialogue: 0,0:31:10.34,0:31:14.04,Default,,0,0,0,,{\i1}Shaking Heart!{\i0}　立ち上がれ今こそ
-Dialogue: 0,0:31:14.04,0:31:16.61,Default,,0,0,0,,力を試す時間だ
-Dialogue: 0,0:31:16.61,0:31:20.32,Default,,0,0,0,,さあ　ぶつけ合う命が
-Dialogue: 0,0:31:20.32,0:31:22.65,Default,,0,0,0,,火花を散らす
-Dialogue: 0,0:31:22.65,0:31:29.44,Default,,0,0,0,,{\i1}Burning!{\i0}　鼓動感じたら…伝わる
+Dialogue: 0,0:28:44.89,0:28:48.57,Japanese Lyrics,,0,0,0,,{\i1}Shaking Heart!{\i0}　立ち上がれ今こそ
+Dialogue: 0,0:28:48.57,0:28:51.08,Japanese Lyrics,,0,0,0,,力を試す時間だ
+Dialogue: 0,0:28:51.08,0:28:54.73,Japanese Lyrics,,0,0,0,,さあ　ぶつけ合う命が
+Dialogue: 0,0:28:54.73,0:28:57.04,Japanese Lyrics,,0,0,0,,火花を散らす
+Dialogue: 0,0:28:57.04,0:29:03.78,Japanese Lyrics,,0,0,0,,{\i1}Burning!{\i0}　鼓動感じたら…伝わる
+Dialogue: 0,0:29:14.86,0:29:21.04,Japanese Lyrics,,0,0,0,,風吹く中　ただ独り
+Dialogue: 0,0:29:21.04,0:29:27.25,Japanese Lyrics,,0,0,0,,立ち向って行く　この両手
+Dialogue: 0,0:29:27.25,0:29:33.40,Japanese Lyrics,,0,0,0,,傷をつける　ためじゃなく
+Dialogue: 0,0:29:33.40,0:29:39.64,Japanese Lyrics,,0,0,0,,誰かのために　使えるはず
+Dialogue: 0,0:29:39.64,0:29:48.90,Japanese Lyrics,,0,0,0,,回れ　強く　輝やかせて
+Dialogue: 0,0:29:48.90,0:29:57.02,Japanese Lyrics,,0,0,0,,回せ　風車(ふうしゃ)のように
+Dialogue: 0,0:29:57.58,0:30:01.33,Japanese Lyrics,,0,0,0,,{\i1}Spinning Heart!{\i0}　走り出せ今こそ
+Dialogue: 0,0:30:01.33,0:30:03.88,Japanese Lyrics,,0,0,0,,心を試す合図だ
+Dialogue: 0,0:30:03.88,0:30:07.58,Japanese Lyrics,,0,0,0,,さあ　あふれ出す本気が
+Dialogue: 0,0:30:07.58,0:30:09.84,Japanese Lyrics,,0,0,0,,涙を散らす
+Dialogue: 0,0:30:09.84,0:30:16.76,Japanese Lyrics,,0,0,0,,{\i1}Ready!{\i0}　声が枯れるまで…届ける
+Dialogue: 0,0:31:10.34,0:31:14.04,Japanese Lyrics,,0,0,0,,{\i1}Shaking Heart!{\i0}　立ち上がれ今こそ
+Dialogue: 0,0:31:14.04,0:31:16.61,Japanese Lyrics,,0,0,0,,力を試す時間だ
+Dialogue: 0,0:31:16.61,0:31:20.32,Japanese Lyrics,,0,0,0,,さあ　ぶつけ合う命が
+Dialogue: 0,0:31:20.32,0:31:22.65,Japanese Lyrics,,0,0,0,,火花を散らす
+Dialogue: 0,0:31:22.65,0:31:29.44,Japanese Lyrics,,0,0,0,,{\i1}Burning!{\i0}　鼓動感じたら…伝わる

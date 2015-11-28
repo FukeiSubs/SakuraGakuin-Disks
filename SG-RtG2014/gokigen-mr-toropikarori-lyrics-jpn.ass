@@ -8,58 +8,55 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Active Line: 34
+Last Style Storage: Default
+Active Line: 39
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Subtitle,Levenim MT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,2,10,10,3,1
-Style: Credits,PT Sans Narrow,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
-Style: Toptitle,PT Sans Narrow,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.3,1,8,10,10,0,1
-Style: Song Title,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Japanese Lyrics,@Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,5,-90,1,2,2,9,0,0,460,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:15:14.12,0:15:17.78,Default,,0,0,0,,気のせいかしら　心なしか
-Dialogue: 0,0:15:17.78,0:15:21.42,Default,,0,0,0,,シャツが縮んできたのかしら?
-Dialogue: 0,0:15:21.42,0:15:25.06,Default,,0,0,0,,んなわけなーい!  鏡の前
-Dialogue: 0,0:15:25.06,0:15:28.25,Default,,0,0,0,,1人ツッコミ入れてみます
-Dialogue: 0,0:15:28.64,0:15:32.38,Default,,0,0,0,,薄々…いいや  間違いなく
-Dialogue: 0,0:15:32.38,0:15:36.04,Default,,0,0,0,,気づいていたわけですけれど
-Dialogue: 0,0:15:36.04,0:15:39.56,Default,,0,0,0,,この成長の  方向性
-Dialogue: 0,0:15:39.56,0:15:42.74,Default,,0,0,0,,少しヤバい気がします
-Dialogue: 0,0:15:43.13,0:15:46.68,Default,,0,0,0,,甘いモノに目がない方で
-Dialogue: 0,0:15:46.68,0:15:50.29,Default,,0,0,0,,それは乙女の証ですから
-Dialogue: 0,0:15:50.29,0:15:53.61,Default,,0,0,0,,ついついあと一つだけ
-Dialogue: 0,0:15:53.61,0:15:57.25,Default,,0,0,0,,積み重ねの力が身にしみる
-Dialogue: 0,0:15:57.37,0:16:00.77,Default,,0,0,0,,{\i1}Oh Yeah! {\i0} 燃えちゃえ!
-Dialogue: 0,0:16:00.77,0:16:04.56,Default,,0,0,0,,あこがれのあの子に近づくため
-Dialogue: 0,0:16:04.56,0:16:08.05,Default,,0,0,0,,もう嫌!  消えちゃえ!
-Dialogue: 0,0:16:08.05,0:16:12.34,Default,,0,0,0,,だからちょっと手加減して{\i1}Mr.{\i0}カロリー!
-Dialogue: 0,0:16:12.34,0:16:15.97,Default,,0,0,0,,空気  読んでよ
-Dialogue: 0,0:16:15.97,0:16:18.22,Default,,0,0,0,,あなたはお呼びじゃないの!
-Dialogue: 0,0:16:34.17,0:16:37.78,Default,,0,0,0,,乗りたくないの  あの箱には
-Dialogue: 0,0:16:37.78,0:16:41.48,Default,,0,0,0,,奥の隅に封印してる
-Dialogue: 0,0:16:41.48,0:16:45.08,Default,,0,0,0,,テスト結果より残酷
-Dialogue: 0,0:16:45.08,0:16:48.53,Default,,0,0,0,,数字で突きつけないで {\i1}NO!{\i0}
-Dialogue: 0,0:16:48.53,0:16:52.08,Default,,0,0,0,,ねえ, どうして?  おかしくない?
-Dialogue: 0,0:16:52.08,0:16:55.70,Default,,0,0,0,,あの娘  おやつ  バカ食いだけど
-Dialogue: 0,0:16:55.70,0:16:59.09,Default,,0,0,0,,スラリとしたスタイル {\i1}keep{\i0}
-Dialogue: 0,0:16:59.09,0:17:02.69,Default,,0,0,0,,まじかっ!? どーゆーこと? 秘訣を教えてよ!
-Dialogue: 0,0:17:02.84,0:17:06.24,Default,,0,0,0,,{\i1}Oh Yeah!{\i0}  負けるか!
-Dialogue: 0,0:17:06.24,0:17:10.10,Default,,0,0,0,,いつもからかう男子を見返すの
-Dialogue: 0,0:17:10.10,0:17:13.49,Default,,0,0,0,,もう嫌!  消えちゃえ!
-Dialogue: 0,0:17:13.49,0:17:17.78,Default,,0,0,0,,だからちょっとホント勘弁よ{\i1}Mr.{\i0}カロリー!
-Dialogue: 0,0:17:17.78,0:17:21.41,Default,,0,0,0,,いつも  同じ
-Dialogue: 0,0:17:21.41,0:17:23.72,Default,,0,0,0,,あなたに悩まされるの
-Dialogue: 0,0:17:39.84,0:17:43.46,Default,,0,0,0,,だけどいつも元気で
-Dialogue: 0,0:17:43.46,0:17:46.88,Default,,0,0,0,,いられるのあなたのおかげ
-Dialogue: 0,0:17:46.88,0:17:50.52,Default,,0,0,0,,感謝も  してるわ
-Dialogue: 0,0:17:50.52,0:17:53.65,Default,,0,0,0,,なのに少しやりすぎよ!
-Dialogue: 0,0:17:53.76,0:17:57.13,Default,,0,0,0,,{\i1}Oh Yeah!{\i0}  燃えちゃえ!
-Dialogue: 0,0:17:57.13,0:18:00.97,Default,,0,0,0,,あこがれのあの子に近づくため
-Dialogue: 0,0:18:00.97,0:18:04.36,Default,,0,0,0,,もう嫌!  消えちゃえ!
-Dialogue: 0,0:18:04.36,0:18:08.69,Default,,0,0,0,,だからちょっと手加減して{\i1}Mr.{\i0}カロリー!
-Dialogue: 0,0:18:08.69,0:18:12.33,Default,,0,0,0,,空気  読んでよ
-Dialogue: 0,0:18:12.33,0:18:14.64,Default,,0,0,0,,あなたはお呼びじゃないの!
-Dialogue: 0,0:18:16.00,0:18:18.25,Default,,0,0,0,,私に構わないでよ!
+Dialogue: 0,0:15:14.12,0:15:17.78,Japanese Lyrics,,0,0,0,,気のせいかしら　心なしか
+Dialogue: 0,0:15:17.78,0:15:21.42,Japanese Lyrics,,0,0,0,,シャツが縮んできたのかしら?
+Dialogue: 0,0:15:21.42,0:15:25.06,Japanese Lyrics,,0,0,0,,んなわけなーい!  鏡の前
+Dialogue: 0,0:15:25.06,0:15:28.25,Japanese Lyrics,,0,0,0,,1人ツッコミ入れてみます
+Dialogue: 0,0:15:28.64,0:15:32.38,Japanese Lyrics,,0,0,0,,薄々…いいや  間違いなく
+Dialogue: 0,0:15:32.38,0:15:36.04,Japanese Lyrics,,0,0,0,,気づいていたわけですけれど
+Dialogue: 0,0:15:36.04,0:15:39.56,Japanese Lyrics,,0,0,0,,この成長の  方向性
+Dialogue: 0,0:15:39.56,0:15:42.74,Japanese Lyrics,,0,0,0,,少しヤバい気がします
+Dialogue: 0,0:15:43.13,0:15:46.68,Japanese Lyrics,,0,0,0,,甘いモノに目がない方で
+Dialogue: 0,0:15:46.68,0:15:50.29,Japanese Lyrics,,0,0,0,,それは乙女の証ですから
+Dialogue: 0,0:15:50.29,0:15:53.61,Japanese Lyrics,,0,0,0,,ついついあと一つだけ
+Dialogue: 0,0:15:53.61,0:15:57.25,Japanese Lyrics,,0,0,0,,積み重ねの力が身にしみる
+Dialogue: 0,0:15:57.37,0:16:00.77,Japanese Lyrics,,0,0,0,,{\i1}Oh Yeah! {\i0} 燃えちゃえ!
+Dialogue: 0,0:16:00.77,0:16:04.56,Japanese Lyrics,,0,0,0,,あこがれのあの子に近づくため
+Dialogue: 0,0:16:04.56,0:16:08.05,Japanese Lyrics,,0,0,0,,もう嫌!  消えちゃえ!
+Dialogue: 0,0:16:08.05,0:16:12.34,Japanese Lyrics,,0,0,0,,だからちょっと手加減して{\i1}Mr.{\i0}カロリー!
+Dialogue: 0,0:16:12.34,0:16:15.97,Japanese Lyrics,,0,0,0,,空気  読んでよ
+Dialogue: 0,0:16:15.97,0:16:18.22,Japanese Lyrics,,0,0,0,,あなたはお呼びじゃないの!
+Dialogue: 0,0:16:34.17,0:16:37.78,Japanese Lyrics,,0,0,0,,乗りたくないの  あの箱には
+Dialogue: 0,0:16:37.78,0:16:41.48,Japanese Lyrics,,0,0,0,,奥の隅に封印してる
+Dialogue: 0,0:16:41.48,0:16:45.08,Japanese Lyrics,,0,0,0,,テスト結果より残酷
+Dialogue: 0,0:16:45.08,0:16:48.53,Japanese Lyrics,,0,0,0,,数字で突きつけないで {\i1}NO!{\i0}
+Dialogue: 0,0:16:48.53,0:16:52.08,Japanese Lyrics,,0,0,0,,ねえ, どうして?  おかしくない?
+Dialogue: 0,0:16:52.08,0:16:55.70,Japanese Lyrics,,0,0,0,,あの娘  おやつ  バカ食いだけど
+Dialogue: 0,0:16:55.70,0:16:59.09,Japanese Lyrics,,0,0,0,,スラリとしたスタイル {\i1}keep{\i0}
+Dialogue: 0,0:16:59.09,0:17:02.69,Japanese Lyrics,,0,0,0,,まじかっ!? どーゆーこと? 秘訣を教えてよ!
+Dialogue: 0,0:17:02.84,0:17:06.24,Japanese Lyrics,,0,0,0,,{\i1}Oh Yeah!{\i0}  負けるか!
+Dialogue: 0,0:17:06.24,0:17:10.10,Japanese Lyrics,,0,0,0,,いつもからかう男子を見返すの
+Dialogue: 0,0:17:10.10,0:17:13.49,Japanese Lyrics,,0,0,0,,もう嫌!  消えちゃえ!
+Dialogue: 0,0:17:13.49,0:17:17.78,Japanese Lyrics,,0,0,0,,だからちょっとホント勘弁よ{\i1}Mr.{\i0}カロリー!
+Dialogue: 0,0:17:17.78,0:17:21.41,Japanese Lyrics,,0,0,0,,いつも  同じ
+Dialogue: 0,0:17:21.41,0:17:23.72,Japanese Lyrics,,0,0,0,,あなたに悩まされるの
+Dialogue: 0,0:17:39.84,0:17:43.46,Japanese Lyrics,,0,0,0,,だけどいつも元気で
+Dialogue: 0,0:17:43.46,0:17:46.88,Japanese Lyrics,,0,0,0,,いられるのあなたのおかげ
+Dialogue: 0,0:17:46.88,0:17:50.52,Japanese Lyrics,,0,0,0,,感謝も  してるわ
+Dialogue: 0,0:17:50.52,0:17:53.65,Japanese Lyrics,,0,0,0,,なのに少しやりすぎよ!
+Dialogue: 0,0:17:53.76,0:17:57.13,Japanese Lyrics,,0,0,0,,{\i1}Oh Yeah!{\i0}  燃えちゃえ!
+Dialogue: 0,0:17:57.13,0:18:00.97,Japanese Lyrics,,0,0,0,,あこがれのあの子に近づくため
+Dialogue: 0,0:18:00.97,0:18:04.36,Japanese Lyrics,,0,0,0,,もう嫌!  消えちゃえ!
+Dialogue: 0,0:18:04.36,0:18:08.69,Japanese Lyrics,,0,0,0,,だからちょっと手加減して{\i1}Mr.{\i0}カロリー!
+Dialogue: 0,0:18:08.69,0:18:12.33,Japanese Lyrics,,0,0,0,,空気  読んでよ
+Dialogue: 0,0:18:12.33,0:18:14.64,Japanese Lyrics,,0,0,0,,あなたはお呼びじゃないの!
+Dialogue: 0,0:18:16.00,0:18:18.25,Japanese Lyrics,,0,0,0,,私に構わないでよ!
