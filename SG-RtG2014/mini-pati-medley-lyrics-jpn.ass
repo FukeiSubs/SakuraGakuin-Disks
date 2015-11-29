@@ -8,8 +8,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Scroll Position: 45
-Active Line: 61
+Active Line: 52
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,7 +30,7 @@ Dialogue: 0,0:43:37.48,0:43:40.74,Japanese Lyrics,,0,0,0,,LOVE LOVE トッピン
 Dialogue: 0,0:43:40.74,0:43:44.81,Japanese Lyrics,,0,0,0,,甘くとろけて笑顔つくるよ
 Dialogue: 0,0:43:44.81,0:43:48.12,Japanese Lyrics,,0,0,0,,仕上げに ちょっと レモネード
 Dialogue: 0,0:43:48.12,0:43:51.98,Japanese Lyrics,,0,0,0,,君に贈るよ ステキなスイーツ
-Dialogue: 0,0:44:16.00,0:44:17.48,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:44:16.00,0:44:17.48,Japanese Lyrics,,0,0,0,,次はどら焼き
 Dialogue: 0,0:44:17.48,0:44:17.96,Japanese Lyrics,,0,0,0,,
 Dialogue: 0,0:44:20.29,0:44:21.02,Japanese Lyrics,,0,0,0,,
 Dialogue: 0,0:44:26.74,0:44:29.73,Japanese Lyrics,,0,0,0,,桜の花びら
@@ -69,7 +68,7 @@ Dialogue: 0,0:46:39.32,0:46:43.22,Japanese Lyrics,,0,0,0,,胸いっぱいのこ�
 Dialogue: 0,0:46:43.22,0:46:46.69,Japanese Lyrics,,0,0,0,,入れ過ぎちゃうくらい愛を込めました
 Dialogue: 0,0:46:46.69,0:46:50.34,Japanese Lyrics,,0,0,0,,残さず全部めしあがれ (ひ~は~!)
 Dialogue: 0,0:47:03.53,0:47:04.49,Japanese Lyrics,,0,0,0,,(ひ~は~!)
-Dialogue: 0,0:47:08.08,0:47:10.58,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:47:08.08,0:47:10.58,Japanese Lyrics,,0,0,0,,次はハッピーバースデー
 Dialogue: 0,0:47:20.24,0:47:22.86,Japanese Lyrics,,0,0,0,,ハッピー ミニパティバースデー
 Dialogue: 0,0:47:22.86,0:47:25.41,Japanese Lyrics,,0,0,0,,フワフワキラキラ
 Dialogue: 0,0:47:25.41,0:47:28.00,Japanese Lyrics,,0,0,0,,ハッピー ミニパティバースデー
