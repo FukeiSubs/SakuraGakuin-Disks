@@ -5,14 +5,22 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
+PlayResX: 720
+PlayResY: 480
 
 [Aegisub Project Garbage]
-Active Line: 12
+Last Style Storage: Default
+Audio File: Sakura Gakuin The Road to Graduation Final 2014.mkv
+Video File: Sakura Gakuin The Road to Graduation Final 2014.mkv
+Video AR Mode: 4
+Video AR Value: 1.777083
+Active Line: 23
+Video Position: 71006
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Japanese Lyrics,@Arial Unicode MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,5,-90,1,2,2,9,0,0,460,1
+Style: Japanese Lyrics,@Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,2,2,9,500,0,460,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -32,7 +40,7 @@ Dialogue: 0,0:38:58.34,0:39:04.16,Japanese Lyrics,,0,0,0,,ステッカーには�
 Dialogue: 0,0:39:04.16,0:39:07.22,Japanese Lyrics,,0,0,0,,{\i1}One, two, three, four, five, so-so-so{\i0}  ソールドアウト!
 Dialogue: 0,0:39:07.22,0:39:11.38,Japanese Lyrics,,0,0,0,,{\i1}Hey guys,{\i0} 先行販売でアイテム売り切れいつもゴメン
 Dialogue: 0,0:39:11.38,0:39:12.76,Japanese Lyrics,,0,0,0,,えー, またか!?
-Dialogue: 0,0:39:12.76,0:39:15.16,Japanese Lyrics,,0,0,0,,{\i1}Photo set{\i0}, 残りわずかです
+Dialogue: 0,0:39:12.76,0:39:14.81,Japanese Lyrics,,0,0,0,,{\i1}Photo set{\i0}, 残りわずかです
 Dialogue: 0,0:39:14.81,0:39:17.18,Japanese Lyrics,,0,0,0,,写真ぐらいすぐそこで焼いてこれるだろ!
 Dialogue: 0,0:39:17.18,0:39:18.08,Japanese Lyrics,,0,0,0,,ごめんなさい!
 Dialogue: 0,0:39:18.25,0:39:20.97,Japanese Lyrics,,0,0,0,,ピース {\i1}de check! {\i0} ピース {\i1}de check!{\i0}
