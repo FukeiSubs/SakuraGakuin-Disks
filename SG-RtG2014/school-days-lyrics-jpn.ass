@@ -16,11 +16,11 @@ Style: Japanese Lyrics,@Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:04:58.12,0:05:01.32,Japanese Lyrics,,0,0,0,,{\i1}Start!{\i0} 思い切り駆け出そう
-Dialogue: 0,0:05:01.32,0:05:04.40,Japanese Lyrics,,0,0,0,,{\i1}Jump!{\i0} 誰にも負けないほどの
+Dialogue: 0,0:04:58.12,0:05:01.32,Japanese Lyrics,,0,0,0,,{\i1}Start！{\i0} 思い切り駆け出そう
+Dialogue: 0,0:05:01.32,0:05:04.40,Japanese Lyrics,,0,0,0,,{\i1}Jump！{\i0} 誰にも負けないほどの
 Dialogue: 0,0:05:04.40,0:05:10.96,Japanese Lyrics,,0,0,0,,それぞれの夢求め 誰より輝くように
-Dialogue: 0,0:05:10.96,0:05:14.13,Japanese Lyrics,,0,0,0,,{\i1}Dream!{\i0} 教室の窓の外
-Dialogue: 0,0:05:14.13,0:05:17.20,Japanese Lyrics,,0,0,0,,{\i1}Chance!{\i0} 無限に広がる未来
+Dialogue: 0,0:05:10.96,0:05:14.13,Japanese Lyrics,,0,0,0,,{\i1}Dream！{\i0} 教室の窓の外
+Dialogue: 0,0:05:14.13,0:05:17.20,Japanese Lyrics,,0,0,0,,{\i1}Chance！{\i0} 無限に広がる未来
 Dialogue: 0,0:05:17.20,0:05:23.84,Japanese Lyrics,,0,0,0,,恋したり 夢見たり 自分の花を咲かそう
 Dialogue: 0,0:05:24.13,0:05:30.13,Japanese Lyrics,,0,0,0,,つぼみ咲け さくら咲け
 Dialogue: 0,0:05:30.13,0:05:36.72,Japanese Lyrics,,0,0,0,,この学びの庭に {\i1}My school days{\i0}
@@ -29,18 +29,18 @@ Dialogue: 0,0:05:46.53,0:05:52.88,Japanese Lyrics,,0,0,0,,それはきっと夢�
 Dialogue: 0,0:05:52.88,0:05:59.28,Japanese Lyrics,,0,0,0,,憧れは始まり 抑えても溢れる
 Dialogue: 0,0:05:59.28,0:06:05.29,Japanese Lyrics,,0,0,0,,気持ちそっと育み 花開く時を待つ
 Dialogue: 0,0:06:05.29,0:06:10.16,Japanese Lyrics,,0,0,0,,ああ さくら学院
-Dialogue: 0,0:06:11.73,0:06:14.81,Japanese Lyrics,,0,0,0,,{\i1}Start!{\i0} 大好きな君の仕草
-Dialogue: 0,0:06:14.81,0:06:18.05,Japanese Lyrics,,0,0,0,,{\i1}Smile!{\i0} なにげないその横顔
+Dialogue: 0,0:06:11.73,0:06:14.81,Japanese Lyrics,,0,0,0,,{\i1}Start！{\i0} 大好きな君の仕草
+Dialogue: 0,0:06:14.81,0:06:18.05,Japanese Lyrics,,0,0,0,,{\i1}Smile！{\i0} なにげないその横顔
 Dialogue: 0,0:06:18.05,0:06:24.52,Japanese Lyrics,,0,0,0,,授業中にそっと見て、想いよ届けと願う
-Dialogue: 0,0:06:24.52,0:06:27.69,Japanese Lyrics,,0,0,0,,{\i1}Wish!{\i0} 大切なその言葉
-Dialogue: 0,0:06:27.69,0:06:30.90,Japanese Lyrics,,0,0,0,,{\i1}Say!{\i0} ねぇ君に言われたいな
-Dialogue: 0,0:06:30.90,0:06:37.48,Japanese Lyrics,,0,0,0,,誰にもゆずれないよ どうしたら うまくいくの?
+Dialogue: 0,0:06:24.52,0:06:27.69,Japanese Lyrics,,0,0,0,,{\i1}Wish！{\i0} 大切なその言葉
+Dialogue: 0,0:06:27.69,0:06:30.90,Japanese Lyrics,,0,0,0,,{\i1}Say！{\i0} ねぇ君に言われたいな
+Dialogue: 0,0:06:30.90,0:06:37.48,Japanese Lyrics,,0,0,0,,誰にもゆずれないよ どうしたら うまくいくの？
 Dialogue: 0,0:06:37.72,0:06:43.76,Japanese Lyrics,,0,0,0,,つぼみ咲け さくら咲け
 Dialogue: 0,0:06:43.76,0:06:50.22,Japanese Lyrics,,0,0,0,,この心の庭に {\i1}My sweet days{\i0}
-Dialogue: 0,0:07:22.16,0:07:28.36,Japanese Lyrics,,0,0,0,,{\i1}Start!{\i0} 思い切り駆け出そう 誰にも負けないほどの
+Dialogue: 0,0:07:22.16,0:07:28.36,Japanese Lyrics,,0,0,0,,{\i1}Start！{\i0} 思い切り駆け出そう 誰にも負けないほどの
 Dialogue: 0,0:07:28.36,0:07:34.96,Japanese Lyrics,,0,0,0,,それぞれの夢求め 誰より輝くように
-Dialogue: 0,0:07:34.96,0:07:38.09,Japanese Lyrics,,0,0,0,,{\i1}Believe!{\i0} 教室の窓の外
-Dialogue: 0,0:07:38.09,0:07:41.21,Japanese Lyrics,,0,0,0,,{\i1}Chance!{\i0} 無限に広がる未来
+Dialogue: 0,0:07:34.96,0:07:38.09,Japanese Lyrics,,0,0,0,,{\i1}Believe！{\i0} 教室の窓の外
+Dialogue: 0,0:07:38.09,0:07:41.21,Japanese Lyrics,,0,0,0,,{\i1}Chance！{\i0} 無限に広がる未来
 Dialogue: 0,0:07:41.21,0:07:48.06,Japanese Lyrics,,0,0,0,,恋したり 夢見たり 自分の花を咲かそう
 Dialogue: 0,0:07:48.06,0:07:54.14,Japanese Lyrics,,0,0,0,,つぼみ咲け さくら咲け
 Dialogue: 0,0:07:54.14,0:08:02.26,Japanese Lyrics,,0,0,0,,この学びの庭に {\i1}My school days{\i0}

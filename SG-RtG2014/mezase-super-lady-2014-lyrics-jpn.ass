@@ -16,50 +16,50 @@ Style: Japanese Lyrics,@Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:15.88,0:01:16.41,Japanese Lyrics,,0,0,0,,水野!
+Dialogue: 0,0:01:15.88,0:01:16.41,Japanese Lyrics,,0,0,0,,水野！
 Dialogue: 0,0:01:16.41,0:01:19.53,Japanese Lyrics,,0,0,0,,怯えてピョンピョン、怖がりピョン ドキドキピョン
-Dialogue: 0,0:01:19.53,0:01:22.54,Japanese Lyrics,,0,0,0,,ジャンプで身長かせいでる?
-Dialogue: 0,0:01:22.54,0:01:24.61,Japanese Lyrics,,0,0,0,,由結は、こんなに大きくなったもん!
-Dialogue: 0,0:01:24.61,0:01:24.97,Japanese Lyrics,,0,0,0,,菊地!
+Dialogue: 0,0:01:19.53,0:01:22.54,Japanese Lyrics,,0,0,0,,ジャンプで身長かせいでる？
+Dialogue: 0,0:01:22.54,0:01:24.61,Japanese Lyrics,,0,0,0,,由結は、こんなに大きくなったもん！
+Dialogue: 0,0:01:24.61,0:01:24.97,Japanese Lyrics,,0,0,0,,菊地！
 Dialogue: 0,0:01:24.97,0:01:28.04,Japanese Lyrics,,0,0,0,,アイドルだけどアイドルオタク　ちっちゃい大人
 Dialogue: 0,0:01:28.04,0:01:31.58,Japanese Lyrics,,0,0,0,,小悪魔警報発令中
-Dialogue: 0,0:01:31.58,0:01:34.17,Japanese Lyrics,,0,0,0,,最愛にご・注・意!
-Dialogue: 0,0:01:34.17,0:01:35.05,Japanese Lyrics,,0,0,0,,野津!
-Dialogue: 0,0:01:35.05,0:01:38.29,Japanese Lyrics,,0,0,0,,ニコニコしながら毒を吐く!確信犯
-Dialogue: 0,0:01:38.29,0:01:41.05,Japanese Lyrics,,0,0,0,,自ら名付けたあだ名は?
-Dialogue: 0,0:01:41.05,0:01:42.33,Japanese Lyrics,,0,0,0,,にせ優等生!
-Dialogue: 0,0:01:43.17,0:01:43.66,Japanese Lyrics,,0,0,0,,田口!
+Dialogue: 0,0:01:31.58,0:01:34.17,Japanese Lyrics,,0,0,0,,最愛にご・注・意！
+Dialogue: 0,0:01:34.17,0:01:35.05,Japanese Lyrics,,0,0,0,,野津！
+Dialogue: 0,0:01:35.05,0:01:38.29,Japanese Lyrics,,0,0,0,,ニコニコしながら毒を吐く！確信犯
+Dialogue: 0,0:01:38.29,0:01:41.05,Japanese Lyrics,,0,0,0,,自ら名付けたあだ名は？
+Dialogue: 0,0:01:41.05,0:01:42.33,Japanese Lyrics,,0,0,0,,にせ優等生！
+Dialogue: 0,0:01:43.17,0:01:43.66,Japanese Lyrics,,0,0,0,,田口！
 Dialogue: 0,0:01:43.66,0:01:46.76,Japanese Lyrics,,0,0,0,,右手に 「レタス」 左に 「大根」 かじりつく
 Dialogue: 0,0:01:46.76,0:01:50.10,Japanese Lyrics,,0,0,0,,両手合わせて 「クロスチョップ」
-Dialogue: 0,0:01:50.86,0:01:53.45,Japanese Lyrics,,0,0,0,,ねぇ、華、今日の感想は?
+Dialogue: 0,0:01:50.86,0:01:53.45,Japanese Lyrics,,0,0,0,,ねぇ、華、今日の感想は？
 Dialogue: 0,0:01:54.58,0:01:55.61,Japanese Lyrics,,0,0,0,,普通です.
-Dialogue: 0,0:01:56.52,0:01:59.93,Japanese Lyrics,,0,0,0,,ちょちょちょ　私のこと 「わかってんの〜? 」
+Dialogue: 0,0:01:56.52,0:01:59.93,Japanese Lyrics,,0,0,0,,ちょちょちょ　私のこと 「わかってんの〜？ 」
 Dialogue: 0,0:01:59.93,0:02:03.37,Japanese Lyrics,,0,0,0,,見た目とのギャップが魅力
 Dialogue: 0,0:02:03.37,0:02:06.92,Japanese Lyrics,,0,0,0,,日進月歩　見てろっ　この女子力
-Dialogue: 0,0:02:06.92,0:02:11.05,Japanese Lyrics,,0,0,0,,目指せ! ス — パ — レディ — を
-Dialogue: 0,0:02:23.88,0:02:24.45,Japanese Lyrics,,0,0,0,,白井!
+Dialogue: 0,0:02:06.92,0:02:11.05,Japanese Lyrics,,0,0,0,,目指せ！ ス — パ — レディ — を
+Dialogue: 0,0:02:23.88,0:02:24.45,Japanese Lyrics,,0,0,0,,白井！
 Dialogue: 0,0:02:24.45,0:02:26.25,Japanese Lyrics,,0,0,0,,自腹でライブに通ってました
-Dialogue: 0,0:02:26.25,0:02:27.81,Japanese Lyrics,,0,0,0,,グッズも全部買いました!
+Dialogue: 0,0:02:26.25,0:02:27.81,Japanese Lyrics,,0,0,0,,グッズも全部買いました！
 Dialogue: 0,0:02:27.81,0:02:30.68,Japanese Lyrics,,0,0,0,,夢を叶えた元父兄
-Dialogue: 0,0:02:30.68,0:02:32.54,Japanese Lyrics,,0,0,0,,さくら学院大好き!!
-Dialogue: 0,0:02:32.54,0:02:33.02,Japanese Lyrics,,0,0,0,,磯野!
+Dialogue: 0,0:02:30.68,0:02:32.54,Japanese Lyrics,,0,0,0,,さくら学院大好き！！
+Dialogue: 0,0:02:32.54,0:02:33.02,Japanese Lyrics,,0,0,0,,磯野！
 Dialogue: 0,0:02:33.02,0:02:36.32,Japanese Lyrics,,0,0,0,,天才星で生まれ落ちた レゲエ育ち
 Dialogue: 0,0:02:36.32,0:02:39.49,Japanese Lyrics,,0,0,0,,悪そうな奴にもだいたい タメグチ
 Dialogue: 0,0:02:39.49,0:02:41.82,Japanese Lyrics,,0,0,0,,えっ　意味わかんな〜い
-Dialogue: 0,0:02:42.69,0:02:43.25,Japanese Lyrics,,0,0,0,,大賀!
-Dialogue: 0,0:02:43.25,0:02:46.49,Japanese Lyrics,,0,0,0,,手に汗握る自己紹介　よろしくね 「はいっ! 」
-Dialogue: 0,0:02:46.49,0:02:49.32,Japanese Lyrics,,0,0,0,,目線は上から？下から?
-Dialogue: 0,0:02:49.32,0:02:50.44,Japanese Lyrics,,0,0,0,,下から行くよ — っ!
-Dialogue: 0,0:02:51.24,0:02:51.88,Japanese Lyrics,,0,0,0,,山出!
-Dialogue: 0,0:02:51.88,0:02:55.02,Japanese Lyrics,,0,0,0,,鹿児島県から通ってます 「大変でごわす! 」
+Dialogue: 0,0:02:42.69,0:02:43.25,Japanese Lyrics,,0,0,0,,大賀！
+Dialogue: 0,0:02:43.25,0:02:46.49,Japanese Lyrics,,0,0,0,,手に汗握る自己紹介　よろしくね 「はいっ！ 」
+Dialogue: 0,0:02:46.49,0:02:49.32,Japanese Lyrics,,0,0,0,,目線は上から？下から？
+Dialogue: 0,0:02:49.32,0:02:50.44,Japanese Lyrics,,0,0,0,,下から行くよ — っ！
+Dialogue: 0,0:02:51.24,0:02:51.88,Japanese Lyrics,,0,0,0,,山出！
+Dialogue: 0,0:02:51.88,0:02:55.02,Japanese Lyrics,,0,0,0,,鹿児島県から通ってます 「大変でごわす！ 」
 Dialogue: 0,0:02:55.02,0:02:58.10,Japanese Lyrics,,0,0,0,,山から出てきた　愛しい子供です
-Dialogue: 0,0:02:58.10,0:03:01.06,Japanese Lyrics,,0,0,0,,山出、誰だったら腕相撲勝てそう?
-Dialogue: 0,0:03:01.06,0:03:03.09,Japanese Lyrics,,0,0,0,,う〜ん、華ちゃん!
-Dialogue: 0,0:03:03.09,0:03:04.20,Japanese Lyrics,,0,0,0,,え! まじか!
-Dialogue: 0,0:03:04.46,0:03:08.20,Japanese Lyrics,,0,0,0,,ねぇねぇねぇ　私のこと 「ちゃんと見えてますか? 」
+Dialogue: 0,0:02:58.10,0:03:01.06,Japanese Lyrics,,0,0,0,,山出、誰だったら腕相撲勝てそう？
+Dialogue: 0,0:03:01.06,0:03:03.09,Japanese Lyrics,,0,0,0,,う〜ん、華ちゃん！
+Dialogue: 0,0:03:03.09,0:03:04.20,Japanese Lyrics,,0,0,0,,え！ まじか！
+Dialogue: 0,0:03:04.46,0:03:08.20,Japanese Lyrics,,0,0,0,,ねぇねぇねぇ　私のこと 「ちゃんと見えてますか？ 」
 Dialogue: 0,0:03:08.20,0:03:11.40,Japanese Lyrics,,0,0,0,,見た目とのギャップが魅力
 Dialogue: 0,0:03:11.40,0:03:15.05,Japanese Lyrics,,0,0,0,,諸行無常　磨こっ　その女子力
-Dialogue: 0,0:03:15.05,0:03:19.08,Japanese Lyrics,,0,0,0,,目指せ! ス — パ — レディ — を
+Dialogue: 0,0:03:15.05,0:03:19.08,Japanese Lyrics,,0,0,0,,目指せ！ ス — パ — レディ — を
 Dialogue: 0,0:03:22.38,0:03:23.32,Japanese Lyrics,,0,0,0,,それでは 出席をとります
 Dialogue: 0,0:03:23.32,0:03:24.82,Japanese Lyrics,,0,0,0,,中等部３年、菊地最愛 「にこっ」
 Dialogue: 0,0:03:24.82,0:03:25.96,Japanese Lyrics,,0,0,0,,田口華 「でやぁ」
@@ -71,25 +71,25 @@ Dialogue: 0,0:03:30.54,0:03:31.73,Japanese Lyrics,,0,0,0,,白井沙樹 「さく
 Dialogue: 0,0:03:31.73,0:03:33.36,Japanese Lyrics,,0,0,0,,中等部１年、倉島颯良 「は — い」
 Dialogue: 0,0:03:33.36,0:03:35.22,Japanese Lyrics,,0,0,0,,小等部６年、岡田愛 「ござる」
 Dialogue: 0,0:03:35.22,0:03:36.33,Japanese Lyrics,,0,0,0,,山出愛子 「イエッサ — 」
-Dialogue: 0,0:03:36.33,0:03:38.62,Japanese Lyrics,,0,0,0,,それでは 残りのメンバ — の 自己紹介 よろしく!
-Dialogue: 0,0:03:38.62,0:03:41.05,Japanese Lyrics,,0,0,0,,え〜っっと、あっ、倉島!
+Dialogue: 0,0:03:36.33,0:03:38.62,Japanese Lyrics,,0,0,0,,それでは 残りのメンバ — の 自己紹介 よろしく！
+Dialogue: 0,0:03:38.62,0:03:41.05,Japanese Lyrics,,0,0,0,,え〜っっと、あっ、倉島！
 Dialogue: 0,0:03:41.05,0:03:44.42,Japanese Lyrics,,0,0,0,,名前を忘れる担任には　厳しくいくぞ
 Dialogue: 0,0:03:44.42,0:03:47.38,Japanese Lyrics,,0,0,0,,マジシャン　倉島　イリュ — ジョン
-Dialogue: 0,0:03:47.38,0:03:49.21,Japanese Lyrics,,0,0,0,,覚えてくれないと消しちゃいますよ!
-Dialogue: 0,0:03:49.21,0:03:49.60,Japanese Lyrics,,0,0,0,,岡田!
+Dialogue: 0,0:03:47.38,0:03:49.21,Japanese Lyrics,,0,0,0,,覚えてくれないと消しちゃいますよ！
+Dialogue: 0,0:03:49.21,0:03:49.60,Japanese Lyrics,,0,0,0,,岡田！
 Dialogue: 0,0:03:49.60,0:03:52.36,Japanese Lyrics,,0,0,0,,三河の国から　攻め込んだ　物知り歴女
-Dialogue: 0,0:03:52.36,0:03:53.24,Japanese Lyrics,,0,0,0,,めぐ知ってる! 知ってる!
+Dialogue: 0,0:03:52.36,0:03:53.24,Japanese Lyrics,,0,0,0,,めぐ知ってる！ 知ってる！
 Dialogue: 0,0:03:53.24,0:03:55.82,Japanese Lyrics,,0,0,0,,回転しながら、偉人の名言　言います
 Dialogue: 0,0:03:56.29,0:03:58.70,Japanese Lyrics,,0,0,0,,今日は徳川家康さんです
 Dialogue: 0,0:03:59.66,0:04:02.12,Japanese Lyrics,,0,0,0,,勝って兜の緒を締めろ
-Dialogue: 0,0:04:02.46,0:04:04.26,Japanese Lyrics,,0,0,0,,皆さん、勉強なったでしょ?
-Dialogue: 0,0:04:04.26,0:04:07.66,Japanese Lyrics,,0,0,0,,ちょちょちょ　私のこと 「わかってますか? 」
+Dialogue: 0,0:04:02.46,0:04:04.26,Japanese Lyrics,,0,0,0,,皆さん、勉強なったでしょ？
+Dialogue: 0,0:04:04.26,0:04:07.66,Japanese Lyrics,,0,0,0,,ちょちょちょ　私のこと 「わかってますか？ 」
 Dialogue: 0,0:04:07.66,0:04:11.01,Japanese Lyrics,,0,0,0,,見た目とのギャップが魅力
 Dialogue: 0,0:04:11.01,0:04:14.61,Japanese Lyrics,,0,0,0,,日進月歩　見てろっ　この女子力
-Dialogue: 0,0:04:14.61,0:04:18.41,Japanese Lyrics,,0,0,0,,目指せ! ス — パ — レディ — を
+Dialogue: 0,0:04:14.61,0:04:18.41,Japanese Lyrics,,0,0,0,,目指せ！ ス — パ — レディ — を
 Dialogue: 0,0:04:18.41,0:04:21.41,Japanese Lyrics,,0,0,0,,ねぇねぇねぇ　私のこと 「教えてあげます」
 Dialogue: 0,0:04:21.41,0:04:24.62,Japanese Lyrics,,0,0,0,,見た目とのギャップが魅力
 Dialogue: 0,0:04:24.62,0:04:28.22,Japanese Lyrics,,0,0,0,,諸行無常　磨こっ　その女子力
-Dialogue: 0,0:04:28.22,0:04:32.26,Japanese Lyrics,,0,0,0,,目指せ! ス — パ — レディ — を
-Dialogue: 0,0:04:39.65,0:04:43.34,Japanese Lyrics,,0,0,0,,以上! 私たち成長期限定ユニット
-Dialogue: 0,0:04:43.34,0:04:44.90,Japanese Lyrics,,0,0,0,,さくら学院です!
+Dialogue: 0,0:04:28.22,0:04:32.26,Japanese Lyrics,,0,0,0,,目指せ！ ス — パ — レディ — を
+Dialogue: 0,0:04:39.65,0:04:43.34,Japanese Lyrics,,0,0,0,,以上！ 私たち成長期限定ユニット
+Dialogue: 0,0:04:43.34,0:04:44.90,Japanese Lyrics,,0,0,0,,さくら学院です！
