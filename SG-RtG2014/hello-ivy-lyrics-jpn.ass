@@ -17,10 +17,10 @@ Style: Japanese Lyrics,@Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:08:24.40,0:08:26.96,Japanese Lyrics,,0,0,0,,
-Dialogue: 0,0:08:31.05,0:08:33.21,Japanese Lyrics,,0,0,0,,クールでいこうよ
+Dialogue: 0,0:08:31.05,0:08:33.21,Japanese Lyrics,,0,0,0,,ク — ルでいこうよ
 Dialogue: 0,0:08:33.21,0:08:35.24,Japanese Lyrics,,0,0,0,,モット, モット, モット
 Dialogue: 0,0:08:35.24,0:08:39.40,Japanese Lyrics,,0,0,0,,
-Dialogue: 0,0:08:39.40,0:08:43.54,Japanese Lyrics,,0,0,0,,ストレートヘアーに 素直な香り
+Dialogue: 0,0:08:39.40,0:08:43.54,Japanese Lyrics,,0,0,0,,ストレ — トヘア — に 素直な香り
 Dialogue: 0,0:08:43.54,0:08:47.69,Japanese Lyrics,,0,0,0,,
 Dialogue: 0,0:09:06.49,0:09:10.77,Japanese Lyrics,,0,0,0,,夕焼けが校舎を染めていく
 Dialogue: 0,0:09:10.77,0:09:14.90,Japanese Lyrics,,0,0,0,,乗る子のいない ブランコが
@@ -39,9 +39,9 @@ Dialogue: 0,0:10:00.82,0:10:02.88,Japanese Lyrics,,0,0,0,,モット, モット, 
 Dialogue: 0,0:10:02.88,0:10:07.06,Japanese Lyrics,,0,0,0,,
 Dialogue: 0,0:10:07.06,0:10:11.24,Japanese Lyrics,,0,0,0,,自分を磨いて センスアップ
 Dialogue: 0,0:10:11.24,0:10:15.41,Japanese Lyrics,,0,0,0,,
-Dialogue: 0,0:11:09.70,0:11:11.80,Japanese Lyrics,,0,0,0,,キュートにいこうよ
+Dialogue: 0,0:11:09.70,0:11:11.80,Japanese Lyrics,,0,0,0,,キュ — トにいこうよ
 Dialogue: 0,0:11:11.80,0:11:13.82,Japanese Lyrics,,0,0,0,,モット, モット, モット
-Dialogue: 0,0:11:13.82,0:11:18.01,Japanese Lyrics,,0,0,0,,{\i1}IVY! IVY! IVY{\i0} ガール
+Dialogue: 0,0:11:13.82,0:11:18.01,Japanese Lyrics,,0,0,0,,{\i1}IVY! IVY! IVY{\i0} ガ — ル
 Dialogue: 0,0:11:18.01,0:11:22.18,Japanese Lyrics,,0,0,0,,トラッド最高 超カッコいい
 Dialogue: 0,0:11:22.18,0:11:26.30,Japanese Lyrics,,0,0,0,,
 Dialogue: 0,0:11:26.30,0:11:29.82,Japanese Lyrics,,0,0,0,,
