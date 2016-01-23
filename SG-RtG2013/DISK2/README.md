@@ -28,6 +28,7 @@ Tasks
 
 -	EraYaN
 -	onji-Kobe
+-                   The Thrawn
 
 ### Translating
 
@@ -45,6 +46,7 @@ Tasks
 
 -	EraYaN
 -	ShadeSlayr
+-                   The Thrawn (native)
 
 ### Typesetting, merging .ass files, final QA/QC
 
