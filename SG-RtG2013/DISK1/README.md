@@ -1,7 +1,7 @@
-﻿SG-RtG2014
+﻿SG-RtG2013
 ==========
 
-Sakura Gakuin - The Road to Graduation 2013 ～Kizuna～ Subtitle Project DISK2
+Sakura Gakuin - The Road to Graduation 2013 ～Kizuna～ Subtitle Project DISK1
 
 All files in this folder are specific to DISK1
 
@@ -28,6 +28,7 @@ Tasks
 
 -	EraYaN
 -	onji-Kobe
+-                   The Thrawn
 
 ### Translating
 
@@ -45,6 +46,7 @@ Tasks
 
 -	EraYaN
 -	ShadeSlayr
+-                   The Thrawn (native)
 
 ### Typesetting, merging .ass files, final QA/QC
 
@@ -53,22 +55,29 @@ Tasks
 Chapter Reference
 -------------------------
 
-!!!NEEDS UPDATING, THE NUMBER OF CHAPTERS IS CORRECT, THE INFO IS NOT
 
 | Time         | Number | Name                                      |
 |--------------|:------:|-------------------------------------------|
-| 00:00:00.000 |   1    | Intro                                     |
-| 00:00:23.790 |   2    | Mesaze! Super Lady -2014 nendo-           |
-| 00:04:47.287 |   3    | School Days                               |
-| 00:08:24.004 |   4    | Hello! IVY                                |
-| 00:11:58.952 |   5    | MC #1                                     |
-| 00:14:51.124 |   6    | Gokigen Mr. Toropikarori                  |
-| 00:19:01.140 |   7    | Aogeba Toutoshi ~From Sakura Gakuin 2014~ |
-| 00:23:14.860 |   8    | Tenshi to Akuma                           |
-| 00:27:35.888 |   9    | Spin in the Wind                          |
-| 00:32:46.097 |   10   | Piece de Check!                           |
-| 00:42:27.945 |   11   | Mini Pati Medley                          |
-| 00:50:56.387 |   12   | MC #2                                     |
-| 00:54:56.927 |   13   | Sleep Wonder                              |
-| 00:59:48.952 |   14   | Planet Episode 008                        |
+| 00:00:00.000 |   1    | Chime                             |
+| 00:04:07.000 |   2    | Hana Hana           |
+| 00:08:39.000 |   3    |  Ganbare!!                               |
+| 00:13:44.000 |   4    | MC #1                                |
+| 00:17:15.000 |   5    |  FLY AWAY                             |
+| 00:21:21.000 |   6    |  Otomegokoro                  |
+| 00:25:22.000 |   7    | WONDERFUL JOURNEY |
+| 00:30:04.000 |   8    |  MC#2                  |
+| 00:33:43.000 |   9    |  Makeruna! Seishun Hizakozou |
+| 00:37:25.000 |   10  | Capsule Scope |
+| 00:41:05.000 |   11  | MC#3 |
+| 00:43:18.000 |   12  | Magic Melody |
+| 00:47:55.000 |   13  | Marshmallow Iro no Kimi to |
+| 00:52:00.000 |   14  | MC#4 |
+| 00:53:26.000 |   15  | FRIENDS |
+| 00:58:26.000 |   16  | Mikansei Silhouette |
+| 01:02:52.000 |   17  | MC#5 |
+| 01:10:56.000 |   18  | Jump Up ~Chiisana Yuki~|
+| 01:15:42.000 |   19  | MC#6|
+
+
+
 
