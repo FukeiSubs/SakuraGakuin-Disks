@@ -22,9 +22,9 @@ Timing & Translation task list
 | Part (+duration)                                   | Timing (+status)       | Translation (+status)   | File                               |
 |----------------------------------------------------|------------------------|-------------------------|------------------------------------|
 | Sara's soji                                        | `(open)`               | `(open)`                | sara-soji.ass                      |
-| Rinon's toji                                       | `(open)`               | `(open)`                | rinon-toji.ass                     |
-| Principal Kuramoto's congratulations               | `(open)`               | `(open)`                | kuramoto-congratulations.ass       |
-| Principal Kuramoto's speech                        | `(open)`               | `(open)`                | kuramoto-speech.ass                |
+| Rinon's toji                                       | `(Thrawn)`               | `(open)`                | rinon-toji.ass                     |
+| Principal Kuramoto's congratulations               | `(Thrawn)`               | `(open)`                | kuramoto-congratulations.ass       |
+| Principal Kuramoto's speech                        | `(Thrawn)`               | `(open)`                | kuramoto-speech.ass                |
 | Mori-sensei's speech                               | `(open)`               | `(open)`                | mori-speech.ass                    |
 | Intro to 'Mesaze! Super Lady -2015 nendo-'         | `(open)`               | `(open)`                | mezase-intro.ass                   |
 | MC #1                                              | `(open)`               | `(open)`                | MC1.ass                            |
@@ -51,6 +51,7 @@ Tasks
 ### Timing
 
 -	EraYaN
+-	Thrawn
 
 ### Translating
 
@@ -65,6 +66,7 @@ Tasks
 ##### English
 
 -	EraYaN
+-       Thrawn (Native)
 
 ### Typesetting
 
