@@ -19,24 +19,26 @@ Goals / Deadlines
 Timing & Translation task list
 ------------------------------
 
-| Part (+duration)                                   | Timing (+status)       | Translation (+status)   | File                               |
-|----------------------------------------------------|------------------------|-------------------------|------------------------------------|
-| Sara's soji                                        | `(Onji)`               | `(Onji)`                | sara-soji.ass                      |
-| Rinon's toji                                       | `(Thrawn)`             | `(open)`                | rinon-toji.ass                     |
-| Principal Kuramoto's congratulations               | `(Thrawn)`             | `(open)`                | kuramoto-congratulations.ass       |
-| Principal Kuramoto's speech                        | `(Thrawn)`             | `(open)`                | kuramoto-speech.ass                |
-| Mori-sensei's speech                               | `(Onji)`               | `(Onji)`                | mori-speech.ass                    |
-| Intro to 'Mesaze! Super Lady -2015 nendo-'         | `(Shadeslayr)`         | `(open)`                | mezase-intro.ass                   |
-| MC #1                                              | `(konchiniwa)`         | `(konchiniwa)`          | MC1.ass                            |
-| MC #2                                              | `(konchiniwa)`         | `(konchiniwa)`          | MC2.ass                            |
-| MC #3                                              | `(konchiniwa)`         | `(konchiniwa)`          | MC3.ass                            |
-| MC #4                                              | `(konchiniwa)`         | `(konchiniwa)`          | MC4.ass                            |
-| MC #5                                              | `(KumaMetal)`          | `(KumaMetal)`           | MC5.ass                            |
-| Setlist songs Romaji                               | `(Shadeslayr/Thrawn)`  | `(open)`                | {songname}-lyrics-rom.ass          |
-| Setlist songs English                              | `(Shadeslayr/Thrawn)`  | `(open)`                | {songname}-lyrics-eng.ass          |
-| Setlist songs Japanese                             | `(Shadeslayr/Thrawn)`  | `(open)`                | {songname}-lyrics-jpn.ass          |
-| Forced subtitles                                   | EraYaN `(wip)`         | `(n/a)`                 | forced.ass                         |
-| Credits                                            | `(open)`               | `(open)`                | credits.ass                        |
+The statuses are `open` or not started yet, `wip` work in progress, `review` needs a review, `closed` done and signed off
+
+| Part (+duration)                                   | Timing (+status)            | Translation (+status)   | File                               |
+|----------------------------------------------------|-----------------------------|-------------------------|------------------------------------|
+| Sara's soji                                        | Onji (`open`)               | Onji (`Onji`)           | sara-soji.ass                      |
+| Rinon's toji                                       | Thrawn (`open`)             | (`open`)                | rinon-toji.ass                     |
+| Principal Kuramoto's congratulations               | Thrawn (`open`)             | (`open`)                | kuramoto-congratulations.ass       |
+| Principal Kuramoto's speech                        | Thrawn (`open`)             | (`open`)                | kuramoto-speech.ass                |
+| Mori-sensei's speech                               | Onji (`open`)               | Onji (`open`)           | mori-speech.ass                    |
+| Intro to 'Mesaze! Super Lady -2015 nendo-'         | Shadeslayr (`open`)         | (`open`)                | mezase-intro.ass                   |
+| MC #1                                              | konchiniwa (`open`)         | konchiniwa (`open`)     | MC1.ass                            |
+| MC #2                                              | konchiniwa (`open`)         | konchiniwa (`open`)     | MC2.ass                            |
+| MC #3                                              | konchiniwa (`open`)         | konchiniwa (`open`)     | MC3.ass                            |
+| MC #4                                              | konchiniwa (`open`)         | konchiniwa (`open`)     | MC4.ass                            |
+| MC #5                                              | KumaMetal (`open`)          | KumaMetal (`open`)      | MC5.ass                            |
+| Setlist songs Romaji                               | Shadeslayr/Thrawn (`open`)  | (`open`)                | {songname}-lyrics-rom.ass          |
+| Setlist songs English                              | Shadeslayr/Thrawn (`open`)  | (`open`)                | {songname}-lyrics-eng.ass          |
+| Setlist songs Japanese                             | Shadeslayr/Thrawn (`open`)  | (`open`)                | {songname}-lyrics-jpn.ass          |
+| Forced subtitles                                   | EraYaN (`wip`)              | (`n/a`)                 | forced.ass                         |
+| Credits                                            | (`open`)                    | (`open`)                | credits.ass                        |
 
 Proofreading task list
 ----------------------
