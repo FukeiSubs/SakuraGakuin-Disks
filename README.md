@@ -1,5 +1,6 @@
 # Sakura Gakuin Translation Project - Disks
  * Sakura Gakuin - The Road to Graduation 2014 ～Kimi ni Todoke～
+ * Sakura Gakuin - The Road to Graduation 2015 ～Kirameki No Kakera～
 
 Please time all files in an absolute manner. So that the timestamps are the actual timestamps of the (full) disk.
  
