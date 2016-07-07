@@ -26,15 +26,15 @@ Timing & Translation task list
 | Principal Kuramoto's congratulations               | `(Thrawn)`             | `(open)`                | kuramoto-congratulations.ass       |
 | Principal Kuramoto's speech                        | `(Thrawn)`             | `(open)`                | kuramoto-speech.ass                |
 | Mori-sensei's speech                               | `(Onji)`               | `(Onji)`                | mori-speech.ass                    |
-| Intro to 'Mesaze! Super Lady -2015 nendo-'         | `(open)`               | `(open)`                | mezase-intro.ass                   |
+| Intro to 'Mesaze! Super Lady -2015 nendo-'         | `(Shadeslayr)`         | `(open)`                | mezase-intro.ass                   |
 | MC #1                                              | `(konchiniwa)`         | `(konchiniwa)`          | MC1.ass                            |
 | MC #2                                              | `(konchiniwa)`         | `(konchiniwa)`          | MC2.ass                            |
 | MC #3                                              | `(konchiniwa)`         | `(konchiniwa)`          | MC3.ass                            |
 | MC #4                                              | `(konchiniwa)`         | `(konchiniwa)`          | MC4.ass                            |
 | MC #5                                              | `(KumaMetal)`          | `(KumaMetal)`           | MC5.ass                            |
-| Setlist songs Romaji                               | `(open)`               | `(open)`                | {songname}-lyrics-rom.ass          |
-| Setlist songs English                              | `(open)`               | `(open)`                | {songname}-lyrics-eng.ass          |
-| Setlist songs Japanese                             | `(open)`               | `(open)`                | {songname}-lyrics-jpn.ass          |
+| Setlist songs Romaji                               | `(Shadeslayr/Thrawn)`  | `(open)`                | {songname}-lyrics-rom.ass          |
+| Setlist songs English                              | `(Shadeslayr/Thrawn)`  | `(open)`                | {songname}-lyrics-eng.ass          |
+| Setlist songs Japanese                             | `(Shadeslayr/Thrawn)`  | `(open)`                | {songname}-lyrics-jpn.ass          |
 | Forced subtitles                                   | EraYaN `(wip)`         | `(n/a)`                 | forced.ass                         |
 | Credits                                            | `(open)`               | `(open)`                | credits.ass                        |
 
@@ -52,6 +52,7 @@ Tasks
 
 -	EraYaN
 -	Thrawn
+-	Shadeslayr
 
 ### Translating
 
@@ -72,6 +73,7 @@ Tasks
 -	EraYaN
 -       Thrawn (Native)
 -       KumaMetal (Native)
+- Shadeslayr
 
 ### Typesetting
 
