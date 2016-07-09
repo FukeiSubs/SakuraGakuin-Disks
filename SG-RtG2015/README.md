@@ -62,6 +62,7 @@ Global Tasks
 -	onji-Kobe
 -   konchiniwa
 -   KumaMetal
+-   ShiroTan
 
 
 ### Proofreading
