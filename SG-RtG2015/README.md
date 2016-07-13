@@ -87,5 +87,37 @@ Global Tasks
 Chapter Reference
 -----------------
 
-**Will update later when I get the bluray image**
+| No | Start       | Chapter                          |   
+|----|-------------|----------------------------------|                            
+|  1 |00:00:00.000 | Intro                            |
+|  2 |00:00:52.052 | Mezase! Superlady 2015           |
+|  3 |00:05:29.662 | Makeruna! Seishun Hizakozou      |
+|  4 |00:09:20.826 | MC1                              |
+|  5 |00:15:06.906 | Hello! IVY                       |               
+|  6 |00:18:38.450 | Mathematica!                     |
+|  7 |00:23:36.982 | Kirameki no Kakera               |
+|  8 |00:28:29.374 | Sience Girl▽Silence Boy          |
+|  9 |00:33:35.179 | Suimin Busoku                    |
+| 10 |00:38:25.236 | Piece de Check!                  |
+| 11 |00:45:26.990 | Jacapara Goo Goo❤OmuRice        |
+| 12 |00:50:32.129 | MC2                              |
+| 13 |00:56:52.509 | Sleep Wonder                     |
+| 14 |01:01:48.538 | Heart no Hoshi                   |
+| 15 |01:07:14.830 | MC3                              |
+| 16 |01:09:47.850 | Michi Shirube                    |
+| 17 |01:15:22.784 | Mikansei Silhouette              |
+| 18 |01:20:12.140 | MC4                              |
+| 19 |01:24:22.457 | My Graduation Toss               |
+| 20 |01:30:01.729 | Kimi ni Todoke                   |
+| 21 |01:34:25.660 | Yakusoku no Mirai Intro          |
+| 22 |01:34:37.738 | Yakusoku no Mirai                |
+| 23 |01:39:26.060 | Break                            |
+| 24 |01:40:07.535 | Graduation Ceremony 2015 -nendo- |
+| 25 |02:16:29.381 | Tabidachi no Hini 2015           |
+| 26 |02:20:21.747 | Yume ni Mukatte Intro            |
+| 27 |02:20:45.671 | Yume ni Mukatte                  |
+| 28 |02:25:07.732 | MC5                              |
+| 29 |02:40:13.637 | End Credits                      |
+
+
 
