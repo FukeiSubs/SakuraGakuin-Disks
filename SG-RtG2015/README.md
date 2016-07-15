@@ -63,7 +63,7 @@ Global Tasks
 -   konchiniwa
 -   KumaMetal
 -   ShiroTan
-
+-   Akamaru226
 
 ### Proofreading
 
@@ -71,6 +71,7 @@ Global Tasks
 
 -	onji-Kobe (native)
 -   KumaMetal
+-   Akamaru226
 
 ##### English
 
@@ -78,6 +79,7 @@ Global Tasks
 -   Thrawn (Native)
 -   KumaMetal (Native)
 -   Shadeslayr
+-   Akamaru226 (Native)
 
 ### Typesetting, merging .ass files, final QA/QC
 
