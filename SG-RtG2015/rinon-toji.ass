@@ -9,9 +9,128 @@ YCbCr Matrix: TV.601
 PlayResX: 720
 PlayResY: 480
 
+[Aegisub Project Garbage]
+Audio File: C:/Users/de_th/Desktop/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video File: C:/Users/de_th/Desktop/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video AR Mode: 4
+Video AR Value: 1.777083
+Video Zoom Percent: 0.625000
+Scroll Position: 86
+Active Line: 108
+Video Position: 213567
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,1:54:32.60,1:54:35.77,Default,,0,0,0,,Mori
+Dialogue: 0,1:54:36.36,1:54:39.54,Default,,0,0,0,,Mori
+Dialogue: 0,1:54:40.03,1:54:40.91,Default,,0,0,0,,Hai!
+Dialogue: 0,1:54:50.13,1:54:53.57,Default,,0,0,0,,Mori
+Dialogue: 0,1:55:04.32,1:55:05.20,Default,,0,0,0,,Rinon
+Dialogue: 0,1:55:05.71,1:55:10.54,Default,,0,0,0,,
+Dialogue: 0,1:55:11.48,1:55:15.74,Default,,0,0,0,,
+Dialogue: 0,1:55:16.02,1:55:20.79,Default,,0,0,0,,
+Dialogue: 0,1:55:22.03,1:55:26.23,Default,,0,0,0,,
+Dialogue: 0,1:55:26.54,1:55:30.57,Default,,0,0,0,,
+Dialogue: 0,1:55:31.84,1:55:37.09,Default,,0,0,0,,
+Dialogue: 0,1:55:38.29,1:55:42.70,Default,,0,0,0,,
+Dialogue: 0,1:55:43.15,1:55:44.73,Default,,0,0,0,,
+Dialogue: 0,1:55:45.41,1:55:49.73,Default,,0,0,0,,
+Dialogue: 0,1:55:50.03,1:55:52.19,Default,,0,0,0,,
+Dialogue: 0,1:55:53.72,1:55:56.98,Default,,0,0,0,,
+Dialogue: 0,1:55:57.23,1:56:01.81,Default,,0,0,0,,
+Dialogue: 0,1:56:03.03,1:56:08.90,Default,,0,0,0,,
+Dialogue: 0,1:56:09.31,1:56:12.64,Default,,0,0,0,,
+Dialogue: 0,1:56:12.88,1:56:16.03,Default,,0,0,0,,
+Dialogue: 0,1:56:16.80,1:56:18.12,Default,,0,0,0,,
+Dialogue: 0,1:56:19.16,1:56:22.08,Default,,0,0,0,,
+Dialogue: 0,1:56:22.43,1:56:28.36,Default,,0,0,0,,
+Dialogue: 0,1:56:29.76,1:56:34.52,Default,,0,0,0,,
+Dialogue: 0,1:56:34.92,1:56:38.71,Default,,0,0,0,,
+Dialogue: 0,1:56:39.09,1:56:42.80,Default,,0,0,0,,
+Dialogue: 0,1:56:43.03,1:56:47.63,Default,,0,0,0,,
+Dialogue: 0,1:56:48.49,1:56:53.54,Default,,0,0,0,,
+Dialogue: 0,1:56:54.66,1:56:59.38,Default,,0,0,0,,
+Dialogue: 0,1:57:00.48,1:57:07.76,Default,,0,0,0,,
+Dialogue: 0,1:57:08.59,1:57:12.42,Default,,0,0,0,,
+Dialogue: 0,1:57:13.31,1:57:19.40,Default,,0,0,0,,
+Dialogue: 0,1:57:20.36,1:57:24.33,Default,,0,0,0,,
+Dialogue: 0,1:57:25.42,1:57:30.99,Default,,0,0,0,,
+Dialogue: 0,1:57:31.34,1:57:35.98,Default,,0,0,0,,
+Dialogue: 0,1:57:36.44,1:57:40.52,Default,,0,0,0,,
+Dialogue: 0,1:57:41.76,1:57:46.97,Default,,0,0,0,,
+Dialogue: 0,1:57:47.88,1:57:51.99,Default,,0,0,0,,
+Dialogue: 0,1:57:52.13,1:57:57.03,Default,,0,0,0,,
+Dialogue: 0,1:57:58.21,1:57:58.89,Default,,0,0,0,,Soyo
+Dialogue: 0,1:57:59.59,1:58:03.89,Default,,0,0,0,,
+Dialogue: 0,1:58:04.03,1:58:07.43,Default,,0,0,0,,
+Dialogue: 0,1:58:08.05,1:58:11.77,Default,,0,0,0,,
+Dialogue: 0,1:58:12.68,1:58:13.20,Default,,0,0,0,,Kano
+Dialogue: 0,1:58:13.58,1:58:19.28,Default,,0,0,0,,
+Dialogue: 0,1:58:19.73,1:58:24.99,Default,,0,0,0,,
+Dialogue: 0,1:58:25.77,1:58:26.42,Default,,0,0,0,,Marin
+Dialogue: 0,1:58:27.05,1:58:31.70,Default,,0,0,0,,
+Dialogue: 0,1:58:32.89,1:58:36.94,Default,,0,0,0,,
+Dialogue: 0,1:58:37.30,1:58:42.06,Default,,0,0,0,,
+Dialogue: 0,1:58:43.50,1:58:46.86,Default,,0,0,0,,
+Dialogue: 0,1:58:47.76,1:58:48.27,Default,,0,0,0,,Maaya
+Dialogue: 0,1:58:49.07,1:58:54.02,Default,,0,0,0,,
+Dialogue: 0,1:58:54.89,1:59:00.37,Default,,0,0,0,,
+Dialogue: 0,1:59:01.10,1:59:06.99,Default,,0,0,0,,
+Dialogue: 0,1:59:08.21,1:59:08.86,Default,,0,0,0,,Momoko
+Dialogue: 0,1:59:09.52,1:59:12.00,Default,,0,0,0,,
+Dialogue: 0,1:59:12.29,1:59:16.36,Default,,0,0,0,,
+Dialogue: 0,1:59:17.38,1:59:23.59,Default,,0,0,0,,
+Dialogue: 0,1:59:24.57,1:59:28.33,Default,,0,0,0,,
+Dialogue: 0,1:59:29.04,1:59:33.46,Default,,0,0,0,,
+Dialogue: 0,1:59:34.23,1:59:34.78,Default,,0,0,0,,Mirena
+Dialogue: 0,1:59:35.76,1:59:38.59,Default,,0,0,0,,
+Dialogue: 0,1:59:39.58,1:59:44.88,Default,,0,0,0,,
+Dialogue: 0,1:59:46.17,1:59:51.07,Default,,0,0,0,,
+Dialogue: 0,1:59:52.14,1:59:56.30,Default,,0,0,0,,
+Dialogue: 0,1:59:56.62,1:59:58.97,Default,,0,0,0,,
+Dialogue: 0,2:00:00.15,2:00:05.13,Default,,0,0,0,,
+Dialogue: 0,2:00:06.14,2:00:06.64,Default,,0,0,0,,Megu
+Dialogue: 0,2:00:07.44,2:00:12.63,Default,,0,0,0,,
+Dialogue: 0,2:00:13.44,2:00:16.58,Default,,0,0,0,,
+Dialogue: 0,2:00:16.95,2:00:21.13,Default,,0,0,0,,
+Dialogue: 0,2:00:21.87,2:00:25.69,Default,,0,0,0,,
+Dialogue: 0,2:00:26.06,2:00:31.28,Default,,0,0,0,,
+Dialogue: 0,2:00:32.40,2:00:32.88,Default,,0,0,0,,Aiko
+Dialogue: 0,2:00:33.67,2:00:39.50,Default,,0,0,0,,
+Dialogue: 0,2:00:40.48,2:00:43.19,Default,,0,0,0,,
+Dialogue: 0,2:00:43.96,2:00:47.09,Default,,0,0,0,,
+Dialogue: 0,2:00:47.65,2:00:50.71,Default,,0,0,0,,
+Dialogue: 0,2:00:51.76,2:00:52.12,Default,,0,0,0,,Sara
+Dialogue: 0,2:00:52.95,2:00:55.10,Default,,0,0,0,,
+Dialogue: 0,2:00:56.19,2:01:01.63,Default,,0,0,0,,
+Dialogue: 0,2:01:02.54,2:01:08.37,Default,,0,0,0,,
+Dialogue: 0,2:01:09.27,2:01:12.71,Default,,0,0,0,,
+Dialogue: 0,2:01:13.64,2:01:17.80,Default,,0,0,0,,
+Dialogue: 0,2:01:18.04,2:01:22.14,Default,,0,0,0,,
+Dialogue: 0,2:01:23.76,2:01:28.29,Default,,0,0,0,,
+Dialogue: 0,2:01:29.20,2:01:34.17,Default,,0,0,0,,
+Dialogue: 0,2:01:34.47,2:01:39.04,Default,,0,0,0,,
+Dialogue: 0,2:01:39.87,2:01:47.01,Default,,0,0,0,,
+Dialogue: 0,2:01:48.06,2:01:52.81,Default,,0,0,0,,
+Dialogue: 0,2:01:53.75,2:02:00.49,Default,,0,0,0,,
+Dialogue: 0,2:02:01.44,2:02:06.90,Default,,0,0,0,,
+Dialogue: 0,2:02:07.83,2:02:14.80,Default,,0,0,0,,
+Dialogue: 0,2:02:15.80,2:02:18.80,Default,,0,0,0,,
+Dialogue: 0,2:02:19.22,2:02:22.80,Default,,0,0,0,,
+Dialogue: 0,2:02:23.36,2:02:26.63,Default,,0,0,0,,
+Dialogue: 0,2:02:27.15,2:02:33.29,Default,,0,0,0,,
+Dialogue: 0,2:02:35.30,2:02:42.22,Default,,0,0,0,,
+Dialogue: 0,2:02:43.28,2:02:48.98,Default,,0,0,0,,
+Dialogue: 0,2:02:50.11,2:02:55.37,Default,,0,0,0,,
+Dialogue: 0,2:02:55.83,2:03:01.27,Default,,0,0,0,,
+Dialogue: 0,2:03:01.95,2:03:05.84,Default,,0,0,0,,
+Dialogue: 0,2:03:06.72,2:03:09.28,Default,,0,0,0,,
+Dialogue: 0,2:03:09.58,2:03:11.99,Default,,0,0,0,,
+Dialogue: 0,2:03:12.32,2:03:14.23,Default,,0,0,0,,
+Dialogue: 0,2:03:14.75,2:03:17.76,Default,,0,0,0,,
+Dialogue: 0,2:03:18.12,2:03:22.72,Default,,0,0,0,,
+Dialogue: 0,2:03:22.72,2:03:24.72,Default,,0,0,0,,
