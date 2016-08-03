@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Scroll Position: 57
-Active Line: 75
+Scroll Position: 18
+Active Line: 44
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,12 +23,6 @@ Style: Credits 1,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:34:00.20,0:34:02.44,English,,0,0,0,,Mirena:
-Dialogue: 0,0:34:02.44,0:34:05.28,English,,0,0,0,,Saki:
-Dialogue: 0,0:34:05.88,0:34:07.19,English,,0,0,0,,Ehhhh!?
-Dialogue: 0,0:34:07.19,0:34:10.50,English,,0,0,0,,Mirena:
-Dialogue: 0,0:34:10.50,0:34:10.95,English,,0,0,0,,Eh?
-Dialogue: 0,0:34:12.28,0:34:14.78,English,,0,0,0,,Maaya:
 Dialogue: 0,0:34:16.18,0:34:22.18,English,,0,0,0,,Today I have the usual lack of sleep
 Dialogue: 0,0:34:22.26,0:34:24.84,English,,0,0,0,,It gives me headaches
 Dialogue: 0,0:34:24.98,0:34:28.36,English,,0,0,0,,In the usual classroom at the usual school
@@ -60,23 +54,6 @@ Dialogue: 0,0:36:13.52,0:36:16.60,English,,0,0,0,,even though the wind is this w
 Dialogue: 0,0:36:16.60,0:36:19.65,English,,0,0,0,,even though the the sun is so bright:
 Dialogue: 0,0:36:19.65,0:36:22.47,English,,0,0,0,,why is it that I'm so sleepy?
 Dialogue: 0,0:36:22.98,0:36:25.68,English,,0,0,0,,A lack of sleep sleep sleep sleep sleep
-Dialogue: 0,0:36:26.18,0:36:29.19,English,,0,0,0,,Saki:
-Dialogue: 0,0:36:29.20,0:36:30.10,English,,0,0,0,,Yay!
-Dialogue: 0,0:36:30.10,0:36:31.58,English,,0,0,0,,Saki:
-Dialogue: 0,0:36:31.58,0:36:32.30,English,,0,0,0,,Mirena:
-Dialogue: 0,0:36:33.01,0:36:33.72,English,,0,0,0,,Mirena:
-Dialogue: 0,0:36:34.50,0:36:35.19,English,,0,0,0,,Maaya:
-Dialogue: 0,0:36:36.10,0:36:36.81,English,,0,0,0,,Sakura
-Dialogue: 0,0:36:37.57,0:36:38.39,English,,0,0,0,,Mirena:
-Dialogue: 0,0:36:39.11,0:36:39.84,English,,0,0,0,,Maaya:
-Dialogue: 0,0:36:40.64,0:36:41.49,English,,0,0,0,,Carnation (??)
-Dialogue: 0,0:36:42.16,0:36:42.94,English,,0,0,0,,Mirena:
-Dialogue: 0,0:36:43.68,0:36:44.58,English,,0,0,0,,Maaya:
-Dialogue: 0,0:36:44.58,0:36:45.38,English,,0,0,0,,Saki/Mirena:
-Dialogue: 0,0:36:45.44,0:36:48.16,English,,0,0,0,,Mirena:
-Dialogue: 0,0:36:48.16,0:36:48.67,English,,0,0,0,,Ehh?
-Dialogue: 0,0:36:48.67,0:36:50.85,English,,0,0,0,,Saki/Mirena:
-Dialogue: 0,0:36:50.51,0:36:52.52,English,,0,0,0,,Maaya:
 Dialogue: 0,0:37:05.51,0:37:08.51,English,,0,0,0,,That girl bothers me
 Dialogue: 0,0:37:08.52,0:37:11.54,English,,0,0,0,,I bother her
 Dialogue: 0,0:37:11.62,0:37:14.60,English,,0,0,0,,Everyone bothers everyone
@@ -91,11 +68,3 @@ Dialogue: 0,0:37:40.68,0:37:43.72,English,,0,0,0,,even though the the sun is so 
 Dialogue: 0,0:37:43.74,0:37:46.62,English,,0,0,0,,why is it that I'm so sleepy?
 Dialogue: 0,0:37:47.10,0:37:49.74,English,,0,0,0,,A lack of sleep sleep sleep sleep sleep
 Dialogue: 0,0:38:02.40,0:38:05.08,English,,0,0,0,,A lack of sleep sleep sleep sleep sleep
-Dialogue: 0,0:38:05.37,0:38:06.68,English,,0,0,0,,Good night!
-Dialogue: 0,0:38:13.46,0:38:13.97,English,,0,0,0,,I'm Saki
-Dialogue: 0,0:38:14.24,0:38:14.85,English,,0,0,0,,I'm Mirena
-Dialogue: 0,0:38:15.04,0:38:15.72,English,,0,0,0,,I'm Maaya
-Dialogue: 0,0:38:15.88,0:38:18.27,English,,0,0,0,,We are Sakura Gakuin Go Home Club
-Dialogue: 0,0:38:18.43,0:38:19.84,English,,0,0,0,,Sleepiece!
-Dialogue: 0,0:38:20.05,0:38:21.93,English,,0,0,0,,Good night!
-Dialogue: 0,0:38:22.86,0:38:25.34,English,,0,0,0,,Bye bye!
