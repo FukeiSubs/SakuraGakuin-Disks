@@ -8,7 +8,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Active Line: 5
+Active Line: 8
 Video Position: 15277
 
 [V4+ Styles]
@@ -17,12 +17,12 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:08:12.40,0:08:15.22,Default,,0,0,0,,
-Dialogue: 0,0:08:20.86,0:08:22.42,Default,,0,0,0,,
-Dialogue: 0,0:08:22.88,0:08:24.16,Default,,0,0,0,,
-Dialogue: 0,0:08:25.34,0:08:26.76,Default,,0,0,0,,
-Dialogue: 0,0:08:26.94,0:08:29.10,Default,,0,0,0,,
-Dialogue: 0,0:08:29.76,0:08:31.12,Default,,0,0,0,,
-Dialogue: 0,0:08:31.12,0:08:32.62,Default,,0,0,0,,
-Dialogue: 0,0:08:32.82,0:08:34.22,Default,,0,0,0,,
-Dialogue: 0,0:08:34.22,0:08:35.04,Default,,0,0,0,,
+Dialogue: 0,0:08:12.40,0:08:15.22,Default,,0,0,0,,Everyone, please clap your hands together with us!
+Dialogue: 0,0:08:20.86,0:08:22.42,Default,,0,0,0,,On me!
+Dialogue: 0,0:08:22.88,0:08:24.16,Default,,0,0,0,,Fall in!
+Dialogue: 0,0:08:25.34,0:08:26.76,Default,,0,0,0,,One, two, three!
+Dialogue: 0,0:08:26.94,0:08:29.10,Default,,0,0,0,,Gymnastics formation, spread out!
+Dialogue: 0,0:08:29.76,0:08:31.12,Default,,0,0,0,,About, face!
+Dialogue: 0,0:08:31.12,0:08:32.62,Default,,0,0,0,,One, two, three!
+Dialogue: 0,0:08:32.82,0:08:34.22,Default,,0,0,0,,Right, face!
+Dialogue: 0,0:08:34.22,0:08:34.98,Default,,0,0,0,,One, two!
