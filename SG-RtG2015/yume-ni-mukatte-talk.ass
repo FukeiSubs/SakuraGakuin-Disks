@@ -5,11 +5,16 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
+PlayResX: 720
+PlayResY: 480
 
 [Aegisub Project Garbage]
-Active Line: 3
-Video Position: 258348
+Audio File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video AR Mode: 4
+Video AR Value: 1.777083
+Video Position: 258475
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -17,7 +22,7 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,2:23:36.18,2:23:38.22,Default,,0,0,0,,
-Dialogue: 0,2:23:38.64,2:23:41.42,Default,,0,0,0,,
-Dialogue: 0,2:23:41.42,2:23:42.94,Default,,0,0,0,,
-Dialogue: 0,2:23:42.94,2:23:44.46,Default,,0,0,0,,
+Dialogue: 0,2:23:36.18,2:23:38.22,Default,,0,0,0,,I'm 2nd yr middle school student, Kurashima Sara
+Dialogue: 0,2:23:38.64,2:23:41.42,Default,,0,0,0,,Thanks to everything the senior members taught me this year,
+Dialogue: 0,2:23:41.42,2:23:42.94,Default,,0,0,0,,I'll give my best next year too!
+Dialogue: 0,2:23:42.94,2:23:44.46,Default,,0,0,0,,Thank you very much!

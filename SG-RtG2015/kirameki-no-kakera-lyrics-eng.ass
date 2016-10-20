@@ -5,11 +5,18 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
+PlayResX: 720
+PlayResY: 480
 
 [Aegisub Project Garbage]
-Scroll Position: 30
-Active Line: 48
+Audio File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video AR Mode: 4
+Video AR Value: 1.777083
+Scroll Position: 32
+Active Line: 34
+Video Position: 48383
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,7 +64,7 @@ Dialogue: 0,0:26:25.29,0:26:28.31,English,,0,0,0,,I’ll convey it to you with e
 Dialogue: 0,0:26:28.31,0:26:31.27,English,,0,0,0,,Before I wind up just holding my breath
 Dialogue: 0,0:26:31.33,0:26:32.70,English,,0,0,0,,So please look at
 Dialogue: 0,0:26:32.84,0:26:35.26,English,,0,0,0,,My shy starry smile☆
-Dialogue: 0,0:26:48.16,0:26:51.66,English,,0,0,0,,Rinon:
+Dialogue: 0,0:26:48.16,0:26:51.66,English,,0,0,0,,Let us hear your loud hand clapping!
 Dialogue: 0,0:27:10.62,0:27:16.69,English,,0,0,0,,Hey, whenever I gaze at you,
 Dialogue: 0,0:27:16.69,0:27:22.27,English,,0,0,0,,I realize my true feelings
 Dialogue: 0,0:27:22.65,0:27:27.69,English,,0,0,0,,Embracing this self that wants to become steadfast and unwavering

@@ -5,11 +5,16 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
+PlayResX: 720
+PlayResY: 480
 
 [Aegisub Project Garbage]
-Active Line: 2
-Video Position: 170139
+Audio File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video AR Mode: 4
+Video AR Value: 1.777083
+Video Position: 169853
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -17,6 +22,6 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:34:25.98,1:34:29.00,Default,,0,0,0,,
-Dialogue: 0,1:34:29.90,1:34:37.04,Default,,0,0,0,,
-Dialogue: 0,1:34:37.76,1:34:41.44,Default,,0,0,0,,
+Dialogue: 0,1:34:25.98,1:34:29.00,Default,,0,0,0,,It went so quickly, the next will be our last song.
+Dialogue: 0,1:34:29.90,1:34:37.04,Default,,0,0,0,,Today, with these 12 members, we'd like to give the Fukei san our greatest feeling of gratitude.
+Dialogue: 0,1:34:37.76,1:34:41.44,Default,,0,0,0,,Then, please listen to 'Yakusoku no Mirai'
