@@ -5,12 +5,19 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
+PlayResX: 720
+PlayResY: 480
 
 [Aegisub Project Garbage]
-Scroll Position: 27
-Active Line: 35
-Video Position: 79523
+Last Style Storage: Default
+Audio File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video AR Mode: 4
+Video AR Value: 1.777083
+Scroll Position: 39
+Active Line: 29
+Video Position: 81210
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -53,6 +60,7 @@ Dialogue: 0,0:43:58.72,0:44:01.92,English Lyrics,,0,0,0,,Please, please, please,
 Dialogue: 0,0:44:01.92,0:44:04.30,English Lyrics,,0,0,0,,Find me, look for the one with me on it!
 Dialogue: 0,0:44:04.30,0:44:07.38,English Lyrics,,0,0,0,,The one I always get is So-nano, So-nano, Soyo…
 Dialogue: 0,0:44:07.38,0:44:11.44,English Lyrics,,0,0,0,,What!? You don't like Soyo!? Well, fine then, give it back!!!
+Dialogue: 0,0:44:11.16,0:44:12.50,Default,,0,0,0,,You don't want it?
 Dialogue: 0,0:44:13.86,0:44:16.98,English Lyrics,,0,0,0,,What? Well, I'll take it then~!!
 Dialogue: 0,0:44:18.30,0:44:21.06,English Lyrics,,0,0,0,,Check out this piece! Check out this piece!
 Dialogue: 0,0:44:21.06,0:44:23.78,English Lyrics,,0,0,0,,Check out this piece! Che-che-check it out!
