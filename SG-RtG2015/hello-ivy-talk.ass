@@ -5,15 +5,22 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
+PlayResX: 720
+PlayResY: 480
 
 [Aegisub Project Garbage]
-Active Line: 13
+Audio File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video AR Mode: 4
+Video AR Value: 1.777083
+Active Line: 15
+Video Position: 32394
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: English,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,2,10,10,10,1
+Style: English,Cambria,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,2,10,10,10,1
 Style: Romaji,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,0,1
 Style: Japanese,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
 Style: Song Title,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
@@ -22,17 +29,19 @@ Style: Credits 1,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:14:58.02,0:15:02.86,English,,0,0,0,,Sara:
-Dialogue: 0,0:15:03.41,0:15:05.21,English,,0,0,0,,Sara:
-Dialogue: 0,0:17:15.12,0:17:17.67,English,,0,0,0,,Ooga:
-Dialogue: 0,0:17:20.39,0:17:23.49,English,,0,0,0,,Ooga:
-Dialogue: 0,0:17:23.65,0:17:25.13,English,,0,0,0,,Ooga:
-Dialogue: 0,0:17:25.66,0:17:26.58,English,,0,0,0,,Ooga:
-Dialogue: 0,0:17:29.83,0:17:31.73,English,,0,0,0,,Ooga:
-Dialogue: 0,0:17:31.96,0:17:33.04,English,,0,0,0,,Ooga:
-Dialogue: 0,0:17:34.29,0:17:36.64,English,,0,0,0,,Ooga:
-Dialogue: 0,0:17:38.25,0:17:39.79,English,,0,0,0,,Ooga:
-Dialogue: 0,0:17:40.35,0:17:41.89,English,,0,0,0,,Ooga:
-Dialogue: 0,0:17:42.41,0:17:43.40,English,,0,0,0,,Ooga:
-Dialogue: 0,0:17:46.56,0:17:48.36,English,,0,0,0,,Ooga:
-Dialogue: 0,0:17:48.41,0:17:49.59,English,,0,0,0,,Ooga:
+Dialogue: 0,0:14:58.02,0:15:02.86,English,,0,0,0,,Now that we've got a lot of power from people all over Japan,  I'd like to proceed to the next song.
+Dialogue: 0,0:15:03.41,0:15:05.21,English,,0,0,0,,The next song is... this!
+Dialogue: 0,0:17:15.12,0:17:17.44,English,,0,0,0,,So everyone,  please get your flags ready!
+Dialogue: 0,0:17:17.44,0:17:20.34,English,,0,0,0,,[1, 2, 3, 4! 5, 6...]
+Dialogue: 0,0:17:20.39,0:17:21.28,English,,0,0,0,,Up and down...
+Dialogue: 0,0:17:21.50,0:17:23.49,English,,0,0,0,,Up, Up, Down!
+Dialogue: 0,0:17:23.65,0:17:25.13,English,,0,0,0,,Down, Down Up!
+Dialogue: 0,0:17:25.66,0:17:26.58,English,,0,0,0,,Make an 8 figure!
+Dialogue: 0,0:17:29.83,0:17:31.73,English,,0,0,0,,Make a big shake left and right!
+Dialogue: 0,0:17:31.96,0:17:33.04,English,,0,0,0,,Let's do it once again!
+Dialogue: 0,0:17:34.29,0:17:36.64,English,,0,0,0,,They can see you from the live viewing as well!
+Dialogue: 0,0:17:38.25,0:17:39.79,English,,0,0,0,,Up, Up, Down!
+Dialogue: 0,0:17:40.35,0:17:41.89,English,,0,0,0,,Down, Down, Up!
+Dialogue: 0,0:17:42.41,0:17:43.40,English,,0,0,0,,Make an 8!
+Dialogue: 0,0:17:46.56,0:17:48.36,English,,0,0,0,,Everyone, it's perfect!
+Dialogue: 0,0:17:48.41,0:17:49.59,English,,0,0,0,,Thank you very much!

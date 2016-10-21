@@ -5,12 +5,18 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
+PlayResX: 720
+PlayResY: 480
 
 [Aegisub Project Garbage]
-Scroll Position: 32
+Audio File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video AR Mode: 4
+Video AR Value: 1.777083
+Scroll Position: 40
 Active Line: 41
-Video Position: 79442
+Video Position: 80877
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -18,45 +24,45 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:38:51.46,0:38:55.78,Default,,0,0,0,,
-Dialogue: 0,0:39:06.62,0:39:09.08,Default,,0,0,0,,
-Dialogue: 0,0:39:09.08,0:39:11.06,Default,,0,0,0,,
-Dialogue: 0,0:39:12.40,0:39:13.48,Default,,0,0,0,,
-Dialogue: 0,0:39:13.48,0:39:15.54,Default,,0,0,0,,
-Dialogue: 0,0:39:15.54,0:39:19.28,Default,,0,0,0,,
-Dialogue: 0,0:39:21.10,0:39:25.20,Default,,0,0,0,,
-Dialogue: 0,0:39:25.20,0:39:28.34,Default,,0,0,0,,
-Dialogue: 0,0:39:28.98,0:39:30.40,Default,,0,0,0,,
-Dialogue: 0,0:39:30.40,0:39:31.52,Default,,0,0,0,,
-Dialogue: 0,0:39:35.26,0:39:40.46,Default,,0,0,0,,
-Dialogue: 0,0:39:40.46,0:39:46.22,Default,,0,0,0,,
-Dialogue: 0,0:39:46.22,0:39:53.70,Default,,0,0,0,,
-Dialogue: 0,0:39:53.70,0:39:55.36,Default,,0,0,0,,
-Dialogue: 0,0:39:55.36,0:39:56.96,Default,,0,0,0,,
-Dialogue: 0,0:39:57.94,0:39:59.64,Default,,0,0,0,,
-Dialogue: 0,0:40:00.58,0:40:05.12,Default,,0,0,0,,
-Dialogue: 0,0:40:05.12,0:40:10.08,Default,,0,0,0,,
-Dialogue: 0,0:40:09.24,0:40:13.76,Default,,0,0,0,,
-Dialogue: 0,0:40:14.10,0:40:14.94,Default,,0,0,0,,
-Dialogue: 0,0:40:14.36,0:40:16.70,Default,,0,0,0,,
-Dialogue: 0,0:40:16.92,0:40:18.40,Default,,0,0,0,,
-Dialogue: 0,0:40:18.40,0:40:20.74,Default,,0,0,0,,
-Dialogue: 0,0:40:21.48,0:40:24.10,Default,,0,0,0,,
-Dialogue: 0,0:40:28.20,0:40:33.74,Default,,0,0,0,,
-Dialogue: 0,0:40:33.74,0:40:38.54,Default,,0,0,0,,
-Dialogue: 0,0:40:38.54,0:40:47.36,Default,,0,0,0,,
-Dialogue: 0,0:40:47.36,0:40:52.88,Default,,0,0,0,,
-Dialogue: 0,0:40:52.88,0:41:00.22,Default,,0,0,0,,
-Dialogue: 0,0:41:00.22,0:41:06.84,Default,,0,0,0,,
-Dialogue: 0,0:41:06.84,0:41:13.62,Default,,0,0,0,,
-Dialogue: 0,0:41:13.62,0:41:17.62,Default,,0,0,0,,
-Dialogue: 0,0:41:17.62,0:41:22.16,Default,,0,0,0,,
-Dialogue: 0,0:41:22.16,0:41:24.80,Default,,0,0,0,,
-Dialogue: 0,0:41:27.16,0:41:34.14,Default,,0,0,0,,
-Dialogue: 0,0:41:34.14,0:41:37.58,Default,,0,0,0,,
-Dialogue: 0,0:43:17.64,0:43:23.22,Default,,0,0,0,,
-Dialogue: 0,0:43:25.78,0:43:27.50,Default,,0,0,0,,
-Dialogue: 0,0:43:30.34,0:43:31.94,Default,,0,0,0,,
-Dialogue: 0,0:43:33.98,0:43:36.12,Default,,0,0,0,,
-Dialogue: 0,0:43:39.42,0:43:42.04,Default,,0,0,0,,
-Dialogue: 0,0:44:11.16,0:44:12.50,Default,,0,0,0,,
+Dialogue: 0,0:38:51.46,0:38:55.78,Default,,0,0,0,,Everyone! This is an announcement from the Purchasing Club!
+Dialogue: 0,0:39:06.62,0:39:09.08,Default,,0,0,0,,Good evening to everyone!
+Dialogue: 0,0:39:09.08,0:39:11.06,Default,,0,0,0,,Good evening!
+Dialogue: 0,0:39:12.40,0:39:13.48,Default,,0,0,0,,Ready, set...
+Dialogue: 0,0:39:13.48,0:39:15.54,Default,,0,0,0,,We are the Purchasing Club!
+Dialogue: 0,0:39:15.54,0:39:19.28,Default,,0,0,0,,Nice to meet you!
+Dialogue: 0,0:39:21.10,0:39:25.20,Default,,0,0,0,,Well then, without delay I'd like to introduce the new goods.
+Dialogue: 0,0:39:25.20,0:39:28.34,Default,,0,0,0,,The first item is... here it is!
+Dialogue: 0,0:39:28.98,0:39:30.40,Default,,0,0,0,,A glass!
+Dialogue: 0,0:39:30.40,0:39:31.52,Default,,0,0,0,,Yes!
+Dialogue: 0,0:39:35.26,0:39:40.46,Default,,0,0,0,,All right, this glass can be an item for everyday use
+Dialogue: 0,0:39:40.46,0:39:46.22,Default,,0,0,0,,Besides that, you can also purchase it as a memento for today's graduation ceremony
+Dialogue: 0,0:39:46.22,0:39:53.70,Default,,0,0,0,,And then what else... also, using this item you can toast the member's birthday, right?
+Dialogue: 0,0:39:53.70,0:39:55.36,Default,,0,0,0,,Everyone, don't you do that?
+Dialogue: 0,0:39:55.36,0:39:56.96,Default,,0,0,0,,You do, right?
+Dialogue: 0,0:39:57.94,0:39:59.64,Default,,0,0,0,,Oh, I'm glad!
+Dialogue: 0,0:40:00.58,0:40:05.12,Default,,0,0,0,,Therefore, everyone please by all means get this glass!
+Dialogue: 0,0:40:05.12,0:40:10.08,Default,,0,0,0,,Also, it might happen that it breaks, so please buy at least three in advance!
+Dialogue: 0,0:40:09.24,0:40:13.76,Default,,0,0,0,,Three! Did you hear that? Even those who are sitting at the third floor? It's three!
+Dialogue: 0,0:40:14.10,0:40:14.94,Default,,0,0,0,,Good!
+Dialogue: 0,0:40:14.36,0:40:16.70,Default,,0,0,0,,All right! Thank you very much!
+Dialogue: 0,0:40:16.92,0:40:18.40,Default,,0,0,0,,And now, next item...
+Dialogue: 0,0:40:18.40,0:40:20.74,Default,,0,0,0,,The next item... is this!
+Dialogue: 0,0:40:21.48,0:40:24.10,Default,,0,0,0,,The last photo set!
+Dialogue: 0,0:40:28.20,0:40:33.74,Default,,0,0,0,,Yes! In this last photo set, the members graduating from elementary school Maaya and Marin,
+Dialogue: 0,0:40:33.74,0:40:38.54,Default,,0,0,0,,and those who are graduating from middle school and Sakura Gakuin, the three 3rd year members
+Dialogue: 0,0:40:38.54,0:40:47.36,Default,,0,0,0,,There's solo shots of these five graduating members, and this set has also the very last group shot for this school year's members.
+Dialogue: 0,0:40:47.36,0:40:52.88,Default,,0,0,0,,Therefore I'd really like everyone to buy this photo set, but...
+Dialogue: 0,0:40:52.88,0:41:00.22,Default,,0,0,0,,actually this is... sold out! I'm sorry! We're sorry!
+Dialogue: 0,0:41:00.22,0:41:06.84,Default,,0,0,0,,But, after the graduation ceremony is over, we can quickly run to the staff room teachers
+Dialogue: 0,0:41:06.84,0:41:13.62,Default,,0,0,0,,and for this, at Amuse official homep... nay it's not homepage... I mean, at Amuse online shop
+Dialogue: 0,0:41:13.62,0:41:17.62,Default,,0,0,0,,at ASmart, we can try and ask them so that it can be bought,
+Dialogue: 0,0:41:17.62,0:41:22.16,Default,,0,0,0,,So together with the fukei san, us members of the Purchasing Club can ask for this, ok?
+Dialogue: 0,0:41:22.16,0:41:24.80,Default,,0,0,0,,Please!\NThank you very much!
+Dialogue: 0,0:41:27.16,0:41:34.14,Default,,0,0,0,,?????
+Dialogue: 0,0:41:34.14,0:41:37.58,Default,,0,0,0,,So please everyone, check it out!
+Dialogue: 0,0:43:17.64,0:43:23.22,Default,,0,0,0,,Everyone, it's year's end sale, here we go! Here it comes!
+Dialogue: 0,0:43:25.78,0:43:27.50,Default,,0,0,0,,One more shot, let's go!
+Dialogue: 0,0:43:30.34,0:43:31.94,Default,,0,0,0,,Here it comes!
+Dialogue: 0,0:43:33.98,0:43:36.12,Default,,0,0,0,,Last one! Here we go!
+Dialogue: 0,0:43:39.42,0:43:42.04,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,0:44:11.16,0:44:12.50,Default,,0,0,0,,You don't want it?
