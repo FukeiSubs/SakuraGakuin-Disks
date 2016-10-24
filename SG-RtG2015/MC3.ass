@@ -9,9 +9,75 @@ YCbCr Matrix: TV.601
 PlayResX: 720
 PlayResY: 480
 
+[Aegisub Project Garbage]
+Audio File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Video AR Mode: 4
+Video AR Value: 1.777083
+Scroll Position: 27
+Active Line: 40
+Video Position: 124312
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,1:07:15.50,1:07:18.25,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,1:07:23.60,1:07:26.16,Default,,0,0,0,,Thank you. Thank you very much.
+Dialogue: 0,1:07:31.10,1:07:36.08,Default,,0,0,0,,Well, there really aren't many opportunities for us 3rd year members to remain alone.
+Dialogue: 0,1:07:36.20,1:07:39.45,Default,,0,0,0,,Surely, the 3rd year members alone in such a big stage...
+Dialogue: 0,1:07:39.48,1:07:41.44,Default,,0,0,0,,It was only at the graduation ceremony.
+Dialogue: 0,1:07:41.50,1:07:42.94,Default,,0,0,0,,'Was'... you say?
+Dialogue: 0,1:07:42.94,1:07:44.14,Default,,0,0,0,,Oops, I said it in the past.
+Dialogue: 0,1:07:44.48,1:07:46.56,Default,,0,0,0,,But... we third year members
+Dialogue: 0,1:07:46.72,1:07:50.22,Default,,0,0,0,,Despite appearances, we joined the group in different school years
+Dialogue: 0,1:07:50.22,1:07:53.39,Default,,0,0,0,,I joined the group in 2013 nendo
+Dialogue: 0,1:07:53.55,1:07:55.21,Default,,0,0,0,,[* changes from informal to formal]
+Dialogue: 0,1:07:55.21,1:07:56.73,Default,,0,0,0,,I joined in 2012 nendo
+Dialogue: 0,1:07:56.73,1:07:59.77,Default,,0,0,0,,I joined the group in 2011 nendo.
+Dialogue: 0,1:07:59.77,1:08:05.20,Default,,0,0,0,,For me they are senpai, even though we are of the same age.
+Dialogue: 0,1:08:05.48,1:08:07.34,Default,,0,0,0,,At first, really...
+Dialogue: 0,1:08:07.80,1:08:09.64,Default,,0,0,0,,We weren't that close
+Dialogue: 0,1:08:09.64,1:08:10.43,Default,,0,0,0,,Yes.
+Dialogue: 0,1:08:10.49,1:08:12.22,Default,,0,0,0,,It's not that we were on bad terms!
+Dialogue: 0,1:08:12.22,1:08:13.23,Default,,0,0,0,,Of course not.
+Dialogue: 0,1:08:13.39,1:08:15.23,Default,,0,0,0,,But honestly, we weren't close either.
+Dialogue: 0,1:08:15.23,1:08:17.02,Default,,0,0,0,,That's true...
+Dialogue: 0,1:08:17.08,1:08:21.53,Default,,0,0,0,,The fact that we didn't talk much might sound a bit exaggerated
+Dialogue: 0,1:08:21.72,1:08:24.46,Default,,0,0,0,,But honestly speaking, before this nendo
+Dialogue: 0,1:08:24.83,1:08:25.48,Default,,0,0,0,,Absolutely...
+Dialogue: 0,1:08:25.66,1:08:27.15,Default,,0,0,0,,We didn't talk almost at all.
+Dialogue: 0,1:08:27.15,1:08:28.01,Default,,0,0,0,,That's right.
+Dialogue: 0,1:08:28.22,1:08:31.20,Default,,0,0,0,,Despite the fact that we were of the same age
+Dialogue: 0,1:08:31.23,1:08:33.64,Default,,0,0,0,,I would have never expected it would end like this
+Dialogue: 0,1:08:33.64,1:08:34.22,Default,,0,0,0,,Yes.
+Dialogue: 0,1:08:34.22,1:08:34.88,Default,,0,0,0,,But...
+Dialogue: 0,1:08:35.08,1:08:37.05,Default,,0,0,0,,Surely, once we were 3rd year members
+Dialogue: 0,1:08:37.55,1:08:39.48,Default,,0,0,0,,I feel we could strengthen our bond.
+Dialogue: 0,1:08:39.56,1:08:40.43,Default,,0,0,0,,Exactly.
+Dialogue: 0,1:08:41.32,1:08:43.37,Default,,0,0,0,,That's right. What's more, we three...
+Dialogue: 0,1:08:43.72,1:08:45.16,Default,,0,0,0,,Recently, at a school trip,
+Dialogue: 0,1:08:45.36,1:08:48.46,Default,,0,0,0,,Actually, we went to a trip for a photo album.
+Dialogue: 0,1:08:48.94,1:08:51.76,Default,,0,0,0,,And we really had a lot of fun!
+Dialogue: 0,1:08:51.76,1:08:55.50,Default,,0,0,0,,This kind of atmosphere between us started to come out
+Dialogue: 0,1:08:55.96,1:08:58.54,Default,,0,0,0,,???????????
+Dialogue: 0,1:08:58.54,1:09:01.28,Default,,0,0,0,,Yes, it's really unique.
+Dialogue: 0,1:09:01.76,1:09:04.48,Default,,0,0,0,,In 2nd year, if we could have met our future selves
+Dialogue: 0,1:09:04.80,1:09:06.22,Default,,0,0,0,,Wouldn't we be really surprised?
+Dialogue: 0,1:09:06.22,1:09:07.52,Default,,0,0,0,,That's right.
+Dialogue: 0,1:09:07.77,1:09:09.07,Default,,0,0,0,,But in a way...
+Dialogue: 0,1:09:09.13,1:09:10.94,Default,,0,0,0,,Now that I come to think of it...
+Dialogue: 0,1:09:11.07,1:09:14.25,Default,,0,0,0,,I guess we're the most intimate among the 3rd year members up to now.
+Dialogue: 0,1:09:14.27,1:09:16.59,Default,,0,0,0,,We have self-confidence. Indeed. I'm confident.
+Dialogue: 0,1:09:22.08,1:09:22.68,Default,,0,0,0,,All right.
+Dialogue: 0,1:09:23.23,1:09:26.22,Default,,0,0,0,,This song we three sing...
+Dialogue: 0,1:09:26.44,1:09:26.94,Default,,0,0,0,,Actually...
+Dialogue: 0,1:09:27.13,1:09:31.92,Default,,0,0,0,,It's included in the album released on the 3rd of March...
+Dialogue: 0,1:09:32.16,1:09:38.48,Default,,0,0,0,,Today,  I'd like to introduce this song that we 3rd year members sing.
+Dialogue: 0,1:09:38.64,1:09:39.60,Default,,0,0,0,,Yes!
+Dialogue: 0,1:09:39.92,1:09:44.20,Default,,0,0,0,,This song is really packed with Sakura Gakuin's daily life, therefore
+Dialogue: 0,1:09:44.59,1:09:47.24,Default,,0,0,0,,Everyone, by all means, please pay attention to the lyrics.
+Dialogue: 0,1:09:48.08,1:09:49.37,Default,,0,0,0,,Then, please listen to...
+Dialogue: 0,1:09:49.79,1:09:51.12,Default,,0,0,0,,Michi Shirube
