@@ -14,8 +14,8 @@ Audio File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Gr
 Video File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
-Scroll Position: 69
-Active Line: 76
+Scroll Position: 81
+Active Line: 112
 Video Position: 96845
 
 [V4+ Styles]
@@ -70,10 +70,10 @@ Dialogue: 0,0:52:25.92,0:52:26.68,Default,,0,0,0,,Yes, we did.
 Dialogue: 0,0:52:26.68,0:52:28.68,Default,,0,0,0,,Wait... the staff teachers can hear this.
 Dialogue: 0,0:52:28.68,0:52:31.34,Default,,0,0,0,,Well you know... for us three that's irrelevant right now!
 Dialogue: 0,0:52:31.88,0:52:32.81,Default,,0,0,0,,That's nasty!
-Dialogue: 0,0:52:33.28,0:52:35.05,Default,,0,0,0,,???????????
+Dialogue: 0,0:52:33.28,0:52:35.05,Default,,0,0,0,,You are revealing too much!
 Dialogue: 0,0:52:35.05,0:52:35.90,Default,,0,0,0,,Hey!
-Dialogue: 0,0:52:35.90,0:52:38.19,Default,,0,0,0,,??????????
-Dialogue: 0,0:52:38.19,0:52:39.82,Default,,0,0,0,,??????????
+Dialogue: 0,0:52:35.90,0:52:38.19,Default,,0,0,0,,That's so mean!
+Dialogue: 0,0:52:38.19,0:52:39.82,Default,,0,0,0,,Stop, we'll really get in trouble!
 Dialogue: 0,0:52:39.82,0:52:43.56,Default,,0,0,0,,In the future, I feel there won't be eating scenes anymore.
 Dialogue: 0,0:52:43.56,0:52:44.67,Default,,0,0,0,,Oh no!
 Dialogue: 0,0:52:45.63,0:52:47.08,Default,,0,0,0,,Really...
@@ -101,7 +101,7 @@ Dialogue: 0,0:53:28.51,0:53:31.56,Default,,0,0,0,,is a memory, like Kirameki no 
 Dialogue: 0,0:53:31.76,0:53:33.23,Default,,0,0,0,,I'm sorry. Wait a minute please.
 Dialogue: 0,0:53:33.23,0:53:34.01,Default,,0,0,0,,That's right.
 Dialogue: 0,0:53:34.01,0:53:38.70,Default,,0,0,0,,Wait a minute! It's sand, a fairly amount of sand.
-Dialogue: 0,0:53:39.56,0:53:41.10,Default,,0,0,0,,????????
+Dialogue: 0,0:53:39.56,0:53:41.10,Default,,0,0,0,,Y
 Dialogue: 0,0:53:41.10,0:53:41.87,Default,,0,0,0,,Right.
 Dialogue: 0,0:53:41.87,0:53:43.87,Default,,0,0,0,,And I thought I said a good one
 Dialogue: 0,0:53:43.87,0:53:46.80,Default,,0,0,0,,It was, a little bit. A little. You tried to show off.
@@ -136,7 +136,7 @@ Dialogue: 0,0:54:45.12,0:54:47.42,Default,,0,0,0,,It was terrible, really...
 Dialogue: 0,0:54:47.42,0:54:48.94,Default,,0,0,0,,Such quantity of wasabi...
 Dialogue: 0,0:54:48.94,0:54:49.36,Default,,0,0,0,,Ah!
 Dialogue: 0,0:54:49.36,0:54:51.82,Default,,0,0,0,,Welcome back!
-Dialogue: 0,0:54:51.82,0:54:54.28,Default,,0,0,0,,??????
+Dialogue: 0,0:54:51.82,0:54:54.28,Default,,0,0,0,,Sorry for interrupting...\NDon't worry, it's fine.
 Dialogue: 0,0:54:54.28,0:54:57.08,Default,,0,0,0,,I don't think I've ever eaten such quantity of wasabi at once.
 Dialogue: 0,0:54:57.08,0:54:58.17,Default,,0,0,0,,Probably.
 Dialogue: 0,0:54:58.17,0:55:00.64,Default,,0,0,0,,But after that, Mori Sensei
