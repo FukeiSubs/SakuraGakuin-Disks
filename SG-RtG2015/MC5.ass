@@ -9,9 +9,44 @@ YCbCr Matrix: TV.601
 PlayResX: 720
 PlayResY: 480
 
+[Aegisub Project Garbage]
+Video Zoom Percent: 0.625000
+Scroll Position: 10
+Active Line: 21
+Video Position: 262457
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,2:25:09.12,2:25:10.56,Default,Rinon,0,0,0,,
+Dialogue: 0,2:25:10.56,2:25:12.04,Default,All,0,0,0,,
+Dialogue: 0,2:25:15.40,2:25:17.40,Default,Sara,0,0,0,,
+Dialogue: 0,2:25:18.04,2:25:20.20,Default,Sara,0,0,0,,
+Dialogue: 0,2:25:20.20,2:25:25.16,Default,Sara,0,0,0,,
+Dialogue: 0,2:25:26.06,2:25:26.84,Default,Megumi,0,0,0,,
+Dialogue: 0,2:25:27.40,2:25:31.56,Default,Megumi,0,0,0,,
+Dialogue: 0,2:25:31.80,2:25:34.36,Default,Megumi,0,0,0,,
+Dialogue: 0,2:25:34.60,2:25:36.36,Default,Megumi,0,0,0,,
+Dialogue: 0,2:25:36.76,2:25:39.16,Default,Megumi,0,0,0,,
+Dialogue: 0,2:25:39.16,2:25:40.88,Default,Megumi,0,0,0,,
+Dialogue: 0,2:25:41.12,2:25:42.88,Default,Megumi,0,0,0,,
+Dialogue: 0,2:25:42.88,2:25:46.16,Default,Megumi,0,0,0,,
+Dialogue: 0,2:25:46.64,2:25:49.32,Default,Megumi,0,0,0,,
+Dialogue: 0,2:25:54.20,2:25:54.88,Default,Soyoka,0,0,0,,
+Dialogue: 0,2:25:55.20,2:25:59.72,Default,,0,0,0,,
+Dialogue: 0,2:26:00.04,2:26:03.80,Default,,0,0,0,,
+Dialogue: 0,2:26:00.82,2:26:01.70,Default,Saki.O,0,0,0,,
+Dialogue: 0,2:26:03.80,2:26:05.35,Default,,0,0,0,,
+Dialogue: 0,2:26:05.47,2:26:07.35,Default,,0,0,0,,
+Dialogue: 0,2:26:07.35,2:26:08.22,Default,Saki.S,0,0,0,,
+Dialogue: 0,2:26:10.24,2:26:14.92,Default,,0,0,0,,
+Dialogue: 0,2:26:15.44,2:26:17.08,Default,,0,0,0,,
+Dialogue: 0,2:26:18.36,2:26:20.36,Default,,0,0,0,,
+Dialogue: 0,2:26:21.20,2:26:23.80,Default,,0,0,0,,
+Dialogue: 0,2:26:24.96,2:26:25.96,Default,,0,0,0,,
+Dialogue: 0,2:26:26.19,2:26:26.96,Default,,0,0,0,,
+Dialogue: 0,2:26:26.96,2:26:28.08,Default,,0,0,0,,
+Dialogue: 0,2:26:28.08,2:26:30.08,Default,,0,0,0,,
