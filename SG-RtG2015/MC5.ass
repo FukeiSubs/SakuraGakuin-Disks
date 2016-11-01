@@ -11,9 +11,9 @@ PlayResY: 480
 
 [Aegisub Project Garbage]
 Video Zoom Percent: 0.625000
-Scroll Position: 10
-Active Line: 21
-Video Position: 262457
+Scroll Position: 17
+Active Line: 38
+Video Position: 264743
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,17 +36,28 @@ Dialogue: 0,2:25:41.12,2:25:42.88,Default,Megumi,0,0,0,,
 Dialogue: 0,2:25:42.88,2:25:46.16,Default,Megumi,0,0,0,,
 Dialogue: 0,2:25:46.64,2:25:49.32,Default,Megumi,0,0,0,,
 Dialogue: 0,2:25:54.20,2:25:54.88,Default,Soyoka,0,0,0,,
-Dialogue: 0,2:25:55.20,2:25:59.72,Default,,0,0,0,,
-Dialogue: 0,2:26:00.04,2:26:03.80,Default,,0,0,0,,
+Dialogue: 0,2:25:55.20,2:25:59.72,Default,Soyoka,0,0,0,,
+Dialogue: 0,2:26:00.04,2:26:03.80,Default,Soyoka,0,0,0,,
 Dialogue: 0,2:26:00.82,2:26:01.70,Default,Saki.O,0,0,0,,
-Dialogue: 0,2:26:03.80,2:26:05.35,Default,,0,0,0,,
-Dialogue: 0,2:26:05.47,2:26:07.35,Default,,0,0,0,,
+Dialogue: 0,2:26:03.80,2:26:05.35,Default,Soyoka,0,0,0,,
+Dialogue: 0,2:26:05.47,2:26:07.35,Default,Soyoka,0,0,0,,
 Dialogue: 0,2:26:07.35,2:26:08.22,Default,Saki.S,0,0,0,,
-Dialogue: 0,2:26:10.24,2:26:14.92,Default,,0,0,0,,
-Dialogue: 0,2:26:15.44,2:26:17.08,Default,,0,0,0,,
-Dialogue: 0,2:26:18.36,2:26:20.36,Default,,0,0,0,,
-Dialogue: 0,2:26:21.20,2:26:23.80,Default,,0,0,0,,
-Dialogue: 0,2:26:24.96,2:26:25.96,Default,,0,0,0,,
-Dialogue: 0,2:26:26.19,2:26:26.96,Default,,0,0,0,,
-Dialogue: 0,2:26:26.96,2:26:28.08,Default,,0,0,0,,
-Dialogue: 0,2:26:28.08,2:26:30.08,Default,,0,0,0,,
+Dialogue: 0,2:26:07.32,2:26:09.87,Default,Soyoka,0,0,0,,
+Dialogue: 0,2:26:10.24,2:26:14.92,Default,Soyoka,0,0,0,,
+Dialogue: 0,2:26:10.27,2:26:11.65,Default,???,0,0,0,,
+Dialogue: 0,2:26:15.44,2:26:17.08,Default,Soyoka,0,0,0,,
+Dialogue: 0,2:26:18.47,2:26:20.02,Default,Soyoka,0,0,0,,
+Dialogue: 0,2:26:21.20,2:26:23.60,Default,Soyoka,0,0,0,,
+Dialogue: 0,2:26:24.96,2:26:25.96,Default,Saki.O,0,0,0,,
+Dialogue: 0,2:26:26.19,2:26:26.96,Default,Saki.S,0,0,0,,
+Dialogue: 0,2:26:26.96,2:26:28.08,Default,Rinon,0,0,0,,
+Dialogue: 0,2:26:28.36,2:26:31.10,Default,Maaya,0,0,0,,
+Dialogue: 0,2:26:32.52,2:26:34.54,Default,Maaya,0,0,0,,
+Dialogue: 0,2:26:35.72,2:26:40.48,Default,Maaya,0,0,0,,
+Dialogue: 0,2:26:40.82,2:26:43.90,Default,Maaya,0,0,0,,
+Dialogue: 0,2:26:44.08,2:26:51.94,Default,Maaya,0,0,0,,
+Dialogue: 0,2:26:52.14,2:26:54.94,Default,Maaya,0,0,0,,
+Dialogue: 0,2:26:56.80,2:26:57.74,Default,???,0,0,0,,
+Dialogue: 0,2:27:05.08,2:27:09.26,Default,Maaya,0,0,0,,
+Dialogue: 0,2:27:16.30,2:27:16.88,Default,Marin,0,0,0,,
+Dialogue: 0,2:27:16.88,2:27:18.88,Default,,0,0,0,,

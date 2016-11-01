@@ -14,8 +14,8 @@ Audio File: D:/My Files/BM  +  SG/SAKURA GAKUIN/Live/DVD Shows/Sakura Gakuin The
 Video File: D:/My Files/BM  +  SG/SAKURA GAKUIN/Live/DVD Shows/Sakura Gakuin The Road to Graduation Final 2015.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
-Active Line: 6
-Video Position: 252330
+Active Line: 5
+Video Position: 253145
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,10 +23,9 @@ Style: Default,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,2:20:21.72,2:20:23.12,Default,,0,0,0,,
-Dialogue: 0,2:20:23.12,2:20:24.80,Default,,0,0,0,,
-Dialogue: 0,2:20:27.84,2:20:31.48,Default,,0,0,0,,
-Dialogue: 0,2:20:32.16,2:20:40.96,Default,,0,0,0,,
-Dialogue: 0,2:20:41.64,2:20:45.36,Default,,0,0,0,,
-Dialogue: 0,2:20:45.64,2:20:49.36,Default,,0,0,0,,
-Dialogue: 0,2:20:49.36,2:20:51.36,Default,,0,0,0,,
+Dialogue: 0,2:20:21.72,2:20:23.12,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,2:20:23.12,2:20:24.80,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,2:20:28.10,2:20:31.48,Default,,0,0,0,,The next song will really be our last song tonight.
+Dialogue: 0,2:20:32.16,2:20:40.96,Default,,0,0,0,,Our last song is the song I have sung the most during my five years in Sakura Gakuin.
+Dialogue: 0,2:20:41.64,2:20:45.36,Default,,0,0,0,,Even as we graduate, we will smile our best to reach our dreams.
+Dialogue: 0,2:20:45.64,2:20:49.36,Default,,0,0,0,,So then, please listen to Yume ni Mukatte.
