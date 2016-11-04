@@ -9,7 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Active Line: 4
+Active Line: 26
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,8 +43,7 @@ Dialogue: 0,1:03:53.23,1:03:56.79,English,,0,0,0,,Whenever an anxious-to-please 
 Dialogue: 0,1:03:56.86,1:04:01.34,English,,0,0,0,,comes closer, I think
 Dialogue: 0,1:04:01.39,1:04:03.38,English,,0,0,0,,I’m not a child!
 Dialogue: 0,1:04:03.43,1:04:07.74,English,,0,0,0,,Cut it out! Take care in how you handle me
-Dialogue: 0,1:04:07.76,1:04:11.32,English,,0,0,0,,When do full-fledged, proper ladies
-Dialogue: 0,1:04:11.35,1:04:14.80,English,,0,0,0,,cry?
+Dialogue: 0,1:04:07.76,1:04:14.80,English,,0,0,0,,When do full-fledged, proper ladies cry?
 Dialogue: 0,1:04:15.22,1:04:22.26,English,,0,0,0,,I’ll sing about my dreams by the lakeside
 Dialogue: 0,1:04:22.44,1:04:28.71,English,,0,0,0,,I don’t particularly want you to make me laugh
 Dialogue: 0,1:04:29.11,1:04:35.43,English,,0,0,0,,I’d rather you please watch gently over me
