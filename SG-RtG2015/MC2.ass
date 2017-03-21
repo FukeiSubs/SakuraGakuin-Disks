@@ -14,6 +14,8 @@ Audio File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Gr
 Video File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
+Scroll Position: 114
+Active Line: 143
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -153,9 +155,9 @@ Dialogue: 0,0:55:25.20,0:55:27.05,Default,,0,0,0,,I wanted to eat it, but I gave
 Dialogue: 0,0:55:27.05,0:55:28.22,Default,,0,0,0,,You got a lot! Quite a bit!
 Dialogue: 0,0:55:28.30,0:55:30.60,Default,,0,0,0,,But wasn't Aiko on ice cream restriction?
 Dialogue: 0,0:55:30.60,0:55:32.92,Default,,0,0,0,,Yes, when we did the live show in February
-Dialogue: 0,0:55:32.92,0:55:35.77,Default,,0,0,0,,she said, Ice Dazs ice...
+Dialogue: 0,0:55:32.92,0:55:35.77,Default,,0,0,0,,she said, she'll be on Ice cream-ban
 Dialogue: 0,0:55:35.77,0:55:38.16,Default,,0,0,0,,but asking the staff room teachers, it seems
-Dialogue: 0,0:55:38.16,0:55:41.05,Default,,0,0,0,,that she had stopped eating Dazs ice cream in February too.
+Dialogue: 0,0:55:38.16,0:55:41.05,Default,,0,0,0,,that she had broken the Ice cream-ban in February.
 Dialogue: 0,0:55:41.05,0:55:42.32,Default,,0,0,0,,Soyo saw it!
 Dialogue: 0,0:55:42.32,0:55:44.62,Default,,0,0,0,,Aiko chan! Soyo says she saw it too!
 Dialogue: 0,0:55:44.62,0:55:47.37,Default,,0,0,0,,Before that, she ate ice cream together with Megu.
@@ -164,7 +166,7 @@ Dialogue: 0,0:55:49.87,0:55:53.18,Default,,0,0,0,,Yes we saw it!
 Dialogue: 0,0:55:53.18,0:55:58.25,Default,,0,0,0,,You know... if you all talk together, they can't hear what you say!
 Dialogue: 0,0:55:58.25,0:55:59.88,Default,,0,0,0,,Really, I can't understand.
 Dialogue: 0,0:55:59.88,0:56:01.26,Default,,0,0,0,,We wanted to talk a bit too much.
-Dialogue: 0,0:56:01.26,0:56:05.36,Default,,0,0,0,,OK. To summarize, Aiko gave up eating Dazs ice cream.
+Dialogue: 0,0:56:01.26,0:56:05.36,Default,,0,0,0,,OK. To summarize, Aiko gave up her Ice cream-ban.
 Dialogue: 0,0:56:05.36,0:56:07.04,Default,,0,0,0,,That's right.
 Dialogue: 0,0:56:07.52,0:56:08.76,Default,,0,0,0,,I'm sorry.
 Dialogue: 0,0:56:10.99,0:56:15.39,Default,,0,0,0,,Well, we also have lots of memories about such trivial things.

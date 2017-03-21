@@ -15,8 +15,7 @@ Video File: ../../../Sakura Gakuin The Road to Graduation Final 2015.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
 Video Zoom Percent: 0.500000
-Scroll Position: 90
-Active Line: 97
+Active Line: 13
 Video Position: 270429
 
 [V4+ Styles]
@@ -31,10 +30,10 @@ Dialogue: 0,2:25:15.40,2:25:17.40,Default,Sara,0,0,0,,Lastly... ah-
 Dialogue: 0,2:25:18.04,2:25:20.20,Default,Sara,0,0,0,,We reached the end, so...
 Dialogue: 0,2:25:20.20,2:25:25.16,Default,Sara,0,0,0,,The remaining members will share their thoughts with the graduating members
 Dialogue: 0,2:25:26.06,2:25:26.84,Default,Megumi,0,0,0,,Okay
-Dialogue: 0,2:25:27.40,2:25:31.56,Default,Megumi,0,0,0,,You three watched over Sakura Gakuin this year
+Dialogue: 0,2:25:27.40,2:25:31.56,Default,Megumi,0,0,0,,You three have nicely overseen Sakura Gakuin this year
 Dialogue: 0,2:25:31.80,2:25:34.36,Default,Megumi,0,0,0,,No matter how the members will change
-Dialogue: 0,2:25:34.60,2:25:36.36,Default,Megumi,0,0,0,,Our bonds will inevitably change
-Dialogue: 0,2:25:36.76,2:25:39.16,Default,Megumi,0,0,0,,The spirit of Sakura Gakuin will inevitably change
+Dialogue: 0,2:25:34.60,2:25:36.36,Default,Megumi,0,0,0,,Our bonds will never change
+Dialogue: 0,2:25:36.76,2:25:39.16,Default,Megumi,0,0,0,,The spirit of Sakura Gakuin will never change
 Dialogue: 0,2:25:39.16,2:25:40.88,Default,Megumi,0,0,0,,I understand that
 Dialogue: 0,2:25:41.12,2:25:42.88,Default,Megumi,0,0,0,,Everyone understands that
 Dialogue: 0,2:25:42.88,2:25:46.16,Default,Megumi,0,0,0,,So please keep on watching over us
@@ -42,13 +41,13 @@ Dialogue: 0,2:25:46.64,2:25:49.32,Default,Megumi,0,0,0,,Thank you so much for to
 Dialogue: 0,2:25:54.20,2:25:54.88,Default,Soyoka,0,0,0,,Okay
 Dialogue: 0,2:25:55.20,2:25:59.72,Default,Soyoka,0,0,0,,Rinon-chan, Saki-chan, C-chan. Congratulations on graduating.
 Dialogue: 0,2:26:00.04,2:26:03.80,Default,Soyoka,0,0,0,,Erm... Soyo... Isn't really good at sit-ups
-Dialogue: 0,2:26:00.82,2:26:01.70,Default,Saki.O,0,0,0,,So cheerful [?]
+Dialogue: 0,2:26:00.82,2:26:01.70,Default,Saki.O,0,0,0,,Isn't she too cheerful?
 Dialogue: 0,2:26:03.80,2:26:05.35,Default,Soyoka,0,0,0,,While dancing... Erm...
-Dialogue: 0,2:26:05.47,2:26:07.35,Default,Soyoka,0,0,0,,I wasn't really that confident
-Dialogue: 0,2:26:07.35,2:26:08.22,Default,Saki.S,0,0,0,,
+Dialogue: 0,2:26:05.47,2:26:07.25,Default,Soyoka,0,0,0,,I might be a hindrance in dancing
 Dialogue: 0,2:26:07.32,2:26:09.87,Default,Soyoka,0,0,0,,Becomi- Ah, did I say something wrong?
+Dialogue: 0,2:26:07.35,2:26:08.22,Default,Saki.S,0,0,0,,She spoke the word 'Hindrance'??
 Dialogue: 0,2:26:10.24,2:26:14.92,Default,Soyoka,0,0,0,,Well, I'll work even harder after becoming a 6th grader
-Dialogue: 0,2:26:10.27,2:26:11.65,Default,???,0,0,0,,
+Dialogue: 0,2:26:10.27,2:26:11.65,Default,Megumi,0,0,0,,You spoke right
 Dialogue: 0,2:26:15.44,2:26:17.08,Default,Soyoka,0,0,0,,So keep supporting us, ok?
 Dialogue: 0,2:26:18.47,2:26:20.02,Default,Soyoka,0,0,0,,Let's hang out again
 Dialogue: 0,2:26:21.20,2:26:23.60,Default,Soyoka,0,0,0,,Thank you so much for today!
@@ -61,7 +60,7 @@ Dialogue: 0,2:26:35.72,2:26:40.48,Default,Maaya,0,0,0,,Rinon-chan, Saki-chan, C-
 Dialogue: 0,2:26:40.82,2:26:43.90,Default,Maaya,0,0,0,,Thank you so much
 Dialogue: 0,2:26:44.08,2:26:51.94,Default,Maaya,0,0,0,,While dancing, or singing... And when I had troubles... Thank you for hugging me
 Dialogue: 0,2:26:52.14,2:26:54.94,Default,Maaya,0,0,0,,I want you to keep hugging me even after today
-Dialogue: 0,2:26:56.80,2:26:57.74,Default,???,0,0,0,,Cut it out!
+Dialogue: 0,2:26:56.80,2:26:57.74,Default,???,0,0,0,,So cute!
 Dialogue: 0,2:27:05.08,2:27:09.26,Default,Maaya,0,0,0,,Truly, thank you for everything!
 Dialogue: 0,2:27:16.30,2:27:16.88,Default,Marin,0,0,0,,Okay
 Dialogue: 0,2:27:17.16,2:27:19.24,Default,Marin,0,0,0,,Up until today, during this one year
@@ -76,7 +75,7 @@ Dialogue: 0,2:27:35.40,2:27:37.64,Default,Marin,0,0,0,,Thank you so much!
 Dialogue: 0,2:27:45.94,2:27:50.34,Default,Sara,0,0,0,,I think the fact that this Sara is standing here is thanks to you three
 Dialogue: 0,2:27:50.66,2:27:52.66,Default,Sara,0,0,0,,I can't thank you enough
 Dialogue: 0,2:27:54.36,2:27:55.12,Default,Sara,0,0,0,,Well...
-Dialogue: 0,2:27:56.16,2:28:00.82,Default,Sara,0,0,0,,When I thought I wasn't ready to be a senior [?]
+Dialogue: 0,2:27:56.16,2:28:00.82,Default,Sara,0,0,0,,When I thought I wasn't ready to be a senior
 Dialogue: 0,2:28:01.14,2:28:05.12,Default,Sara,0,0,0,,You told me "You can't change if you don't try changing by yourself"
 Dialogue: 0,2:28:05.38,2:28:06.10,Default,Sara,0,0,0,,Really...
 Dialogue: 0,2:28:06.84,2:28:07.72,Default,Sara,0,0,0,,In my heart...
@@ -122,15 +121,15 @@ Dialogue: 0,2:30:14.18,2:30:15.68,Default,Kano,0,0,0,,Next, C- Rinon-chan
 Dialogue: 0,2:30:16.82,2:30:18.00,Default,???,0,0,0,,Rinon-chan, Rinon-chan
 Dialogue: 0,2:30:18.70,2:30:23.24,Default,Kano,0,0,0,,When we first met, she was so tall
 Dialogue: 0,2:30:23.50,2:30:25.95,Default,Kano,0,0,0,,More than just her height
-Dialogue: 0,2:30:26.11,2:30:28.20,Default,Kano,0,0,0,,Her heart was big too, I was really surpriseda
+Dialogue: 0,2:30:26.11,2:30:28.20,Default,Kano,0,0,0,,Her heart was big too, I was really surprised
 Dialogue: 0,2:30:33.12,2:30:34.90,Default,Kano,0,0,0,,At my first show
 Dialogue: 0,2:30:35.02,2:30:37.80,Default,Kano,0,0,0,,I lifted up Rinon-chan
 Dialogue: 0,2:30:38.40,2:30:40.85,Default,Kano,0,0,0,,And I want to hug her at our last show together too
+Dialogue: 0,2:30:41.01,2:30:43.72,Default,All,0,0,0,,Woah!
 Dialogue: 0,2:30:41.49,2:30:41.84,Default,Kano,0,0,0,,
 Dialogue: 0,2:30:42.18,2:30:42.88,Default,Kano,0,0,0,,May I?
-Dialogue: 0,2:30:41.01,2:30:43.72,Default,All,0,0,0,,Woah!
 Dialogue: 0,2:30:45.76,2:30:46.26,Default,???,0,0,0,,
-Dialogue: 0,2:30:47.39,2:30:47.82,Default,???,0,0,0,,As expected
+Dialogue: 0,2:30:47.39,2:30:47.82,Default,???,0,0,0,,Great!
 Dialogue: 0,2:30:47.82,2:30:50.90,Default,All,0,0,0,,Woah!
 Dialogue: 0,2:30:54.41,2:30:54.93,Default,???,0,0,0,,Amazing
 Dialogue: 0,2:30:56.28,2:30:58.26,Default,Kano,0,0,0,,Please keep supporting us
@@ -144,10 +143,10 @@ Dialogue: 0,2:31:19.69,2:31:21.87,Default,Kano,0,0,0,,Please keep being my big s
 Dialogue: 0,2:31:22.43,2:31:23.60,Default,Kano,0,0,0,,Thank you very much!
 Dialogue: 0,2:31:30.84,2:31:32.24,Default,Mirena,0,0,0,,Well, first of all
 Dialogue: 0,2:31:32.49,2:31:35.71,Default,Mirena,0,0,0,,Rinon-chan, Saki-chan, C-chan, congratulations on graduating.
-Dialogue: 0,2:31:36.33,2:31:37.09,Default,Mirena,0,0,0,,
-Dialogue: 0,2:31:37.23,2:31:39.06,Default,Mirena,0,0,0,,[?] I'm doing my best here
+Dialogue: 0,2:31:36.33,2:31:37.09,Default,Mirena,0,0,0,,I'm here. It's my turn.
+Dialogue: 0,2:31:37.23,2:31:39.06,Default,Mirena,0,0,0,,I'm doing my best here
 Dialogue: 0,2:31:39.12,2:31:40.97,Default,Rinon,0,0,0,,Well I just thought your pro-ness is still strong
-Dialogue: 0,2:31:41.19,2:31:42.20,Default,???,0,0,0,,But she laughed.
+Dialogue: 0,2:31:41.19,2:31:42.20,Default,???,0,0,0,,I couldn't help laughing
 Dialogue: 0,2:31:42.20,2:31:43.70,Default,???,0,0,0,,Momoko: Her pro-ness is still strong at the end\NC-chan: "First of all"
 Dialogue: 0,2:31:43.65,2:31:45.43,Default,Mirena,0,0,0,,Laughing?... hrmph...
 Dialogue: 0,2:31:46.40,2:31:46.79,Default,Mirena,0,0,0,,Okay.
@@ -159,7 +158,7 @@ Dialogue: 0,2:32:01.16,2:32:01.78,Default,Mirena,0,0,0,,At that time
 Dialogue: 0,2:32:02.99,2:32:04.87,Default,Mirena,0,0,0,,Everyone... The seniors
 Dialogue: 0,2:32:05.35,2:32:06.74,Default,Mirena,0,0,0,,Encouraged me
 Dialogue: 0,2:32:07.73,2:32:08.86,Default,Mirena,0,0,0,,They supported me
-Dialogue: 0,2:32:09.05,2:32:10.21,Default,Mirena,0,0,0,,Always cheered me up [?]
+Dialogue: 0,2:32:09.05,2:32:10.21,Default,Mirena,0,0,0,,Always cheered me up
 Dialogue: 0,2:32:11.08,2:32:12.01,Default,Mirena,0,0,0,,If they didn't...
 Dialogue: 0,2:32:12.77,2:32:15.15,Default,Mirena,0,0,0,,The Mirena you see now wouldn't be here
 Dialogue: 0,2:32:16.62,2:32:17.21,Default,Mirena,0,0,0,,So from now on
@@ -193,14 +192,14 @@ Dialogue: 0,2:33:39.09,2:33:40.33,Default,Saki.S,0,0,0,,So please do your best!
 Dialogue: 0,2:33:40.60,2:33:41.57,Default,All,0,0,0,,Yes!
 Dialogue: 0,2:33:42.78,2:33:49.77,Default,Saki.S,0,0,0,,I'm truly grateful for the Fukei who kept supporting us this year
 Dialogue: 0,2:33:50.52,2:33:53.96,Default,Saki.S,0,0,0,,Lastly. I want to say one more thing
-Dialogue: 0,2:33:55.33,2:33:58.16,Default,Saki.S,0,0,0,,Sakura Gakuin is forever indestructible!
+Dialogue: 0,2:33:55.33,2:33:58.16,Default,Saki.S,0,0,0,,Sakura Gakuin will live on forever!
 Dialogue: 0,2:33:59.28,2:34:00.65,Default,Saki.S,0,0,0,,Thank you very much!
 Dialogue: 0,2:34:09.61,2:34:10.10,Default,Saki.O,0,0,0,,Okay!
 Dialogue: 0,2:34:10.64,2:34:14.28,Default,Saki.O,0,0,0,,In the 2015 nendo
 Dialogue: 0,2:34:14.64,2:34:20.50,Default,Saki.O,0,0,0,,I was really nervous greeting the transfer-ins
 Dialogue: 0,2:34:20.98,2:34:22.25,Default,Saki.O,0,0,0,,But...
 Dialogue: 0,2:34:23.00,2:34:30.66,Default,Saki.O,0,0,0,,Right now, I'm incredibly grateful I could experience the 2015 nendo of Sakura Gakuin
-Dialogue: 0,2:34:31.36,2:34:32.26,Default,Saki.O,0,0,0,,But in the end...
+Dialogue: 0,2:34:31.36,2:34:32.26,Default,Saki.O,0,0,0,,That's because...
 Dialogue: 0,2:34:33.20,2:34:38.48,Default,Saki.O,0,0,0,,When something happened to us seniors, you were always full of smiles
 Dialogue: 0,2:34:39.04,2:34:39.80,Default,Saki.O,0,0,0,,So...
 Dialogue: 0,2:34:40.52,2:34:41.38,Default,Saki.O,0,0,0,,Even if
@@ -239,7 +238,7 @@ Dialogue: 0,2:36:28.80,2:36:30.09,Default,Saki.O,0,0,0,,GOOD!
 Dialogue: 0,2:36:30.20,2:36:32.83,Default,All,0,0,0,,OOGANING!
 Dialogue: 0,2:36:32.14,2:36:34.03,Default,Saki.O,0,0,0,,Thank you very much!
 Dialogue: 0,2:36:34.41,2:36:36.03,Default,???,0,0,0,,Amazing!
-Dialogue: 0,2:36:36.03,2:36:36.67,Default,???,0,0,0,,
+Dialogue: 0,2:36:36.03,2:36:36.67,Default,???,0,0,0,,So many Ooganing circles
 Dialogue: 0,2:36:37.36,2:36:39.58,Default,Saki.S,0,0,0,,They're really in sync aren't they?
 Dialogue: 0,2:36:40.22,2:36:41.20,Default,Saki.S,0,0,0,,Amazing
 Dialogue: 0,2:36:41.95,2:36:42.96,Default,Saki.O,0,0,0,,Thank you so much!
@@ -278,3 +277,5 @@ Dialogue: 0,2:38:57.00,2:38:59.04,Default,All,0,0,0,,Thank you very much!
 Dialogue: 0,2:39:05.22,2:39:07.88,Default,Rinon,0,0,0,,We were Sakura Gakuin
 Dialogue: 0,2:39:07.88,2:39:09.53,Default,All,0,0,0,,Bye bye!
 Dialogue: 0,2:39:32.21,2:39:34.21,Default,Graduates,0,0,0,,Thank you very much!
+Dialogue: 0,2:43:24.50,2:43:27.82,Default,,0,0,0,,{\pos(404,572)}Let's Go{\b0}
+Dialogue: 0,2:43:27.82,2:43:30.91,Default,,0,0,0,,English Subtitle by FukeiSubs

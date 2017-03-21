@@ -10,8 +10,8 @@ PlayResX: 720
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Scroll Position: 51
-Active Line: 79
+Scroll Position: 45
+Active Line: 68
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,10 +28,10 @@ Dialogue: 0,1:20:28.19,1:20:29.68,Default,,0,0,0,,Yes! Yes!
 Dialogue: 0,1:20:29.87,1:20:30.52,Default,,0,0,0,,Megu!
 Dialogue: 0,1:20:30.75,1:20:31.58,Default,,0,0,0,,Hooray!
 Dialogue: 0,1:20:32.86,1:20:34.84,Default,,0,0,0,,Yes. Well Megu...
-Dialogue: 0,1:20:35.26,1:20:38.06,Default,,0,0,0,,Well, the 3rd year members...\NTheir expression while singing...
-Dialogue: 0,1:20:38.06,1:20:41.90,Default,,0,0,0,,How was it again? "A cherry blossom which heads for the future at the front line"
+Dialogue: 0,1:20:35.26,1:20:37.51,Default,,0,0,0,,Well, the 3rd year members...
+Dialogue: 0,1:20:37.64,1:20:41.90,Default,,0,0,0,,How was it again? "A cherry blossom which heads for the future at the front line"
 Dialogue: 0,1:20:41.90,1:20:43.90,Default,,0,0,0,,Watching that part from the back
-Dialogue: 0,1:20:43.90,1:20:47.96,Default,,0,0,0,,There... you can see them right? Watching their expression there
+Dialogue: 0,1:20:43.90,1:20:47.96,Default,,0,0,0,,There... you can see them on that screen right? Watching their expression from the back
 Dialogue: 0,1:20:47.96,1:20:48.52,Default,,0,0,0,,Yeah.
 Dialogue: 0,1:20:48.52,1:20:53.76,Default,,0,0,0,,Their expressions during that part looked really dignified...
 Dialogue: 0,1:20:53.76,1:20:57.53,Default,,0,0,0,,With this kind of "let's go towards the future" kind of feeling, it was very cool.
@@ -87,7 +87,7 @@ Dialogue: 0,1:22:55.96,1:22:58.27,Default,,0,0,0,,This was better than in the re
 Dialogue: 0,1:22:59.72,1:23:00.56,Default,,0,0,0,,Exactly.
 Dialogue: 0,1:23:00.96,1:23:07.04,Default,,0,0,0,,It was good that she kept asking you to sing that many times.
 Dialogue: 0,1:23:07.04,1:23:09.50,Default,,0,0,0,,Today she got a perfect score.
-Dialogue: 0,1:23:10.76,1:23:11.98,Default,,0,0,0,,It must be because I have blood type A...
+Dialogue: 0,1:23:10.76,1:23:11.98,Default,,0,0,0,,I'm sorry if it sounded 'from above'
 Dialogue: 0,1:23:11.98,1:23:12.73,Default,,0,0,0,,Thank you!
 Dialogue: 0,1:23:12.73,1:23:15.80,Default,,0,0,0,,That was nice. That's good.
 Dialogue: 0,1:23:15.80,1:23:18.64,Default,,0,0,0,,So, Soyo gave this Michi Shirube a perfect score

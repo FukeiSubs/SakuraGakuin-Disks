@@ -16,8 +16,7 @@ Audio File: ../../RtG2015.mp4
 Video File: ../../RtG2015.mp4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 139
-Active Line: 145
+Active Line: 2
 Video Position: 205195
 
 [V4+ Styles]
@@ -30,6 +29,10 @@ Style: Placeholder,Ubuntu,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,1:46:13.66,1:46:15.32,Default,,0,0,0,,Well, then,
+Dialogue: 0,1:46:15.37,1:46:17.80,Default,,0,0,0,,Farewell Address from the remaining students
+Dialogue: 0,1:46:18.13,1:46:21.55,Default,,0,0,0,,The transfer-in in 2014 nendo
+Dialogue: 0,1:46:21.69,1:46:24.54,Default,,0,0,0,,Middle 2nd year, Kurashima Sara
 Dialogue: 0,1:46:43.65,1:46:48.02,Default,,0,0,0,,Give me a moment....I'm sorry
 Dialogue: 0,1:46:49.36,1:46:51.49,Default,,0,0,0,,Farewell address
 Dialogue: 0,1:46:53.01,1:46:56.70,Default,,0,0,0,,Finally, the long and severe winter has ended
@@ -41,25 +44,25 @@ Dialogue: 0,1:47:09.88,1:47:13.68,Default,,0,0,0,,Sakura Gakuin 2015nendo starte
 Dialogue: 0,1:47:13.68,1:47:17.14,Default,,0,0,0,,I feel it like a dream
 Dialogue: 0,1:47:17.14,1:47:19.82,Default,,0,0,0,,that almost one year has already passed since then
 Dialogue: 0,1:47:20.60,1:47:23.06,Default,,0,0,0,,Looking back on this year,
-Dialogue: 0,1:47:23.06,1:47:26.14,Default,,0,0,0,,we've made so many memories 
+Dialogue: 0,1:47:23.06,1:47:26.14,Default,,0,0,0,,we've made so many memories
 Dialogue: 0,1:47:27.04,1:47:28.98,Default,,0,0,0,,On the day on May,
 Dialogue: 0,1:47:28.98,1:47:30.85,Default,,0,0,0,,when we had a photo-shooting,
 Dialogue: 0,1:47:30.85,1:47:32.85,Default,,0,0,0,,we met the transfer-ins for the first time
 Dialogue: 0,1:47:32.85,1:47:34.85,Default,,0,0,0,,as many as SIX girls
 Dialogue: 0,1:47:35.38,1:47:38.19,Default,,0,0,0,,All of them were so energetic
 Dialogue: 0,1:47:38.50,1:47:41.31,Default,,0,0,0,,I had had only one year career as a Sakura girl,
-Dialogue: 0,1:47:41.31,1:47:42.86,Default,,0,0,0,,but honestly, 
+Dialogue: 0,1:47:41.31,1:47:42.86,Default,,0,0,0,,but honestly,
 Dialogue: 0,1:47:42.86,1:47:48.73,Default,,0,0,0,,I suspected that it's difficult to keep the good tradition of Sakura Gakuin
 Dialogue: 0,1:47:48.73,1:47:50.80,Default,,0,0,0,,I found three of you seniors
 Dialogue: 0,1:47:50.80,1:47:53.13,Default,,0,0,0,,were also with an anxious look on your face
 Dialogue: 0,1:47:53.72,1:47:57.00,Default,,0,0,0,,But before long,
 Dialogue: 0,1:47:57.00,1:48:00.48,Default,,0,0,0,,you showed us your hopeful attitude
 Dialogue: 0,1:48:00.48,1:48:03.24,Default,,0,0,0,, toward making new Sakura Gakuin
-Dialogue: 0,1:48:03.24,1:48:06.85,Default,,0,0,0,,rather than the anxiety 
-Dialogue: 0,1:48:08.18,1:48:10.57,Default,,0,0,0,,Three of you have been kind and generous 
+Dialogue: 0,1:48:03.24,1:48:06.85,Default,,0,0,0,,rather than the anxiety
+Dialogue: 0,1:48:08.18,1:48:10.57,Default,,0,0,0,,Three of you have been kind and generous
 Dialogue: 0,1:48:10.57,1:48:14.92,Default,,0,0,0,,but once in a while, you taught us strictly
 Dialogue: 0,1:48:14.92,1:48:18.68,Default,,0,0,0,,how to make the very best performance with 12 of us
-Dialogue: 0,1:48:18.68,1:48:21.34,Default,,0,0,0,,or how each member can make an improvement 
+Dialogue: 0,1:48:18.68,1:48:21.34,Default,,0,0,0,,or how each member can make an improvement
 Dialogue: 0,1:48:22.38,1:48:25.39,Default,,0,0,0,,Your harsh words made us realize
 Dialogue: 0,1:48:25.39,1:48:29.54,Default,,0,0,0,,that we had been neglecting the effort to improve ourselves
 Dialogue: 0,1:48:29.54,1:48:32.80,Default,,0,0,0,,or that we had been just satisfied with what we used to be
@@ -69,7 +72,7 @@ Dialogue: 0,1:48:40.01,1:48:43.73,Default,,0,0,0,,She is 15, but she is said to 
 Dialogue: 0,1:48:43.73,1:48:45.68,Default,,0,0,0,,as this, she is matured in her appearance and mind
 Dialogue: 0,1:48:45.73,1:48:47.50,Default,,0,0,0,,and she is kinda smart
 Dialogue: 0,1:48:47.56,1:48:50.26,Default,,0,0,0,,So she is likely to be seen as a down-to-earth girl
-Dialogue: 0,1:48:50.26,1:48:52.70,Default,,0,0,0,,But actually, she sometimes is clumsy and goofy 
+Dialogue: 0,1:48:50.26,1:48:52.70,Default,,0,0,0,,But actually, she sometimes is clumsy and goofy
 Dialogue: 0,1:48:52.92,1:48:55.78,Default,,0,0,0,,For example, she sometimes stumbles over nothing and falls down
 Dialogue: 0,1:48:55.78,1:48:58.36,Default,,0,0,0,,or, she once dropped and lost her bank-card
 Dialogue: 0,1:48:58.89,1:49:02.50,Default,,0,0,0,,When she runs, she leans forward and looks funny
@@ -90,7 +93,7 @@ Dialogue: 0,1:49:42.94,1:49:46.40,Default,,0,0,0,,Every one of us loves such car
 Dialogue: 0,1:49:47.28,1:49:48.75,Default,,0,0,0,,C-chan,
 Dialogue: 0,1:49:48.75,1:49:51.71,Default,,0,0,0,,you gave us wonderful advice from the perspective of  a customer
 Dialogue: 0,1:49:51.71,1:49:53.71,Default,,0,0,0,,which is hard to know for us
-Dialogue: 0,1:49:53.71,1:49:56.44,Default,,0,0,0,,We could realize several things thanks to your advice 
+Dialogue: 0,1:49:53.71,1:49:56.44,Default,,0,0,0,,We could realize several things thanks to your advice
 Dialogue: 0,1:49:56.64,1:49:59.98,Default,,0,0,0,,and that motivated us a lot to entertain Fukei-sans more
 Dialogue: 0,1:49:59.98,1:50:02.13,Default,,0,0,0,,Thank you
 Dialogue: 0,1:50:02.67,1:50:05.10,Default,,0,0,0,,Ooga Saki-chan, the Education Chairperson
@@ -99,8 +102,8 @@ Dialogue: 0,1:50:08.05,1:50:10.97,Default,,0,0,0,,And in our streaming program L
 Dialogue: 0,1:50:10.97,1:50:13.80,Default,,0,0,0,,she so often give strange and funny answers at quiz-segment
 Dialogue: 0,1:50:13.80,1:50:16.40,Default,,0,0,0,,She has strong feelings for singing
 Dialogue: 0,1:50:16.40,1:50:20.24,Default,,0,0,0,,and sometimes she sang so emotionally that the song sounded like an Enka-ballad
-Dialogue: 0,1:50:21.04,1:50:24.57,Default,,0,0,0,,At a break time in a lesson, 
-Dialogue: 0,1:50:24.57,1:50:27.84,Default,,0,0,0,,she sometimes started to play with elementary schoolers 
+Dialogue: 0,1:50:21.04,1:50:24.57,Default,,0,0,0,,At a break time in a lesson,
+Dialogue: 0,1:50:24.57,1:50:27.84,Default,,0,0,0,,she sometimes started to play with elementary schoolers
 Dialogue: 0,1:50:27.84,1:50:30.18,Default,,0,0,0,,and she looked just as if she herself had been an elementary schooler
 Dialogue: 0,1:50:30.82,1:50:33.47,Default,,0,0,0,,Saki-chan as the Education Chairperson
 Dialogue: 0,1:50:33.47,1:50:37.65,Default,,0,0,0,,always tried to face each member sincerely, truthfully
@@ -169,7 +172,7 @@ Dialogue: 0,1:53:37.28,1:53:40.33,Default,,0,0,0,,and to see you off with smiles
 Dialogue: 0,1:53:40.33,1:53:43.76,Default,,0,0,0,,together with Fukei-sans, Mori-sensei,
 Dialogue: 0,1:53:43.76,1:53:47.89,Default,,0,0,0,,Principal Kuramoto-sensei and staff teachers
 Dialogue: 0,1:53:47.89,1:53:50.44,Default,,0,0,0,,Until now, we cried a lot
-Dialogue: 0,1:53:50.44,1:53:52.98,Default,,0,0,0,,got scolded a lot, got angry a lot 
+Dialogue: 0,1:53:50.44,1:53:52.98,Default,,0,0,0,,got scolded a lot, got angry a lot
 Dialogue: 0,1:53:52.98,1:53:55.23,Default,,0,0,0,,Everything is my treasure
 Dialogue: 0,1:53:55.23,1:53:58.29,Default,,0,0,0,,Thank you very very much
 Dialogue: 0,1:53:58.29,1:54:01.71,Default,,0,0,0,,And, congratulation on your graduation

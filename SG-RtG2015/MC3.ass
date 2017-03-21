@@ -14,8 +14,7 @@ Audio File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Gr
 Video File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
-Scroll Position: 18
-Active Line: 43
+Active Line: 22
 Video Position: 124312
 
 [V4+ Styles]
@@ -40,12 +39,13 @@ Dialogue: 0,1:07:56.73,1:07:59.77,Default,,0,0,0,,I joined the group in 2011 nen
 Dialogue: 0,1:07:59.77,1:08:05.20,Default,,0,0,0,,For me they are senpai, even though we are of the same age.
 Dialogue: 0,1:08:05.48,1:08:07.34,Default,,0,0,0,,At first, really...
 Dialogue: 0,1:08:07.80,1:08:09.64,Default,,0,0,0,,We weren't that close
+Dialogue: 0,1:08:09.64,1:08:10.43,TALK,,0,0,0,,We weren't.
 Dialogue: 0,1:08:09.64,1:08:10.43,Default,,0,0,0,,Yes.
 Dialogue: 0,1:08:10.49,1:08:12.22,Default,,0,0,0,,It's not that we were on bad terms!
 Dialogue: 0,1:08:12.22,1:08:13.23,Default,,0,0,0,,Of course not.
 Dialogue: 0,1:08:13.39,1:08:15.23,Default,,0,0,0,,But honestly, we weren't close either.
 Dialogue: 0,1:08:15.23,1:08:17.02,Default,,0,0,0,,That's true...
-Dialogue: 0,1:08:17.08,1:08:21.53,Default,,0,0,0,,The fact that we didn't talk much might sound a bit exaggerated
+Dialogue: 0,1:08:17.08,1:08:21.53,Default,,0,0,0,,The fact that we didn't talk much might be the reason we're not so close
 Dialogue: 0,1:08:21.72,1:08:24.46,Default,,0,0,0,,But honestly speaking, before this nendo
 Dialogue: 0,1:08:24.83,1:08:25.48,Default,,0,0,0,,Absolutely...
 Dialogue: 0,1:08:25.66,1:08:27.15,Default,,0,0,0,,We didn't talk almost at all.
