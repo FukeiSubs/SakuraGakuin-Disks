@@ -22,7 +22,7 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,2:23:36.18,2:23:38.22,Default,,0,0,0,,I'm 2nd yr middle school student, Kurashima Sara
-Dialogue: 0,2:23:38.64,2:23:41.42,Default,,0,0,0,,Thanks to everything the senior members taught me this year,
-Dialogue: 0,2:23:41.42,2:23:42.94,Default,,0,0,0,,I'll give my best next year too!
+Dialogue: 0,2:23:36.18,2:23:38.22,Default,,0,0,0,,I'm 2nd year middle school student, Kurashima Sara
+Dialogue: 0,2:23:38.64,2:23:41.42,Default,,0,0,0,,Thanks to the senior members for everything they taught me this yearQ
+Dialogue: 0,2:23:41.42,2:23:42.94,Default,,0,0,0,,I'll smile my best next year too!
 Dialogue: 0,2:23:42.94,2:23:44.46,Default,,0,0,0,,Thank you very much!
