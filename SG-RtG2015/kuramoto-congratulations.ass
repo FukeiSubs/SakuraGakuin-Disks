@@ -10,6 +10,7 @@ PlayResX: 720
 PlayResY: 480
 
 [Aegisub Project Garbage]
+Active Line: 24
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,7 +41,7 @@ Dialogue: 0,1:43:43.22,1:43:47.61,Default,,0,0,0,,Continuing, the middle school 
 Dialogue: 0,1:43:49.09,1:43:51.71,Default,,0,0,0,,Middle 3rd Year, Isono Rinon.
 Dialogue: 0,1:43:51.86,1:43:52.45,Default,,0,0,0,,Yes!
 Dialogue: 0,1:44:02.74,1:44:06.21,Default,,0,0,0,,Graduation Certificate, Ms. Isono Rinon
-Dialogue: 0,1:44:07.06,1:44:11.66,Default,,0,0,0,,As of today, we certify that you have completed the acquisiton
+Dialogue: 0,1:44:07.06,1:44:11.66,Default,,0,0,0,,As of today, we certify that you have completed the acquisition
 Dialogue: 0,1:44:12.15,1:44:15.33,Default,,0,0,0,,of all skills required to complete all Sakura Gakuin activities.
 Dialogue: 0,1:44:16.29,1:44:24.96,Default,,0,0,0,,We certify that you have taken your first steps to becoming a Super Lady.
 Dialogue: 0,1:44:25.62,1:44:29.90,Default,,0,0,0,,Heisei 28, March. Sakura Gakuin Principal Kuramoto Mitsuru.
