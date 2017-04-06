@@ -19,7 +19,7 @@ Style: Default,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,1:40:34.08,1:40:37.79,Default,,0,0,0,,We will begin the graduation ceremony
-Dialogue: 0,1:40:38.04,1:40:41.06,Default,,0,0,0,,for the Sakura Gakuin class of 2015.
+Dialogue: 0,1:40:38.04,1:40:41.06,Default,,0,0,0,,for Sakura Gakuin class of 2015.
 Dialogue: 0,1:40:43.35,1:40:46.95,Default,,0,0,0,,And now, the current students.
 Dialogue: 0,1:41:06.88,1:41:11.02,Default,,0,0,0,,Continuing, the graduating students.
 Dialogue: 0,1:41:28.99,1:41:30.90,Default,,0,0,0,,Please bow.
