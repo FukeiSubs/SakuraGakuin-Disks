@@ -22,6 +22,6 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:34:25.98,1:34:29.00,Default,,0,0,0,,It went so quickly, the next will be our last song.
-Dialogue: 0,1:34:29.90,1:34:37.04,Default,,0,0,0,,Today, with these 12 members, we'd like to give the Fukei san our greatest feeling of gratitude.
-Dialogue: 0,1:34:37.76,1:34:41.44,Default,,0,0,0,,Then, please listen to 'Yakusoku no Mirai'
+Dialogue: 0,1:34:25.98,1:34:29.00,Default,,0,0,0,,Time went by so quickly. The next song will be our last song.
+Dialogue: 0,1:34:29.90,1:34:37.04,Default,,0,0,0,,Today, with these 12 members, we'd like to give the fukei-san our greatest feeling of gratitude.
+Dialogue: 0,1:34:37.76,1:34:41.44,Default,,0,0,0,,Please listen to 'Yakusoku no Mirai'
