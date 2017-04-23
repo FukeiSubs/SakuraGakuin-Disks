@@ -6,92 +6,87 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 720
-PlayResY: 480
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
-Audio File: C:/Users/de_th/Desktop/Sakura Gakuin The Road to Graduation Final 2015.mkv
-Video File: C:/Users/de_th/Desktop/Sakura Gakuin The Road to Graduation Final 2015.mkv
+Audio File: G:/Sakura Gakuin/DVD~Blu-ray/Sakura Gakuin - The Road to Graduation 2015/Sakura Gakuin - The Road to Graduation 2015.mkv
+Video File: G:/Sakura Gakuin/DVD~Blu-ray/Sakura Gakuin - The Road to Graduation 2015/Sakura Gakuin - The Road to Graduation 2015.mkv
 Video AR Mode: 4
-Video AR Value: 1.777083
-Active Line: 61
+Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Active Line: 2
+Video Position: 223795
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: Default,Arial Unicode MS,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,27,27,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,2:04:09.30,2:04:14.00,Default,,0,0,0,,And now, we will be addressed by Sakura Gakuin Principal Kuramoto Mitsuru
 Dialogue: 0,2:04:23.29,2:04:26.52,Default,,0,0,0,,Well, it has become Sakura season.
 Dialogue: 0,2:04:27.29,2:04:30.88,Default,,0,0,0,,When the Sakura bloom, it is time for Sakura Gakuin's graduation ceremony.
-Dialogue: 0,2:04:32.40,2:04:39.02,Default,,0,0,0,,The Sakura bloom was about 5 days early this year.
-Dialogue: 0,2:04:39.87,2:04:49.57,Default,,0,0,0,,But since the Sakura bloom, it feels like it is not getting warmer.
-Dialogue: 0,2:04:50.21,2:04:57.26,Default,,0,0,0,,The Sakura are not really blooming, with a few just starting to bloom.
+Dialogue: 0,2:04:32.40,2:04:39.02,Default,,0,0,0,,The Sakura bloomed about five days early this year.
+Dialogue: 0,2:04:39.87,2:04:49.57,Default,,0,0,0,,But even if the Sakura bloom started, it doesn't feel like it's getting warmer.
+Dialogue: 0,2:04:50.21,2:04:57.26,Default,,0,0,0,,The Sakura are not really blooming, with only a few just starting to bloom.
 Dialogue: 0,2:04:57.68,2:05:01.35,Default,,0,0,0,,Like those flowers, it feels like you are graduating too early
-Dialogue: 0,2:05:01.57,2:05:07.15,Default,,0,0,0,,everyone probably feels the same way.
+Dialogue: 0,2:05:01.57,2:05:07.15,Default,,0,0,0,,Everyone probably feels the same way.
 Dialogue: 0,2:05:07.74,2:05:10.06,Default,,0,0,0,,There's a lot to think about.
-Dialogue: 0,2:05:10.91,2:05:18.22,Default,,0,0,0,,The 3 graduating this year don't lose to their elders at all in being interesting.
+Dialogue: 0,2:05:10.91,2:05:18.22,Default,,0,0,0,,The three graduating this year don't lose to their seniors at all in being interesting.
 Dialogue: 0,2:05:19.38,2:05:22.68,Default,,0,0,0,,I mean, Shirai Saki was a Fukei!
 Dialogue: 0,2:05:24.98,2:05:26.73,Default,,0,0,0,,She is a fan of Sakura Gakuin.
-Dialogue: 0,2:05:27.21,2:05:28.73,Default,,0,0,0,,A Fukei became a member
-Dialogue: 0,2:05:28.90,2:05:30.92,Default,,0,0,0,,of Sakura Gakuin
+Dialogue: 0,2:05:27.21,2:05:30.92,Default,,0,0,0,,A Fukei became a member of Sakura Gakuin
 Dialogue: 0,2:05:32.31,2:05:36.92,Default,,0,0,0,,That was a miracle for her, I suppose.
 Dialogue: 0,2:05:37.70,2:05:40.21,Default,,0,0,0,,Her dream came true at her age!
-Dialogue: 0,2:05:41.29,2:05:46.12,Default,,0,0,0,,I worried how someone would be motivated after getting their dream.
-Dialogue: 0,2:05:46.35,2:05:50.38,Default,,0,0,0,,She had to overcome such a special condition.
+Dialogue: 0,2:05:41.29,2:05:46.12,Default,,0,0,0,,I worried how someone would be motivated after getting her dream.
+Dialogue: 0,2:05:46.35,2:05:50.38,Default,,0,0,0,,She had to overcome such a special situation.
 Dialogue: 0,2:05:51.33,2:05:54.51,Default,,0,0,0,,There was surely a type of pressure that only Shirai would understand.
-Dialogue: 0,2:05:55.09,2:05:57.55,Default,,0,0,0,,She overcame that
-Dialogue: 0,2:05:58.23,2:06:01.76,Default,,0,0,0,,and did really well as the Talk Chairperson. Thank you very much.
+Dialogue: 0,2:05:55.09,2:06:01.76,Default,,0,0,0,,She overcame that and did really well as the Talk Chairperson. Thank you very much.
 Dialogue: 0,2:06:03.81,2:06:08.31,Default,,0,0,0,,About the timing for when Ooga Saki transferred in...
 Dialogue: 0,2:06:09.61,2:06:13.14,Default,,0,0,0,,It was right after the 1st class graduated.
-Dialogue: 0,2:06:13.52,2:06:16.71,Default,,0,0,0,,Because 1st class had been the cardinal member of Sakura Gakuin,
+Dialogue: 0,2:06:13.52,2:06:16.71,Default,,0,0,0,,Because the 1st class had been the cardinal members of Sakura Gakuin,
 Dialogue: 0,2:06:16.91,2:06:21.88,Default,,0,0,0,,we worried about what would happen to Sakura Gakuin after they left.
-Dialogue: 0,2:06:22.13,2:06:25.72,Default,,0,0,0,,We were nervous and trying different things.
+Dialogue: 0,2:06:22.13,2:06:25.72,Default,,0,0,0,,We were nervous and tried different things.
 Dialogue: 0,2:06:26.98,2:06:32.05,Default,,0,0,0,,Surrounded in that environment, not even knowing left from right...
 Dialogue: 0,2:06:32.51,2:06:35.75,Default,,0,0,0,,I think you were tested in many different ways.
 Dialogue: 0,2:06:36.65,2:06:42.64,Default,,0,0,0,,I feel like you went along even though I didn't know which way to go.
 Dialogue: 0,2:06:43.73,2:06:45.77,Default,,0,0,0,,You have a lot of guts.
 Dialogue: 0,2:06:46.04,2:06:51.37,Default,,0,0,0,,Even though I think you worried about many things,
-Dialogue: 0,2:06:51.56,2:06:54.87,Default,,0,0,0,,I feel like you grit your teeth and overcame.
+Dialogue: 0,2:06:51.56,2:06:54.87,Default,,0,0,0,,I feel like you gritted your teeth and overcame.
 Dialogue: 0,2:06:56.31,2:06:56.94,Default,,0,0,0,,Thank you!
 Dialogue: 0,2:06:59.05,2:07:01.05,Default,,0,0,0,,And then Isono Rinon...
-Dialogue: 0,2:07:02.57,2:07:03.62,Default,,0,0,0,,You are the only one
-Dialogue: 0,2:07:04.51,2:07:05.81,Default,,0,0,0,,in all of Sakura Gakuin,
-Dialogue: 0,2:07:06.59,2:07:07.57,Default,,0,0,0,,the ONLY one,
-Dialogue: 0,2:07:08.33,2:07:13.45,Default,,0,0,0,,who has experienced everything from since Sakura Gakuin
-Dialogue: 0,2:07:13.58,2:07:15.30,Default,,0,0,0,,became a school until now. The only one.
-Dialogue: 0,2:07:17.66,2:07:20.82,Default,,0,0,0,,You were there even during my first nightmare class.
-Dialogue: 0,2:07:21.55,2:07:23.03,Default,,0,0,0,,You had a terrible experience, really.
-Dialogue: 0,2:07:23.53,2:07:26.85,Default,,0,0,0,,You were just sitting there spacing out. "Is she okay?!"
-Dialogue: 0,2:07:27.23,2:07:28.44,Default,,0,0,0,,I thought "Is she alive?!"
-Dialogue: 0,2:07:29.03,2:07:32.94,Default,,0,0,0,,I also thought "Is it a living thing"
+Dialogue: 0,2:07:02.57,2:07:07.74,Default,,0,0,0,,You are the only one in all of Sakura Gakuin, the ONLY one,
+Dialogue: 0,2:07:08.33,2:07:15.30,Default,,0,0,0,,who has experienced everything from since Sakura Gakuin became a school until now. The only one.
+Dialogue: 0,2:07:17.66,2:07:20.93,Default,,0,0,0,,You were there even during my first nightmare class.
+Dialogue: 0,2:07:21.55,2:07:23.20,Default,,0,0,0,,You had a terrible experience, really.
+Dialogue: 0,2:07:23.53,2:07:26.99,Default,,0,0,0,,You were just sitting there spacing out. "Is she okay?!"
+Dialogue: 0,2:07:27.23,2:07:28.51,Default,,0,0,0,,I thought, "Is she alive?!"
+Dialogue: 0,2:07:29.03,2:07:32.94,Default,,0,0,0,,I also thought, "Is she a living thing"
 Dialogue: 0,2:07:34.49,2:07:40.82,Default,,0,0,0,,Since then, you have experienced everything
 Dialogue: 0,2:07:41.64,2:07:46.85,Default,,0,0,0,,and I was worried about having you become the Student Council president.
 Dialogue: 0,2:07:47.30,2:07:49.98,Default,,0,0,0,,But we decided to let you do it
-Dialogue: 0,2:07:50.44,2:07:55.09,Default,,0,0,0,,and after just one year it is surprising how much you've grown.
+Dialogue: 0,2:07:50.44,2:07:55.09,Default,,0,0,0,,and after just one year, it is surprising how much you've grown.
 Dialogue: 0,2:07:56.06,2:07:57.72,Default,,0,0,0,,You really got yourself together!
 Dialogue: 0,2:07:58.53,2:08:00.25,Default,,0,0,0,,What was that speech just now?
 Dialogue: 0,2:08:01.69,2:08:04.40,Default,,0,0,0,,Without making many mistakes,
 Dialogue: 0,2:08:04.74,2:08:06.13,Default,,0,0,0,,Isn't that great?
-Dialogue: 0,2:08:06.97,2:08:08.48,Default,,0,0,0,,Such a long speech.
+Dialogue: 0,2:08:06.97,2:08:08.70,Default,,0,0,0,,Such a long speech.
 Dialogue: 0,2:08:11.49,2:08:13.78,Default,,0,0,0,,Even the content of the speech,
 Dialogue: 0,2:08:13.92,2:08:18.02,Default,,0,0,0,,I don't know how other idols do it, but they write these themselves!
-Dialogue: 0,2:08:19.20,2:08:20.26,Default,,0,0,0,,That's the type of thing
-Dialogue: 0,2:08:22.02,2:08:26.13,Default,,0,0,0,,that makes me believe Sakura Gakuin is raising Super Ladies.
-Dialogue: 0,2:08:26.99,2:08:32.34,Default,,0,0,0,,I heard you want to be a theater director
-Dialogue: 0,2:08:32.71,2:08:33.81,Default,,0,0,0,,after you graduate.
+Dialogue: 0,2:08:19.20,2:08:26.13,Default,,0,0,0,,That's the type of thing that makes me believe Sakura Gakuin is raising Super Ladies.
+Dialogue: 0,2:08:26.99,2:08:33.81,Default,,0,0,0,,I heard you want to be a theater director after you graduate.
 Dialogue: 0,2:08:34.57,2:08:35.49,Default,,0,0,0,,That is wonderful.
 Dialogue: 0,2:08:35.97,2:08:38.40,Default,,0,0,0,,I wonder, how did you become so mature?
-Dialogue: 0,2:08:39.20,2:08:42.74,Default,,0,0,0,,You want to become super by supporting others. I think that is great!
+Dialogue: 0,2:08:39.20,2:08:42.74,Default,,0,0,0,,You want to become Super by supporting others. I think that is great!
 Dialogue: 0,2:08:43.92,2:08:47.47,Default,,0,0,0,,Please debut by working with Sakura Gakuin.
-Dialogue: 0,2:08:48.74,2:08:49.77,Default,,0,0,0,,After about 5 years?
-Dialogue: 0,2:08:52.67,2:08:53.39,Default,,0,0,0,,Right?
-Dialogue: 0,2:08:58.46,2:09:01.72,Default,,0,0,0,,Sakura Gakuin is indeed a school.
+Dialogue: 0,2:08:48.74,2:08:50.00,Default,,0,0,0,,After about 5 years?
+Dialogue: 0,2:08:52.67,2:08:53.55,Default,,0,0,0,,Right?
+Dialogue: 0,2:08:58.46,2:09:01.84,Default,,0,0,0,,Sakura Gakuin is indeed a school.
 Dialogue: 0,2:09:02.66,2:09:06.88,Default,,0,0,0,,A school to help people become Super.
-Dialogue: 0,2:09:08.52,2:09:10.58,Default,,0,0,0,,You will all graduate
-Dialogue: 0,2:09:10.84,2:09:14.90,Default,,0,0,0,,Whatever path you choose, Isono wants to be a director
-Dialogue: 0,2:09:15.42,2:09:19.49,Default,,0,0,0,,and I think you other two should continue thinking about your future,
+Dialogue: 0,2:09:08.52,2:09:12.16,Default,,0,0,0,,You will all graduate, whatever path you choose
+Dialogue: 0,2:09:12.16,2:09:15.06,Default,,0,0,0,,Isono wants to be a director
+Dialogue: 0,2:09:15.06,2:09:19.49,Default,,0,0,0,,and I think you two should continue thinking about your future,
 Dialogue: 0,2:09:19.90,2:09:22.11,Default,,0,0,0,,I think no matter which genre you go to
 Dialogue: 0,2:09:22.44,2:09:28.60,Default,,0,0,0,,that those who have graduated from Sakura Gakuin
 Dialogue: 0,2:09:28.90,2:09:31.93,Default,,0,0,0,,will be looked at as Super people.
@@ -100,5 +95,5 @@ Dialogue: 0,2:09:39.40,2:09:41.31,Default,,0,0,0,,It's fine, without a doubt!
 Dialogue: 0,2:09:41.69,2:09:45.36,Default,,0,0,0,,All of the former graduates are now gonna be that.
 Dialogue: 0,2:09:45.77,2:09:49.84,Default,,0,0,0,,So believe in yourself and have confidence.
 Dialogue: 0,2:09:50.28,2:09:54.32,Default,,0,0,0,,And fry ... uh I mean fly to the future! In the end, I made a mistake!
-Dialogue: 0,2:09:55.50,2:09:57.76,Default,,0,0,0,,I lost to Isono!
-Dialogue: 0,2:10:00.02,2:10:01.31,Default,,0,0,0,,Congratulations!
+Dialogue: 0,2:09:55.50,2:09:57.92,Default,,0,0,0,,I lost to Isono!
+Dialogue: 0,2:10:00.02,2:10:01.45,Default,,0,0,0,,Congratulations!

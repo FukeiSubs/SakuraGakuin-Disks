@@ -16,13 +16,13 @@ Audio File: ../../RtG2015.mp4
 Video File: ../../RtG2015.mp4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 43
-Active Line: 44
-Video Position: 238541
+Scroll Position: 60
+Active Line: 67
+Video Position: 244535
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.37037,0.37037,2,4,4,4,1
+Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.37037,0.37037,2,4,4,20,1
 Style: Main Dialogue,Ubuntu,48,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2.53333,0,2,67,67,42,0
 Style: Nametag Saku,Ubuntu,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,3,9.33333,0,5,0,0,33,0
 Style: Watermark Saku,Sans,32,&H00FFFFFF,&H000000FF,&H00005E00,&H00000000,-1,0,0,0,102,100,0,0,3,3.33333,0,2,67,67,28,0
@@ -30,92 +30,72 @@ Style: Placeholder,Ubuntu,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 4,2:10:13.13,2:10:17.06,Default,,0,0,0,,How can I say...
-Dialogue: 0,2:10:18.24,2:10:20.92,Default,,0,0,0,,Can I talk a little while?
-Dialogue: 0,2:10:20.81,2:10:24.56,Default,,0,0,0,,I'm sorry but I also have something to tell
-Dialogue: 0,2:10:25.74,2:10:27.55,Default,,0,0,0,,It's very strange feeling
-Dialogue: 0,2:10:27.56,2:10:30.99,Default,,0,0,0,,er...I've supposed I'd feel sad
-Dialogue: 0,2:10:31.25,2:10:34.64,Default,,0,0,0,,but actually, I'm very happy now
-Dialogue: 0,2:10:34.64,2:10:36.44,Default,,0,0,0,,that's because...
-Dialogue: 0,2:10:36.44,2:10:39.76,Default,,0,0,0,,of the atmosphere these three seniors has established
-Dialogue: 0,2:10:39.76,2:10:41.76,Default,,0,0,0,,I just think so.
-Dialogue: 0,2:10:43.63,2:10:45.34,Default,,0,0,0,,Honestly, I think
-Dialogue: 0,2:10:45.94,2:10:50.92,Default,,0,0,0,,I've kept speaking very badly of these three girls 
-Dialogue: 0,2:10:52.60,2:10:54.91,Default,,0,0,0,,like "An idiot who knows nothing"
-Dialogue: 0,2:10:55.94,2:10:58.72,Default,,0,0,0,,"A bombshell girl who you should avoid to deal with"
-Dialogue: 0,2:11:00.09,2:11:03.01,Default,,0,0,0,,or "Very clumsy working-lady"
-Dialogue: 0,2:11:03.01,2:11:06.19,Default,,0,0,0,,I really gave a lot of trash talk about them.
-Dialogue: 0,2:11:06.19,2:11:08.19,Default,,0,0,0,,But honestly, 
-Dialogue: 0,2:11:08.19,2:11:11.02,Default,,0,0,0,,with so many trash talk,
-Dialogue: 0,2:11:11.02,2:11:13.96,Default,,0,0,0,,I've been always partial to three of you
-Dialogue: 0,2:11:15.44,2:11:18.86,Default,,0,0,0,,These three seniors in this nendo
-Dialogue: 0,2:11:19.69,2:11:22.30,Default,,0,0,0,,have a strong inclination towards variety-show
-Dialogue: 0,2:11:22.30,2:11:25.39,Default,,0,0,0,,and they kept relying on me
-Dialogue: 0,2:11:25.39,2:11:30.11,Default,,0,0,0,,They kept listening to me seriously
-Dialogue: 0,2:11:30.11,2:11:32.44,Default,,0,0,0,,I always felt I was very lucky to be their teacher
-Dialogue: 0,2:11:32.44,2:11:34.44,Default,,0,0,0,,especially in this one year
-Dialogue: 0,2:11:34.44,2:11:36.44,Default,,0,0,0,,I think so.
-Dialogue: 0,2:11:36.44,2:11:39.05,Default,,0,0,0,,Actually, as you know, 
-Dialogue: 0,2:11:39.05,2:11:42.45,Default,,0,0,0,,I'm not an outstanding person
-Dialogue: 0,2:11:43.69,2:11:46.12,Default,,0,0,0,,When I had been an active comedian,
-Dialogue: 0,2:11:46.12,2:11:51.71,Default,,0,0,0,,I had one-tenth or lower name recognition compared to that of Miyoshi or Matsui today 
-Dialogue: 0,2:11:54.75,2:11:56.44,Default,,0,0,0,,(You don't have to say such a thing now)
-Dialogue: 0,2:11:56.44,2:11:58.27,Default,,0,0,0,,I was not well-known, really
-Dialogue: 0,2:11:58.27,2:12:01.94,Default,,0,0,0,,or I had one-hundredth ability to attract audience of BABYMETAL
-Dialogue: 0,2:12:03.76,2:12:05.15,Default,,0,0,0,,(rather, it was one-thousandth)
-Dialogue: 0,2:12:05.15,2:12:07.15,Default,,0,0,0,,Yes, it was one-thousandth
-Dialogue: 0,2:12:07.15,2:12:11.38,Default,,0,0,0,,Such an ordinary person like me
-Dialogue: 0,2:12:11.38,2:12:14.27,Default,,0,0,0,,can teach you something
-Dialogue: 0,2:12:14.27,2:12:17.74,Default,,0,0,0,,because I made a lot more mistakes than you
-Dialogue: 0,2:12:17.74,2:12:21.54,Default,,0,0,0,,and because I had a setback
-Dialogue: 0,2:12:21.54,2:12:25.31,Default,,0,0,0,,after I had tried my best with my comrades
-Dialogue: 0,2:12:25.31,2:12:28.58,Default,,0,0,0,,That experience enabled me
-Dialogue: 0,2:12:28.58,2:12:32.24,Default,,0,0,0,,to teach you something
-Dialogue: 0,2:12:32.24,2:12:33.64,Default,,0,0,0,,I think so
-Dialogue: 0,2:12:33.64,2:12:35.64,Default,,0,0,0,,Thus, you guys must know
-Dialogue: 0,2:12:35.64,2:12:39.32,Default,,0,0,0,,you should make a lot of mistakes
-Dialogue: 0,2:12:39.32,2:12:42.09,Default,,0,0,0,,It's good to make mistakes
-Dialogue: 0,2:12:42.09,2:12:45.60,Default,,0,0,0,,and it's also good to have a setback
-Dialogue: 0,2:12:45.60,2:12:48.66,Default,,0,0,0,,I take my setback as my treasure
-Dialogue: 0,2:12:48.66,2:12:52.64,Default,,0,0,0,,So I hope you'll make a lot of mistakes
-Dialogue: 0,2:12:52.64,2:12:56.98,Default,,0,0,0,,That will show you a good Michisirube (guidepost)
-Dialogue: 0,2:12:56.98,2:12:59.77,Default,,0,0,0,,The experience will guide you
-Dialogue: 0,2:12:59.77,2:13:03.28,Default,,0,0,0,,That's also true for the graduates who come here 
-Dialogue: 0,2:13:03.28,2:13:06.20,Default,,0,0,0,,except for the would-be nurse
-Dialogue: 0,2:13:06.20,2:13:08.20,Default,,0,0,0,,A nurse can't make a mistake
-Dialogue: 0,2:13:15.30,2:13:18.44,Default,,0,0,0,,It's life-threatening to make a mistake for a nurse
-Dialogue: 0,2:13:18.44,2:13:20.44,Default,,0,0,0,,Well,
-Dialogue: 0,2:13:20.25,2:13:24.17,Default,,0,0,0,,The one and only condition to be a Superlady I think is,
-Dialogue: 0,2:13:24.17,2:13:27.08,Default,,0,0,0,, -- I really don't care about other conditions --
-Dialogue: 0,2:13:27.08,2:13:30.24,Default,,0,0,0,,The sole condition to be a Superlady is to become happy.
-Dialogue: 0,2:13:30.24,2:13:32.48,Default,,0,0,0,,Even if you get a high popularity,
-Dialogue: 0,2:13:32.48,2:13:34.13,Default,,0,0,0,,or even if you become very wealthy
-Dialogue: 0,2:13:34.13,2:13:35.88,Default,,0,0,0,,That has nothing to do with the matter
-Dialogue: 0,2:13:35.88,2:13:39.98,Default,,0,0,0,,In any event, you'll be a Superlady as far as you're happy
-Dialogue: 0,2:13:40.22,2:13:44.56,Default,,0,0,0,,Please become happy. I hope nothing more 
-Dialogue: 0,2:13:45.01,2:13:47.31,Default,,0,0,0,,By the way, 
-Dialogue: 0,2:13:48.35,2:13:51.28,Default,,0,0,0,,I've been very happy in this year
-Dialogue: 0,2:13:51.28,2:13:53.18,Default,,0,0,0,,I remember
-Dialogue: 0,2:13:53.18,2:13:57.78,Default,,0,0,0,,the night when Ooga got a huge applause at the Rakugo-class
-Dialogue: 0,2:13:58.44,2:14:04.60,Default,,0,0,0,,the night Isono kindly ate the wasabi for me
-Dialogue: 0,2:14:04.60,2:14:10.11,Default,,0,0,0,,and the night Shirai told me she wanted to be like Mori-sensei
-Dialogue: 0,2:14:10.11,2:14:13.46,Default,,0,0,0,,I was so happy in those nights 
-Dialogue: 0,2:14:13.46,2:14:16.50,Default,,0,0,0,,So, I can safely say, in this year -- or in these five years
-Dialogue: 0,2:14:16.50,2:14:22.29,Default,,0,0,0,,that I was entitled to be a SuperBoy, having taken a step ahead of you
-Dialogue: 0,2:14:24.29,2:14:26.93,Default,,0,0,0,,From the heart,
-Dialogue: 0,2:14:27.49,2:14:29.77,Default,,0,0,0,,I want to give an apology to Isono
-Dialogue: 0,2:14:29.77,2:14:32.13,Default,,0,0,0,,for my having made a long speech
-Dialogue: 0,2:14:32.91,2:14:35.65,Default,,0,0,0,,I've tried to make it short as far as possible
+Dialogue: 4,2:10:14.06,2:10:15.44,Default,,0,0,0,,How can I say...
+Dialogue: 0,2:10:18.41,2:10:20.69,Default,,0,0,0,,Can I talk a little while?
+Dialogue: 0,2:10:21.46,2:10:23.83,Default,,0,0,0,,I'm sorry but I also have something to say
+Dialogue: 0,2:10:25.74,2:10:27.55,Default,,0,0,0,,It's a very strange feeling
+Dialogue: 0,2:10:27.56,2:10:31.16,Default,,0,0,0,,Er...I though I would feel sad
+Dialogue: 0,2:10:31.74,2:10:34.76,Default,,0,0,0,,But actually, I'm very happy now
+Dialogue: 0,2:10:35.03,2:10:39.76,Default,,0,0,0,,That's because of the atmosphere these three seniors have established
+Dialogue: 0,2:10:40.23,2:10:41.52,Default,,0,0,0,,I just think so.
+Dialogue: 0,2:10:43.70,2:10:50.92,Default,,0,0,0,,Honestly, I think I kept speaking very badly of these three girls
+Dialogue: 0,2:10:52.60,2:10:54.91,Default,,0,0,0,,like "an idiot who knows nothing"
+Dialogue: 0,2:10:55.84,2:10:58.79,Default,,0,0,0,,"A bombshell girl who you should avoid to deal with"
+Dialogue: 0,2:11:00.09,2:11:03.01,Default,,0,0,0,,or "a very clumsy working lady"
+Dialogue: 0,2:11:03.38,2:11:06.22,Default,,0,0,0,,I really talked trash about them a lot
+Dialogue: 0,2:11:06.22,2:11:11.02,Default,,0,0,0,,But honestly, even with so much trash talk,
+Dialogue: 0,2:11:11.02,2:11:13.96,Default,,0,0,0,,I've been always partial to the three of you
+Dialogue: 0,2:11:15.44,2:11:22.13,Default,,0,0,0,,These three seniors in this nendo have a strong inclination towards variety shows
+Dialogue: 0,2:11:22.60,2:11:30.31,Default,,0,0,0,,and they kept relying on me, they kept listening to me seriously
+Dialogue: 0,2:11:30.66,2:11:35.84,Default,,0,0,0,,I always felt I was very lucky to be their teacher especially in this one year
+Dialogue: 0,2:11:37.05,2:11:42.52,Default,,0,0,0,,Actually, as you know, I'm not an outstanding person
+Dialogue: 0,2:11:43.85,2:11:46.32,Default,,0,0,0,,When I had been an active comedian,
+Dialogue: 0,2:11:46.32,2:11:51.60,Default,,0,0,0,,I had one-tenth or lower name recognition compared to that of Miyoshi or Matsui today
+Dialogue: 0,2:11:55.13,2:11:56.44,Default,,0,0,0,,(You don't have to say such a thing now)
+Dialogue: 0,2:11:56.44,2:11:58.12,Default,,0,0,0,,I was not well known, really
+Dialogue: 0,2:11:58.12,2:12:02.00,Default,,0,0,0,,I had one-hundredth of BABYMETAL's ability to attract an audience
+Dialogue: 0,2:12:04.03,2:12:05.15,Default,,0,0,0,,(rather, it was one-thousandth)
+Dialogue: 0,2:12:05.15,2:12:06.43,Default,,0,0,0,,Yes, it was one-thousandth
+Dialogue: 0,2:12:07.11,2:12:17.74,Default,,0,0,0,,Such an ordinary person like me can teach you something because I made a lot more mistakes than you
+Dialogue: 0,2:12:17.74,2:12:25.28,Default,,0,0,0,,and because I had setbacks after I tried my best with my comrades
+Dialogue: 0,2:12:25.28,2:12:33.67,Default,,0,0,0,,I think that experience enabled me to teach you something
+Dialogue: 0,2:12:33.67,2:12:39.32,Default,,0,0,0,,Thus, you guys must know, you should make a lot of mistakes
+Dialogue: 0,2:12:39.71,2:12:42.09,Default,,0,0,0,,It's good to make mistakes
+Dialogue: 0,2:12:42.09,2:12:45.60,Default,,0,0,0,,and it's also good to have setbacks
+Dialogue: 0,2:12:45.60,2:12:48.51,Default,,0,0,0,,I regard my setbacks as my treasure
+Dialogue: 0,2:12:48.99,2:12:56.98,Default,,0,0,0,,So I hope you'll make a lot of mistakes that will show you a good michishirube (guidepost)
+Dialogue: 0,2:12:57.84,2:12:59.48,Default,,0,0,0,,The experience will guide you
+Dialogue: 0,2:13:00.47,2:13:02.88,Default,,0,0,0,,That's also true for the graduates who came here
+Dialogue: 0,2:13:03.38,2:13:04.90,Default,,0,0,0,,except for the would-be nurse
+Dialogue: 0,2:13:06.33,2:13:08.56,Default,,0,0,0,,Nurses can't make mistakes
+Dialogue: 0,2:13:15.42,2:13:17.69,Default,,0,0,0,,It's life-threatening for a nurse to make a mistake
+Dialogue: 0,2:13:18.74,2:13:24.17,Default,,0,0,0,,Well, I think the one and only condition to be a Superlady is,
+Dialogue: 0,2:13:24.17,2:13:27.08,Default,,0,0,0,, --and I don't really care about other conditions--
+Dialogue: 0,2:13:27.48,2:13:30.24,Default,,0,0,0,,the sole condition to be a Superlady is to become happy.
+Dialogue: 0,2:13:30.90,2:13:32.56,Default,,0,0,0,,Even if you obtain high popularity,
+Dialogue: 0,2:13:32.56,2:13:34.13,Default,,0,0,0,,or even if you become very wealthy
+Dialogue: 0,2:13:34.13,2:13:35.55,Default,,0,0,0,,that has nothing to do with the matter.
+Dialogue: 0,2:13:35.88,2:13:39.98,Default,,0,0,0,,In any event, you'll be a Superlady as long as you're happy
+Dialogue: 0,2:13:39.98,2:13:44.26,Default,,0,0,0,,Please become happy. I hope for nothing more.
+Dialogue: 0,2:13:45.17,2:13:53.18,Default,,0,0,0,,By the way, I've been very happy in this year. I remember
+Dialogue: 0,2:13:53.18,2:13:57.95,Default,,0,0,0,,the night when Ooga got a huge round of applause at the Rakugo class
+Dialogue: 0,2:13:58.71,2:14:03.92,Default,,0,0,0,,the night Isono kindly ate the wasabi for me
+Dialogue: 0,2:14:04.97,2:14:10.11,Default,,0,0,0,,and the night Shirai told me she wanted to be like Mori-sensei
+Dialogue: 0,2:14:10.67,2:14:13.46,Default,,0,0,0,,I was so happy in those nights.
+Dialogue: 0,2:14:13.46,2:14:16.24,Default,,0,0,0,,So, I can safely say, in this year, or in these five years
+Dialogue: 0,2:14:16.76,2:14:22.21,Default,,0,0,0,,that I was entitled to be a Super Boy, having taken a step ahead of you
+Dialogue: 0,2:14:24.72,2:14:26.73,Default,,0,0,0,,From my heart,
+Dialogue: 0,2:14:27.97,2:14:32.13,Default,,0,0,0,,I want to apologize to Isono for making a long speech
+Dialogue: 0,2:14:32.91,2:14:35.65,Default,,0,0,0,,I tried to make it as short as possible
 Dialogue: 0,2:14:36.54,2:14:38.33,Default,,0,0,0,,As for what I've left unspoken,
-Dialogue: 0,2:14:38.43,2:14:40.59,Default,,0,0,0,,I'd like to talk in the LoGiRL program tomorrow
-Dialogue: 0,2:14:44.02,2:14:46.81,Default,,0,0,0,,I'm so sorry
-Dialogue: 0,2:14:48.43,2:14:52.11,Default,,0,0,0,,Honestly, I want to have a job
-Dialogue: 0,2:14:52.11,2:14:56.41,Default,,0,0,0,,which makes people smile together with these girls
-Dialogue: 0,2:14:56.50,2:14:58.01,Default,,0,0,0,,So please be in touch
-Dialogue: 0,2:14:59.61,2:15:01.39,Default,,0,0,0,,Thank you very much
-Dialogue: 0,2:15:13.08,2:15:14.38,Default,,0,0,0,,Well,
-Dialogue: 0,2:15:14.38,2:15:15.93,Default,,0,0,0,,The graduates,
-Dialogue: 0,2:15:15.93,2:15:17.93,Default,,0,0,0,,You're dismissed
-Dialogue: 0,2:15:19.33,2:15:22.66,Default,,0,0,0,,Everyone, please give them a round of applause
-Dialogue: 0,2:15:59.29,2:16:06.12,Default,,0,0,0,,With that, the 2015nendo Graduation Ceremony of Sakura Gakuin has ended
-Dialogue: 0,2:16:06.12,2:16:08.12,Default,,0,0,0,,Everyone, bow
+Dialogue: 0,2:14:38.33,2:14:40.59,Default,,0,0,0,,I'd like to talk about it in the LoGiRL program tomorrow
+Dialogue: 0,2:14:44.02,2:14:45.28,Default,,0,0,0,,I apologize
+Dialogue: 0,2:14:48.43,2:14:56.41,Default,,0,0,0,,Honestly, I want to have a job which makes people smile together with these girls
+Dialogue: 0,2:14:56.41,2:14:58.24,Default,,0,0,0,,So please be in touch
+Dialogue: 0,2:14:59.61,2:15:00.96,Default,,0,0,0,,Thank you very much
+Dialogue: 0,2:15:13.08,2:15:14.38,Default,,0,0,0,,And now,
+Dialogue: 0,2:15:14.38,2:15:15.93,Default,,0,0,0,,Graduates,
+Dialogue: 0,2:15:15.93,2:15:17.45,Default,,0,0,0,,you are dismissed
+Dialogue: 0,2:15:19.19,2:15:22.80,Default,,0,0,0,,Everyone, please give them a round of applause
+Dialogue: 0,2:15:59.29,2:16:06.38,Default,,0,0,0,,With that, the 2015 nendo Graduation Ceremony of Sakura Gakuin has ended
+Dialogue: 0,2:16:06.38,2:16:08.31,Default,,0,0,0,,Everyone, bow
