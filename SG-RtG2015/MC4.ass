@@ -6,16 +6,22 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 720
-PlayResY: 480
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
-Scroll Position: 45
-Active Line: 68
+Audio File: G:/Sakura Gakuin/DVD~Blu-ray/Sakura Gakuin - The Road to Graduation 2015/Sakura Gakuin - The Road to Graduation 2015.mkv
+Video File: G:/Sakura Gakuin/DVD~Blu-ray/Sakura Gakuin - The Road to Graduation 2015/Sakura Gakuin - The Road to Graduation 2015.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 83
+Active Line: 79
+Video Position: 161601
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: Default,Arial Unicode MS,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,27,27,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -64,16 +70,16 @@ Dialogue: 0,1:21:54.96,1:21:59.00,Default,,0,0,0,,I think writing at a pace of o
 Dialogue: 0,1:21:59.10,1:22:02.11,Default,,0,0,0,,Certainly! We'll give our best.
 Dialogue: 0,1:22:02.36,1:22:03.50,Default,,0,0,0,,OK, then.
 Dialogue: 0,1:22:04.14,1:22:05.50,Default,,0,0,0,,Should we hear another?
-Dialogue: 0,1:22:05.50,1:22:07.26,Default,,0,0,0,,Sara chaan! OK, then Soyo.
+Dialogue: 0,1:22:05.50,1:22:07.26,Default,,0,0,0,,-Sara-chaan! \N-OK then, Soyo.
 Dialogue: 0,1:22:07.26,1:22:08.28,Default,,0,0,0,,Hooray!
-Dialogue: 0,1:22:08.28,1:22:11.64,Default,,0,0,0,,Er... for Soyo it's about the singing of Saki chan
+Dialogue: 0,1:22:08.28,1:22:11.64,Default,,0,0,0,,Er... for Soyo it's about the singing of Saki-chan
 Dialogue: 0,1:22:11.92,1:22:16.94,Default,,0,0,0,,I like the 'i' in "donna tonneru mo nukereba kitto"
 Dialogue: 0,1:22:16.94,1:22:18.01,Default,,0,0,0,,Do you like the 'i'?
 Dialogue: 0,1:22:18.62,1:22:20.75,Default,,0,0,0,,I like the way she sings the 'i'
 Dialogue: 0,1:22:21.10,1:22:23.04,Default,,0,0,0,,I'd like you to sing it once...
-Dialogue: 0,1:22:24.52,1:22:26.75,Default,,0,0,0,,I'd like to listen! Yes, I'd like it.
+Dialogue: 0,1:22:24.52,1:22:26.75,Default,,0,0,0,,-I'd like to listen! \N-Yes, I'd like it.
 Dialogue: 0,1:22:27.39,1:22:28.72,Default,,0,0,0,,I'd like to hear it.
-Dialogue: 0,1:22:28.72,1:22:30.00,Default,,0,0,0,,The fukei san too
+Dialogue: 0,1:22:28.72,1:22:30.00,Default,,0,0,0,,The fukei-san too
 Dialogue: 0,1:22:30.48,1:22:32.51,Default,,0,0,0,,Everyone, you'd like to listen don't you?
 Dialogue: 0,1:22:34.14,1:22:34.84,Default,,0,0,0,,See!
 Dialogue: 0,1:22:36.40,1:22:37.20,Default,,0,0,0,,See!
@@ -91,14 +97,14 @@ Dialogue: 0,1:23:10.76,1:23:11.98,Default,,0,0,0,,I'm sorry if it sounded 'from 
 Dialogue: 0,1:23:11.98,1:23:12.73,Default,,0,0,0,,Thank you!
 Dialogue: 0,1:23:12.73,1:23:15.80,Default,,0,0,0,,That was nice. That's good.
 Dialogue: 0,1:23:15.80,1:23:18.64,Default,,0,0,0,,So, Soyo gave this Michi Shirube a perfect score
-Dialogue: 0,1:23:18.64,1:23:21.53,Default,,0,0,0,,The fukei san, too... did you listen properly to our feelings?
+Dialogue: 0,1:23:18.64,1:23:21.53,Default,,0,0,0,,The fukei-san, too... did you listen properly to our feelings?
 Dialogue: 0,1:23:24.83,1:23:26.84,Default,,0,0,0,,Thank you very much.
 Dialogue: 0,1:23:26.84,1:23:29.02,Default,,0,0,0,,Also, everyone at the live viewing!
-Dialogue: 0,1:23:29.02,1:23:33.48,Default,,0,0,0,,Did you carefully listen to the singing of Saki chan pointed out by Soyo?
+Dialogue: 0,1:23:29.02,1:23:33.48,Default,,0,0,0,,Did you carefully listen to the singing of Saki-chan pointed out by Soyo?
 Dialogue: 0,1:23:33.48,1:23:35.24,Default,,0,0,0,,Yes, did you listen?
 Dialogue: 0,1:23:35.24,1:23:36.06,Default,,0,0,0,,They did.
 Dialogue: 0,1:23:36.11,1:23:38.76,Default,,0,0,0,,Thank you very much. That's good. Yeah.
-Dialogue: 0,1:23:39.29,1:23:43.50,Default,,0,0,0,,It felt like those at the live viewing were far away \NSo I wanted to reach out to them.
+Dialogue: 0,1:23:39.29,1:23:43.50,Default,,0,0,0,,It felt like those at the live viewing were far away \Nso I wanted to reach out to them.
 Dialogue: 0,1:23:44.19,1:23:46.32,Default,,0,0,0,,Sorry, sorry.
 Dialogue: 0,1:23:46.43,1:23:51.34,Default,,0,0,0,,Well, the 3rd year members have performed this song Michi Shirube
 Dialogue: 0,1:23:51.34,1:23:55.12,Default,,0,0,0,,Now we are approaching the second part of the graduation ceremony
