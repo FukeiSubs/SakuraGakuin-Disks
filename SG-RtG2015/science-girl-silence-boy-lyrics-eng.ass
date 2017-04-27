@@ -18,7 +18,7 @@ Style: English Lyrics,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:29:51.34,0:29:54.52,English Lyrics,,0,0,0,,H2O, Look, inside of me
+Dialogue: 0,0:29:51.34,0:29:54.52,English Lyrics,,0,0,0,,H₂O, Look, inside of me
 Dialogue: 0,0:29:54.52,0:29:58.40,English Lyrics,,0,0,0,,Is a helix that keeps being drawn on and on
 Dialogue: 0,0:29:58.40,0:30:04.14,English Lyrics,,0,0,0,,E=mc² conditions I keep to myself
 Dialogue: 0,0:30:05.52,0:30:08.70,English Lyrics,,0,0,0,,CO₂, That’s right, right now you

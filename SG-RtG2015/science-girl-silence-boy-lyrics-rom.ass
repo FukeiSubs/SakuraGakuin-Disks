@@ -19,7 +19,7 @@ Style: Romaji Lyrics,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H0000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:29:51.34,0:29:54.52,Romaji Lyrics,,0,0,0,,H2O hora, boku no naka
+Dialogue: 0,0:29:51.34,0:29:54.52,Romaji Lyrics,,0,0,0,,H₂O hora, boku no naka
 Dialogue: 0,0:29:54.52,0:29:58.40,Romaji Lyrics,,0,0,0,,Rasen wo egaite tsuzuite yuku
 Dialogue: 0,0:29:58.40,0:30:04.14,Romaji Lyrics,,0,0,0,,E=mc² himete iru jijoo
 Dialogue: 0,0:30:05.52,0:30:08.70,Romaji Lyrics,,0,0,0,,CO₂ soo, kimi ga ima

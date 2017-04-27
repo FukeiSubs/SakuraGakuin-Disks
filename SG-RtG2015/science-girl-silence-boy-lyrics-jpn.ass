@@ -18,7 +18,7 @@ Style: Japanese Lyrics,@Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:29:51.34,0:29:54.52,Japanese Lyrics,,0,0,0,,H2O　ほら、僕の中
+Dialogue: 0,0:29:51.34,0:29:54.52,Japanese Lyrics,,0,0,0,,H₂O　ほら、僕の中
 Dialogue: 0,0:29:54.52,0:29:58.40,Japanese Lyrics,,0,0,0,,螺旋を描いて続いていく
 Dialogue: 0,0:29:58.40,0:30:04.14,Japanese Lyrics,,0,0,0,,E=mc² 秘めている事情
 Dialogue: 0,0:30:05.52,0:30:08.70,Japanese Lyrics,,0,0,0,,CO₂　そう、君がいま
