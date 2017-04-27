@@ -21,8 +21,8 @@ Style: Romaji Lyrics,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H0000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:29:51.34,0:29:54.52,Romaji Lyrics,,0,0,0,,H2O hora, boku no naka
 Dialogue: 0,0:29:54.52,0:29:58.40,Romaji Lyrics,,0,0,0,,Rasen wo egaite tsuzuite yuku
-Dialogue: 0,0:29:58.40,0:30:04.14,Romaji Lyrics,,0,0,0,,E=mc^ himete iru jijoo
-Dialogue: 0,0:30:05.52,0:30:08.70,Romaji Lyrics,,0,0,0,,CO2 soo, kimi ga ima
+Dialogue: 0,0:29:58.40,0:30:04.14,Romaji Lyrics,,0,0,0,,E=mc² himete iru jijoo
+Dialogue: 0,0:30:05.52,0:30:08.70,Romaji Lyrics,,0,0,0,,CO₂ soo, kimi ga ima
 Dialogue: 0,0:30:08.70,0:30:12.74,Romaji Lyrics,,0,0,0,,Hakidasu tameiki, hanashite mite
 Dialogue: 0,0:30:12.74,0:30:18.28,Romaji Lyrics,,0,0,0,,Shippai mo ashita no kate ni suru no
 Dialogue: 0,0:30:19.28,0:30:22.98,Romaji Lyrics,,0,0,0,,Karada wo azukete handootai
@@ -35,7 +35,7 @@ Dialogue: 0,0:30:51.38,0:30:55.44,Romaji Lyrics,,0,0,0,,Arisutoteresu mo kizuke 
 Dialogue: 0,0:30:58.54,0:31:00.82,Romaji Lyrics,,0,0,0,,Nazo
 Dialogue: 0,0:31:05.60,0:31:09.74,Romaji Lyrics,,0,0,0,,Bokura ga koko ni ikite iru konkyo ga
 Dialogue: 0,0:31:09.74,0:31:14.72,Romaji Lyrics,,0,0,0,,Kitto kakusareteru
-Dialogue: 0,0:31:30.90,0:31:34.04,Romaji Lyrics,,0,0,0,,'H2O2' sugita koto
+Dialogue: 0,0:31:30.90,0:31:34.04,Romaji Lyrics,,0,0,0,,'H₂O₂' sugita koto
 Dialogue: 0,0:31:34.04,0:31:38.00,Romaji Lyrics,,0,0,0,,Kuyokuyo nayande iru aida ni mo
 Dialogue: 0,0:31:38.00,0:31:43.52,Romaji Lyrics,,0,0,0,,Jinrui wa tada mirai eto mukau
 Dialogue: 0,0:31:44.72,0:31:48.28,Romaji Lyrics,,0,0,0,,Kobaruto no sora, rin to natte
