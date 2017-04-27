@@ -14,8 +14,10 @@ Audio File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Gr
 Video File: D:/My Files/BM  +  SG/Subtitle Projects/Sakura Gakuin The Road to Graduation Final 2015.mkv
 Video AR Mode: 4
 Video AR Value: 1.777083
-Scroll Position: 114
-Active Line: 143
+Video Zoom Percent: 0.375000
+Scroll Position: 134
+Active Line: 141
+Video Position: 102154
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,18 +29,18 @@ Dialogue: 0,0:50:32.60,0:50:35.31,Default,,0,0,0,,Omelette rice was delicious!
 Dialogue: 0,0:50:35.31,0:50:37.28,Default,,0,0,0,,Wasn't it? That was cute.
 Dialogue: 0,0:50:37.28,0:50:39.72,Default,,0,0,0,,That was a delicious meal.
 Dialogue: 0,0:50:39.79,0:50:42.96,Default,,0,0,0,,Thanks for the meal. We actually didn't have any, though...
-Dialogue: 0,0:50:45.48,0:50:50.36,Default,,0,0,0,,All right. We had the privilege of showing here our club activities.
+Dialogue: 0,0:50:45.48,0:50:50.36,Default,,0,0,0,,All right. We had the privilege of showing our club activities here.
 Dialogue: 0,0:50:50.43,0:50:52.36,Default,,0,0,0,,Everyone, did you like it?
 Dialogue: 0,0:50:54.40,0:50:57.50,Default,,0,0,0,,Oh, thank you very much!
 Dialogue: 0,0:50:57.50,0:50:59.79,Default,,0,0,0,,All right! First of all, the Purchasing Club
 Dialogue: 0,0:50:59.79,0:51:00.28,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:51:00.28,0:51:02.96,Default,,0,0,0,,This year too, they used the bazooka during the interlude...
 Dialogue: 0,0:51:02.96,0:51:03.28,Default,,0,0,0,,Yes.
-Dialogue: 0,0:51:03.28,0:51:07.47,Default,,0,0,0,,Then the Go Home Club, In the interlude they did the word association while doing leapfrogs
+Dialogue: 0,0:51:03.28,0:51:07.47,Default,,0,0,0,,Then the Go Home Club, in the interlude they did the word association while doing leapfrogs
 Dialogue: 0,0:51:07.47,0:51:10.33,Default,,0,0,0,,We challenged ourselves to do new things.
 Dialogue: 0,0:51:10.33,0:51:11.58,Default,,0,0,0,,Exactly.
 Dialogue: 0,0:51:11.58,0:51:15.02,Default,,0,0,0,,Yes. Well, these were our club activities this year.
-Dialogue: 0,0:51:15.02,0:51:19.21,Default,,0,0,0,,Here I think, talking about this year, we could try and review some past events a bit.
+Dialogue: 0,0:51:15.02,0:51:19.21,Default,,0,0,0,,Here, I think, talking about this year, we could try and review some past events a bit.
 Dialogue: 0,0:51:20.03,0:51:23.96,Default,,0,0,0,,Everyone, aren't you curious to hear a bit of inside information about us?
 Dialogue: 0,0:51:24.94,0:51:26.32,Default,,0,0,0,,Oohh. Good.
 Dialogue: 0,0:51:27.50,0:51:29.00,Default,,0,0,0,,All right. So...
@@ -49,11 +51,10 @@ Dialogue: 0,0:51:40.73,0:51:41.53,Default,,0,0,0,,Then...
 Dialogue: 0,0:51:41.98,0:51:42.75,Default,,0,0,0,,Saki chan!
 Dialogue: 0,0:51:42.75,0:51:43.39,Default,,0,0,0,,Yes!
 Dialogue: 0,0:51:45.40,0:51:46.20,Default,,0,0,0,,I'm sorry.
-Dialogue: 0,0:51:47.42,0:51:48.20,Default,,0,0,0,,Well...
-Dialogue: 0,0:51:48.20,0:51:51.00,Default,,0,0,0,,During the intro part of Mathematica,
-Dialogue: 0,0:51:51.85,0:51:53.79,Default,,0,0,0,,There was a scene where we ate sweets.
+Dialogue: 0,0:51:47.42,0:51:51.00,Default,,0,0,0,,Well... during the intro part of Mathematica,
+Dialogue: 0,0:51:51.85,0:51:53.79,Default,,0,0,0,,there was a scene where we ate sweets.
 Dialogue: 0,0:51:53.79,0:51:54.28,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:51:54.28,0:51:57.34,Default,,0,0,0,,Er... Mirena said 'soon is the time for snacks'
+Dialogue: 0,0:51:54.28,0:51:57.34,Default,,0,0,0,,Er... Mirena said "soon it's time for snacks"
 Dialogue: 0,0:51:57.90,0:52:00.24,Default,,0,0,0,,That time, we ate sweets together
 Dialogue: 0,0:52:00.24,0:52:05.04,Default,,0,0,0,,2015 nendo had just started, so it was the first experience for the transfer students.
 Dialogue: 0,0:52:05.16,0:52:08.80,Default,,0,0,0,,They were really happy to eat such things during the filming.
@@ -61,14 +62,13 @@ Dialogue: 0,0:52:08.97,0:52:10.33,Default,,0,0,0,,Yeah, that's right.
 Dialogue: 0,0:52:10.33,0:52:13.02,Default,,0,0,0,,Basically, we are eating in many videos this year, right?
 Dialogue: 0,0:52:13.12,0:52:15.71,Default,,0,0,0,,Like in Kirameki no Kakera... yes, we eat several things.
 Dialogue: 0,0:52:15.71,0:52:16.60,Default,,0,0,0,,That's true.
-Dialogue: 0,0:52:16.72,0:52:19.88,Default,,0,0,0,,But then we were also anxious about the staff room teachers...
+Dialogue: 0,0:52:16.72,0:52:19.88,Default,,0,0,0,,But then we were also anxious about the staff room teachers
 Dialogue: 0,0:52:19.88,0:52:20.99,Default,,0,0,0,,Exactly.
-Dialogue: 0,0:52:20.99,0:52:24.52,Default,,0,0,0,,Just a little bit, when the teachers were absent
-Dialogue: 0,0:52:24.52,0:52:25.92,Default,,0,0,0,,We stealthily ate things...
+Dialogue: 0,0:52:20.99,0:52:25.92,Default,,0,0,0,,Just a little bit, when the teachers were absent, we stealthily ate things
 Dialogue: 0,0:52:25.92,0:52:26.68,Default,,0,0,0,,Yes, we did.
 Dialogue: 0,0:52:26.68,0:52:28.68,Default,,0,0,0,,Wait... the staff teachers can hear this.
-Dialogue: 0,0:52:28.68,0:52:31.34,Default,,0,0,0,,Well you know... for us three that's irrelevant right now!
-Dialogue: 0,0:52:31.88,0:52:32.81,Default,,0,0,0,,That's nasty!
+Dialogue: 0,0:52:28.68,0:52:31.34,Default,,0,0,0,,Well you know, for us three that's irrelevant right now!
+Dialogue: 0,0:52:31.88,0:52:32.81,Default,,0,0,0,,That's horrible!
 Dialogue: 0,0:52:33.28,0:52:35.05,Default,,0,0,0,,You are revealing too much!
 Dialogue: 0,0:52:35.05,0:52:35.90,Default,,0,0,0,,Hey!
 Dialogue: 0,0:52:35.90,0:52:38.19,Default,,0,0,0,,That's so mean!
@@ -78,108 +78,93 @@ Dialogue: 0,0:52:43.56,0:52:44.67,Default,,0,0,0,,Oh no!
 Dialogue: 0,0:52:45.63,0:52:47.08,Default,,0,0,0,,Really...
 Dialogue: 0,0:52:47.08,0:52:47.71,Default,,0,0,0,,Yes.
 Dialogue: 0,0:52:47.71,0:52:49.71,Default,,0,0,0,,Well, that was it.
-Dialogue: 0,0:52:49.71,0:52:54.76,Default,,0,0,0,,Then next, is there anything from Kirameki no Kakera or School Days videos?
+Dialogue: 0,0:52:49.71,0:52:54.76,Default,,0,0,0,,Then next, is there anything from the Kirameki no Kakera or School Days videos?
 Dialogue: 0,0:52:54.89,0:52:57.18,Default,,0,0,0,,Did anything leave an impression?
 Dialogue: 0,0:52:57.42,0:52:58.96,Default,,0,0,0,,Hmm...
 Dialogue: 0,0:52:59.45,0:53:00.24,Default,,0,0,0,,Sara?
-Dialogue: 0,0:53:01.31,0:53:04.03,Default,,0,0,0,,When we did the filming for Kirameki no Kakera,
-Dialogue: 0,0:53:04.03,0:53:05.61,Default,,0,0,0,,We went to the seaside.
+Dialogue: 0,0:53:01.31,0:53:05.61,Default,,0,0,0,,When we did the filming for Kirameki no Kakera, we went to the seaside.
 Dialogue: 0,0:53:05.61,0:53:09.77,Default,,0,0,0,,And the sand entered inside our shoes really a lot.
 Dialogue: 0,0:53:09.77,0:53:10.43,Default,,0,0,0,,Yes...
 Dialogue: 0,0:53:10.43,0:53:12.14,Default,,0,0,0,,And it didn't go away
 Dialogue: 0,0:53:12.14,0:53:12.72,Default,,0,0,0,,Exactly
 Dialogue: 0,0:53:12.72,0:53:14.57,Default,,0,0,0,,That left a strong impression.
-Dialogue: 0,0:53:14.67,0:53:16.19,Default,,0,0,0,,And that time...
-Dialogue: 0,0:53:16.19,0:53:18.86,Default,,0,0,0,,after that, even at LoGiRL
-Dialogue: 0,0:53:18.86,0:53:23.20,Default,,0,0,0,,All the time the sand from the beach kept coming from our shoes.
+Dialogue: 0,0:53:14.67,0:53:18.86,Default,,0,0,0,,And that time, after that, even at LoGiRL,
+Dialogue: 0,0:53:18.86,0:53:23.20,Default,,0,0,0,,all the time the sand from the beach kept coming from our shoes.
 Dialogue: 0,0:53:23.20,0:53:24.09,Default,,0,0,0,,That's true!
 Dialogue: 0,0:53:24.09,0:53:25.55,Default,,0,0,0,,With that clink clink sound.
 Dialogue: 0,0:53:25.55,0:53:26.60,Default,,0,0,0,,Exactly!
-Dialogue: 0,0:53:26.60,0:53:28.25,Default,,0,0,0,,So in a way this sand...
-Dialogue: 0,0:53:28.51,0:53:31.56,Default,,0,0,0,,is a memory, like Kirameki no Kakera [shards of glitter]
-Dialogue: 0,0:53:31.76,0:53:33.23,Default,,0,0,0,,I'm sorry. Wait a minute please.
+Dialogue: 0,0:53:26.60,0:53:31.56,Default,,0,0,0,,So in a way this sand is a memory, like Kirameki no Kakera [shards of glitter]
+Dialogue: 0,0:53:31.76,0:53:33.23,Default,,0,0,0,,I'm sorry, wait a minute please
 Dialogue: 0,0:53:33.23,0:53:34.01,Default,,0,0,0,,That's right.
-Dialogue: 0,0:53:34.01,0:53:38.70,Default,,0,0,0,,Wait a minute! It's sand, a fairly amount of sand.
+Dialogue: 0,0:53:34.01,0:53:38.70,Default,,0,0,0,,Wait a minute! It's sand, a fair amount of sand.
 Dialogue: 0,0:53:39.56,0:53:41.10,Default,,0,0,0,,That doesn't quite match!
 Dialogue: 0,0:53:41.10,0:53:41.87,Default,,0,0,0,,Right.
 Dialogue: 0,0:53:41.87,0:53:43.87,Default,,0,0,0,,And I thought I said a good one
 Dialogue: 0,0:53:43.87,0:53:46.80,Default,,0,0,0,,It was, a little bit. A little. You tried to show off.
 Dialogue: 0,0:53:46.80,0:53:48.27,Default,,0,0,0,,Well then
-Dialogue: 0,0:53:48.27,0:53:50.09,Default,,0,0,0,,We have all these memories, but
-Dialogue: 0,0:53:50.09,0:53:52.09,Default,,0,0,0,,talking about our activities...
-Dialogue: 0,0:53:52.09,0:53:55.12,Default,,0,0,0,,We appear every week at a regular program,
-Dialogue: 0,0:53:55.12,0:53:58.01,Default,,0,0,0,,we make a live broadcast at LoGiRL...
+Dialogue: 0,0:53:48.27,0:53:52.09,Default,,0,0,0,,We have all these memories, but talking about our activities,
+Dialogue: 0,0:53:52.09,0:53:55.12,Default,,0,0,0,,we appear every week at a regular program,
+Dialogue: 0,0:53:55.12,0:53:58.01,Default,,0,0,0,,we do a live broadcast at LoGiRL...
 Dialogue: 0,0:53:58.17,0:54:01.44,Default,,0,0,0,,Are there any inside stories about LoGiRL?
-Dialogue: 0,0:54:02.14,0:54:03.15,Default,,0,0,0,,Oh. Rinon chan.
+Dialogue: 0,0:54:02.14,0:54:03.15,Default,,0,0,0,,Oh. Rinon-chan.
 Dialogue: 0,0:54:03.29,0:54:06.73,Default,,0,0,0,,Yes, it's about the recent final episode
-Dialogue: 0,0:54:06.73,0:54:08.88,Default,,0,0,0,,During the last episode for this school year,
-Dialogue: 0,0:54:08.91,0:54:11.61,Default,,0,0,0,,All 12 members appeared on LoGiRL
+Dialogue: 0,0:54:06.73,0:54:11.61,Default,,0,0,0,,During the last episode for this school year, all 12 members appeared on LoGiRL
 Dialogue: 0,0:54:11.61,0:54:12.19,Default,,0,0,0,,Yes.
-Dialogue: 0,0:54:12.46,0:54:13.63,Default,,0,0,0,,About Mori Sensei...
-Dialogue: 0,0:54:13.63,0:54:19.50,Default,,0,0,0,,the plan was making him eat a huge quantity of sushi with wasabi inside
+Dialogue: 0,0:54:12.46,0:54:19.50,Default,,0,0,0,,About Mori Sensei, the plan was making him eat a huge quantity of sushi with wasabi inside
 Dialogue: 0,0:54:19.50,0:54:20.38,Default,,0,0,0,,Yes.
-Dialogue: 0,0:54:20.44,0:54:21.96,Default,,0,0,0,,But eventually
-Dialogue: 0,0:54:21.96,0:54:24.40,Default,,0,0,0,,us three as well, the 3rd year members
-Dialogue: 0,0:54:24.40,0:54:26.17,Default,,0,0,0,,like, we were intrigued...
+Dialogue: 0,0:54:20.44,0:54:26.17,Default,,0,0,0,,But eventually we three as well, the 3rd year members like, we were intrigued
 Dialogue: 0,0:54:26.17,0:54:27.28,Default,,0,0,0,,You ate it.
-Dialogue: 0,0:54:27.28,0:54:28.48,Default,,0,0,0,,Yes we ate it.
-Dialogue: 0,0:54:29.04,0:54:29.82,Default,,0,0,0,,And then...
-Dialogue: 0,0:54:29.82,0:54:32.67,Default,,0,0,0,,There was really an extraordinary amount of wasabi
+Dialogue: 0,0:54:27.28,0:54:28.48,Default,,0,0,0,,Yes, we ate it.
+Dialogue: 0,0:54:29.04,0:54:32.67,Default,,0,0,0,,And then... there was really an extraordinary amount of wasabi
 Dialogue: 0,0:54:32.67,0:54:35.87,Default,,0,0,0,,Yes! Furthermore, the color of the wasabi was yellow
 Dialogue: 0,0:54:35.87,0:54:36.75,Default,,0,0,0,,Exactly.
 Dialogue: 0,0:54:36.75,0:54:38.20,Default,,0,0,0,,We thought it was just wasabi,
-Dialogue: 0,0:54:38.20,0:54:41.52,Default,,0,0,0,,But it was together with grated daikon radish, chili pepper and mustard,
+Dialogue: 0,0:54:38.20,0:54:41.52,Default,,0,0,0,,but it was together with grated daikon radish, chili pepper and mustard,
 Dialogue: 0,0:54:41.52,0:54:43.52,Default,,0,0,0,,like, there was everything mixed in that
 Dialogue: 0,0:54:43.52,0:54:45.12,Default,,0,0,0,,Yes.
 Dialogue: 0,0:54:45.12,0:54:47.42,Default,,0,0,0,,It was terrible, really...
 Dialogue: 0,0:54:47.42,0:54:48.94,Default,,0,0,0,,Such quantity of wasabi...
 Dialogue: 0,0:54:48.94,0:54:49.36,Default,,0,0,0,,Ah!
 Dialogue: 0,0:54:49.36,0:54:51.82,Default,,0,0,0,,Welcome back!
-Dialogue: 0,0:54:51.82,0:54:54.28,Default,,0,0,0,,Sorry for interrupting...\NDon't worry, it's fine.
+Dialogue: 0,0:54:51.82,0:54:54.28,Default,,0,0,0,,-Sorry for interrupting...\N-Don't worry, it's fine.
 Dialogue: 0,0:54:54.28,0:54:57.08,Default,,0,0,0,,I don't think I've ever eaten such quantity of wasabi at once.
 Dialogue: 0,0:54:57.08,0:54:58.17,Default,,0,0,0,,Probably.
-Dialogue: 0,0:54:58.17,0:55:00.64,Default,,0,0,0,,But after that, Mori Sensei
-Dialogue: 0,0:55:00.72,0:55:03.71,Default,,0,0,0,,Since it was the last one for that school year...
+Dialogue: 0,0:54:58.17,0:55:03.71,Default,,0,0,0,,But after that, Mori-sensei, since it was the last show for that school year,
 Dialogue: 0,0:55:04.30,0:55:05.00,Default,,0,0,0,,You know?
 Dialogue: 0,0:55:05.00,0:55:08.52,Default,,0,0,0,,He bought ice cream for us!
 Dialogue: 0,0:55:08.73,0:55:09.93,Default,,0,0,0,,We ate it right?
-Dialogue: 0,0:55:09.93,0:55:11.08,Default,,0,0,0,,Yes we did.
-Dialogue: 0,0:55:11.08,0:55:13.08,Default,,0,0,0,,What about that? Yamaide Ice san
+Dialogue: 0,0:55:09.93,0:55:11.08,Default,,0,0,0,,Yes, we did.
+Dialogue: 0,0:55:11.08,0:55:13.08,Default,,0,0,0,,What about that? Yamaide Ice-san
 Dialogue: 0,0:55:13.16,0:55:16.32,Default,,0,0,0,,What about that? That's her new name.
 Dialogue: 0,0:55:16.56,0:55:17.92,Default,,0,0,0,,It was really good, and also...
-Dialogue: 0,0:55:18.49,0:55:21.31,Default,,0,0,0,,Er... saying it was more than they could eat,
-Dialogue: 0,0:55:21.31,0:55:22.60,Default,,0,0,0,,someone gave me more.
+Dialogue: 0,0:55:18.49,0:55:22.60,Default,,0,0,0,,Er... saying it was more than they could eat, someone gave me more.
 Dialogue: 0,0:55:22.60,0:55:24.04,Default,,0,0,0,,Megu gave it to Aiko!
 Dialogue: 0,0:55:24.11,0:55:25.20,Default,,0,0,0,,Kano gave some too!
 Dialogue: 0,0:55:25.20,0:55:27.05,Default,,0,0,0,,I wanted to eat it, but I gave it to you.
 Dialogue: 0,0:55:27.05,0:55:28.22,Default,,0,0,0,,You got a lot! Quite a bit!
 Dialogue: 0,0:55:28.30,0:55:30.60,Default,,0,0,0,,But wasn't Aiko on ice cream restriction?
-Dialogue: 0,0:55:30.60,0:55:32.92,Default,,0,0,0,,Yes, when we did the live show in February
-Dialogue: 0,0:55:32.92,0:55:35.77,Default,,0,0,0,,she said, she'll be on Ice cream-ban
-Dialogue: 0,0:55:35.77,0:55:38.16,Default,,0,0,0,,but asking the staff room teachers, it seems
-Dialogue: 0,0:55:38.16,0:55:41.05,Default,,0,0,0,,that she had broken the Ice cream-ban in February.
+Dialogue: 0,0:55:30.60,0:55:35.77,Default,,0,0,0,,Yes, when we did the live show in February, she said, she'd be on an ice cream ban
+Dialogue: 0,0:55:35.77,0:55:41.05,Default,,0,0,0,,but asking the staff room teachers, it seems that \Nshe had broken the ice cream ban in February.
 Dialogue: 0,0:55:41.05,0:55:42.32,Default,,0,0,0,,Soyo saw it!
-Dialogue: 0,0:55:42.32,0:55:44.62,Default,,0,0,0,,Aiko chan! Soyo says she saw it too!
+Dialogue: 0,0:55:42.32,0:55:44.62,Default,,0,0,0,,Aiko! Soyo says she saw it too!
 Dialogue: 0,0:55:44.62,0:55:47.37,Default,,0,0,0,,Before that, she ate ice cream together with Megu.
 Dialogue: 0,0:55:47.37,0:55:49.87,Default,,0,0,0,,We ate strawberry gelato together, didn't we.
-Dialogue: 0,0:55:49.87,0:55:53.18,Default,,0,0,0,,Yes we saw it!
+Dialogue: 0,0:55:49.87,0:55:53.18,Default,,0,0,0,,Yes, we saw it!
 Dialogue: 0,0:55:53.18,0:55:58.25,Default,,0,0,0,,You know... if you all talk together, they can't hear what you say!
 Dialogue: 0,0:55:58.25,0:55:59.88,Default,,0,0,0,,Really, I can't understand.
 Dialogue: 0,0:55:59.88,0:56:01.26,Default,,0,0,0,,We wanted to talk a bit too much.
-Dialogue: 0,0:56:01.26,0:56:05.36,Default,,0,0,0,,OK. To summarize, Aiko gave up her Ice cream-ban.
+Dialogue: 0,0:56:01.26,0:56:05.36,Default,,0,0,0,,OK. To summarize, Aiko gave up her ice cream ban.
 Dialogue: 0,0:56:05.36,0:56:07.04,Default,,0,0,0,,That's right.
 Dialogue: 0,0:56:07.52,0:56:08.76,Default,,0,0,0,,I'm sorry.
 Dialogue: 0,0:56:10.99,0:56:15.39,Default,,0,0,0,,Well, we also have lots of memories about such trivial things.
-Dialogue: 0,0:56:15.39,0:56:18.03,Default,,0,0,0,,Surely, also together with the fukei san,
-Dialogue: 0,0:56:18.03,0:56:23.02,Default,,0,0,0,,Having fun together at live shows and events,
+Dialogue: 0,0:56:15.39,0:56:23.02,Default,,0,0,0,,Surely, also together with the fukei-san, having fun together at live shows and events,
 Dialogue: 0,0:56:23.02,0:56:27.77,Default,,0,0,0,,I think during this year we made a lot of memories together with the fukei.
 Dialogue: 0,0:56:27.77,0:56:29.77,Default,,0,0,0,,Yes. We are truly grateful for that.
 Dialogue: 0,0:56:29.77,0:56:31.55,Default,,0,0,0,,Thank you very much.
 Dialogue: 0,0:56:34.78,0:56:35.29,Default,,0,0,0,,All right.
 Dialogue: 0,0:56:36.30,0:56:39.31,Default,,0,0,0,,Yes. But still the live show goes on.
-Dialogue: 0,0:56:39.45,0:56:42.08,Default,,0,0,0,,After this, I'd like to proceed to the next song,
+Dialogue: 0,0:56:39.45,0:56:42.08,Default,,0,0,0,,After this, I'd like to proceed to the next song
 Dialogue: 0,0:56:42.08,0:56:44.44,Default,,0,0,0,,Then, the next song. Marin, please introduce it.
-Dialogue: 0,0:56:44.62,0:56:46.91,Default,,0,0,0,,Yes. All right, for the next song
-Dialogue: 0,0:56:46.99,0:56:48.52,Default,,0,0,0,,together with the fukei san,
+Dialogue: 0,0:56:44.62,0:56:48.52,Default,,0,0,0,,Yes. All right, for the next song, together with the fukei-san,
 Dialogue: 0,0:56:48.52,0:56:52.09,Default,,0,0,0,,I'd like to get lost in a mysterious land.
 Dialogue: 0,0:56:52.64,0:56:54.88,Default,,0,0,0,,Please listen to... Sleep Wonder!
