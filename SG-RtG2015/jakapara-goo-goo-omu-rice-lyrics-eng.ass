@@ -13,50 +13,44 @@ Active Line: 36
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: English,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,2,10,10,10,1
-Style: Romaji,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,0,1
-Style: Japanese,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
-Style: Song Title,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
-Style: Credits 2,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,3,10,10,10,1
-Style: Credits 1,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,1,10,10,10,1
+Style: English Lyrics,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:46:39.24,0:46:43.25,English,,0,0,0,,Fry the fluffy rice, *rat-a-tat*
-Dialogue: 0,0:46:43.25,0:46:45.50,English,,0,0,0,,Chicken rice with a percussion beat
-Dialogue: 0,0:46:47.22,0:46:51.16,English,,0,0,0,,The broccoli’s maracas, the tomato’s castanets
-Dialogue: 0,0:46:51.20,0:46:54.46,English,,0,0,0,,A salad instrumental band
-Dialogue: 0,0:46:55.69,0:47:03.39,English,,0,0,0,,A delicious harmony, there’s a racket in the kitchen
-Dialogue: 0,0:47:03.75,0:47:11.04,English,,0,0,0,,A tiny musical note: cherry blossom cheese
-Dialogue: 0,0:47:11.04,0:47:15.23,English,,0,0,0,,When you line them up, they form a wonderful melody
-Dialogue: 0,0:47:15.23,0:47:18.45,English,,0,0,0,,It’s the ultimate rice omelette
-Dialogue: 0,0:47:18.73,0:47:22.43,English,,0,0,0,,Ah! The recipe is my heart
-Dialogue: 0,0:47:22.74,0:47:26.34,English,,0,0,0,,Eat up, it’s paradise
-Dialogue: 0,0:47:26.64,0:47:35.49,English,,0,0,0,,My inspiration is your smile
-Dialogue: 0,0:47:59.22,0:48:03.26,English,,0,0,0,,The basil sauce on top of the fluffy eggs
-Dialogue: 0,0:48:03.26,0:48:05.52,English,,0,0,0,,Is a string section, playing
-Dialogue: 0,0:48:07.19,0:48:11.26,English,,0,0,0,,How about some ham, cut in the shape of cherry blossoms     Tum-tum♪Ta-tum♪
-Dialogue: 0,0:48:11.26,0:48:14.56,English,,0,0,0,,A spring scenery tambourine
-Dialogue: 0,0:48:15.73,0:48:23.30,English,,0,0,0,,Is the sound of everyone’s low, rumbling stomach the bassist?
-Dialogue: 0,0:48:23.74,0:48:31.08,English,,0,0,0,,Hold on, piano! The salted cherry blossoms play, *plunk-plunk*
-Dialogue: 0,0:48:31.19,0:48:35.20,English,,0,0,0,,Strumming along to this miraculous music collaboration
-Dialogue: 0,0:48:35.20,0:48:38.43,English,,0,0,0,,The perfect rice omelette
-Dialogue: 0,0:48:38.73,0:48:42.36,English,,0,0,0,,Oh! I can hear the cheers
-Dialogue: 0,0:48:42.74,0:48:46.55,English,,0,0,0,,Hey, this will surely set a precedent
-Dialogue: 0,0:48:46.74,0:48:53.61,English,,0,0,0,,My aim is a Western-style restaurant
-Dialogue: 0,0:49:05.50,0:49:07.26,English,,0,0,0,,A delicious melody♪
-Dialogue: 0,0:49:07.26,0:49:10.39,English,,0,0,0,,It’s the ultimate rice omelette
-Dialogue: 0,0:49:10.74,0:49:14.39,English,,0,0,0,,Ah! The recipe is my heart
-Dialogue: 0,0:49:14.73,0:49:18.34,English,,0,0,0,,Eat up, it’s paradise
-Dialogue: 0,0:49:18.67,0:49:23.25,English,,0,0,0,,My inspiration is your smile
-Dialogue: 0,0:49:23.25,0:49:26.45,English,,0,0,0,,The perfect rice omelette
-Dialogue: 0,0:49:26.75,0:49:30.42,English,,0,0,0,,Oh! I can hear the cheers
-Dialogue: 0,0:49:30.74,0:49:34.57,English,,0,0,0,,Yes♪ Surely with a full stomach
-Dialogue: 0,0:49:34.67,0:49:43.41,English,,0,0,0,,We’ll encounter lots of fun stuff
-Dialogue: 0,0:50:18.55,0:50:19.31,English,,0,0,0,,I'm Aiko
-Dialogue: 0,0:50:19.43,0:50:20.06,English,,0,0,0,,I'm Momoko
-Dialogue: 0,0:50:20.13,0:50:20.87,English,,0,0,0,,I'm Marin
-Dialogue: 0,0:50:21.02,0:50:24.71,English,,0,0,0,,We are Sakura Gakuin Cooking Club, Mini Pati!
-Dialogue: 0,0:50:24.94,0:50:27.01,English,,0,0,0,,Thank you for the meal!
-Dialogue: 0,0:50:27.07,0:50:31.07,English,,0,0,0,,Bye Bye, thanks for the meal, bye bye.
+Dialogue: 0,0:46:39.24,0:46:43.25,English Lyrics,,0,0,0,,Fry the fluffy rice, *rat-a-tat*
+Dialogue: 0,0:46:43.25,0:46:45.50,English Lyrics,,0,0,0,,Chicken rice with a percussion beat
+Dialogue: 0,0:46:47.22,0:46:51.16,English Lyrics,,0,0,0,,The broccoli’s maracas, the tomato’s castanets
+Dialogue: 0,0:46:51.20,0:46:54.46,English Lyrics,,0,0,0,,A salad instrumental band
+Dialogue: 0,0:46:55.69,0:47:03.39,English Lyrics,,0,0,0,,A delicious harmony, there’s a racket in the kitchen
+Dialogue: 0,0:47:03.75,0:47:11.04,English Lyrics,,0,0,0,,A tiny musical note: cherry blossom cheese
+Dialogue: 0,0:47:11.04,0:47:15.23,English Lyrics,,0,0,0,,When you line them up, they form a wonderful melody
+Dialogue: 0,0:47:15.23,0:47:18.45,English Lyrics,,0,0,0,,It’s the ultimate rice omelette
+Dialogue: 0,0:47:18.73,0:47:22.43,English Lyrics,,0,0,0,,Ah! The recipe is my heart
+Dialogue: 0,0:47:22.74,0:47:26.34,English Lyrics,,0,0,0,,Eat up, it’s paradise
+Dialogue: 0,0:47:26.64,0:47:35.49,English Lyrics,,0,0,0,,My inspiration is your smile
+Dialogue: 0,0:47:59.22,0:48:03.26,English Lyrics,,0,0,0,,The basil sauce on top of the fluffy eggs
+Dialogue: 0,0:48:03.26,0:48:05.52,English Lyrics,,0,0,0,,Is a string section, playing
+Dialogue: 0,0:48:07.19,0:48:11.26,English Lyrics,,0,0,0,,How about some ham, cut in the shape of cherry blossoms     Tum-tum♪Ta-tum♪
+Dialogue: 0,0:48:11.26,0:48:14.56,English Lyrics,,0,0,0,,A spring scenery tambourine
+Dialogue: 0,0:48:15.73,0:48:23.30,English Lyrics,,0,0,0,,Is the sound of everyone’s low, rumbling stomach the bassist?
+Dialogue: 0,0:48:23.74,0:48:31.08,English Lyrics,,0,0,0,,Hold on, piano! The salted cherry blossoms play, *plunk-plunk*
+Dialogue: 0,0:48:31.19,0:48:35.20,English Lyrics,,0,0,0,,Strumming along to this miraculous music collaboration
+Dialogue: 0,0:48:35.20,0:48:38.43,English Lyrics,,0,0,0,,The perfect rice omelette
+Dialogue: 0,0:48:38.73,0:48:42.36,English Lyrics,,0,0,0,,Oh! I can hear the cheers
+Dialogue: 0,0:48:42.74,0:48:46.55,English Lyrics,,0,0,0,,Hey, this will surely set a precedent
+Dialogue: 0,0:48:46.74,0:48:53.61,English Lyrics,,0,0,0,,My aim is a Western-style restaurant
+Dialogue: 0,0:49:05.50,0:49:07.26,English Lyrics,,0,0,0,,A delicious melody♪
+Dialogue: 0,0:49:07.26,0:49:10.39,English Lyrics,,0,0,0,,It’s the ultimate rice omelette
+Dialogue: 0,0:49:10.74,0:49:14.39,English Lyrics,,0,0,0,,Ah! The recipe is my heart
+Dialogue: 0,0:49:14.73,0:49:18.34,English Lyrics,,0,0,0,,Eat up, it’s paradise
+Dialogue: 0,0:49:18.67,0:49:23.25,English Lyrics,,0,0,0,,My inspiration is your smile
+Dialogue: 0,0:49:23.25,0:49:26.45,English Lyrics,,0,0,0,,The perfect rice omelette
+Dialogue: 0,0:49:26.75,0:49:30.42,English Lyrics,,0,0,0,,Oh! I can hear the cheers
+Dialogue: 0,0:49:30.74,0:49:34.57,English Lyrics,,0,0,0,,Yes♪ Surely with a full stomach
+Dialogue: 0,0:49:34.67,0:49:43.41,English Lyrics,,0,0,0,,We’ll encounter lots of fun stuff
+Dialogue: 0,0:50:18.55,0:50:19.31,English Lyrics,,0,0,0,,I'm Aiko
+Dialogue: 0,0:50:19.43,0:50:20.06,English Lyrics,,0,0,0,,I'm Momoko
+Dialogue: 0,0:50:20.13,0:50:20.87,English Lyrics,,0,0,0,,I'm Marin
+Dialogue: 0,0:50:21.02,0:50:24.71,English Lyrics,,0,0,0,,We are Sakura Gakuin Cooking Club, Mini Pati!
+Dialogue: 0,0:50:24.94,0:50:27.01,English Lyrics,,0,0,0,,Thank you for the meal!
+Dialogue: 0,0:50:27.07,0:50:31.07,English Lyrics,,0,0,0,,Bye Bye, thanks for the meal, bye bye.

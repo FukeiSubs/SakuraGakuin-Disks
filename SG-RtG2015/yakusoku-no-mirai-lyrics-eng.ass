@@ -14,51 +14,51 @@ Video Position: 170462
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: English Lyrics,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:34:48.52,1:34:52.08,Default,,0,0,0,,Oh dream We will go galloping away
-Dialogue: 0,1:34:52.08,1:34:56.14,Default,,0,0,0,,Yes, further still
-Dialogue: 0,1:34:56.14,1:35:00.60,Default,,0,0,0,,Have a little courage, it’ll take you forward
-Dialogue: 0,1:35:00.60,1:35:04.68,Default,,0,0,0,,It is limitless, my way
-Dialogue: 0,1:35:15.48,1:35:21.88,Default,,0,0,0,,On the road home where nothing is going right and you have become disheartened
-Dialogue: 0,1:35:21.88,1:35:28.90,Default,,0,0,0,,you happen to notice that only if you run away now you will be fleeing your dreams
-Dialogue: 0,1:35:28.90,1:35:35.38,Default,,0,0,0,,If you start to run, saying quietly that you will not give up
-Dialogue: 0,1:35:35.38,1:35:42.80,Default,,0,0,0,,the winds of tomorrow will blow and dry your tears
-Dialogue: 0,1:35:43.40,1:35:46.82,Default,,0,0,0,,If you should tread down this path you have chosen
-Dialogue: 0,1:35:46.82,1:35:50.26,Default,,0,0,0,,you will not regret it
-Dialogue: 0,1:35:50.26,1:35:52.76,Default,,0,0,0,,You will trust in your own course
-Dialogue: 0,1:35:52.76,1:35:58.94,Default,,0,0,0,,and maintain your potential for all time
-Dialogue: 0,1:35:59.60,1:36:03.06,Default,,0,0,0,,Oh dream you will run clear through it
-Dialogue: 0,1:36:03.06,1:36:07.04,Default,,0,0,0,,then look only forward
-Dialogue: 0,1:36:07.04,1:36:13.18,Default,,0,0,0,,If you overcome that great wall, the radiance is waiting
-Dialogue: 0,1:36:13.18,1:36:16.62,Default,,0,0,0,,Oh dream take it a step at a time
-Dialogue: 0,1:36:16.62,1:36:20.68,Default,,0,0,0,,for we absolutely will not stop
-Dialogue: 0,1:36:20.68,1:36:23.56,Default,,0,0,0,,You surely are drawing nearer to your dream
-Dialogue: 0,1:36:23.56,1:36:29.32,Default,,0,0,0,,Let us go to our future of promise
-Dialogue: 0,1:36:40.12,1:36:46.44,Default,,0,0,0,,On the other side of the barriers of your unease there is a tomorrow
-Dialogue: 0,1:36:46.44,1:36:53.52,Default,,0,0,0,,Your familiar voice is calling out if I should have such a thought
-Dialogue: 0,1:36:53.52,1:36:59.90,Default,,0,0,0,,You can hear it coming in; now we’re getting somewhere!
-Dialogue: 0,1:36:59.90,1:37:07.48,Default,,0,0,0,,If you speak truly of your troubles, your heart will become clear
-Dialogue: 0,1:37:07.96,1:37:11.32,Default,,0,0,0,,Now with you I swear
-Dialogue: 0,1:37:11.32,1:37:14.78,Default,,0,0,0,,that place we saw which goes as far as our dreams
-Dialogue: 0,1:37:14.78,1:37:17.28,Default,,0,0,0,,A stage where light shines
-Dialogue: 0,1:37:17.28,1:37:23.32,Default,,0,0,0,,Then surely let us go flapping our wings together
-Dialogue: 0,1:37:24.04,1:37:27.54,Default,,0,0,0,,Oh dream look at that same sky
-Dialogue: 0,1:37:27.54,1:37:31.58,Default,,0,0,0,,We run out of breath
-Dialogue: 0,1:37:31.58,1:37:37.66,Default,,0,0,0,,Sharing until it hurts and our bond grows stronger
-Dialogue: 0,1:37:37.66,1:37:41.06,Default,,0,0,0,,Oh dream one day, our tears
-Dialogue: 0,1:37:41.06,1:37:45.12,Default,,0,0,0,,will surely become our power
-Dialogue: 0,1:37:45.12,1:37:47.92,Default,,0,0,0,,And once you have wiped the tears from your face
-Dialogue: 0,1:37:47.92,1:37:53.76,Default,,0,0,0,,then let us go forth with the greatest of smiles
-Dialogue: 0,1:37:55.30,1:38:01.26,Default,,0,0,0,,This sight, unseen by anyone alone
-Dialogue: 0,1:38:01.96,1:38:07.42,Default,,0,0,0,,we have wished to see all along; so stop time…
-Dialogue: 0,1:38:26.62,1:38:30.08,Default,,0,0,0,,Oh dream We will go galloping away
-Dialogue: 0,1:38:30.08,1:38:34.16,Default,,0,0,0,,Yes, further still
-Dialogue: 0,1:38:34.16,1:38:40.20,Default,,0,0,0,,Have a little courage, it’ll take you forward without becoming lost
-Dialogue: 0,1:38:40.20,1:38:43.60,Default,,0,0,0,,Oh dream take it a step at a time
-Dialogue: 0,1:38:43.60,1:38:47.66,Default,,0,0,0,,for we absolutely will not stop
-Dialogue: 0,1:38:47.66,1:38:50.60,Default,,0,0,0,,You surely are drawing nearer to your dream
-Dialogue: 0,1:38:50.60,1:38:55.22,Default,,0,0,0,,Let us go to our future of promise
-Dialogue: 0,1:38:55.22,1:39:03.16,Default,,0,0,0,,For it is because of today that tomorrow shines
+Dialogue: 0,1:34:48.52,1:34:52.08,English Lyrics,,0,0,0,,Oh dream We will go galloping away
+Dialogue: 0,1:34:52.08,1:34:56.14,English Lyrics,,0,0,0,,Yes, further still
+Dialogue: 0,1:34:56.14,1:35:00.60,English Lyrics,,0,0,0,,Have a little courage, it’ll take you forward
+Dialogue: 0,1:35:00.60,1:35:04.68,English Lyrics,,0,0,0,,It is limitless, my way
+Dialogue: 0,1:35:15.48,1:35:21.88,English Lyrics,,0,0,0,,On the road home where nothing is going right and you have become disheartened
+Dialogue: 0,1:35:21.88,1:35:28.90,English Lyrics,,0,0,0,,you happen to notice that only if you run away now you will be fleeing your dreams
+Dialogue: 0,1:35:28.90,1:35:35.38,English Lyrics,,0,0,0,,If you start to run, saying quietly that you will not give up
+Dialogue: 0,1:35:35.38,1:35:42.80,English Lyrics,,0,0,0,,the winds of tomorrow will blow and dry your tears
+Dialogue: 0,1:35:43.40,1:35:46.82,English Lyrics,,0,0,0,,If you should tread down this path you have chosen
+Dialogue: 0,1:35:46.82,1:35:50.26,English Lyrics,,0,0,0,,you will not regret it
+Dialogue: 0,1:35:50.26,1:35:52.76,English Lyrics,,0,0,0,,You will trust in your own course
+Dialogue: 0,1:35:52.76,1:35:58.94,English Lyrics,,0,0,0,,and maintain your potential for all time
+Dialogue: 0,1:35:59.60,1:36:03.06,English Lyrics,,0,0,0,,Oh dream you will run clear through it
+Dialogue: 0,1:36:03.06,1:36:07.04,English Lyrics,,0,0,0,,then look only forward
+Dialogue: 0,1:36:07.04,1:36:13.18,English Lyrics,,0,0,0,,If you overcome that great wall, the radiance is waiting
+Dialogue: 0,1:36:13.18,1:36:16.62,English Lyrics,,0,0,0,,Oh dream take it a step at a time
+Dialogue: 0,1:36:16.62,1:36:20.68,English Lyrics,,0,0,0,,for we absolutely will not stop
+Dialogue: 0,1:36:20.68,1:36:23.56,English Lyrics,,0,0,0,,You surely are drawing nearer to your dream
+Dialogue: 0,1:36:23.56,1:36:29.32,English Lyrics,,0,0,0,,Let us go to our future of promise
+Dialogue: 0,1:36:40.12,1:36:46.44,English Lyrics,,0,0,0,,On the other side of the barriers of your unease there is a tomorrow
+Dialogue: 0,1:36:46.44,1:36:53.52,English Lyrics,,0,0,0,,Your familiar voice is calling out if I should have such a thought
+Dialogue: 0,1:36:53.52,1:36:59.90,English Lyrics,,0,0,0,,You can hear it coming in; now we’re getting somewhere!
+Dialogue: 0,1:36:59.90,1:37:07.48,English Lyrics,,0,0,0,,If you speak truly of your troubles, your heart will become clear
+Dialogue: 0,1:37:07.96,1:37:11.32,English Lyrics,,0,0,0,,Now with you I swear
+Dialogue: 0,1:37:11.32,1:37:14.78,English Lyrics,,0,0,0,,that place we saw which goes as far as our dreams
+Dialogue: 0,1:37:14.78,1:37:17.28,English Lyrics,,0,0,0,,A stage where light shines
+Dialogue: 0,1:37:17.28,1:37:23.32,English Lyrics,,0,0,0,,Then surely let us go flapping our wings together
+Dialogue: 0,1:37:24.04,1:37:27.54,English Lyrics,,0,0,0,,Oh dream look at that same sky
+Dialogue: 0,1:37:27.54,1:37:31.58,English Lyrics,,0,0,0,,We run out of breath
+Dialogue: 0,1:37:31.58,1:37:37.66,English Lyrics,,0,0,0,,Sharing until it hurts and our bond grows stronger
+Dialogue: 0,1:37:37.66,1:37:41.06,English Lyrics,,0,0,0,,Oh dream one day, our tears
+Dialogue: 0,1:37:41.06,1:37:45.12,English Lyrics,,0,0,0,,will surely become our power
+Dialogue: 0,1:37:45.12,1:37:47.92,English Lyrics,,0,0,0,,And once you have wiped the tears from your face
+Dialogue: 0,1:37:47.92,1:37:53.76,English Lyrics,,0,0,0,,then let us go forth with the greatest of smiles
+Dialogue: 0,1:37:55.30,1:38:01.26,English Lyrics,,0,0,0,,This sight, unseen by anyone alone
+Dialogue: 0,1:38:01.96,1:38:07.42,English Lyrics,,0,0,0,,we have wished to see all along; so stop time…
+Dialogue: 0,1:38:26.62,1:38:30.08,English Lyrics,,0,0,0,,Oh dream We will go galloping away
+Dialogue: 0,1:38:30.08,1:38:34.16,English Lyrics,,0,0,0,,Yes, further still
+Dialogue: 0,1:38:34.16,1:38:40.20,English Lyrics,,0,0,0,,Have a little courage, it’ll take you forward without becoming lost
+Dialogue: 0,1:38:40.20,1:38:43.60,English Lyrics,,0,0,0,,Oh dream take it a step at a time
+Dialogue: 0,1:38:43.60,1:38:47.66,English Lyrics,,0,0,0,,for we absolutely will not stop
+Dialogue: 0,1:38:47.66,1:38:50.60,English Lyrics,,0,0,0,,You surely are drawing nearer to your dream
+Dialogue: 0,1:38:50.60,1:38:55.22,English Lyrics,,0,0,0,,Let us go to our future of promise
+Dialogue: 0,1:38:55.22,1:39:03.16,English Lyrics,,0,0,0,,For it is because of today that tomorrow shines

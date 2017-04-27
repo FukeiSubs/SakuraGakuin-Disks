@@ -13,45 +13,39 @@ Active Line: 23
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: English,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,2,10,10,10,1
-Style: Romaji,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,0,1
-Style: Japanese,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
-Style: Song Title,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
-Style: Credits 2,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,3,10,10,10,1
-Style: Credits 1,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,1,10,10,10,1
+Style: English Lyrics,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:15:07.93,0:15:10.08,English,,0,0,0,,Hello! IVY
-Dialogue: 0,0:15:14.21,0:15:16.37,English,,0,0,0,,Let's go for a cool look
-Dialogue: 0,0:15:16.37,0:15:18.40,English,,0,0,0,,Cooler, cooler, cooler
-Dialogue: 0,0:15:18.40,0:15:22.56,English,,0,0,0,,IVY! IVY! IVY Girl!
-Dialogue: 0,0:15:22.56,0:15:26.70,English,,0,0,0,,With clean scented straight hair
-Dialogue: 0,0:15:26.70,0:15:30.85,English,,0,0,0,,Hello! IVY IVY IVY Girl! Yeah!!
-Dialogue: 0,0:15:49.65,0:15:53.93,English,,0,0,0,,As the sunset dyes the school orange
-Dialogue: 0,0:15:53.93,0:15:58.06,English,,0,0,0,,I notice you swaying the swing back and forth
-Dialogue: 0,0:15:58.06,0:16:02.18,English,,0,0,0,,with nobody on it
-Dialogue: 0,0:16:02.18,0:16:04.78,English,,0,0,0,,What's wrong?
-Dialogue: 0,0:16:06.36,0:16:10.60,English,,0,0,0,,Don't worry here all alone
-Dialogue: 0,0:16:10.60,0:16:14.73,English,,0,0,0,,Let's walk together while you
-Dialogue: 0,0:16:14.73,0:16:18.64,English,,0,0,0,,tell me what's on your mind right now
-Dialogue: 0,0:16:18.64,0:16:21.22,English,,0,0,0,,In the future you'll be
-Dialogue: 0,0:16:23.04,0:16:27.25,English,,0,0,0,,The sweet IVY girl
-Dialogue: 0,0:16:27.25,0:16:31.45,English,,0,0,0,,The shining IVY girl
-Dialogue: 0,0:16:31.45,0:16:35.57,English,,0,0,0,,The kind IVY girl
-Dialogue: 0,0:16:35.57,0:16:39.85,English,,0,0,0,,The brilliantly sparkling IVY girl
-Dialogue: 0,0:16:41.85,0:16:43.98,English,,0,0,0,,Let's go for a fresh look
-Dialogue: 0,0:16:43.98,0:16:46.04,English,,0,0,0,,Fresher, fresher, fresher
-Dialogue: 0,0:16:46.04,0:16:50.22,English,,0,0,0,,IVY! IVY! IVY Girl!
-Dialogue: 0,0:16:50.22,0:16:54.40,English,,0,0,0,,Polish your fashion sense up
-Dialogue: 0,0:16:54.40,0:16:58.57,English,,0,0,0,,Hello! IVY IVY IVY Girl! Yeah!!
-Dialogue: 0,0:17:52.86,0:17:54.96,English,,0,0,0,,Let's go for a cute look
-Dialogue: 0,0:17:54.96,0:17:56.98,English,,0,0,0,,Cuter, cuter, cuter
-Dialogue: 0,0:17:56.98,0:18:01.17,English,,0,0,0,,IVY! IVY! IVY Girl
-Dialogue: 0,0:18:01.17,0:18:05.34,English,,0,0,0,,Trad is the coolest look
-Dialogue: 0,0:18:05.34,0:18:09.46,English,,0,0,0,,Hello! IVY IVY IVY Girl! Yeah!!
-Dialogue: 0,0:18:09.46,0:18:12.98,English,,0,0,0,,Hello! IVY IVY Yeah!!
-Dialogue: 0,0:18:12.98,0:18:15.42,English,,0,0,0,,IVY Girl!
-Dialogue: 0,0:18:28.36,0:18:32.53,English,,0,0,0,,Hello! IVY! IVY! IVY!
-Dialogue: 0,0:18:32.53,0:18:37.00,English,,0,0,0,,Hello! IVY! IVY! IVY Girl! Yeah!!
+Dialogue: 0,0:15:07.93,0:15:10.08,English Lyrics,,0,0,0,,Hello! IVY
+Dialogue: 0,0:15:14.21,0:15:16.37,English Lyrics,,0,0,0,,Let's go for a cool look
+Dialogue: 0,0:15:16.37,0:15:18.40,English Lyrics,,0,0,0,,Cooler, cooler, cooler
+Dialogue: 0,0:15:18.40,0:15:22.56,English Lyrics,,0,0,0,,IVY! IVY! IVY Girl!
+Dialogue: 0,0:15:22.56,0:15:26.70,English Lyrics,,0,0,0,,With clean scented straight hair
+Dialogue: 0,0:15:26.70,0:15:30.85,English Lyrics,,0,0,0,,Hello! IVY IVY IVY Girl! Yeah!!
+Dialogue: 0,0:15:49.65,0:15:53.93,English Lyrics,,0,0,0,,As the sunset dyes the school orange
+Dialogue: 0,0:15:53.93,0:15:58.06,English Lyrics,,0,0,0,,I notice you swaying the swing back and forth
+Dialogue: 0,0:15:58.06,0:16:02.18,English Lyrics,,0,0,0,,with nobody on it
+Dialogue: 0,0:16:02.18,0:16:04.78,English Lyrics,,0,0,0,,What's wrong?
+Dialogue: 0,0:16:06.36,0:16:10.60,English Lyrics,,0,0,0,,Don't worry here all alone
+Dialogue: 0,0:16:10.60,0:16:14.73,English Lyrics,,0,0,0,,Let's walk together while you
+Dialogue: 0,0:16:14.73,0:16:18.64,English Lyrics,,0,0,0,,tell me what's on your mind right now
+Dialogue: 0,0:16:18.64,0:16:21.22,English Lyrics,,0,0,0,,In the future you'll be
+Dialogue: 0,0:16:23.04,0:16:27.25,English Lyrics,,0,0,0,,The sweet IVY girl
+Dialogue: 0,0:16:27.25,0:16:31.45,English Lyrics,,0,0,0,,The shining IVY girl
+Dialogue: 0,0:16:31.45,0:16:35.57,English Lyrics,,0,0,0,,The kind IVY girl
+Dialogue: 0,0:16:35.57,0:16:39.85,English Lyrics,,0,0,0,,The brilliantly sparkling IVY girl
+Dialogue: 0,0:16:41.85,0:16:43.98,English Lyrics,,0,0,0,,Let's go for a fresh look
+Dialogue: 0,0:16:43.98,0:16:46.04,English Lyrics,,0,0,0,,Fresher, fresher, fresher
+Dialogue: 0,0:16:46.04,0:16:50.22,English Lyrics,,0,0,0,,IVY! IVY! IVY Girl!
+Dialogue: 0,0:16:50.22,0:16:54.40,English Lyrics,,0,0,0,,Polish your fashion sense up
+Dialogue: 0,0:16:54.40,0:16:58.57,English Lyrics,,0,0,0,,Hello! IVY IVY IVY Girl! Yeah!!
+Dialogue: 0,0:17:52.86,0:17:54.96,English Lyrics,,0,0,0,,Let's go for a cute look
+Dialogue: 0,0:17:54.96,0:17:56.98,English Lyrics,,0,0,0,,Cuter, cuter, cuter
+Dialogue: 0,0:17:56.98,0:18:01.17,English Lyrics,,0,0,0,,IVY! IVY! IVY Girl
+Dialogue: 0,0:18:01.17,0:18:05.34,English Lyrics,,0,0,0,,Trad is the coolest look
+Dialogue: 0,0:18:05.34,0:18:09.46,English Lyrics,,0,0,0,,Hello! IVY IVY IVY Girl! Yeah!!
+Dialogue: 0,0:18:09.46,0:18:12.98,English Lyrics,,0,0,0,,Hello! IVY IVY Yeah!!
+Dialogue: 0,0:18:12.98,0:18:15.42,English Lyrics,,0,0,0,,IVY Girl!
+Dialogue: 0,0:18:28.36,0:18:32.53,English Lyrics,,0,0,0,,Hello! IVY! IVY! IVY!
+Dialogue: 0,0:18:32.53,0:18:37.00,English Lyrics,,0,0,0,,Hello! IVY! IVY! IVY Girl! Yeah!!

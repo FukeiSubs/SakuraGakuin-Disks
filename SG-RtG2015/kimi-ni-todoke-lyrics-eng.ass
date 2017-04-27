@@ -17,54 +17,54 @@ Style: English Lyrics,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:30:09.92,1:30:12.81,ENGLISH,,0,0,0,,I’ve gotten the feeling everything was set in motion
-Dialogue: 0,1:30:12.81,1:30:15.68,ENGLISH,,0,0,0,,the moment I opened that door
-Dialogue: 0,1:30:15.68,1:30:18.48,ENGLISH,,0,0,0,,My zero-gravity teenage days have been ticking away
-Dialogue: 0,1:30:18.48,1:30:24.54,ENGLISH,,0,0,0,,I race through them without even the time to catch my breath
-Dialogue: 0,1:30:32.56,1:30:35.42,ENGLISH,,0,0,0,,They say that’s “just like Cinderella”, but
-Dialogue: 0,1:30:35.42,1:30:38.25,ENGLISH,,0,0,0,,a flower doesn’t bloom in a day, does it?
-Dialogue: 0,1:30:38.25,1:30:41.06,ENGLISH,,0,0,0,,Even though I sigh for full-fledged adulthood
-Dialogue: 0,1:30:41.06,1:30:43.89,ENGLISH,,0,0,0,,I’ve still got plenty of growing up to do
-Dialogue: 0,1:30:43.89,1:30:46.72,ENGLISH,,0,0,0,,We’ve always been able to share a “sibling” type of closeness
-Dialogue: 0,1:30:46.72,1:30:49.56,ENGLISH,,0,0,0,,so even if I whine, you also dote on me
-Dialogue: 0,1:30:49.56,1:30:52.40,ENGLISH,,0,0,0,,It’s only when you scold my good-for-nothing self
-Dialogue: 0,1:30:52.40,1:30:55.17,ENGLISH,,0,0,0,,that you suddenly become serious
-Dialogue: 0,1:30:55.53,1:31:01.22,ENGLISH,,0,0,0,,I wanna laugh together with you in both ups and downs
-Dialogue: 0,1:31:01.22,1:31:06.10,ENGLISH,,0,0,0,,Do you understand that muddled statement? I want to tell you anyway
-Dialogue: 0,1:31:06.10,1:31:08.89,ENGLISH,,0,0,0,,I’ll pack my feelings towards you,
-Dialogue: 0,1:31:08.89,1:31:12.64,ENGLISH,,0,0,0,,the depths of my heart,
-Dialogue: 0,1:31:12.64,1:31:17.45,ENGLISH,,0,0,0,,into my singing voice and make it ring out with a boom
-Dialogue: 0,1:31:17.45,1:31:20.25,ENGLISH,,0,0,0,,May it reach you
-Dialogue: 0,1:31:20.25,1:31:23.89,ENGLISH,,0,0,0,,I’m looking up at the first star in the sky
-Dialogue: 0,1:31:23.89,1:31:28.58,ENGLISH,,0,0,0,,beyond the orange-clouded evening sky
-Dialogue: 0,1:31:29.22,1:31:34.88,ENGLISH,,0,0,0,,I know you’re more straightforward than anyone,
-Dialogue: 0,1:31:34.88,1:31:39.61,ENGLISH,,0,0,0,,so listen up well, okay, I’m giving you my all-time highest
-Dialogue: 0,1:31:39.61,1:31:40.72,ENGLISH,,0,0,0,,THANK YOU!
-Dialogue: 0,1:31:51.61,1:31:55.05,ENGLISH,,0,0,0,,Being too reckless is just right
-Dialogue: 0,1:31:55.05,1:31:57.29,ENGLISH,,0,0,0,,I try out various things, but
-Dialogue: 0,1:31:57.29,1:32:00.13,ENGLISH,,0,0,0,,when I stretch myself too far
-Dialogue: 0,1:32:00.13,1:32:02.94,ENGLISH,,0,0,0,,I grow numb and start stumbling right away
-Dialogue: 0,1:32:02.94,1:32:05.80,ENGLISH,,0,0,0,,I feel it each time I look at the hallway mirror
-Dialogue: 0,1:32:05.80,1:32:08.61,ENGLISH,,0,0,0,,“What’s unique about me?”
-Dialogue: 0,1:32:08.61,1:32:11.45,ENGLISH,,0,0,0,,I ask frustratedly and you
-Dialogue: 0,1:32:11.45,1:32:14.25,ENGLISH,,0,0,0,,give me a gentle pat on the head
-Dialogue: 0,1:32:14.57,1:32:20.12,ENGLISH,,0,0,0,,Rain or shine, I don’t want to leave any regrets
-Dialogue: 0,1:32:20.12,1:32:25.24,ENGLISH,,0,0,0,,No one else has ever given me the courage to keep going that you have
-Dialogue: 0,1:32:25.24,1:32:27.92,ENGLISH,,0,0,0,,May it reach you
-Dialogue: 0,1:32:27.92,1:32:31.64,ENGLISH,,0,0,0,,Face forward with all your body and soul,
-Dialogue: 0,1:32:31.64,1:32:36.45,ENGLISH,,0,0,0,,eyes shining bright
-Dialogue: 0,1:32:36.45,1:32:39.24,ENGLISH,,0,0,0,,Let it ring out to you
-Dialogue: 0,1:32:39.24,1:32:42.97,ENGLISH,,0,0,0,,under this sky that connects us,
-Dialogue: 0,1:32:42.97,1:32:47.97,ENGLISH,,0,0,0,,my heart with its beat that beats in time with yours
-Dialogue: 0,1:32:48.26,1:32:53.92,ENGLISH,,0,0,0,,I’ll dedicate this to you, the biggest crybaby of them all
-Dialogue: 0,1:32:53.92,1:32:58.70,ENGLISH,,0,0,0,,It’s a feeling that I’ve always kept hidden...my all-time highest
-Dialogue: 0,1:32:58.70,1:32:59.74,ENGLISH,,0,0,0,,THANK YOU!
-Dialogue: 0,1:33:21.69,1:33:24.40,ENGLISH,,0,0,0,,May it reach you
-Dialogue: 0,1:33:24.40,1:33:28.18,ENGLISH,,0,0,0,,Let me take your spilled tears
-Dialogue: 0,1:33:28.18,1:33:32.92,ENGLISH,,0,0,0,,and wrap you and them up in a fluffy towel
-Dialogue: 0,1:33:32.92,1:33:35.76,ENGLISH,,0,0,0,,May it reach you
-Dialogue: 0,1:33:35.76,1:33:39.44,ENGLISH,,0,0,0,,I’m looking up at the first star in the sky
-Dialogue: 0,1:33:39.44,1:33:44.72,ENGLISH,,0,0,0,,beyond the orange-clouded evening sky
-Dialogue: 0,1:33:44.72,1:33:50.32,ENGLISH,,0,0,0,,I know you’re more straightforward than anyone,
-Dialogue: 0,1:33:50.32,1:33:55.12,ENGLISH,,0,0,0,,so listen up well, okay, I’m giving you my all-time highest
-Dialogue: 0,1:33:55.12,1:33:56.17,ENGLISH,,0,0,0,,THANK YOU!
+Dialogue: 0,1:30:09.92,1:30:12.81,English Lyrics,,0,0,0,,I’ve gotten the feeling everything was set in motion
+Dialogue: 0,1:30:12.81,1:30:15.68,English Lyrics,,0,0,0,,the moment I opened that door
+Dialogue: 0,1:30:15.68,1:30:18.48,English Lyrics,,0,0,0,,My zero-gravity teenage days have been ticking away
+Dialogue: 0,1:30:18.48,1:30:24.54,English Lyrics,,0,0,0,,I race through them without even the time to catch my breath
+Dialogue: 0,1:30:32.56,1:30:35.42,English Lyrics,,0,0,0,,They say that’s “just like Cinderella”, but
+Dialogue: 0,1:30:35.42,1:30:38.25,English Lyrics,,0,0,0,,a flower doesn’t bloom in a day, does it?
+Dialogue: 0,1:30:38.25,1:30:41.06,English Lyrics,,0,0,0,,Even though I sigh for full-fledged adulthood
+Dialogue: 0,1:30:41.06,1:30:43.89,English Lyrics,,0,0,0,,I’ve still got plenty of growing up to do
+Dialogue: 0,1:30:43.89,1:30:46.72,English Lyrics,,0,0,0,,We’ve always been able to share a “sibling” type of closeness
+Dialogue: 0,1:30:46.72,1:30:49.56,English Lyrics,,0,0,0,,so even if I whine, you also dote on me
+Dialogue: 0,1:30:49.56,1:30:52.40,English Lyrics,,0,0,0,,It’s only when you scold my good-for-nothing self
+Dialogue: 0,1:30:52.40,1:30:55.17,English Lyrics,,0,0,0,,that you suddenly become serious
+Dialogue: 0,1:30:55.53,1:31:01.22,English Lyrics,,0,0,0,,I wanna laugh together with you in both ups and downs
+Dialogue: 0,1:31:01.22,1:31:06.10,English Lyrics,,0,0,0,,Do you understand that muddled statement? I want to tell you anyway
+Dialogue: 0,1:31:06.10,1:31:08.89,English Lyrics,,0,0,0,,I’ll pack my feelings towards you,
+Dialogue: 0,1:31:08.89,1:31:12.64,English Lyrics,,0,0,0,,the depths of my heart,
+Dialogue: 0,1:31:12.64,1:31:17.45,English Lyrics,,0,0,0,,into my singing voice and make it ring out with a boom
+Dialogue: 0,1:31:17.45,1:31:20.25,English Lyrics,,0,0,0,,May it reach you
+Dialogue: 0,1:31:20.25,1:31:23.89,English Lyrics,,0,0,0,,I’m looking up at the first star in the sky
+Dialogue: 0,1:31:23.89,1:31:28.58,English Lyrics,,0,0,0,,beyond the orange-clouded evening sky
+Dialogue: 0,1:31:29.22,1:31:34.88,English Lyrics,,0,0,0,,I know you’re more straightforward than anyone,
+Dialogue: 0,1:31:34.88,1:31:39.61,English Lyrics,,0,0,0,,so listen up well, okay, I’m giving you my all-time highest
+Dialogue: 0,1:31:39.61,1:31:40.72,English Lyrics,,0,0,0,,THANK YOU!
+Dialogue: 0,1:31:51.61,1:31:55.05,English Lyrics,,0,0,0,,Being too reckless is just right
+Dialogue: 0,1:31:55.05,1:31:57.29,English Lyrics,,0,0,0,,I try out various things, but
+Dialogue: 0,1:31:57.29,1:32:00.13,English Lyrics,,0,0,0,,when I stretch myself too far
+Dialogue: 0,1:32:00.13,1:32:02.94,English Lyrics,,0,0,0,,I grow numb and start stumbling right away
+Dialogue: 0,1:32:02.94,1:32:05.80,English Lyrics,,0,0,0,,I feel it each time I look at the hallway mirror
+Dialogue: 0,1:32:05.80,1:32:08.61,English Lyrics,,0,0,0,,“What’s unique about me?”
+Dialogue: 0,1:32:08.61,1:32:11.45,English Lyrics,,0,0,0,,I ask frustratedly and you
+Dialogue: 0,1:32:11.45,1:32:14.25,English Lyrics,,0,0,0,,give me a gentle pat on the head
+Dialogue: 0,1:32:14.57,1:32:20.12,English Lyrics,,0,0,0,,Rain or shine, I don’t want to leave any regrets
+Dialogue: 0,1:32:20.12,1:32:25.24,English Lyrics,,0,0,0,,No one else has ever given me the courage to keep going that you have
+Dialogue: 0,1:32:25.24,1:32:27.92,English Lyrics,,0,0,0,,May it reach you
+Dialogue: 0,1:32:27.92,1:32:31.64,English Lyrics,,0,0,0,,Face forward with all your body and soul,
+Dialogue: 0,1:32:31.64,1:32:36.45,English Lyrics,,0,0,0,,eyes shining bright
+Dialogue: 0,1:32:36.45,1:32:39.24,English Lyrics,,0,0,0,,Let it ring out to you
+Dialogue: 0,1:32:39.24,1:32:42.97,English Lyrics,,0,0,0,,under this sky that connects us,
+Dialogue: 0,1:32:42.97,1:32:47.97,English Lyrics,,0,0,0,,my heart with its beat that beats in time with yours
+Dialogue: 0,1:32:48.26,1:32:53.92,English Lyrics,,0,0,0,,I’ll dedicate this to you, the biggest crybaby of them all
+Dialogue: 0,1:32:53.92,1:32:58.70,English Lyrics,,0,0,0,,It’s a feeling that I’ve always kept hidden...my all-time highest
+Dialogue: 0,1:32:58.70,1:32:59.74,English Lyrics,,0,0,0,,THANK YOU!
+Dialogue: 0,1:33:21.69,1:33:24.40,English Lyrics,,0,0,0,,May it reach you
+Dialogue: 0,1:33:24.40,1:33:28.18,English Lyrics,,0,0,0,,Let me take your spilled tears
+Dialogue: 0,1:33:28.18,1:33:32.92,English Lyrics,,0,0,0,,and wrap you and them up in a fluffy towel
+Dialogue: 0,1:33:32.92,1:33:35.76,English Lyrics,,0,0,0,,May it reach you
+Dialogue: 0,1:33:35.76,1:33:39.44,English Lyrics,,0,0,0,,I’m looking up at the first star in the sky
+Dialogue: 0,1:33:39.44,1:33:44.72,English Lyrics,,0,0,0,,beyond the orange-clouded evening sky
+Dialogue: 0,1:33:44.72,1:33:50.32,English Lyrics,,0,0,0,,I know you’re more straightforward than anyone,
+Dialogue: 0,1:33:50.32,1:33:55.12,English Lyrics,,0,0,0,,so listen up well, okay, I’m giving you my all-time highest
+Dialogue: 0,1:33:55.12,1:33:56.17,English Lyrics,,0,0,0,,THANK YOU!

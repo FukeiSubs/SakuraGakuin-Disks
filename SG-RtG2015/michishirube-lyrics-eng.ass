@@ -14,57 +14,57 @@ Video Position: 126572
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: English Lyrics,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:10:23.98,1:10:27.00,Default,,0,0,0,,I move my bangs which I cut short
-Dialogue: 0,1:10:27.00,1:10:29.50,Default,,0,0,0,,A wind of the shining spring blows
-Dialogue: 0,1:10:29.50,1:10:32.12,Default,,0,0,0,,in the albums I hold deep within my heart
-Dialogue: 0,1:10:32.12,1:10:35.34,Default,,0,0,0,,The smiles of my treasured friends are countless
-Dialogue: 0,1:10:35.34,1:10:37.86,Default,,0,0,0,,As if we were steadily growing taller
-Dialogue: 0,1:10:37.86,1:10:40.48,Default,,0,0,0,,we have come together to lift one another up
-Dialogue: 0,1:10:40.48,1:10:43.96,Default,,0,0,0,,while locking eyes
-Dialogue: 0,1:10:43.96,1:10:47.30,Default,,0,0,0,,With this pure heart
-Dialogue: 0,1:10:47.30,1:10:49.88,Default,,0,0,0,,The sound of the dream we performed
-Dialogue: 0,1:10:49.88,1:10:55.32,Default,,0,0,0,,In those days when we made the truest of hopes to bloom
-Dialogue: 0,1:10:55.32,1:10:58.06,Default,,0,0,0,,But nobody was ever alone
-Dialogue: 0,1:10:58.06,1:11:02.06,Default,,0,0,0,,because I saw them all facing intently forward
-Dialogue: 0,1:11:02.06,1:11:08.96,Default,,0,0,0,,and so we have arrived here
-Dialogue: 0,1:11:09.82,1:11:15.66,Default,,0,0,0,,There has been born into this world
-Dialogue: 0,1:11:15.66,1:11:20.48,Default,,0,0,0,,no person whom we can do without
-Dialogue: 0,1:11:20.48,1:11:26.28,Default,,0,0,0,,With each twig, leaf, and flower connected
-Dialogue: 0,1:11:26.28,1:11:31.12,Default,,0,0,0,,we grow them all into a great tree
-Dialogue: 0,1:11:31.12,1:11:36.26,Default,,0,0,0,,We wrote on looseleaf
-Dialogue: 0,1:11:36.26,1:11:41.46,Default,,0,0,0,,an unfinished tale
-Dialogue: 0,1:11:41.46,1:11:46.96,Default,,0,0,0,,Each person keeps on drawing it
-Dialogue: 0,1:11:46.96,1:11:55.18,Default,,0,0,0,,and from this we have already begun our map to the future
-Dialogue: 0,1:12:07.22,1:12:10.04,Default,,0,0,0,,As if you were leaping over a vault
-Dialogue: 0,1:12:10.04,1:12:12.68,Default,,0,0,0,,you overcame your unease
-Dialogue: 0,1:12:12.68,1:12:15.32,Default,,0,0,0,,But only 5mm more to go
-Dialogue: 0,1:12:15.32,1:12:18.52,Default,,0,0,0,,striving for it is tough and rather disheartening
-Dialogue: 0,1:12:18.52,1:12:21.14,Default,,0,0,0,,That you did it without showing your tears
-Dialogue: 0,1:12:21.14,1:12:23.72,Default,,0,0,0,,is testimony to the belief you have in yourself
-Dialogue: 0,1:12:23.72,1:12:27.18,Default,,0,0,0,,Your pains become as feathers
-Dialogue: 0,1:12:27.18,1:12:30.54,Default,,0,0,0,,For the grammar I learned
-Dialogue: 0,1:12:30.54,1:12:33.04,Default,,0,0,0,,Friendships which gave me strength
-Dialogue: 0,1:12:33.04,1:12:38.62,Default,,0,0,0,,Even the roots of my troubles are the pieces of tomorrow
-Dialogue: 0,1:12:38.62,1:12:41.24,Default,,0,0,0,,All along we’ve been challenging one another through our rivalries
-Dialogue: 0,1:12:41.24,1:12:45.32,Default,,0,0,0,,From that day having grown more steadfast
-Dialogue: 0,1:12:45.32,1:12:52.24,Default,,0,0,0,,we hand over our light
-Dialogue: 0,1:12:53.04,1:12:58.84,Default,,0,0,0,,All over this world
-Dialogue: 0,1:12:58.84,1:13:03.64,Default,,0,0,0,,everyone is trying their best
-Dialogue: 0,1:13:03.64,1:13:09.50,Default,,0,0,0,,Simply by imagining so we can make ourselves happy
-Dialogue: 0,1:13:09.50,1:13:14.36,Default,,0,0,0,,beneath the same vast sky
-Dialogue: 0,1:13:14.36,1:13:19.50,Default,,0,0,0,,The times we came together for support
-Dialogue: 0,1:13:19.50,1:13:24.58,Default,,0,0,0,,are as a map for the days when we have gone astray
-Dialogue: 0,1:13:24.58,1:13:30.06,Default,,0,0,0,,A cherry blossom which heads for the future at the front line
-Dialogue: 0,1:13:30.06,1:13:38.56,Default,,0,0,0,,We make these footprints to shine, an unknown guidepost
-Dialogue: 0,1:13:57.60,1:14:03.34,Default,,0,0,0,,What meaning there is in this world
-Dialogue: 0,1:14:03.34,1:14:08.24,Default,,0,0,0,,we do not yet know
-Dialogue: 0,1:14:08.24,1:14:14.00,Default,,0,0,0,,But if we dig out some sort of tunnel, surely
-Dialogue: 0,1:14:14.00,1:14:18.90,Default,,0,0,0,,there will be a dazzling view
-Dialogue: 0,1:14:18.90,1:14:24.04,Default,,0,0,0,,We wrote on looseleaf
-Dialogue: 0,1:14:24.04,1:14:29.20,Default,,0,0,0,,an unfinished tale
-Dialogue: 0,1:14:29.20,1:14:34.72,Default,,0,0,0,,Each person keeps on drawing it
-Dialogue: 0,1:14:34.72,1:14:42.96,Default,,0,0,0,,and from this we have already begun our map to the future
+Dialogue: 0,1:10:23.98,1:10:27.00,English Lyrics,,0,0,0,,I move my bangs which I cut short
+Dialogue: 0,1:10:27.00,1:10:29.50,English Lyrics,,0,0,0,,A wind of the shining spring blows
+Dialogue: 0,1:10:29.50,1:10:32.12,English Lyrics,,0,0,0,,in the albums I hold deep within my heart
+Dialogue: 0,1:10:32.12,1:10:35.34,English Lyrics,,0,0,0,,The smiles of my treasured friends are countless
+Dialogue: 0,1:10:35.34,1:10:37.86,English Lyrics,,0,0,0,,As if we were steadily growing taller
+Dialogue: 0,1:10:37.86,1:10:40.48,English Lyrics,,0,0,0,,we have come together to lift one another up
+Dialogue: 0,1:10:40.48,1:10:43.96,English Lyrics,,0,0,0,,while locking eyes
+Dialogue: 0,1:10:43.96,1:10:47.30,English Lyrics,,0,0,0,,With this pure heart
+Dialogue: 0,1:10:47.30,1:10:49.88,English Lyrics,,0,0,0,,The sound of the dream we performed
+Dialogue: 0,1:10:49.88,1:10:55.32,English Lyrics,,0,0,0,,In those days when we made the truest of hopes to bloom
+Dialogue: 0,1:10:55.32,1:10:58.06,English Lyrics,,0,0,0,,But nobody was ever alone
+Dialogue: 0,1:10:58.06,1:11:02.06,English Lyrics,,0,0,0,,because I saw them all facing intently forward
+Dialogue: 0,1:11:02.06,1:11:08.96,English Lyrics,,0,0,0,,and so we have arrived here
+Dialogue: 0,1:11:09.82,1:11:15.66,English Lyrics,,0,0,0,,There has been born into this world
+Dialogue: 0,1:11:15.66,1:11:20.48,English Lyrics,,0,0,0,,no person whom we can do without
+Dialogue: 0,1:11:20.48,1:11:26.28,English Lyrics,,0,0,0,,With each twig, leaf, and flower connected
+Dialogue: 0,1:11:26.28,1:11:31.12,English Lyrics,,0,0,0,,we grow them all into a great tree
+Dialogue: 0,1:11:31.12,1:11:36.26,English Lyrics,,0,0,0,,We wrote on looseleaf
+Dialogue: 0,1:11:36.26,1:11:41.46,English Lyrics,,0,0,0,,an unfinished tale
+Dialogue: 0,1:11:41.46,1:11:46.96,English Lyrics,,0,0,0,,Each person keeps on drawing it
+Dialogue: 0,1:11:46.96,1:11:55.18,English Lyrics,,0,0,0,,and from this we have already begun our map to the future
+Dialogue: 0,1:12:07.22,1:12:10.04,English Lyrics,,0,0,0,,As if you were leaping over a vault
+Dialogue: 0,1:12:10.04,1:12:12.68,English Lyrics,,0,0,0,,you overcame your unease
+Dialogue: 0,1:12:12.68,1:12:15.32,English Lyrics,,0,0,0,,But only 5mm more to go
+Dialogue: 0,1:12:15.32,1:12:18.52,English Lyrics,,0,0,0,,striving for it is tough and rather disheartening
+Dialogue: 0,1:12:18.52,1:12:21.14,English Lyrics,,0,0,0,,That you did it without showing your tears
+Dialogue: 0,1:12:21.14,1:12:23.72,English Lyrics,,0,0,0,,is testimony to the belief you have in yourself
+Dialogue: 0,1:12:23.72,1:12:27.18,English Lyrics,,0,0,0,,Your pains become as feathers
+Dialogue: 0,1:12:27.18,1:12:30.54,English Lyrics,,0,0,0,,For the grammar I learned
+Dialogue: 0,1:12:30.54,1:12:33.04,English Lyrics,,0,0,0,,Friendships which gave me strength
+Dialogue: 0,1:12:33.04,1:12:38.62,English Lyrics,,0,0,0,,Even the roots of my troubles are the pieces of tomorrow
+Dialogue: 0,1:12:38.62,1:12:41.24,English Lyrics,,0,0,0,,All along we’ve been challenging one another through our rivalries
+Dialogue: 0,1:12:41.24,1:12:45.32,English Lyrics,,0,0,0,,From that day having grown more steadfast
+Dialogue: 0,1:12:45.32,1:12:52.24,English Lyrics,,0,0,0,,we hand over our light
+Dialogue: 0,1:12:53.04,1:12:58.84,English Lyrics,,0,0,0,,All over this world
+Dialogue: 0,1:12:58.84,1:13:03.64,English Lyrics,,0,0,0,,everyone is trying their best
+Dialogue: 0,1:13:03.64,1:13:09.50,English Lyrics,,0,0,0,,Simply by imagining so we can make ourselves happy
+Dialogue: 0,1:13:09.50,1:13:14.36,English Lyrics,,0,0,0,,beneath the same vast sky
+Dialogue: 0,1:13:14.36,1:13:19.50,English Lyrics,,0,0,0,,The times we came together for support
+Dialogue: 0,1:13:19.50,1:13:24.58,English Lyrics,,0,0,0,,are as a map for the days when we have gone astray
+Dialogue: 0,1:13:24.58,1:13:30.06,English Lyrics,,0,0,0,,A cherry blossom which heads for the future at the front line
+Dialogue: 0,1:13:30.06,1:13:38.56,English Lyrics,,0,0,0,,We make these footprints to shine, an unknown guidepost
+Dialogue: 0,1:13:57.60,1:14:03.34,English Lyrics,,0,0,0,,What meaning there is in this world
+Dialogue: 0,1:14:03.34,1:14:08.24,English Lyrics,,0,0,0,,we do not yet know
+Dialogue: 0,1:14:08.24,1:14:14.00,English Lyrics,,0,0,0,,But if we dig out some sort of tunnel, surely
+Dialogue: 0,1:14:14.00,1:14:18.90,English Lyrics,,0,0,0,,there will be a dazzling view
+Dialogue: 0,1:14:18.90,1:14:24.04,English Lyrics,,0,0,0,,We wrote on looseleaf
+Dialogue: 0,1:14:24.04,1:14:29.20,English Lyrics,,0,0,0,,an unfinished tale
+Dialogue: 0,1:14:29.20,1:14:34.72,English Lyrics,,0,0,0,,Each person keeps on drawing it
+Dialogue: 0,1:14:34.72,1:14:42.96,English Lyrics,,0,0,0,,and from this we have already begun our map to the future

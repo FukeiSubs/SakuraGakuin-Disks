@@ -21,7 +21,7 @@ Video Position: 81210
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: English Lyrics,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -60,7 +60,7 @@ Dialogue: 0,0:43:58.72,0:44:01.92,English Lyrics,,0,0,0,,Please, please, please,
 Dialogue: 0,0:44:01.92,0:44:04.30,English Lyrics,,0,0,0,,Find me, look for the one with me on it!
 Dialogue: 0,0:44:04.30,0:44:07.38,English Lyrics,,0,0,0,,The one I always get is So-nano, So-nano, Soyo…
 Dialogue: 0,0:44:07.38,0:44:11.44,English Lyrics,,0,0,0,,What!? You don't like Soyo!? Well, fine then, give it back!!!
-Dialogue: 0,0:44:11.16,0:44:12.50,Default,,0,0,0,,You don't want it?
+Dialogue: 0,0:44:11.16,0:44:12.50,English Lyrics,,0,0,0,,You don't want it?
 Dialogue: 0,0:44:13.86,0:44:16.98,English Lyrics,,0,0,0,,What? Well, I'll take it then~!!
 Dialogue: 0,0:44:18.30,0:44:21.06,English Lyrics,,0,0,0,,Check out this piece! Check out this piece!
 Dialogue: 0,0:44:21.06,0:44:23.78,English Lyrics,,0,0,0,,Check out this piece! Che-che-check it out!

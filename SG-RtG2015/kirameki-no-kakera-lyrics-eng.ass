@@ -20,62 +20,56 @@ Video Position: 48383
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: English,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,2,10,10,10,1
-Style: Romaji,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,0,1
-Style: Japanese,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
-Style: Song Title,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
-Style: Credits 2,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,3,10,10,10,1
-Style: Credits 1,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,1,10,10,10,1
+Style: English Lyrics,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:24:11.03,0:24:16.48,English,,0,0,0,,I let out a huge sigh into the overcast sky
-Dialogue: 0,0:24:17.03,0:24:22.08,English,,0,0,0,,It feels like I’m being driven by unrelenting pressure \N(like I’m being swallowed by it)
-Dialogue: 0,0:24:22.08,0:24:25.55,English,,0,0,0,,Ah, this is a very major step
-Dialogue: 0,0:24:25.55,0:24:29.06,English,,0,0,0,,Too absorbed in that, I rushed away
-Dialogue: 0,0:24:29.06,0:24:34.23,English,,0,0,0,,Aggravating my impatience even worse, I stay sulky (A self-sabotaging attitude)
-Dialogue: 0,0:24:34.48,0:24:40.32,English,,0,0,0,,It’s just as I thought, I’m still being spoiled by you
-Dialogue: 0,0:24:40.32,0:24:45.86,English,,0,0,0,,I can’t win against myself like this
-Dialogue: 0,0:24:45.92,0:24:49.30,English,,0,0,0,,I’ll break out of my shell this instant
-Dialogue: 0,0:24:49.39,0:24:52.23,English,,0,0,0,,And go look for shards of glimmer
-Dialogue: 0,0:24:52.30,0:24:55.27,English,,0,0,0,,That’s not to say that I’m no longer wavering,
-Dialogue: 0,0:24:55.27,0:24:58.02,English,,0,0,0,,But I’m moving ahead, even so!
-Dialogue: 0,0:24:58.02,0:25:01.35,English,,0,0,0,,You, who seem to give off light
-Dialogue: 0,0:25:01.46,0:25:04.28,English,,0,0,0,,With an off-the-cuff kindness that comes from the bottom of your heart—
-Dialogue: 0,0:25:04.33,0:25:07.29,English,,0,0,0,,You simply believe
-Dialogue: 0,0:25:07.29,0:25:10.31,English,,0,0,0,,In this bud of potential, so
-Dialogue: 0,0:25:10.31,0:25:11.96,English,,0,0,0,,Please watch
-Dialogue: 0,0:25:12.01,0:25:14.35,English,,0,0,0,,My starry days☆
-Dialogue: 0,0:25:32.02,0:25:37.85,English,,0,0,0,,When I’m given a sudden task, my contrarian soul gets flustered
-Dialogue: 0,0:25:38.01,0:25:43.09,English,,0,0,0,,Why do I pointlessly try to look cool? (My personality gets weird)
-Dialogue: 0,0:25:43.13,0:25:46.50,English,,0,0,0,,Ah, I threw out too many ad-libbed remarks
-Dialogue: 0,0:25:46.53,0:25:50.00,English,,0,0,0,,And get called to the teachers’ office again
-Dialogue: 0,0:25:50.00,0:25:55.17,English,,0,0,0,,Struggling with all my might to get high praise (A girl’s etude)
-Dialogue: 0,0:25:55.70,0:26:01.16,English,,0,0,0,,As expected, once again I’ve caused trouble for you
-Dialogue: 0,0:26:01.29,0:26:06.90,English,,0,0,0,,At the very least, I want to become able to be frank with you in times like these
-Dialogue: 0,0:26:06.90,0:26:10.52,English,,0,0,0,,Once two or more racing hearts are gathered together,
-Dialogue: 0,0:26:10.52,0:26:13.30,English,,0,0,0,,Infinite dreams burst into giddiness
-Dialogue: 0,0:26:13.30,0:26:16.31,English,,0,0,0,,Even if they’re all subjects I’m still bad at,
-Dialogue: 0,0:26:16.31,0:26:19.10,English,,0,0,0,,I can’t sit still!
-Dialogue: 0,0:26:19.10,0:26:22.33,English,,0,0,0,,As this fluffy, tickling affection
-Dialogue: 0,0:26:22.56,0:26:25.29,English,,0,0,0,,Grows bigger and bigger, filling up my heart
-Dialogue: 0,0:26:25.29,0:26:28.31,English,,0,0,0,,I’ll convey it to you with everything I’ve got,
-Dialogue: 0,0:26:28.31,0:26:31.27,English,,0,0,0,,Before I wind up just holding my breath
-Dialogue: 0,0:26:31.33,0:26:32.70,English,,0,0,0,,So please look at
-Dialogue: 0,0:26:32.84,0:26:35.26,English,,0,0,0,,My shy starry smile☆
-Dialogue: 0,0:26:48.16,0:26:51.66,English,,0,0,0,,Let us hear your loud hand clapping!
-Dialogue: 0,0:27:10.62,0:27:16.69,English,,0,0,0,,Hey, whenever I gaze at you,
-Dialogue: 0,0:27:16.69,0:27:22.27,English,,0,0,0,,I realize my true feelings
-Dialogue: 0,0:27:22.65,0:27:27.69,English,,0,0,0,,Embracing this self that wants to become steadfast and unwavering
-Dialogue: 0,0:27:27.89,0:27:34.17,English,,0,0,0,,Tight, tight
-Dialogue: 0,0:27:36.89,0:27:40.33,English,,0,0,0,,Whenever I spot that face,
-Dialogue: 0,0:27:40.41,0:27:43.35,English,,0,0,0,,My world always suddenly starts dancing
-Dialogue: 0,0:27:43.35,0:27:46.31,English,,0,0,0,,Look! As the flowers of our smiles bloom
-Dialogue: 0,0:27:46.31,0:27:49.26,English,,0,0,0,,Our hearts are connected
-Dialogue: 0,0:27:49.26,0:27:52.53,English,,0,0,0,,You, who seem to give off light
-Dialogue: 0,0:27:52.55,0:27:55.30,English,,0,0,0,,With an off-the-cuff kindness that comes from the bottom of your heart—
-Dialogue: 0,0:27:55.30,0:27:58.28,English,,0,0,0,,You simply believe
-Dialogue: 0,0:27:58.28,0:28:01.37,English,,0,0,0,,In this bud of potential, so
-Dialogue: 0,0:28:01.37,0:28:02.85,English,,0,0,0,,Please watch
-Dialogue: 0,0:28:03.00,0:28:05.39,English,,0,0,0,,My starry days☆
+Dialogue: 0,0:24:11.03,0:24:16.48,English Lyrics,,0,0,0,,I let out a huge sigh into the overcast sky
+Dialogue: 0,0:24:17.03,0:24:22.08,English Lyrics,,0,0,0,,It feels like I’m being driven by unrelenting pressure \N(like I’m being swallowed by it)
+Dialogue: 0,0:24:22.08,0:24:25.55,English Lyrics,,0,0,0,,Ah, this is a very major step
+Dialogue: 0,0:24:25.55,0:24:29.06,English Lyrics,,0,0,0,,Too absorbed in that, I rushed away
+Dialogue: 0,0:24:29.06,0:24:34.23,English Lyrics,,0,0,0,,Aggravating my impatience even worse, I stay sulky (A self-sabotaging attitude)
+Dialogue: 0,0:24:34.48,0:24:40.32,English Lyrics,,0,0,0,,It’s just as I thought, I’m still being spoiled by you
+Dialogue: 0,0:24:40.32,0:24:45.86,English Lyrics,,0,0,0,,I can’t win against myself like this
+Dialogue: 0,0:24:45.92,0:24:49.30,English Lyrics,,0,0,0,,I’ll break out of my shell this instant
+Dialogue: 0,0:24:49.39,0:24:52.23,English Lyrics,,0,0,0,,And go look for shards of glimmer
+Dialogue: 0,0:24:52.30,0:24:55.27,English Lyrics,,0,0,0,,That’s not to say that I’m no longer wavering,
+Dialogue: 0,0:24:55.27,0:24:58.02,English Lyrics,,0,0,0,,But I’m moving ahead, even so!
+Dialogue: 0,0:24:58.02,0:25:01.35,English Lyrics,,0,0,0,,You, who seem to give off light
+Dialogue: 0,0:25:01.46,0:25:04.28,English Lyrics,,0,0,0,,With an off-the-cuff kindness that comes from the bottom of your heart—
+Dialogue: 0,0:25:04.33,0:25:07.29,English Lyrics,,0,0,0,,You simply believe
+Dialogue: 0,0:25:07.29,0:25:10.31,English Lyrics,,0,0,0,,In this bud of potential, so
+Dialogue: 0,0:25:10.31,0:25:11.96,English Lyrics,,0,0,0,,Please watch
+Dialogue: 0,0:25:12.01,0:25:14.35,English Lyrics,,0,0,0,,My starry days☆
+Dialogue: 0,0:25:32.02,0:25:37.85,English Lyrics,,0,0,0,,When I’m given a sudden task, my contrarian soul gets flustered
+Dialogue: 0,0:25:38.01,0:25:43.09,English Lyrics,,0,0,0,,Why do I pointlessly try to look cool? (My personality gets weird)
+Dialogue: 0,0:25:43.13,0:25:46.50,English Lyrics,,0,0,0,,Ah, I threw out too many ad-libbed remarks
+Dialogue: 0,0:25:46.53,0:25:50.00,English Lyrics,,0,0,0,,And get called to the teachers’ office again
+Dialogue: 0,0:25:50.00,0:25:55.17,English Lyrics,,0,0,0,,Struggling with all my might to get high praise (A girl’s etude)
+Dialogue: 0,0:25:55.70,0:26:01.16,English Lyrics,,0,0,0,,As expected, once again I’ve caused trouble for you
+Dialogue: 0,0:26:01.29,0:26:06.90,English Lyrics,,0,0,0,,At the very least, I want to become able to be frank with you in times like these
+Dialogue: 0,0:26:06.90,0:26:10.52,English Lyrics,,0,0,0,,Once two or more racing hearts are gathered together,
+Dialogue: 0,0:26:10.52,0:26:13.30,English Lyrics,,0,0,0,,Infinite dreams burst into giddiness
+Dialogue: 0,0:26:13.30,0:26:16.31,English Lyrics,,0,0,0,,Even if they’re all subjects I’m still bad at,
+Dialogue: 0,0:26:16.31,0:26:19.10,English Lyrics,,0,0,0,,I can’t sit still!
+Dialogue: 0,0:26:19.10,0:26:22.33,English Lyrics,,0,0,0,,As this fluffy, tickling affection
+Dialogue: 0,0:26:22.56,0:26:25.29,English Lyrics,,0,0,0,,Grows bigger and bigger, filling up my heart
+Dialogue: 0,0:26:25.29,0:26:28.31,English Lyrics,,0,0,0,,I’ll convey it to you with everything I’ve got,
+Dialogue: 0,0:26:28.31,0:26:31.27,English Lyrics,,0,0,0,,Before I wind up just holding my breath
+Dialogue: 0,0:26:31.33,0:26:32.70,English Lyrics,,0,0,0,,So please look at
+Dialogue: 0,0:26:32.84,0:26:35.26,English Lyrics,,0,0,0,,My shy starry smile☆
+Dialogue: 0,0:26:48.16,0:26:51.66,English Lyrics,,0,0,0,,Let us hear your loud hand clapping!
+Dialogue: 0,0:27:10.62,0:27:16.69,English Lyrics,,0,0,0,,Hey, whenever I gaze at you,
+Dialogue: 0,0:27:16.69,0:27:22.27,English Lyrics,,0,0,0,,I realize my true feelings
+Dialogue: 0,0:27:22.65,0:27:27.69,English Lyrics,,0,0,0,,Embracing this self that wants to become steadfast and unwavering
+Dialogue: 0,0:27:27.89,0:27:34.17,English Lyrics,,0,0,0,,Tight, tight
+Dialogue: 0,0:27:36.89,0:27:40.33,English Lyrics,,0,0,0,,Whenever I spot that face,
+Dialogue: 0,0:27:40.41,0:27:43.35,English Lyrics,,0,0,0,,My world always suddenly starts dancing
+Dialogue: 0,0:27:43.35,0:27:46.31,English Lyrics,,0,0,0,,Look! As the flowers of our smiles bloom
+Dialogue: 0,0:27:46.31,0:27:49.26,English Lyrics,,0,0,0,,Our hearts are connected
+Dialogue: 0,0:27:49.26,0:27:52.53,English Lyrics,,0,0,0,,You, who seem to give off light
+Dialogue: 0,0:27:52.55,0:27:55.30,English Lyrics,,0,0,0,,With an off-the-cuff kindness that comes from the bottom of your heart—
+Dialogue: 0,0:27:55.30,0:27:58.28,English Lyrics,,0,0,0,,You simply believe
+Dialogue: 0,0:27:58.28,0:28:01.37,English Lyrics,,0,0,0,,In this bud of potential, so
+Dialogue: 0,0:28:01.37,0:28:02.85,English Lyrics,,0,0,0,,Please watch
+Dialogue: 0,0:28:03.00,0:28:05.39,English Lyrics,,0,0,0,,My starry days☆
