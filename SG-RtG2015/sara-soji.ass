@@ -23,11 +23,7 @@ Video Position: 204944
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.555555,0.555555,2,6,6,6,1
-Style: Main Dialogue,Ubuntu,72,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,3.8,0,2,101,101,63,0
-Style: Nametag Saku,Ubuntu,53,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,3,14,0,5,0,0,50,0
-Style: Watermark Saku,Sans,48,&H00FFFFFF,&H000000FF,&H00005E00,&H00000000,-1,0,0,0,102,100,0,0,3,5,0,2,101,101,42,0
-Style: Placeholder,Ubuntu,36,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,3,14,0,5,0,0,50,0
+Style: Default,Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
