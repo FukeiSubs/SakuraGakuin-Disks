@@ -13,45 +13,39 @@ Active Line: 31
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: English,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,2,10,10,10,1
-Style: Romaji,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,0,1
-Style: Japanese,Cambria,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
-Style: Song Title,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
-Style: Credits 2,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,3,10,10,10,1
-Style: Credits 1,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,1,10,10,10,1
+Style: Japanese Lyrics,@Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,2,2,9,500,0,460,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:16:28.93,1:16:35.09,Japanese,,0,0,0,,あの日の鏡に映る 眩しいシルエット
-Dialogue: 0,1:16:35.09,1:16:41.24,Japanese,,0,0,0,,可憐な姿 憧れていた 私がいた
-Dialogue: 0,1:16:41.24,1:16:47.39,Japanese,,0,0,0,,無邪気ってコトバから はみ出すキミのことを
-Dialogue: 0,1:16:47.39,1:16:53.39,Japanese,,0,0,0,,たしなめるのも けしかけるのも 癖になった
-Dialogue: 0,1:16:53.39,1:16:59.71,Japanese,,0,0,0,,何も言わなくても なぜか伝わるんだ
-Dialogue: 0,1:16:59.71,1:17:05.13,Japanese,,0,0,0,,喜怒哀楽も このキンチョ — も キミの所為でしょ！？
-Dialogue: 0,1:17:05.59,1:17:09.30,Japanese,,0,0,0,,いっぱい 笑いあって 刺激しあって
-Dialogue: 0,1:17:09.30,1:17:12.53,Japanese,,0,0,0,,重ねた感情ミルフィ — ユ
-Dialogue: 0,1:17:12.53,1:17:17.85,Japanese,,0,0,0,,奏でるんだ 虹色のハ — モニ —
-Dialogue: 0,1:17:17.85,1:17:21.70,Japanese,,0,0,0,,バイバイ 悔しくって涙流した
-Dialogue: 0,1:17:21.70,1:17:29.71,Japanese,,0,0,0,,不器用な私に 今は泣かないで言えるよ
-Dialogue: 0,1:17:29.71,1:17:31.43,Japanese,,0,0,0,,じゃあ,  また明日
-Dialogue: 0,1:17:42.74,1:17:48.97,Japanese,,0,0,0,,最近のキミはさ 空だけを見つめて
-Dialogue: 0,1:17:48.97,1:17:54.99,Japanese,,0,0,0,,揺るぎない瞳めで 無限の夢を 語ってるけど
-Dialogue: 0,1:17:54.99,1:18:01.17,Japanese,,0,0,0,,リボンを解いたら 大人になる合図
-Dialogue: 0,1:18:01.17,1:18:07.19,Japanese,,0,0,0,,置いて行かないでそんな弱音が 零れそうだよ
-Dialogue: 0,1:18:07.19,1:18:13.51,Japanese,,0,0,0,,並べるヒザとヒザ 伝わる温もりに
-Dialogue: 0,1:18:13.51,1:18:18.89,Japanese,,0,0,0,,ムキになって 強がる心 優しく溶けた
-Dialogue: 0,1:18:19.45,1:18:23.23,Japanese,,0,0,0,,いっぱい ふざけ合って 怒られたって
-Dialogue: 0,1:18:23.23,1:18:26.38,Japanese,,0,0,0,,崩れない感情ミルフィ — ユ
-Dialogue: 0,1:18:26.38,1:18:31.69,Japanese,,0,0,0,,このプライド 誰にも壊せない
-Dialogue: 0,1:18:31.69,1:18:35.50,Japanese,,0,0,0,,絶対！ 自分らしく伝えたいんだ
-Dialogue: 0,1:18:35.50,1:18:43.51,Japanese,,0,0,0,,未完成だとしても 恥ずかしがらずに言うから
-Dialogue: 0,1:18:43.51,1:18:45.35,Japanese,,0,0,0,,いつも,  ありがと
-Dialogue: 0,1:19:10.30,1:19:16.59,Japanese,,0,0,0,,始まりの証に 揃えたストラップ
-Dialogue: 0,1:19:16.59,1:19:22.06,Japanese,,0,0,0,,キミがくれた時からは もう 色褪せたけど
-Dialogue: 0,1:19:22.59,1:19:26.34,Japanese,,0,0,0,,一生 笑い合って 刺激し合って
-Dialogue: 0,1:19:26.34,1:19:29.42,Japanese,,0,0,0,,重ねたい友情ミルフィ — ユ
-Dialogue: 0,1:19:29.42,1:19:34.85,Japanese,,0,0,0,,世界中に 虹色のハ — モニ —
-Dialogue: 0,1:19:34.85,1:19:38.61,Japanese,,0,0,0,,バイバイ 悔しくって涙流した
-Dialogue: 0,1:19:38.61,1:19:46.57,Japanese,,0,0,0,,不器用な私に 今は泣かないで言えるよ
-Dialogue: 0,1:19:46.57,1:19:48.25,Japanese,,0,0,0,,じゃあ,  また明日
+Dialogue: 0,1:16:28.93,1:16:35.09,Japanese Lyrics,,0,0,0,,あの日の鏡に映る 眩しいシルエット
+Dialogue: 0,1:16:35.09,1:16:41.24,Japanese Lyrics,,0,0,0,,可憐な姿 憧れていた 私がいた
+Dialogue: 0,1:16:41.24,1:16:47.39,Japanese Lyrics,,0,0,0,,無邪気ってコトバから はみ出すキミのことを
+Dialogue: 0,1:16:47.39,1:16:53.39,Japanese Lyrics,,0,0,0,,たしなめるのも けしかけるのも 癖になった
+Dialogue: 0,1:16:53.39,1:16:59.71,Japanese Lyrics,,0,0,0,,何も言わなくても なぜか伝わるんだ
+Dialogue: 0,1:16:59.71,1:17:05.13,Japanese Lyrics,,0,0,0,,喜怒哀楽も このキンチョ — も キミの所為でしょ！？
+Dialogue: 0,1:17:05.59,1:17:09.30,Japanese Lyrics,,0,0,0,,いっぱい 笑いあって 刺激しあって
+Dialogue: 0,1:17:09.30,1:17:12.53,Japanese Lyrics,,0,0,0,,重ねた感情ミルフィ — ユ
+Dialogue: 0,1:17:12.53,1:17:17.85,Japanese Lyrics,,0,0,0,,奏でるんだ 虹色のハ — モニ —
+Dialogue: 0,1:17:17.85,1:17:21.70,Japanese Lyrics,,0,0,0,,バイバイ 悔しくって涙流した
+Dialogue: 0,1:17:21.70,1:17:29.71,Japanese Lyrics,,0,0,0,,不器用な私に 今は泣かないで言えるよ
+Dialogue: 0,1:17:29.71,1:17:31.43,Japanese Lyrics,,0,0,0,,じゃあ,  また明日
+Dialogue: 0,1:17:42.74,1:17:48.97,Japanese Lyrics,,0,0,0,,最近のキミはさ 空だけを見つめて
+Dialogue: 0,1:17:48.97,1:17:54.99,Japanese Lyrics,,0,0,0,,揺るぎない瞳めで 無限の夢を 語ってるけど
+Dialogue: 0,1:17:54.99,1:18:01.17,Japanese Lyrics,,0,0,0,,リボンを解いたら 大人になる合図
+Dialogue: 0,1:18:01.17,1:18:07.19,Japanese Lyrics,,0,0,0,,置いて行かないでそんな弱音が 零れそうだよ
+Dialogue: 0,1:18:07.19,1:18:13.51,Japanese Lyrics,,0,0,0,,並べるヒザとヒザ 伝わる温もりに
+Dialogue: 0,1:18:13.51,1:18:18.89,Japanese Lyrics,,0,0,0,,ムキになって 強がる心 優しく溶けた
+Dialogue: 0,1:18:19.45,1:18:23.23,Japanese Lyrics,,0,0,0,,いっぱい ふざけ合って 怒られたって
+Dialogue: 0,1:18:23.23,1:18:26.38,Japanese Lyrics,,0,0,0,,崩れない感情ミルフィ — ユ
+Dialogue: 0,1:18:26.38,1:18:31.69,Japanese Lyrics,,0,0,0,,このプライド 誰にも壊せない
+Dialogue: 0,1:18:31.69,1:18:35.50,Japanese Lyrics,,0,0,0,,絶対！ 自分らしく伝えたいんだ
+Dialogue: 0,1:18:35.50,1:18:43.51,Japanese Lyrics,,0,0,0,,未完成だとしても 恥ずかしがらずに言うから
+Dialogue: 0,1:18:43.51,1:18:45.35,Japanese Lyrics,,0,0,0,,いつも,  ありがと
+Dialogue: 0,1:19:10.30,1:19:16.59,Japanese Lyrics,,0,0,0,,始まりの証に 揃えたストラップ
+Dialogue: 0,1:19:16.59,1:19:22.06,Japanese Lyrics,,0,0,0,,キミがくれた時からは もう 色褪せたけど
+Dialogue: 0,1:19:22.59,1:19:26.34,Japanese Lyrics,,0,0,0,,一生 笑い合って 刺激し合って
+Dialogue: 0,1:19:26.34,1:19:29.42,Japanese Lyrics,,0,0,0,,重ねたい友情ミルフィ — ユ
+Dialogue: 0,1:19:29.42,1:19:34.85,Japanese Lyrics,,0,0,0,,世界中に 虹色のハ — モニ —
+Dialogue: 0,1:19:34.85,1:19:38.61,Japanese Lyrics,,0,0,0,,バイバイ 悔しくって涙流した
+Dialogue: 0,1:19:38.61,1:19:46.57,Japanese Lyrics,,0,0,0,,不器用な私に 今は泣かないで言えるよ
+Dialogue: 0,1:19:46.57,1:19:48.25,Japanese Lyrics,,0,0,0,,じゃあ,  また明日

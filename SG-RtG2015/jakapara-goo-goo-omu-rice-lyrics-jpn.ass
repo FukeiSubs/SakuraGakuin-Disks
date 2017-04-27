@@ -12,44 +12,38 @@ Active Line: 30
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: English,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,2,10,10,10,1
-Style: Romaji,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,0,1
-Style: Japanese,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
-Style: Song Title,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
-Style: Credits 2,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,3,10,10,10,1
-Style: Credits 1,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,1,10,10,10,1
+Style: Japanese Lyrics,@Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,2,2,9,500,0,460,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:46:39.24,0:46:43.25,Japanese,,0,0,0,,パラパラ　ごはんを　ジャカジャカ　炒めて
-Dialogue: 0,0:46:43.25,0:46:45.50,Japanese,,0,0,0,,パーカッション De チキンライス
-Dialogue: 0,0:46:47.22,0:46:51.16,Japanese,,0,0,0,,ブロッコリーのマラカス トマトのカスタネット
-Dialogue: 0,0:46:51.20,0:46:54.46,Japanese,,0,0,0,,サラダの音楽隊
-Dialogue: 0,0:46:55.69,0:47:03.39,Japanese,,0,0,0,,おいしいハーモニー　キッチンは大騒ぎ
-Dialogue: 0,0:47:03.75,0:47:11.04,Japanese,,0,0,0,,ちっちゃな音符　桜の花びらチーズ
-Dialogue: 0,0:47:11.04,0:47:15.23,Japanese,,0,0,0,,並べて　素敵なメロディ
-Dialogue: 0,0:47:15.23,0:47:18.45,Japanese,,0,0,0,,究極のオムライス
-Dialogue: 0,0:47:18.73,0:47:22.43,Japanese,,0,0,0,,ああ！レシピはハートです
-Dialogue: 0,0:47:22.74,0:47:26.34,Japanese,,0,0,0,,召し上がれ　パラダイス
-Dialogue: 0,0:47:26.64,0:47:35.49,Japanese,,0,0,0,,あなたの笑顔　浮かびます
-Dialogue: 0,0:47:59.22,0:48:03.26,Japanese,,0,0,0,,ふわふわ　タマゴに　バジルのソースで
-Dialogue: 0,0:48:03.26,0:48:05.52,Japanese,,0,0,0,,奏でるストリングス
-Dialogue: 0,0:48:07.19,0:48:11.26,Japanese,,0,0,0,,桜のカタチのハムでしょ　たんたん♪うんたん♪
-Dialogue: 0,0:48:11.26,0:48:14.56,Japanese,,0,0,0,,春色タンバリン
-Dialogue: 0,0:48:15.73,0:48:23.30,Japanese,,0,0,0,,みんなもお腹グーグーのベーシスト？
-Dialogue: 0,0:48:23.74,0:48:31.08,Japanese,,0,0,0,,待っててピアノ　桜の塩漬け　ポロロン
-Dialogue: 0,0:48:31.19,0:48:35.20,Japanese,,0,0,0,,つま弾いて　奇跡のコラボ
-Dialogue: 0,0:48:35.20,0:48:38.43,Japanese,,0,0,0,,完璧なオムライス
-Dialogue: 0,0:48:38.73,0:48:42.36,Japanese,,0,0,0,,おお！歓声が聴こえます
-Dialogue: 0,0:48:42.74,0:48:46.55,Japanese,,0,0,0,,ね、きっと癖になっちゃう
-Dialogue: 0,0:48:46.74,0:48:53.61,Japanese,,0,0,0,,洋食屋さん　目指します
-Dialogue: 0,0:49:05.50,0:49:07.26,Japanese,,0,0,0,,おいしいメロディ♪
-Dialogue: 0,0:49:07.26,0:49:10.39,Japanese,,0,0,0,,究極のオムライス
-Dialogue: 0,0:49:10.74,0:49:14.39,Japanese,,0,0,0,,ああ！レシピはハートです
-Dialogue: 0,0:49:14.73,0:49:18.34,Japanese,,0,0,0,,召し上がれ　パラダイス
-Dialogue: 0,0:49:18.67,0:49:23.25,Japanese,,0,0,0,,あなたの笑顔　浮かびます
-Dialogue: 0,0:49:23.25,0:49:26.45,Japanese,,0,0,0,,完璧なオムライス
-Dialogue: 0,0:49:26.75,0:49:30.42,Japanese,,0,0,0,,おお！歓声が聴こえます
-Dialogue: 0,0:49:30.74,0:49:34.57,Japanese,,0,0,0,,うん♪きっとお腹いっぱい
-Dialogue: 0,0:49:34.67,0:49:43.41,Japanese,,0,0,0,,楽しいコトに出会えます
+Dialogue: 0,0:46:39.24,0:46:43.25,Japanese Lyrics,,0,0,0,,パラパラ　ごはんを　ジャカジャカ　炒めて
+Dialogue: 0,0:46:43.25,0:46:45.50,Japanese Lyrics,,0,0,0,,パーカッション De チキンライス
+Dialogue: 0,0:46:47.22,0:46:51.16,Japanese Lyrics,,0,0,0,,ブロッコリーのマラカス トマトのカスタネット
+Dialogue: 0,0:46:51.20,0:46:54.46,Japanese Lyrics,,0,0,0,,サラダの音楽隊
+Dialogue: 0,0:46:55.69,0:47:03.39,Japanese Lyrics,,0,0,0,,おいしいハーモニー　キッチンは大騒ぎ
+Dialogue: 0,0:47:03.75,0:47:11.04,Japanese Lyrics,,0,0,0,,ちっちゃな音符　桜の花びらチーズ
+Dialogue: 0,0:47:11.04,0:47:15.23,Japanese Lyrics,,0,0,0,,並べて　素敵なメロディ
+Dialogue: 0,0:47:15.23,0:47:18.45,Japanese Lyrics,,0,0,0,,究極のオムライス
+Dialogue: 0,0:47:18.73,0:47:22.43,Japanese Lyrics,,0,0,0,,ああ！レシピはハートです
+Dialogue: 0,0:47:22.74,0:47:26.34,Japanese Lyrics,,0,0,0,,召し上がれ　パラダイス
+Dialogue: 0,0:47:26.64,0:47:35.49,Japanese Lyrics,,0,0,0,,あなたの笑顔　浮かびます
+Dialogue: 0,0:47:59.22,0:48:03.26,Japanese Lyrics,,0,0,0,,ふわふわ　タマゴに　バジルのソースで
+Dialogue: 0,0:48:03.26,0:48:05.52,Japanese Lyrics,,0,0,0,,奏でるストリングス
+Dialogue: 0,0:48:07.19,0:48:11.26,Japanese Lyrics,,0,0,0,,桜のカタチのハムでしょ　たんたん♪うんたん♪
+Dialogue: 0,0:48:11.26,0:48:14.56,Japanese Lyrics,,0,0,0,,春色タンバリン
+Dialogue: 0,0:48:15.73,0:48:23.30,Japanese Lyrics,,0,0,0,,みんなもお腹グーグーのベーシスト？
+Dialogue: 0,0:48:23.74,0:48:31.08,Japanese Lyrics,,0,0,0,,待っててピアノ　桜の塩漬け　ポロロン
+Dialogue: 0,0:48:31.19,0:48:35.20,Japanese Lyrics,,0,0,0,,つま弾いて　奇跡のコラボ
+Dialogue: 0,0:48:35.20,0:48:38.43,Japanese Lyrics,,0,0,0,,完璧なオムライス
+Dialogue: 0,0:48:38.73,0:48:42.36,Japanese Lyrics,,0,0,0,,おお！歓声が聴こえます
+Dialogue: 0,0:48:42.74,0:48:46.55,Japanese Lyrics,,0,0,0,,ね、きっと癖になっちゃう
+Dialogue: 0,0:48:46.74,0:48:53.61,Japanese Lyrics,,0,0,0,,洋食屋さん　目指します
+Dialogue: 0,0:49:05.50,0:49:07.26,Japanese Lyrics,,0,0,0,,おいしいメロディ♪
+Dialogue: 0,0:49:07.26,0:49:10.39,Japanese Lyrics,,0,0,0,,究極のオムライス
+Dialogue: 0,0:49:10.74,0:49:14.39,Japanese Lyrics,,0,0,0,,ああ！レシピはハートです
+Dialogue: 0,0:49:14.73,0:49:18.34,Japanese Lyrics,,0,0,0,,召し上がれ　パラダイス
+Dialogue: 0,0:49:18.67,0:49:23.25,Japanese Lyrics,,0,0,0,,あなたの笑顔　浮かびます
+Dialogue: 0,0:49:23.25,0:49:26.45,Japanese Lyrics,,0,0,0,,完璧なオムライス
+Dialogue: 0,0:49:26.75,0:49:30.42,Japanese Lyrics,,0,0,0,,おお！歓声が聴こえます
+Dialogue: 0,0:49:30.74,0:49:34.57,Japanese Lyrics,,0,0,0,,うん♪きっとお腹いっぱい
+Dialogue: 0,0:49:34.67,0:49:43.41,Japanese Lyrics,,0,0,0,,楽しいコトに出会えます

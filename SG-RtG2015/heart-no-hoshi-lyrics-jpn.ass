@@ -13,67 +13,67 @@ Active Line: 4
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Japanese,Cambria,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
+Style: Japanese Lyrics,@Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,2,2,9,500,0,460,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:02:18.85,1:02:22.28,Japanese,,0,0,0,,ハ — トをつなげたら
-Dialogue: 0,1:02:22.48,1:02:26.13,Japanese,,0,0,0,,キラキラ輝く地球
-Dialogue: 0,1:02:26.19,1:02:29.50,Japanese,,0,0,0,,夢見るこの想いは
-Dialogue: 0,1:02:29.76,1:02:33.40,Japanese,,0,0,0,,輝くパズルの piece
-Dialogue: 0,1:02:33.43,1:02:35.41,Japanese,,0,0,0,,
-Dialogue: 0,1:02:40.54,1:02:44.18,Japanese,,0,0,0,,眠い目をこすりながら
-Dialogue: 0,1:02:44.18,1:02:48.59,Japanese,,0,0,0,,ゆっくり階段を降りたら
-Dialogue: 0,1:02:48.63,1:02:50.65,Japanese,,0,0,0,,見知らぬ場所
-Dialogue: 0,1:02:50.70,1:02:54.96,Japanese,,0,0,0,,うさぎの紳士が跳ね回る
-Dialogue: 0,1:02:55.01,1:02:58.58,Japanese,,0,0,0,,虹に浮かび上がるドア
-Dialogue: 0,1:02:58.65,1:03:02.29,Japanese,,0,0,0,,夢を見せる バブル・ガム
-Dialogue: 0,1:03:02.48,1:03:09.72,Japanese,,0,0,0,,ガラスの靴を履いて出掛けよう
-Dialogue: 0,1:03:09.82,1:03:16.11,Japanese,,0,0,0,,イメ — ジは実現すると信じたら
-Dialogue: 0,1:03:16.37,1:03:22.72,Japanese,,0,0,0,,叶うの ウィンク！  するだけで
-Dialogue: 0,1:03:22.76,1:03:26.37,Japanese,,0,0,0,,泣き出した 空の色
-Dialogue: 0,1:03:26.41,1:03:30.01,Japanese,,0,0,0,,いつだって そばにある
-Dialogue: 0,1:03:30.04,1:03:33.62,Japanese,,0,0,0,,どこにいたって同じ
-Dialogue: 0,1:03:33.66,1:03:37.31,Japanese,,0,0,0,,月が浮かぶ creamy sky
-Dialogue: 0,1:03:37.33,1:03:40.86,Japanese,,0,0,0,,マシュマロの雲の上
-Dialogue: 0,1:03:40.93,1:03:44.56,Japanese,,0,0,0,,寝転んで見降ろした
-Dialogue: 0,1:03:44.59,1:03:47.74,Japanese,,0,0,0,,この世界は so fun
-Dialogue: 0,1:03:47.76,1:03:53.21,Japanese,,0,0,0,,きらめく ハ — トの地球
-Dialogue: 0,1:03:53.23,1:03:56.79,Japanese,,0,0,0,,ご機嫌取りのピエロが
-Dialogue: 0,1:03:56.86,1:04:01.34,Japanese,,0,0,0,,近づいてくるたび思うの
-Dialogue: 0,1:04:01.39,1:04:03.38,Japanese,,0,0,0,,こどもじゃない
-Dialogue: 0,1:04:03.43,1:04:07.74,Japanese,,0,0,0,,やめて 取り扱いに注意
-Dialogue: 0,1:04:07.76,1:04:11.32,Japanese,,0,0,0,,一人前のレディは
-Dialogue: 0,1:04:11.35,1:04:14.80,Japanese,,0,0,0,,どういう時に泣くの？
-Dialogue: 0,1:04:15.22,1:04:22.26,Japanese,,0,0,0,,湖のほとりで夢を歌う
-Dialogue: 0,1:04:22.44,1:04:28.71,Japanese,,0,0,0,,別に笑わせて欲しいわけじゃないわ
-Dialogue: 0,1:04:29.11,1:04:35.43,Japanese,,0,0,0,,お願い 優しく 見守って
-Dialogue: 0,1:04:35.46,1:04:39.06,Japanese,,0,0,0,,約束よ 離れたら
-Dialogue: 0,1:04:39.10,1:04:42.71,Japanese,,0,0,0,,心細くなるけど
-Dialogue: 0,1:04:42.75,1:04:46.33,Japanese,,0,0,0,,悲しみに暮れないで
-Dialogue: 0,1:04:46.37,1:04:49.99,Japanese,,0,0,0,,応援してるから
-Dialogue: 0,1:04:50.02,1:04:53.61,Japanese,,0,0,0,,宝物を集めた
-Dialogue: 0,1:04:53.64,1:04:57.24,Japanese,,0,0,0,,オルゴ — ルを開いて
-Dialogue: 0,1:04:57.27,1:05:00.43,Japanese,,0,0,0,,確かめた絆
-Dialogue: 0,1:05:00.45,1:05:06.56,Japanese,,0,0,0,,みんなの ハ — トの地球
-Dialogue: 0,1:05:26.15,1:05:29.52,Japanese,,0,0,0,,ハ — トをつなげたら
-Dialogue: 0,1:05:29.76,1:05:33.41,Japanese,,0,0,0,,キラキラ輝く地球
-Dialogue: 0,1:05:33.44,1:05:36.82,Japanese,,0,0,0,,夢見るこの想いは
-Dialogue: 0,1:05:37.02,1:05:40.83,Japanese,,0,0,0,,輝くパズルの piece
-Dialogue: 0,1:05:41.15,1:05:47.33,Japanese,,0,0,0,,願い事を食べてしまう
-Dialogue: 0,1:05:48.47,1:05:52.71,Japanese,,0,0,0,,イジワルな monsters
-Dialogue: 0,1:05:55.68,1:05:59.33,Japanese,,0,0,0,,守ってみせるよ
-Dialogue: 0,1:05:59.33,1:06:04.19,Japanese,,0,0,0,,誰にも惑わされないで
-Dialogue: 0,1:06:04.19,1:06:10.29,Japanese,,0,0,0,,楽しい 冒険の旅をしよう
-Dialogue: 0,1:06:11.85,1:06:15.49,Japanese,,0,0,0,,大丈夫 目を閉じて
-Dialogue: 0,1:06:15.49,1:06:19.12,Japanese,,0,0,0,,いつだって ここにある
-Dialogue: 0,1:06:19.12,1:06:22.76,Japanese,,0,0,0,,離れていても 同じ
-Dialogue: 0,1:06:22.79,1:06:26.37,Japanese,,0,0,0,,夢が浮かぶ creamy sky
-Dialogue: 0,1:06:26.41,1:06:30.02,Japanese,,0,0,0,,泣き出した 空の色
-Dialogue: 0,1:06:30.05,1:06:33.65,Japanese,,0,0,0,,いつだって そばにある
-Dialogue: 0,1:06:33.68,1:06:37.32,Japanese,,0,0,0,,どこにいたって 同じ
-Dialogue: 0,1:06:37.32,1:06:40.91,Japanese,,0,0,0,,月が浮かぶ creamy sky
-Dialogue: 0,1:06:40.94,1:06:44.56,Japanese,,0,0,0,,マシュマロの雲の上
-Dialogue: 0,1:06:44.60,1:06:48.21,Japanese,,0,0,0,,寝転んで見降ろした
-Dialogue: 0,1:06:48.21,1:06:51.39,Japanese,,0,0,0,,この世界は so fun
-Dialogue: 0,1:06:51.39,1:06:59.95,Japanese,,0,0,0,,きらめく夢 ハ — トの地球
+Dialogue: 0,1:02:18.85,1:02:22.28,Japanese Lyrics,,0,0,0,,ハ — トをつなげたら
+Dialogue: 0,1:02:22.48,1:02:26.13,Japanese Lyrics,,0,0,0,,キラキラ輝く地球
+Dialogue: 0,1:02:26.19,1:02:29.50,Japanese Lyrics,,0,0,0,,夢見るこの想いは
+Dialogue: 0,1:02:29.76,1:02:33.40,Japanese Lyrics,,0,0,0,,輝くパズルの piece
+Dialogue: 0,1:02:33.43,1:02:35.41,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,1:02:40.54,1:02:44.18,Japanese Lyrics,,0,0,0,,眠い目をこすりながら
+Dialogue: 0,1:02:44.18,1:02:48.59,Japanese Lyrics,,0,0,0,,ゆっくり階段を降りたら
+Dialogue: 0,1:02:48.63,1:02:50.65,Japanese Lyrics,,0,0,0,,見知らぬ場所
+Dialogue: 0,1:02:50.70,1:02:54.96,Japanese Lyrics,,0,0,0,,うさぎの紳士が跳ね回る
+Dialogue: 0,1:02:55.01,1:02:58.58,Japanese Lyrics,,0,0,0,,虹に浮かび上がるドア
+Dialogue: 0,1:02:58.65,1:03:02.29,Japanese Lyrics,,0,0,0,,夢を見せる バブル・ガム
+Dialogue: 0,1:03:02.48,1:03:09.72,Japanese Lyrics,,0,0,0,,ガラスの靴を履いて出掛けよう
+Dialogue: 0,1:03:09.82,1:03:16.11,Japanese Lyrics,,0,0,0,,イメ — ジは実現すると信じたら
+Dialogue: 0,1:03:16.37,1:03:22.72,Japanese Lyrics,,0,0,0,,叶うの ウィンク！  するだけで
+Dialogue: 0,1:03:22.76,1:03:26.37,Japanese Lyrics,,0,0,0,,泣き出した 空の色
+Dialogue: 0,1:03:26.41,1:03:30.01,Japanese Lyrics,,0,0,0,,いつだって そばにある
+Dialogue: 0,1:03:30.04,1:03:33.62,Japanese Lyrics,,0,0,0,,どこにいたって同じ
+Dialogue: 0,1:03:33.66,1:03:37.31,Japanese Lyrics,,0,0,0,,月が浮かぶ creamy sky
+Dialogue: 0,1:03:37.33,1:03:40.86,Japanese Lyrics,,0,0,0,,マシュマロの雲の上
+Dialogue: 0,1:03:40.93,1:03:44.56,Japanese Lyrics,,0,0,0,,寝転んで見降ろした
+Dialogue: 0,1:03:44.59,1:03:47.74,Japanese Lyrics,,0,0,0,,この世界は so fun
+Dialogue: 0,1:03:47.76,1:03:53.21,Japanese Lyrics,,0,0,0,,きらめく ハ — トの地球
+Dialogue: 0,1:03:53.23,1:03:56.79,Japanese Lyrics,,0,0,0,,ご機嫌取りのピエロが
+Dialogue: 0,1:03:56.86,1:04:01.34,Japanese Lyrics,,0,0,0,,近づいてくるたび思うの
+Dialogue: 0,1:04:01.39,1:04:03.38,Japanese Lyrics,,0,0,0,,こどもじゃない
+Dialogue: 0,1:04:03.43,1:04:07.74,Japanese Lyrics,,0,0,0,,やめて 取り扱いに注意
+Dialogue: 0,1:04:07.76,1:04:11.32,Japanese Lyrics,,0,0,0,,一人前のレディは
+Dialogue: 0,1:04:11.35,1:04:14.80,Japanese Lyrics,,0,0,0,,どういう時に泣くの？
+Dialogue: 0,1:04:15.22,1:04:22.26,Japanese Lyrics,,0,0,0,,湖のほとりで夢を歌う
+Dialogue: 0,1:04:22.44,1:04:28.71,Japanese Lyrics,,0,0,0,,別に笑わせて欲しいわけじゃないわ
+Dialogue: 0,1:04:29.11,1:04:35.43,Japanese Lyrics,,0,0,0,,お願い 優しく 見守って
+Dialogue: 0,1:04:35.46,1:04:39.06,Japanese Lyrics,,0,0,0,,約束よ 離れたら
+Dialogue: 0,1:04:39.10,1:04:42.71,Japanese Lyrics,,0,0,0,,心細くなるけど
+Dialogue: 0,1:04:42.75,1:04:46.33,Japanese Lyrics,,0,0,0,,悲しみに暮れないで
+Dialogue: 0,1:04:46.37,1:04:49.99,Japanese Lyrics,,0,0,0,,応援してるから
+Dialogue: 0,1:04:50.02,1:04:53.61,Japanese Lyrics,,0,0,0,,宝物を集めた
+Dialogue: 0,1:04:53.64,1:04:57.24,Japanese Lyrics,,0,0,0,,オルゴ — ルを開いて
+Dialogue: 0,1:04:57.27,1:05:00.43,Japanese Lyrics,,0,0,0,,確かめた絆
+Dialogue: 0,1:05:00.45,1:05:06.56,Japanese Lyrics,,0,0,0,,みんなの ハ — トの地球
+Dialogue: 0,1:05:26.15,1:05:29.52,Japanese Lyrics,,0,0,0,,ハ — トをつなげたら
+Dialogue: 0,1:05:29.76,1:05:33.41,Japanese Lyrics,,0,0,0,,キラキラ輝く地球
+Dialogue: 0,1:05:33.44,1:05:36.82,Japanese Lyrics,,0,0,0,,夢見るこの想いは
+Dialogue: 0,1:05:37.02,1:05:40.83,Japanese Lyrics,,0,0,0,,輝くパズルの piece
+Dialogue: 0,1:05:41.15,1:05:47.33,Japanese Lyrics,,0,0,0,,願い事を食べてしまう
+Dialogue: 0,1:05:48.47,1:05:52.71,Japanese Lyrics,,0,0,0,,イジワルな monsters
+Dialogue: 0,1:05:55.68,1:05:59.33,Japanese Lyrics,,0,0,0,,守ってみせるよ
+Dialogue: 0,1:05:59.33,1:06:04.19,Japanese Lyrics,,0,0,0,,誰にも惑わされないで
+Dialogue: 0,1:06:04.19,1:06:10.29,Japanese Lyrics,,0,0,0,,楽しい 冒険の旅をしよう
+Dialogue: 0,1:06:11.85,1:06:15.49,Japanese Lyrics,,0,0,0,,大丈夫 目を閉じて
+Dialogue: 0,1:06:15.49,1:06:19.12,Japanese Lyrics,,0,0,0,,いつだって ここにある
+Dialogue: 0,1:06:19.12,1:06:22.76,Japanese Lyrics,,0,0,0,,離れていても 同じ
+Dialogue: 0,1:06:22.79,1:06:26.37,Japanese Lyrics,,0,0,0,,夢が浮かぶ creamy sky
+Dialogue: 0,1:06:26.41,1:06:30.02,Japanese Lyrics,,0,0,0,,泣き出した 空の色
+Dialogue: 0,1:06:30.05,1:06:33.65,Japanese Lyrics,,0,0,0,,いつだって そばにある
+Dialogue: 0,1:06:33.68,1:06:37.32,Japanese Lyrics,,0,0,0,,どこにいたって 同じ
+Dialogue: 0,1:06:37.32,1:06:40.91,Japanese Lyrics,,0,0,0,,月が浮かぶ creamy sky
+Dialogue: 0,1:06:40.94,1:06:44.56,Japanese Lyrics,,0,0,0,,マシュマロの雲の上
+Dialogue: 0,1:06:44.60,1:06:48.21,Japanese Lyrics,,0,0,0,,寝転んで見降ろした
+Dialogue: 0,1:06:48.21,1:06:51.39,Japanese Lyrics,,0,0,0,,この世界は so fun
+Dialogue: 0,1:06:51.39,1:06:59.95,Japanese Lyrics,,0,0,0,,きらめく夢 ハ — トの地球

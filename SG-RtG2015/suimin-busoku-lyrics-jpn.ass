@@ -13,58 +13,52 @@ Active Line: 44
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: English,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,2,10,10,10,1
-Style: Romaji,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,0,1
-Style: Japanese,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
-Style: Song Title,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
-Style: Credits 2,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,3,10,10,10,1
-Style: Credits 1,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,1,10,10,10,1
+Style: Japanese Lyrics,@Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,2,2,9,500,0,460,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:34:16.18,0:34:22.18,Japanese,,0,0,0,,今日もいつものすいみん不足
-Dialogue: 0,0:34:22.26,0:34:24.84,Japanese,,0,0,0,,アタマがいたくなっちゃうよ
-Dialogue: 0,0:34:24.98,0:34:28.36,Japanese,,0,0,0,,いつもの学校のいつもの教室
-Dialogue: 0,0:34:28.40,0:34:30.90,Japanese,,0,0,0,,あのこは今日も元気だね
-Dialogue: 0,0:34:31.30,0:34:34.08,Japanese,,0,0,0,,すいみんすいみんすいみんすいみんすいみん不足
-Dialogue: 0,0:34:46.77,0:34:51.22,Japanese,,0,0,0,,今日もいつものすいみん不足
-Dialogue: 0,0:34:51.35,0:34:54.02,Japanese,,0,0,0,,体がほてってきちゃったよ
-Dialogue: 0,0:34:54.02,0:34:57.42,Japanese,,0,0,0,,たくさんやることはあるのに
-Dialogue: 0,0:34:57.45,0:35:00.06,Japanese,,0,0,0,,アタマがちっともはたらかない
-Dialogue: 0,0:35:00.14,0:35:03.15,Japanese,,0,0,0,,あのこがわたしをなやませる
-Dialogue: 0,0:35:03.20,0:35:06.24,Japanese,,0,0,0,,わたしがあのこをなやませる
-Dialogue: 0,0:35:06.24,0:35:09.23,Japanese,,0,0,0,,みんながみんなをなやませる
-Dialogue: 0,0:35:09.33,0:35:13.63,Japanese,,0,0,0,,みんなは心をいためてる
-Dialogue: 0,0:35:13.90,0:35:16.90,Japanese,,0,0,0,,ああ　空はこんなに青いのに
-Dialogue: 0,0:35:16.96,0:35:19.96,Japanese,,0,0,0,,風はこんなにあたたかいのに
-Dialogue: 0,0:35:20.00,0:35:23.09,Japanese,,0,0,0,,太陽はとってもあかるいのに
-Dialogue: 0,0:35:23.09,0:35:25.88,Japanese,,0,0,0,,どうしてこんなにねむいの
-Dialogue: 0,0:35:26.40,0:35:29.10,Japanese,,0,0,0,,すいみんすいみんすいみんすいみんすいみん不足
-Dialogue: 0,0:35:41.70,0:35:47.78,Japanese,,0,0,0,,今日もいつものすいみん不足
-Dialogue: 0,0:35:47.90,0:35:50.45,Japanese,,0,0,0,,アタマがいたくなっちゃうよ
-Dialogue: 0,0:35:50.54,0:35:53.96,Japanese,,0,0,0,,いつもの学校のいつもの教室
-Dialogue: 0,0:35:54.00,0:35:56.60,Japanese,,0,0,0,,あのこは今日も元気だね
-Dialogue: 0,0:35:56.68,0:35:59.74,Japanese,,0,0,0,,あのこがわたしをなやませる
-Dialogue: 0,0:35:59.74,0:36:02.80,Japanese,,0,0,0,,わたしがあのこをなやませる
-Dialogue: 0,0:36:02.80,0:36:05.86,Japanese,,0,0,0,,みんながみんなをなやませる
-Dialogue: 0,0:36:05.86,0:36:10.32,Japanese,,0,0,0,,みんなが心をいためてる
-Dialogue: 0,0:36:10.36,0:36:13.44,Japanese,,0,0,0,,ああ　空はこんなに青いのに
-Dialogue: 0,0:36:13.52,0:36:16.60,Japanese,,0,0,0,,風はこんなにあたたかいのに
-Dialogue: 0,0:36:16.60,0:36:19.65,Japanese,,0,0,0,,太陽はとってもあかるいのに
-Dialogue: 0,0:36:19.65,0:36:22.47,Japanese,,0,0,0,,どうしてこんなにねむいの
-Dialogue: 0,0:36:22.98,0:36:25.68,Japanese,,0,0,0,,すいみんすいみんすいみんすいみんすいみん不足
-Dialogue: 0,0:37:05.51,0:37:08.51,Japanese,,0,0,0,,あのこがわたしをなやませる
-Dialogue: 0,0:37:08.52,0:37:11.54,Japanese,,0,0,0,,わたしがあのこをなやませる
-Dialogue: 0,0:37:11.62,0:37:14.60,Japanese,,0,0,0,,みんながみんなをなやませる
-Dialogue: 0,0:37:14.68,0:37:22.34,Japanese,,0,0,0,,みんなが心をいためてる
-Dialogue: 0,0:37:22.34,0:37:25.34,Japanese,,0,0,0,,ああ　空はこんなに青いのに
-Dialogue: 0,0:37:25.39,0:37:28.45,Japanese,,0,0,0,,風はこんなにあたたかいのに
-Dialogue: 0,0:37:28.46,0:37:31.50,Japanese,,0,0,0,,太陽はとってもあかるいのに
-Dialogue: 0,0:37:31.52,0:37:34.42,Japanese,,0,0,0,,どうしてこんなにねむいの
-Dialogue: 0,0:37:34.51,0:37:37.56,Japanese,,0,0,0,,ああ　空はこんなに青いのに
-Dialogue: 0,0:37:37.60,0:37:40.67,Japanese,,0,0,0,,風はこんなにあたたかいのに
-Dialogue: 0,0:37:40.68,0:37:43.72,Japanese,,0,0,0,,太陽はとってもあかるいのに
-Dialogue: 0,0:37:43.74,0:37:46.62,Japanese,,0,0,0,,どうしてこんなにねむいの
-Dialogue: 0,0:37:47.10,0:37:49.74,Japanese,,0,0,0,,すいみんすいみんすいみんすいみんすいみん不足
-Dialogue: 0,0:38:02.40,0:38:05.08,Japanese,,0,0,0,,すいみんすいみんすいみんすいみんすいみん不足
+Dialogue: 0,0:34:16.18,0:34:22.18,Japanese Lyrics,,0,0,0,,今日もいつものすいみん不足
+Dialogue: 0,0:34:22.26,0:34:24.84,Japanese Lyrics,,0,0,0,,アタマがいたくなっちゃうよ
+Dialogue: 0,0:34:24.98,0:34:28.36,Japanese Lyrics,,0,0,0,,いつもの学校のいつもの教室
+Dialogue: 0,0:34:28.40,0:34:30.90,Japanese Lyrics,,0,0,0,,あのこは今日も元気だね
+Dialogue: 0,0:34:31.30,0:34:34.08,Japanese Lyrics,,0,0,0,,すいみんすいみんすいみんすいみんすいみん不足
+Dialogue: 0,0:34:46.77,0:34:51.22,Japanese Lyrics,,0,0,0,,今日もいつものすいみん不足
+Dialogue: 0,0:34:51.35,0:34:54.02,Japanese Lyrics,,0,0,0,,体がほてってきちゃったよ
+Dialogue: 0,0:34:54.02,0:34:57.42,Japanese Lyrics,,0,0,0,,たくさんやることはあるのに
+Dialogue: 0,0:34:57.45,0:35:00.06,Japanese Lyrics,,0,0,0,,アタマがちっともはたらかない
+Dialogue: 0,0:35:00.14,0:35:03.15,Japanese Lyrics,,0,0,0,,あのこがわたしをなやませる
+Dialogue: 0,0:35:03.20,0:35:06.24,Japanese Lyrics,,0,0,0,,わたしがあのこをなやませる
+Dialogue: 0,0:35:06.24,0:35:09.23,Japanese Lyrics,,0,0,0,,みんながみんなをなやませる
+Dialogue: 0,0:35:09.33,0:35:13.63,Japanese Lyrics,,0,0,0,,みんなは心をいためてる
+Dialogue: 0,0:35:13.90,0:35:16.90,Japanese Lyrics,,0,0,0,,ああ　空はこんなに青いのに
+Dialogue: 0,0:35:16.96,0:35:19.96,Japanese Lyrics,,0,0,0,,風はこんなにあたたかいのに
+Dialogue: 0,0:35:20.00,0:35:23.09,Japanese Lyrics,,0,0,0,,太陽はとってもあかるいのに
+Dialogue: 0,0:35:23.09,0:35:25.88,Japanese Lyrics,,0,0,0,,どうしてこんなにねむいの
+Dialogue: 0,0:35:26.40,0:35:29.10,Japanese Lyrics,,0,0,0,,すいみんすいみんすいみんすいみんすいみん不足
+Dialogue: 0,0:35:41.70,0:35:47.78,Japanese Lyrics,,0,0,0,,今日もいつものすいみん不足
+Dialogue: 0,0:35:47.90,0:35:50.45,Japanese Lyrics,,0,0,0,,アタマがいたくなっちゃうよ
+Dialogue: 0,0:35:50.54,0:35:53.96,Japanese Lyrics,,0,0,0,,いつもの学校のいつもの教室
+Dialogue: 0,0:35:54.00,0:35:56.60,Japanese Lyrics,,0,0,0,,あのこは今日も元気だね
+Dialogue: 0,0:35:56.68,0:35:59.74,Japanese Lyrics,,0,0,0,,あのこがわたしをなやませる
+Dialogue: 0,0:35:59.74,0:36:02.80,Japanese Lyrics,,0,0,0,,わたしがあのこをなやませる
+Dialogue: 0,0:36:02.80,0:36:05.86,Japanese Lyrics,,0,0,0,,みんながみんなをなやませる
+Dialogue: 0,0:36:05.86,0:36:10.32,Japanese Lyrics,,0,0,0,,みんなが心をいためてる
+Dialogue: 0,0:36:10.36,0:36:13.44,Japanese Lyrics,,0,0,0,,ああ　空はこんなに青いのに
+Dialogue: 0,0:36:13.52,0:36:16.60,Japanese Lyrics,,0,0,0,,風はこんなにあたたかいのに
+Dialogue: 0,0:36:16.60,0:36:19.65,Japanese Lyrics,,0,0,0,,太陽はとってもあかるいのに
+Dialogue: 0,0:36:19.65,0:36:22.47,Japanese Lyrics,,0,0,0,,どうしてこんなにねむいの
+Dialogue: 0,0:36:22.98,0:36:25.68,Japanese Lyrics,,0,0,0,,すいみんすいみんすいみんすいみんすいみん不足
+Dialogue: 0,0:37:05.51,0:37:08.51,Japanese Lyrics,,0,0,0,,あのこがわたしをなやませる
+Dialogue: 0,0:37:08.52,0:37:11.54,Japanese Lyrics,,0,0,0,,わたしがあのこをなやませる
+Dialogue: 0,0:37:11.62,0:37:14.60,Japanese Lyrics,,0,0,0,,みんながみんなをなやませる
+Dialogue: 0,0:37:14.68,0:37:22.34,Japanese Lyrics,,0,0,0,,みんなが心をいためてる
+Dialogue: 0,0:37:22.34,0:37:25.34,Japanese Lyrics,,0,0,0,,ああ　空はこんなに青いのに
+Dialogue: 0,0:37:25.39,0:37:28.45,Japanese Lyrics,,0,0,0,,風はこんなにあたたかいのに
+Dialogue: 0,0:37:28.46,0:37:31.50,Japanese Lyrics,,0,0,0,,太陽はとってもあかるいのに
+Dialogue: 0,0:37:31.52,0:37:34.42,Japanese Lyrics,,0,0,0,,どうしてこんなにねむいの
+Dialogue: 0,0:37:34.51,0:37:37.56,Japanese Lyrics,,0,0,0,,ああ　空はこんなに青いのに
+Dialogue: 0,0:37:37.60,0:37:40.67,Japanese Lyrics,,0,0,0,,風はこんなにあたたかいのに
+Dialogue: 0,0:37:40.68,0:37:43.72,Japanese Lyrics,,0,0,0,,太陽はとってもあかるいのに
+Dialogue: 0,0:37:43.74,0:37:46.62,Japanese Lyrics,,0,0,0,,どうしてこんなにねむいの
+Dialogue: 0,0:37:47.10,0:37:49.74,Japanese Lyrics,,0,0,0,,すいみんすいみんすいみんすいみんすいみん不足
+Dialogue: 0,0:38:02.40,0:38:05.08,Japanese Lyrics,,0,0,0,,すいみんすいみんすいみんすいみんすいみん不足

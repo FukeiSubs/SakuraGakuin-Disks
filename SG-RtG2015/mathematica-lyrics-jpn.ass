@@ -12,41 +12,41 @@ Active Line: 6
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Japanese Lyrics,@Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,2,2,9,500,0,460,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:19:08.20,0:19:13.92,Default,,0,0,0,,キミにであえた 奇跡の確率
-Dialogue: 0,0:19:13.92,0:19:19.36,Default,,0,0,0,,運命おしえて ナンバーマジック
-Dialogue: 0,0:19:19.72,0:19:25.38,Default,,0,0,0,,一十百千万億兆京
-Dialogue: 0,0:19:25.38,0:19:31.44,Default,,0,0,0,,いっしょにおおきなユメをみよう!
-Dialogue: 0,0:19:42.70,0:19:47.46,Default,,0,0,0,,円の面積、知りたくなったら
-Dialogue: 0,0:19:48.46,0:19:53.20,Default,,0,0,0,,「半径x半径x円周率」
-Dialogue: 0,0:19:54.20,0:19:59.02,Default,,0,0,0,,円周は 「直径x円周率」
-Dialogue: 0,0:19:59.94,0:20:04.84,Default,,0,0,0,,公式使えばすぐにねわかるけれど
-Dialogue: 0,0:20:05.70,0:20:11.48,Default,,0,0,0,,体重、睡眠、カロリー計算
-Dialogue: 0,0:20:11.48,0:20:17.16,Default,,0,0,0,,キレイのヒミツは ぜ〜んぶ算数
-Dialogue: 0,0:20:17.16,0:20:22.94,Default,,0,0,0,,見返り美人も ミロのビーナスも
-Dialogue: 0,0:20:22.94,0:20:29.00,Default,,0,0,0,,角度と比率で かわいさアップ!
-Dialogue: 0,0:20:30.16,0:20:35.90,Default,,0,0,0,,キミにであえた 奇跡を確立
-Dialogue: 0,0:20:35.90,0:20:41.30,Default,,0,0,0,,運命かなえる ナンバーマジック
-Dialogue: 0,0:20:41.62,0:20:47.42,Default,,0,0,0,,一十百千万億兆京
-Dialogue: 0,0:20:47.42,0:20:53.46,Default,,0,0,0,,まだまだたくさんユメがあるよ!
-Dialogue: 0,0:21:04.62,0:21:09.40,Default,,0,0,0,,角柱・円柱、体積だったら
-Dialogue: 0,0:21:10.38,0:21:15.12,Default,,0,0,0,,「底面積x高さ」 意外あっさり
-Dialogue: 0,0:21:16.14,0:21:20.82,Default,,0,0,0,,トンガリぼうしは 角錐・円錐
-Dialogue: 0,0:21:21.90,0:21:26.62,Default,,0,0,0,,3で割るだけですぐにねわかるはずよ
-Dialogue: 0,0:21:27.62,0:21:33.38,Default,,0,0,0,,裁縫、お料理、お菓子作りだって
-Dialogue: 0,0:21:33.38,0:21:39.06,Default,,0,0,0,,家事ならキホンは どれも算数
-Dialogue: 0,0:21:39.06,0:21:44.94,Default,,0,0,0,,あみ目を数えて お砂糖はかって
-Dialogue: 0,0:21:44.94,0:21:51.08,Default,,0,0,0,,数字を味方に 女子力アップ!
-Dialogue: 0,0:21:52.02,0:21:57.78,Default,,0,0,0,,キミにであえた 奇跡の確率
-Dialogue: 0,0:21:57.78,0:22:03.12,Default,,0,0,0,,運命しりたい ナンバーマジック
-Dialogue: 0,0:22:03.58,0:22:09.34,Default,,0,0,0,,何割、何分、何厘、何毛
-Dialogue: 0,0:22:09.34,0:22:15.36,Default,,0,0,0,,だきしめたいしあわせがあるよ!
-Dialogue: 0,0:22:46.66,0:22:52.40,Default,,0,0,0,,キミにであえた 奇跡の確率
-Dialogue: 0,0:22:52.40,0:22:57.82,Default,,0,0,0,,運命おしえて ナンバーマジック
-Dialogue: 0,0:22:58.18,0:23:03.88,Default,,0,0,0,,一十百千万億兆京
-Dialogue: 0,0:23:03.88,0:23:06.84,Default,,0,0,0,,いっしょにおおきなユメを
-Dialogue: 0,0:23:06.84,0:23:09.72,Default,,0,0,0,,まだまだたくさんユメを
-Dialogue: 0,0:23:09.72,0:23:15.84,Default,,0,0,0,,わくわくするようなユメをみよう!
+Dialogue: 0,0:19:08.20,0:19:13.92,Japanese Lyrics,,0,0,0,,キミにであえた 奇跡の確率
+Dialogue: 0,0:19:13.92,0:19:19.36,Japanese Lyrics,,0,0,0,,運命おしえて ナンバーマジック
+Dialogue: 0,0:19:19.72,0:19:25.38,Japanese Lyrics,,0,0,0,,一十百千万億兆京
+Dialogue: 0,0:19:25.38,0:19:31.44,Japanese Lyrics,,0,0,0,,いっしょにおおきなユメをみよう!
+Dialogue: 0,0:19:42.70,0:19:47.46,Japanese Lyrics,,0,0,0,,円の面積、知りたくなったら
+Dialogue: 0,0:19:48.46,0:19:53.20,Japanese Lyrics,,0,0,0,,「半径x半径x円周率」
+Dialogue: 0,0:19:54.20,0:19:59.02,Japanese Lyrics,,0,0,0,,円周は 「直径x円周率」
+Dialogue: 0,0:19:59.94,0:20:04.84,Japanese Lyrics,,0,0,0,,公式使えばすぐにねわかるけれど
+Dialogue: 0,0:20:05.70,0:20:11.48,Japanese Lyrics,,0,0,0,,体重、睡眠、カロリー計算
+Dialogue: 0,0:20:11.48,0:20:17.16,Japanese Lyrics,,0,0,0,,キレイのヒミツは ぜ〜んぶ算数
+Dialogue: 0,0:20:17.16,0:20:22.94,Japanese Lyrics,,0,0,0,,見返り美人も ミロのビーナスも
+Dialogue: 0,0:20:22.94,0:20:29.00,Japanese Lyrics,,0,0,0,,角度と比率で かわいさアップ!
+Dialogue: 0,0:20:30.16,0:20:35.90,Japanese Lyrics,,0,0,0,,キミにであえた 奇跡を確立
+Dialogue: 0,0:20:35.90,0:20:41.30,Japanese Lyrics,,0,0,0,,運命かなえる ナンバーマジック
+Dialogue: 0,0:20:41.62,0:20:47.42,Japanese Lyrics,,0,0,0,,一十百千万億兆京
+Dialogue: 0,0:20:47.42,0:20:53.46,Japanese Lyrics,,0,0,0,,まだまだたくさんユメがあるよ!
+Dialogue: 0,0:21:04.62,0:21:09.40,Japanese Lyrics,,0,0,0,,角柱・円柱、体積だったら
+Dialogue: 0,0:21:10.38,0:21:15.12,Japanese Lyrics,,0,0,0,,「底面積x高さ」 意外あっさり
+Dialogue: 0,0:21:16.14,0:21:20.82,Japanese Lyrics,,0,0,0,,トンガリぼうしは 角錐・円錐
+Dialogue: 0,0:21:21.90,0:21:26.62,Japanese Lyrics,,0,0,0,,3で割るだけですぐにねわかるはずよ
+Dialogue: 0,0:21:27.62,0:21:33.38,Japanese Lyrics,,0,0,0,,裁縫、お料理、お菓子作りだって
+Dialogue: 0,0:21:33.38,0:21:39.06,Japanese Lyrics,,0,0,0,,家事ならキホンは どれも算数
+Dialogue: 0,0:21:39.06,0:21:44.94,Japanese Lyrics,,0,0,0,,あみ目を数えて お砂糖はかって
+Dialogue: 0,0:21:44.94,0:21:51.08,Japanese Lyrics,,0,0,0,,数字を味方に 女子力アップ!
+Dialogue: 0,0:21:52.02,0:21:57.78,Japanese Lyrics,,0,0,0,,キミにであえた 奇跡の確率
+Dialogue: 0,0:21:57.78,0:22:03.12,Japanese Lyrics,,0,0,0,,運命しりたい ナンバーマジック
+Dialogue: 0,0:22:03.58,0:22:09.34,Japanese Lyrics,,0,0,0,,何割、何分、何厘、何毛
+Dialogue: 0,0:22:09.34,0:22:15.36,Japanese Lyrics,,0,0,0,,だきしめたいしあわせがあるよ!
+Dialogue: 0,0:22:46.66,0:22:52.40,Japanese Lyrics,,0,0,0,,キミにであえた 奇跡の確率
+Dialogue: 0,0:22:52.40,0:22:57.82,Japanese Lyrics,,0,0,0,,運命おしえて ナンバーマジック
+Dialogue: 0,0:22:58.18,0:23:03.88,Japanese Lyrics,,0,0,0,,一十百千万億兆京
+Dialogue: 0,0:23:03.88,0:23:06.84,Japanese Lyrics,,0,0,0,,いっしょにおおきなユメを
+Dialogue: 0,0:23:06.84,0:23:09.72,Japanese Lyrics,,0,0,0,,まだまだたくさんユメを
+Dialogue: 0,0:23:09.72,0:23:15.84,Japanese Lyrics,,0,0,0,,わくわくするようなユメをみよう!

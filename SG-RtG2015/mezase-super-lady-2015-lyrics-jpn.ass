@@ -13,128 +13,122 @@ Active Line: 114
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: English,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,2,10,10,10,1
-Style: Romaji,Cambria,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,0,1
-Style: Japanese,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
-Style: Song Title,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,10,10,10,1
-Style: Credits 2,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,3,10,10,10,1
-Style: Credits 1,Cambria,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,1,10,10,10,1
+Style: Japanese Lyrics,@Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,2,2,9,500,0,460,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:40.07,0:01:40.58,Japanese,,0,0,0,,大賀！
-Dialogue: 0,0:01:40.58,0:01:43.49,Japanese,,0,0,0,,コロコロ変わる自己紹介　お楽しみに
-Dialogue: 0,0:01:43.72,0:01:46.66,Japanese,,0,0,0,,目線は上から？下から？
-Dialogue: 0,0:01:46.66,0:01:47.86,Japanese,,0,0,0,,(今年は上から)
-Dialogue: 0,0:01:48.58,0:01:49.06,Japanese,,0,0,0,,磯野！
-Dialogue: 0,0:01:49.06,0:01:51.97,Japanese,,0,0,0,,天才星で生まれ落ちたけど　テストは苦手！
-Dialogue: 0,0:01:52.42,0:01:55.25,Japanese,,0,0,0,,悪そうな奴にもだいたいタメグチ
-Dialogue: 0,0:01:55.64,0:01:57.24,Japanese,,0,0,0,,(100点取りたいんです！)
-Dialogue: 0,0:01:58.73,0:01:59.20,Japanese,,0,0,0,,白井！
-Dialogue: 0,0:01:59.26,0:02:02.01,Japanese,,0,0,0,,電卓たたいて　計算ピッタり！　OLさん
-Dialogue: 0,0:02:02.01,0:02:02.72,Japanese,,0,0,0,,(違います！)
-Dialogue: 0,0:02:02.72,0:02:05.46,Japanese,,0,0,0,,夢を叶えた元父兄
-Dialogue: 0,0:02:05.48,0:02:07.27,Japanese,,0,0,0,,(父兄は永遠に不滅です！！)
-Dialogue: 0,0:02:07.32,0:02:07.80,Japanese,,0,0,0,,山出！
-Dialogue: 0,0:02:07.80,0:02:10.66,Japanese,,0,0,0,,学院内の平和を守る　風紀委員
-Dialogue: 0,0:02:10.66,0:02:11.21,Japanese,,0,0,0,,(聞いて)
-Dialogue: 0,0:02:11.21,0:02:13.92,Japanese,,0,0,0,,気を抜くと　鹿児島弁がもれちゃう
-Dialogue: 0,0:02:14.26,0:02:17.63,Japanese,,0,0,0,,「先生！先生！、また愛子がこっそりアイス食べてまーす。」
-Dialogue: 0,0:02:17.63,0:02:20.56,Japanese,,0,0,0,,「めぐー！また、先生に言いつけて、ぶっと飛ばすよ！」
-Dialogue: 0,0:02:20.76,0:02:22.89,Japanese,,0,0,0,,ちょちょちょ　私のこと
-Dialogue: 0,0:02:22.89,0:02:23.84,Japanese,,0,0,0,,わかってんの〜？
-Dialogue: 0,0:02:24.15,0:02:26.94,Japanese,,0,0,0,,見た目とのギャップが魅力
-Dialogue: 0,0:02:27.54,0:02:30.95,Japanese,,0,0,0,,日進月歩　見てろっ　この女子力
-Dialogue: 0,0:02:31.17,0:02:35.37,Japanese,,0,0,0,,目指せ！ スーパーレディーを
-Dialogue: 0,0:02:35.01,0:02:38.36,Japanese,,0,0,0,,
-Dialogue: 0,0:02:48.11,0:02:48.66,Japanese,,0,0,0,,倉島！
-Dialogue: 0,0:02:48.66,0:02:51.55,Japanese,,0,0,0,,名前を忘れる担任には厳しくいくぞ
-Dialogue: 0,0:02:51.55,0:02:52.03,Japanese,,0,0,0,,(オー！)
-Dialogue: 0,0:02:52.03,0:02:54.88,Japanese,,0,0,0,,マジシャン　コケシマ　イリュージョン
-Dialogue: 0,0:02:54.98,0:02:56.70,Japanese,,0,0,0,,(いい加減に覚えて下さい。)
-Dialogue: 0,0:02:56.70,0:02:57.17,Japanese,,0,0,0,,黒澤！
-Dialogue: 0,0:02:57.17,0:02:58.00,Japanese,,0,0,0,,挨拶(しっかり)
-Dialogue: 0,0:02:58.00,0:03:00.10,Japanese,,0,0,0,,目線は(バッチリ)ベテラン戦士
-Dialogue: 0,0:03:00.49,0:03:03.35,Japanese,,0,0,0,,カメラを向けると　キッチリ！　リアクション
-Dialogue: 0,0:03:04.18,0:03:05.77,Japanese,,0,0,0,,(はい！黒澤美澪奈です。)
-Dialogue: 0,0:03:06.79,0:03:07.33,Japanese,,0,0,0,,岡崎！
-Dialogue: 0,0:03:07.33,0:03:10.28,Japanese,,0,0,0,,清楚な見た目に騙されるな　いつでもハイテンション
-Dialogue: 0,0:03:10.28,0:03:10.74,Japanese,,0,0,0,,(トォー！！)
-Dialogue: 0,0:03:10.74,0:03:13.57,Japanese,,0,0,0,,変顔　モノマネ　発明中
-Dialogue: 0,0:03:14.06,0:03:15.40,Japanese,,0,0,0,,(森セン、行けぇー！)
-Dialogue: 0,0:03:15.40,0:03:15.87,Japanese,,0,0,0,,岡田！
-Dialogue: 0,0:03:15.87,0:03:18.64,Japanese,,0,0,0,,三河の国から攻め込んだ　物知り歴女
-Dialogue: 0,0:03:18.64,0:03:19.24,Japanese,,0,0,0,,(存じているぞ！)
-Dialogue: 0,0:03:19.24,0:03:22.00,Japanese,,0,0,0,,回転しながら偉人の名言　言います
-Dialogue: 0,0:03:22.63,0:03:28.65,Japanese,,0,0,0,,「今日は豊臣秀吉さんです。障子を開けてみよ　外は広いぞ！」
-Dialogue: 0,0:03:28.88,0:03:31.09,Japanese,,0,0,0,,ねぇねぇねぇ　私のこと
-Dialogue: 0,0:03:31.16,0:03:32.30,Japanese,,0,0,0,,「ちゃんと見えてますか？」
-Dialogue: 0,0:03:32.30,0:03:35.02,Japanese,,0,0,0,,見た目とのギャップが魅力
-Dialogue: 0,0:03:35.61,0:03:39.10,Japanese,,0,0,0,,諸行無常　磨こっ　その女子力
-Dialogue: 0,0:03:39.24,0:03:43.32,Japanese,,0,0,0,,目指せ！ スーパーレディーを
-Dialogue: 0,0:03:43.09,0:03:46.51,Japanese,,0,0,0,,
-Dialogue: 0,0:03:46.51,0:03:47.42,Japanese,,0,0,0,,
-Dialogue: 0,0:03:47.42,0:03:48.00,Japanese,,0,0,0,,
-Dialogue: 0,0:03:48.00,0:03:48.61,Japanese,,0,0,0,,
-Dialogue: 0,0:03:48.61,0:03:49.00,Japanese,,0,0,0,,
-Dialogue: 0,0:03:49.00,0:03:49.46,Japanese,,0,0,0,,
-Dialogue: 0,0:03:49.46,0:03:49.94,Japanese,,0,0,0,,
-Dialogue: 0,0:03:49.94,0:03:50.46,Japanese,,0,0,0,,
-Dialogue: 0,0:03:50.46,0:03:50.95,Japanese,,0,0,0,,
-Dialogue: 0,0:03:50.95,0:03:51.52,Japanese,,0,0,0,,
-Dialogue: 0,0:03:51.54,0:03:52.12,Japanese,,0,0,0,,
-Dialogue: 0,0:03:52.01,0:03:52.36,Japanese,,0,0,0,,
-Dialogue: 0,0:03:52.28,0:03:52.92,Japanese,,0,0,0,,
-Dialogue: 0,0:03:52.93,0:03:53.33,Japanese,,0,0,0,,
-Dialogue: 0,0:03:53.32,0:03:53.93,Japanese,,0,0,0,,
-Dialogue: 0,0:03:53.94,0:03:54.52,Japanese,,0,0,0,,
-Dialogue: 0,0:03:54.55,0:03:54.97,Japanese,,0,0,0,,
-Dialogue: 0,0:03:54.98,0:03:55.60,Japanese,,0,0,0,,
-Dialogue: 0,0:03:55.61,0:03:56.03,Japanese,,0,0,0,,
-Dialogue: 0,0:03:56.05,0:03:56.82,Japanese,,0,0,0,,
-Dialogue: 0,0:03:56.83,0:03:57.19,Japanese,,0,0,0,,
-Dialogue: 0,0:03:57.21,0:03:57.81,Japanese,,0,0,0,,
-Dialogue: 0,0:03:57.81,0:03:58.41,Japanese,,0,0,0,,
-Dialogue: 0,0:03:58.41,0:03:58.77,Japanese,,0,0,0,,
-Dialogue: 0,0:03:58.78,0:03:59.42,Japanese,,0,0,0,,
-Dialogue: 0,0:03:59.44,0:03:59.80,Japanese,,0,0,0,,
-Dialogue: 0,0:03:59.81,0:04:00.40,Japanese,,0,0,0,,
-Dialogue: 0,0:04:00.41,0:04:01.08,Japanese,,0,0,0,,
-Dialogue: 0,0:04:01.12,0:04:01.47,Japanese,,0,0,0,,
-Dialogue: 0,0:04:01.49,0:04:02.12,Japanese,,0,0,0,,
-Dialogue: 0,0:04:02.12,0:04:02.51,Japanese,,0,0,0,,
-Dialogue: 0,0:04:02.51,0:04:04.60,Japanese,,0,0,0,,
-Dialogue: 0,0:04:04.81,0:04:05.18,Japanese,,0,0,0,,日髙 ！
-Dialogue: 0,0:04:05.18,0:04:07.79,Japanese,,0,0,0,,外国行った事ないけど　英語は任せてね
-Dialogue: 0,0:04:07.79,0:04:08.65,Japanese,,0,0,0,,
-Dialogue: 0,0:04:08.65,0:04:11.39,Japanese,,0,0,0,,見つめる視線の　先には何かが見えてる
-Dialogue: 0,0:04:12.01,0:04:12.87,Japanese,,0,0,0,,
-Dialogue: 0,0:04:13.22,0:04:13.72,Japanese,,0,0,0,,吉田！
-Dialogue: 0,0:04:13.72,0:04:16.68,Japanese,,0,0,0,,アニメの中から飛び出した　二次元メガネっこ
-Dialogue: 0,0:04:17.12,0:04:19.85,Japanese,,0,0,0,,小窓を開けたら　ハートを撃ちぬく
-Dialogue: 0,0:04:20.50,0:04:23.20,Japanese,,0,0,0,,ガラガラ　バッキューン
-Dialogue: 0,0:04:23.50,0:04:23.96,Japanese,,0,0,0,,藤平！
-Dialogue: 0,0:04:23.96,0:04:26.53,Japanese,,0,0,0,,ちょこまかピョンピョン　今日もおしゃべり止まらない
-Dialogue: 0,0:04:26.53,0:04:27.35,Japanese,,0,0,0,,(ねぇ、聞いて聞いて)
-Dialogue: 0,0:04:27.35,0:04:30.04,Japanese,,0,0,0,,小さいからこそ　のびしろ　たくさんあります
-Dialogue: 0,0:04:30.04,0:04:31.56,Japanese,,0,0,0,,(のびしろって、何ですか？)
-Dialogue: 0,0:04:31.99,0:04:32.42,Japanese,,0,0,0,,麻生！
-Dialogue: 0,0:04:32.42,0:04:33.32,Japanese,,0,0,0,,カレーは(もちろん)
-Dialogue: 0,0:04:33.32,0:04:35.44,Japanese,,0,0,0,,牛丼(絶対)　紅ショウガ
-Dialogue: 0,0:04:35.84,0:04:38.56,Japanese,,0,0,0,,特技のけん玉、ビシッと決まってドヤ顔
-Dialogue: 0,0:04:38.81,0:04:41.90,Japanese,,0,0,0,,「みなさーん、特技のけん玉　披露しちゃいます！！」
-Dialogue: 0,0:04:47.15,0:04:49.40,Japanese,,0,0,0,,ちょちょちょ　私のこと
-Dialogue: 0,0:04:49.40,0:04:50.57,Japanese,,0,0,0,,わかってますか？
-Dialogue: 0,0:04:50.57,0:04:53.31,Japanese,,0,0,0,,見た目とのギャップが魅力
-Dialogue: 0,0:04:53.95,0:04:57.40,Japanese,,0,0,0,,日進月歩　見てろっ　この女子力
-Dialogue: 0,0:04:57.54,0:05:00.99,Japanese,,0,0,0,,目指せ！ スーパーレディーを
-Dialogue: 0,0:05:00.99,0:05:03.04,Japanese,,0,0,0,,ねぇねぇねぇ　私のこと
-Dialogue: 0,0:05:03.04,0:05:04.16,Japanese,,0,0,0,,教えてあげます
-Dialogue: 0,0:05:04.16,0:05:06.93,Japanese,,0,0,0,,見た目とのギャップが魅力
-Dialogue: 0,0:05:07.51,0:05:11.08,Japanese,,0,0,0,,諸行無常　磨こっ　その女子力
-Dialogue: 0,0:05:11.16,0:05:14.94,Japanese,,0,0,0,,目指せ！ スーパーレディーを
-Dialogue: 0,0:05:15.01,0:05:18.39,Japanese,,0,0,0,,
-Dialogue: 0,0:05:18.39,0:05:21.83,Japanese,,0,0,0,,
-Dialogue: 0,0:05:22.20,0:05:25.74,Japanese,,0,0,0,,以上、私たち成長期限定ユニット
-Dialogue: 0,0:05:25.97,0:05:27.46,Japanese,,0,0,0,,さくら学院です！
+Dialogue: 0,0:01:40.07,0:01:40.58,Japanese Lyrics,,0,0,0,,大賀！
+Dialogue: 0,0:01:40.58,0:01:43.49,Japanese Lyrics,,0,0,0,,コロコロ変わる自己紹介　お楽しみに
+Dialogue: 0,0:01:43.72,0:01:46.66,Japanese Lyrics,,0,0,0,,目線は上から？下から？
+Dialogue: 0,0:01:46.66,0:01:47.86,Japanese Lyrics,,0,0,0,,(今年は上から)
+Dialogue: 0,0:01:48.58,0:01:49.06,Japanese Lyrics,,0,0,0,,磯野！
+Dialogue: 0,0:01:49.06,0:01:51.97,Japanese Lyrics,,0,0,0,,天才星で生まれ落ちたけど　テストは苦手！
+Dialogue: 0,0:01:52.42,0:01:55.25,Japanese Lyrics,,0,0,0,,悪そうな奴にもだいたいタメグチ
+Dialogue: 0,0:01:55.64,0:01:57.24,Japanese Lyrics,,0,0,0,,(100点取りたいんです！)
+Dialogue: 0,0:01:58.73,0:01:59.20,Japanese Lyrics,,0,0,0,,白井！
+Dialogue: 0,0:01:59.26,0:02:02.01,Japanese Lyrics,,0,0,0,,電卓たたいて　計算ピッタり！　OLさん
+Dialogue: 0,0:02:02.01,0:02:02.72,Japanese Lyrics,,0,0,0,,(違います！)
+Dialogue: 0,0:02:02.72,0:02:05.46,Japanese Lyrics,,0,0,0,,夢を叶えた元父兄
+Dialogue: 0,0:02:05.48,0:02:07.27,Japanese Lyrics,,0,0,0,,(父兄は永遠に不滅です！！)
+Dialogue: 0,0:02:07.32,0:02:07.80,Japanese Lyrics,,0,0,0,,山出！
+Dialogue: 0,0:02:07.80,0:02:10.66,Japanese Lyrics,,0,0,0,,学院内の平和を守る　風紀委員
+Dialogue: 0,0:02:10.66,0:02:11.21,Japanese Lyrics,,0,0,0,,(聞いて)
+Dialogue: 0,0:02:11.21,0:02:13.92,Japanese Lyrics,,0,0,0,,気を抜くと　鹿児島弁がもれちゃう
+Dialogue: 0,0:02:14.26,0:02:17.63,Japanese Lyrics,,0,0,0,,「先生！先生！、また愛子がこっそりアイス食べてまーす。」
+Dialogue: 0,0:02:17.63,0:02:20.56,Japanese Lyrics,,0,0,0,,「めぐー！また、先生に言いつけて、ぶっと飛ばすよ！」
+Dialogue: 0,0:02:20.76,0:02:22.89,Japanese Lyrics,,0,0,0,,ちょちょちょ　私のこと
+Dialogue: 0,0:02:22.89,0:02:23.84,Japanese Lyrics,,0,0,0,,わかってんの〜？
+Dialogue: 0,0:02:24.15,0:02:26.94,Japanese Lyrics,,0,0,0,,見た目とのギャップが魅力
+Dialogue: 0,0:02:27.54,0:02:30.95,Japanese Lyrics,,0,0,0,,日進月歩　見てろっ　この女子力
+Dialogue: 0,0:02:31.17,0:02:35.37,Japanese Lyrics,,0,0,0,,目指せ！ スーパーレディーを
+Dialogue: 0,0:02:35.01,0:02:38.36,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:02:48.11,0:02:48.66,Japanese Lyrics,,0,0,0,,倉島！
+Dialogue: 0,0:02:48.66,0:02:51.55,Japanese Lyrics,,0,0,0,,名前を忘れる担任には厳しくいくぞ
+Dialogue: 0,0:02:51.55,0:02:52.03,Japanese Lyrics,,0,0,0,,(オー！)
+Dialogue: 0,0:02:52.03,0:02:54.88,Japanese Lyrics,,0,0,0,,マジシャン　コケシマ　イリュージョン
+Dialogue: 0,0:02:54.98,0:02:56.70,Japanese Lyrics,,0,0,0,,(いい加減に覚えて下さい。)
+Dialogue: 0,0:02:56.70,0:02:57.17,Japanese Lyrics,,0,0,0,,黒澤！
+Dialogue: 0,0:02:57.17,0:02:58.00,Japanese Lyrics,,0,0,0,,挨拶(しっかり)
+Dialogue: 0,0:02:58.00,0:03:00.10,Japanese Lyrics,,0,0,0,,目線は(バッチリ)ベテラン戦士
+Dialogue: 0,0:03:00.49,0:03:03.35,Japanese Lyrics,,0,0,0,,カメラを向けると　キッチリ！　リアクション
+Dialogue: 0,0:03:04.18,0:03:05.77,Japanese Lyrics,,0,0,0,,(はい！黒澤美澪奈です。)
+Dialogue: 0,0:03:06.79,0:03:07.33,Japanese Lyrics,,0,0,0,,岡崎！
+Dialogue: 0,0:03:07.33,0:03:10.28,Japanese Lyrics,,0,0,0,,清楚な見た目に騙されるな　いつでもハイテンション
+Dialogue: 0,0:03:10.28,0:03:10.74,Japanese Lyrics,,0,0,0,,(トォー！！)
+Dialogue: 0,0:03:10.74,0:03:13.57,Japanese Lyrics,,0,0,0,,変顔　モノマネ　発明中
+Dialogue: 0,0:03:14.06,0:03:15.40,Japanese Lyrics,,0,0,0,,(森セン、行けぇー！)
+Dialogue: 0,0:03:15.40,0:03:15.87,Japanese Lyrics,,0,0,0,,岡田！
+Dialogue: 0,0:03:15.87,0:03:18.64,Japanese Lyrics,,0,0,0,,三河の国から攻め込んだ　物知り歴女
+Dialogue: 0,0:03:18.64,0:03:19.24,Japanese Lyrics,,0,0,0,,(存じているぞ！)
+Dialogue: 0,0:03:19.24,0:03:22.00,Japanese Lyrics,,0,0,0,,回転しながら偉人の名言　言います
+Dialogue: 0,0:03:22.63,0:03:28.65,Japanese Lyrics,,0,0,0,,「今日は豊臣秀吉さんです。障子を開けてみよ　外は広いぞ！」
+Dialogue: 0,0:03:28.88,0:03:31.09,Japanese Lyrics,,0,0,0,,ねぇねぇねぇ　私のこと
+Dialogue: 0,0:03:31.16,0:03:32.30,Japanese Lyrics,,0,0,0,,「ちゃんと見えてますか？」
+Dialogue: 0,0:03:32.30,0:03:35.02,Japanese Lyrics,,0,0,0,,見た目とのギャップが魅力
+Dialogue: 0,0:03:35.61,0:03:39.10,Japanese Lyrics,,0,0,0,,諸行無常　磨こっ　その女子力
+Dialogue: 0,0:03:39.24,0:03:43.32,Japanese Lyrics,,0,0,0,,目指せ！ スーパーレディーを
+Dialogue: 0,0:03:43.09,0:03:46.51,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:46.51,0:03:47.42,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:47.42,0:03:48.00,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:48.00,0:03:48.61,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:48.61,0:03:49.00,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:49.00,0:03:49.46,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:49.46,0:03:49.94,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:49.94,0:03:50.46,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:50.46,0:03:50.95,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:50.95,0:03:51.52,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:51.54,0:03:52.12,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:52.01,0:03:52.36,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:52.28,0:03:52.92,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:52.93,0:03:53.33,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:53.32,0:03:53.93,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:53.94,0:03:54.52,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:54.55,0:03:54.97,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:54.98,0:03:55.60,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:55.61,0:03:56.03,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:56.05,0:03:56.82,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:56.83,0:03:57.19,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:57.21,0:03:57.81,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:57.81,0:03:58.41,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:58.41,0:03:58.77,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:58.78,0:03:59.42,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:59.44,0:03:59.80,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:03:59.81,0:04:00.40,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:04:00.41,0:04:01.08,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:04:01.12,0:04:01.47,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:04:01.49,0:04:02.12,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:04:02.12,0:04:02.51,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:04:02.51,0:04:04.60,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:04:04.81,0:04:05.18,Japanese Lyrics,,0,0,0,,日髙 ！
+Dialogue: 0,0:04:05.18,0:04:07.79,Japanese Lyrics,,0,0,0,,外国行った事ないけど　英語は任せてね
+Dialogue: 0,0:04:07.79,0:04:08.65,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:04:08.65,0:04:11.39,Japanese Lyrics,,0,0,0,,見つめる視線の　先には何かが見えてる
+Dialogue: 0,0:04:12.01,0:04:12.87,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:04:13.22,0:04:13.72,Japanese Lyrics,,0,0,0,,吉田！
+Dialogue: 0,0:04:13.72,0:04:16.68,Japanese Lyrics,,0,0,0,,アニメの中から飛び出した　二次元メガネっこ
+Dialogue: 0,0:04:17.12,0:04:19.85,Japanese Lyrics,,0,0,0,,小窓を開けたら　ハートを撃ちぬく
+Dialogue: 0,0:04:20.50,0:04:23.20,Japanese Lyrics,,0,0,0,,ガラガラ　バッキューン
+Dialogue: 0,0:04:23.50,0:04:23.96,Japanese Lyrics,,0,0,0,,藤平！
+Dialogue: 0,0:04:23.96,0:04:26.53,Japanese Lyrics,,0,0,0,,ちょこまかピョンピョン　今日もおしゃべり止まらない
+Dialogue: 0,0:04:26.53,0:04:27.35,Japanese Lyrics,,0,0,0,,(ねぇ、聞いて聞いて)
+Dialogue: 0,0:04:27.35,0:04:30.04,Japanese Lyrics,,0,0,0,,小さいからこそ　のびしろ　たくさんあります
+Dialogue: 0,0:04:30.04,0:04:31.56,Japanese Lyrics,,0,0,0,,(のびしろって、何ですか？)
+Dialogue: 0,0:04:31.99,0:04:32.42,Japanese Lyrics,,0,0,0,,麻生！
+Dialogue: 0,0:04:32.42,0:04:33.32,Japanese Lyrics,,0,0,0,,カレーは(もちろん)
+Dialogue: 0,0:04:33.32,0:04:35.44,Japanese Lyrics,,0,0,0,,牛丼(絶対)　紅ショウガ
+Dialogue: 0,0:04:35.84,0:04:38.56,Japanese Lyrics,,0,0,0,,特技のけん玉、ビシッと決まってドヤ顔
+Dialogue: 0,0:04:38.81,0:04:41.90,Japanese Lyrics,,0,0,0,,「みなさーん、特技のけん玉　披露しちゃいます！！」
+Dialogue: 0,0:04:47.15,0:04:49.40,Japanese Lyrics,,0,0,0,,ちょちょちょ　私のこと
+Dialogue: 0,0:04:49.40,0:04:50.57,Japanese Lyrics,,0,0,0,,わかってますか？
+Dialogue: 0,0:04:50.57,0:04:53.31,Japanese Lyrics,,0,0,0,,見た目とのギャップが魅力
+Dialogue: 0,0:04:53.95,0:04:57.40,Japanese Lyrics,,0,0,0,,日進月歩　見てろっ　この女子力
+Dialogue: 0,0:04:57.54,0:05:00.99,Japanese Lyrics,,0,0,0,,目指せ！ スーパーレディーを
+Dialogue: 0,0:05:00.99,0:05:03.04,Japanese Lyrics,,0,0,0,,ねぇねぇねぇ　私のこと
+Dialogue: 0,0:05:03.04,0:05:04.16,Japanese Lyrics,,0,0,0,,教えてあげます
+Dialogue: 0,0:05:04.16,0:05:06.93,Japanese Lyrics,,0,0,0,,見た目とのギャップが魅力
+Dialogue: 0,0:05:07.51,0:05:11.08,Japanese Lyrics,,0,0,0,,諸行無常　磨こっ　その女子力
+Dialogue: 0,0:05:11.16,0:05:14.94,Japanese Lyrics,,0,0,0,,目指せ！ スーパーレディーを
+Dialogue: 0,0:05:15.01,0:05:18.39,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:05:18.39,0:05:21.83,Japanese Lyrics,,0,0,0,,
+Dialogue: 0,0:05:22.20,0:05:25.74,Japanese Lyrics,,0,0,0,,以上、私たち成長期限定ユニット
+Dialogue: 0,0:05:25.97,0:05:27.46,Japanese Lyrics,,0,0,0,,さくら学院です！
