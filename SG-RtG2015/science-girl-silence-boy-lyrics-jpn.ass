@@ -8,8 +8,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Scroll Position: 19
-Active Line: 23
+Active Line: 2
 Video Position: 57614
 
 [V4+ Styles]
@@ -20,7 +19,7 @@ Style: Japanese Lyrics,@Arial Unicode MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:29:51.34,0:29:54.52,Japanese Lyrics,,0,0,0,,H₂O　ほら、僕の中
 Dialogue: 0,0:29:54.52,0:29:58.40,Japanese Lyrics,,0,0,0,,螺旋を描いて続いていく
-Dialogue: 0,0:29:58.40,0:30:04.14,Japanese Lyrics,,0,0,0,,E=mc² 秘めている事情
+Dialogue: 0,0:29:58.40,0:30:04.14,Japanese Lyrics,,0,0,0,,E {\fscx200\fscy200}﹦{\fscx100\fscy100} mc² 秘めている事情
 Dialogue: 0,0:30:05.52,0:30:08.70,Japanese Lyrics,,0,0,0,,CO₂　そう、君がいま
 Dialogue: 0,0:30:08.70,0:30:12.74,Japanese Lyrics,,0,0,0,,吐き出すためいき、話してみて
 Dialogue: 0,0:30:12.74,0:30:18.28,Japanese Lyrics,,0,0,0,,失敗も明日の糧にするの
@@ -28,7 +27,7 @@ Dialogue: 0,0:30:19.28,0:30:22.98,Japanese Lyrics,,0,0,0,,からだをあずけ�
 Dialogue: 0,0:30:22.98,0:30:26.52,Japanese Lyrics,,0,0,0,,おもいをとどけて伝導体
 Dialogue: 0,0:30:26.52,0:30:32.42,Japanese Lyrics,,0,0,0,,リトマス試験紙で占う恋愛運
 Dialogue: 0,0:30:33.56,0:30:37.20,Japanese Lyrics,,0,0,0,,かきまぜた友情、熱反応
-Dialogue: 0,0:30:37.20,0:30:40.70,Japanese Lyrics,,0,0,0,,みつめた視線メスシリンダ — 
+Dialogue: 0,0:30:37.20,0:30:40.70,Japanese Lyrics,,0,0,0,,みつめた視線メスシリンダ —
 Dialogue: 0,0:30:40.70,0:30:46.78,Japanese Lyrics,,0,0,0,,僕の気持ちならシャ — レで培養中
 Dialogue: 0,0:30:51.38,0:30:55.44,Japanese Lyrics,,0,0,0,,アリストテレスも気付けなかった
 Dialogue: 0,0:30:58.54,0:31:00.82,Japanese Lyrics,,0,0,0,,謎
